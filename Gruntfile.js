@@ -170,6 +170,11 @@ module.exports = function(grunt) {
       // Run tests once
       single: {
         singleRun: true
+      },
+      // Run only in headless browsers
+      'continuous-integration': {
+        singleRun: true,
+        browsers: ['PhantomJS'],
       }
     },
 

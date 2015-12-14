@@ -58,7 +58,7 @@ Feel free to request new features or suggest enhancements to this project.
 
 Coming soon!
 
-# SCSS Styleguide
+## SCSS Styleguide
 
 Coming soon!
 

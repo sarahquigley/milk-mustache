@@ -1,5 +1,11 @@
 # Coffeescript App Skeleton
 
+[![Build Status](https://travis-ci.org/mstewart/coffeescript-app-skeleton.svg)](https://travis-ci.org/mstewart/coffeescript-app-skeleton)
+[![Dependency Status](https://gemnasium.com/mstewart/coffeescript-app-skeleton.svg)](https://gemnasium.com/mstewart/coffeescript-app-skeleton)
+[![devDependency Status](https://david-dm.org/mstewart/coffeescript-app-skeleton/dev-status.svg)](https://david-dm.org/mstewart/coffeescript-app-skeleton#info=devDependencies)
+[![GitHub release](https://img.shields.io/github/release/mstewart/coffeescript-app-skeleton.svg)](https://github.com/mstewart/coffeescript-app-skeleton/releases)
+[![Coverage Status](https://coveralls.io/repos/mstewart/coffeescript-app-skeleton/badge.svg?branch=master&service=github)](https://coveralls.io/github/mstewart/coffeescript-app-skeleton?branch=master)
+
 A skeleton for creating web applications in Coffeescript (and SCSS).
 
 

@@ -5,6 +5,7 @@
 /build/
 /.sass-cache/
 /.grunt/
+/coverage/
 .DS_Store
 *.swo
 *.swp

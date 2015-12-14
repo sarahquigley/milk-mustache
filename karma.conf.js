@@ -21,29 +21,42 @@ module.exports = function(config){
     ],
 
     // List of browsers to launch and capture
-    browsers : ['Chrome'],
+    browsers : [
+      'Chrome',
+      'PhantomJS',
+    ],
 
     plugins : [
       'karma-chrome-launcher',
       'karma-firefox-launcher',
+      'karma-phantomjs-launcher',
       'karma-jasmine',
       'karma-jasmine-matchers',
       'karma-jasmine-html-reporter',
       'karma-mocha-reporter',
       'karma-coffee-preprocessor',
-      'karma-ng-html2js-preprocessor'
+      'karma-ng-html2js-preprocessor',
+      'karma-coverage',
+      'karma-coveralls',
     ],
 
     // List of reporters to use
     reporters: [
       'html',
-      'mocha'
+      'mocha',
+      'coverage',
     ],
 
     // Preprocessors to use
     preprocessors: {
       'app/**/*.html' : 'html2js',
-      'app/**/*.spec.coffee': 'coffee'
+      'app/**/*.spec.coffee': 'coffee',
+      '.dev/main.js': 'coverage',
+    },
+
+    coverageReporter: {
+      type: 'lcov',
+      dir: 'coverage/'
     },
 
     // Coffeescript preprocessor config

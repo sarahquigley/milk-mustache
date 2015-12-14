@@ -1,5 +1,24 @@
 {
   "name": "coffeescript-app-skeleton",
+  "description": "Coffeescript App Skeleton",
+  "version": "0.0.0",
+  "homepage": "https://github.com/mstewart/coffeescript-app-skeleton",
+  "author": {
+    "name": "Sarah Quigley",
+    "email": "sarah@sarahquigley.net",
+    "url": "http://sarahquigley.net"
+  },
+  "contributors": [{
+    "name": "MiKe Stewart",
+    "email": "mike@mikestewart.net",
+    "url": "https://github.com/mstewart"
+  }],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mstewart/coffeescript-app-skeleton.git"
+  },
+  "private": false,
+  "license": "MIT",
   "ignore": [
     "**/.*",
     "node_modules",
@@ -8,6 +27,6 @@
     "tests"
   ],
   "dependencies": {
-    "lodash": "~3.3.x"
+    "lodash": "~3.10.x"
   }
 }

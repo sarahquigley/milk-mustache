@@ -111,4 +111,4 @@ describe 'Cat', ->
 Coming soon!
 
 
-This project adheres to the [Contributor Covenant 1.2](http://contributor-covenant.org/version/1/2/0). By participating, you are expected to uphold this code. Please report unacceptable behavior to [sarah@mstewart.net](mailto:sarah@mstewart.net).
+This project adheres to the [Contributor Covenant 1.2](http://contributor-covenant.org/version/1/2/0). By participating, you are expected to uphold this code. Please report unacceptable behavior to [sarah@sarahquigley.net](mailto:sarah@sarahquigley.net).

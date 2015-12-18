@@ -305,11 +305,13 @@ module.exports = function(grunt) {
       ]);
     }
 
+    var type = grunt.option('type') || 'single'
+
     grunt.task.run([
       'wiredep:test',
       'clean:dev',
       'coffee:dev',
-      'karma:single'
+      'karma:' + type
     ]);
   });
 

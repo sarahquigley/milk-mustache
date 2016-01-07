@@ -73,4 +73,8 @@ module.exports = function(config){
     }
 
   });
+
+  if (process.env.TRAVIS) {
+    config.reporters.push('coveralls');
+  }
 };

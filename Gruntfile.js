@@ -111,6 +111,7 @@ module.exports = function(grunt) {
               '*.html',
               '*/**/*.html',
               '!bower_components/**/*.html',
+              'assets/**/*',
             ]
           }
         ]
@@ -124,7 +125,26 @@ module.exports = function(grunt) {
         src: [
           '<%= config.dirs.build %>/scripts/{,*/}*.js',
           '<%= config.dirs.build %>/styles/{,*/}*.css',
+          '<%= config.dirs.build %>/assets/{,*/}*',
         ]
+      }
+    },
+
+    filerev_replace: {
+      options: {
+        assets_root: '<%= config.dirs.build %>/assets/'
+      },
+      compiled_assets: {
+        src: [
+          '<%= config.dirs.build %>/scripts/{,*/}*.js',
+          '<%= config.dirs.build %>/styles/{,*/}*.css',
+        ]
+      },
+      views: {
+        options: {
+          views_root: '<%= config.dirs.build %>'
+        },
+        src: '<%= config.dirs.build %>/**/*.html'
       }
     },
 
@@ -337,6 +357,7 @@ module.exports = function(grunt) {
       'cssmin',
       'uglify',
       'filerev',
+      'filerev_replace',
       'usemin',
       'htmlmin',
     ]);

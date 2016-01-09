@@ -125,11 +125,12 @@ module.exports = function(grunt) {
         src: [
           '<%= config.dirs.build %>/scripts/{,*/}*.js',
           '<%= config.dirs.build %>/styles/{,*/}*.css',
-          '<%= config.dirs.build %>/assets/{,*/}*',
+          '<%= config.dirs.build %>/assets/**/*',
         ]
       }
     },
 
+    // Filerev_replace tasks    - Replace asset names in files with new names from filerev task
     filerev_replace: {
       options: {
         assets_root: '<%= config.dirs.build %>/assets/'

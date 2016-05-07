@@ -9,7 +9,7 @@ module.exports = function(config){
       'app/bower_components/lodash/lodash.js',
       // endbower
       '.dev/main.js',
-      'app/**/*.spec.coffee',
+      'app/**/*.spec.js',
     ],
 
     // Enable watching files and executing the tests whenever one of the above files changes
@@ -34,7 +34,7 @@ module.exports = function(config){
       'karma-jasmine-matchers',
       'karma-jasmine-html-reporter',
       'karma-mocha-reporter',
-      'karma-coffee-preprocessor',
+      'karma-babel-preprocessor',
       'karma-ng-html2js-preprocessor',
       'karma-coverage',
       'karma-coveralls',
@@ -50,7 +50,7 @@ module.exports = function(config){
     // Preprocessors to use
     preprocessors: {
       'app/**/*.html' : 'html2js',
-      'app/**/*.spec.coffee': 'coffee',
+      'app/**/*.spec.js': 'babel',
       '.dev/main.js': 'coverage',
     },
 
@@ -59,16 +59,16 @@ module.exports = function(config){
       dir: 'coverage/'
     },
 
-    // Coffeescript preprocessor config
-    coffeePreprocessor: {
-      // options passed to the coffee compiler
+    babelPreprocessor: {
       options: {
-        bare: true,
-        sourceMap: false
+        presets: ['es2015'],
+        sourceMap: 'inline'
       },
-      // transforming the filenames
-      transformPath: function(path) {
-        return path.replace(/\.coffee$/, '.js');
+      filename: function (file) {
+        return file.originalPath.replace(/\.js$/, '.es5.js');
+      },
+      sourceFileName: function (file) {
+        return file.originalPath;
       }
     }
 

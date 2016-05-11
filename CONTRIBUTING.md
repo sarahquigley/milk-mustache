@@ -82,9 +82,9 @@ class Cat
 
   make_noise: =>
   if @mood is 'sleepy'
-    @purr()
+    @_purr()
   else
-    @miaow()
+    @_miaow()
 
   # Private methods
   _miaow: =>

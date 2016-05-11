@@ -14,10 +14,10 @@ module.exports = function(grunt) {
     },
     files: {
       scripts: [
-        '<%= config.dirs.app %>/main.coffee',
+        '<%= config.dirs.app %>/main.js',
       ],
       tests: [
-        '<%= config.dirs.app %>/**/*.spec.coffee'
+        '<%= config.dirs.app %>/**/*.spec.js'
       ]
     }
   };
@@ -43,22 +43,26 @@ module.exports = function(grunt) {
       }
     },
 
+    // Babel tasks    - ES6 javascript compilation
+    // babel:dev      - Compile ES6 javascript files to temporary directory during development
+    babel: {
+      dev: {
+        options: {
+          sourceMap: true,
+          presets: ['es2015']
+        },
+        files: {
+          '<%= config.dirs.dev %>/main.js': config.files.scripts
+        }
+      }
+    },
+
     // Clean tasks    - For erasing contents of specified directories
     // clean:dev      - Clean temporary directory created for holding compiled files during development
     // clean:build    - Clean build directory created for holding built files used for deployment
     clean: {
       dev: [config.dirs.dev],
       build: [config.dirs.build],
-    },
-
-    // Coffee tasks   - Coffeescript compilation
-    // coffee:dev     - Compile coffeescript files to temporary directory during development
-    coffee: {
-      dev: {
-        files: {
-          '<%= config.dirs.dev %>/main.js': config.files.scripts
-        }
-      }
     },
 
     // Concurrent tasks   - Allow tasks to be run concurrently
@@ -246,7 +250,7 @@ module.exports = function(grunt) {
     },
 
     // Watch tasks      - Watch for changes in specified directories, and re-run specified task(s)
-    // watch:coffee     - Watch coffeescript files, re-compile coffeescripts
+    // watch:babel      - Watch ES6 javascript files, re-compile ES6 javascript files
     // watch:sass       - Watch .scss and .sass files, re-compile on change
     // watch:wiredep    - Watch bower.json for new bower_components, and inject new dependencies
     // watch:livereload - Trigger livereload on update of html or scripts
@@ -255,9 +259,9 @@ module.exports = function(grunt) {
         livereload: true
       },
 
-      coffee: {
+      babel: {
         files: config.files.scripts,
-        tasks: ['coffee:dev']
+        tasks: ['babel:dev']
       },
 
       livereload: {
@@ -331,7 +335,7 @@ module.exports = function(grunt) {
     grunt.task.run([
       'wiredep:test',
       'clean:dev',
-      'coffee:dev',
+      'babel:dev',
       'karma:' + type
     ]);
   });
@@ -347,7 +351,7 @@ module.exports = function(grunt) {
 
     grunt.task.run([
       'clean:dev',
-      'coffee:dev',
+      'babel:dev',
       'wiredep:dev',
       'sass:dev',
       'autoprefixer:dev',
@@ -384,7 +388,7 @@ module.exports = function(grunt) {
 
     grunt.task.run([
       'clean:dev',
-      'coffee:dev',
+      'babel:dev',
       'wiredep:dev',
       'sass:dev',
       'autoprefixer:dev',

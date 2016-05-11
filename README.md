@@ -1,12 +1,12 @@
-# Coffeescript App Skeleton
+# ES6 App Skeleton
 
-[![Build Status](https://travis-ci.org/finiteadventures/coffeescript-app-skeleton.svg)](https://travis-ci.org/finiteadventures/coffeescript-app-skeleton)
-[![Dependency Status](https://gemnasium.com/finiteadventures/coffeescript-app-skeleton.svg)](https://gemnasium.com/finiteadventures/coffeescript-app-skeleton)
-[![devDependency Status](https://david-dm.org/finiteadventures/coffeescript-app-skeleton/dev-status.svg)](https://david-dm.org/finiteadventures/coffeescript-app-skeleton#info=devDependencies)
-[![GitHub release](https://img.shields.io/github/release/finiteadventures/coffeescript-app-skeleton.svg)](https://github.com/finiteadventures/coffeescript-app-skeleton/releases)
-[![Coverage Status](https://coveralls.io/repos/finiteadventures/coffeescript-app-skeleton/badge.svg?branch=master&service=github)](https://coveralls.io/github/finiteadventures/coffeescript-app-skeleton?branch=master)
+[![Build Status](https://travis-ci.org/finiteadventures/es6-app-skeleton.svg)](https://travis-ci.org/finiteadventures/es6-app-skeleton)
+[![Dependency Status](https://gemnasium.com/finiteadventures/es6-app-skeleton.svg)](https://gemnasium.com/finiteadventures/es6-app-skeleton)
+[![devDependency Status](https://david-dm.org/finiteadventures/es6-app-skeleton/dev-status.svg)](https://david-dm.org/finiteadventures/es6-app-skeleton#info=devDependencies)
+[![GitHub release](https://img.shields.io/github/release/finiteadventures/es6-app-skeleton.svg)](https://github.com/finiteadventures/es6-app-skeleton/releases)
+[![Coverage Status](https://coveralls.io/repos/finiteadventures/es6-app-skeleton/badge.svg?branch=master&service=github)](https://coveralls.io/github/finiteadventures/es6-app-skeleton?branch=master)
 
-A skeleton for creating web applications in Coffeescript (and SCSS).
+A skeleton for creating web applications in Ecmascript 6 (and SCSS).
 
 
 ## Installing dependencies
@@ -81,7 +81,7 @@ This will create the following folders:
 Unit tests are written in [Jasmine 2.0](http://jasmine.github.io/), and run with the [Karma Test Runner](http://karma-runner.github.io/0.12/index.html). We provide a Karma configuration file to run them.
 
 * Configuration for karma is found in `karma.conf.js`
-* Unit tests are to be named as follows: `*.spec.coffee`
+* Unit tests are to be named as follows: `*.spec.js`
 
 
 

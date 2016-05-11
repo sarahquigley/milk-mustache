@@ -1,8 +1,8 @@
 {
-  "name": "coffeescript-app-skeleton",
-  "description": "Coffeescript App Skeleton",
+  "name": "es6-app-skeleton",
+  "description": "ES6 App Skeleton",
   "version": "0.0.0",
-  "homepage": "https://github.com/finiteadventures/coffeescript-app-skeleton",
+  "homepage": "https://github.com/finiteadventures/es6-app-skeleton",
   "author": {
     "name": "Sarah Quigley",
     "email": "sarah@sarahquigley.net",
@@ -15,7 +15,7 @@
   }],
   "repository": {
     "type": "git",
-    "url": "https://github.com/finiteadventures/coffeescript-app-skeleton.git"
+    "url": "https://github.com/finiteadventures/es6-app-skeleton.git"
   },
   "private": false,
   "license": "MIT",

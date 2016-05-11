@@ -35,7 +35,6 @@ module.exports = function(config){
       'karma-jasmine-html-reporter',
       'karma-mocha-reporter',
       'karma-babel-preprocessor',
-      'karma-ng-html2js-preprocessor',
       'karma-coverage',
       'karma-coveralls',
     ],
@@ -49,7 +48,6 @@ module.exports = function(config){
 
     // Preprocessors to use
     preprocessors: {
-      'app/**/*.html' : 'html2js',
       'app/**/*.spec.js': 'babel',
       '.dev/main.js': 'coverage',
     },

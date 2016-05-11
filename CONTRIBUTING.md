@@ -76,6 +76,7 @@ Coming soon!
 ### Example
 
 Sample code to be tested:
+
 ```es6
 class Cat {
   constructor (mood) {

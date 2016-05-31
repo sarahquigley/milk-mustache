@@ -3,14 +3,8 @@
 - title: About
   url: /about/
 
-- title: Articles
-  url: /articles/
-
-- title: Blog
-  url: /blog/
-
-- title: Theme Setup
-  url: /theme-setup/
+- title: Recipes
+  url: /recipes/
 
 - title: Search
   url: /search/

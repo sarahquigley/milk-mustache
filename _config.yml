@@ -51,13 +51,13 @@ owner:
   name: Sarah Quigley
   avatar: bio-photo.jpg
   email: sarah@sarahquigley.net
-  disqus-shortname:
-  twitter: #finitevagabond
-  facebook: #sarahquigley
-  github: #sarahquigley
+  disqus-shortname: #shortname
+  twitter: finitevagabond
+  facebook: quigley.sarah
+  github: sarahquigley
   stackexchange: #http://stackoverflow.com/users/123456/username
   linkedin: #username
-  instagram: #finiteadventurer
+  instagram: finiteadventurer
   flickr: #username
   tumblr: #username
   pinterest: #username

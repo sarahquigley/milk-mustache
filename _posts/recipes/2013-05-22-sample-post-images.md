@@ -2,7 +2,7 @@
 layout: post
 title: "A Post with Images"
 excerpt: "Examples and code for displaying images in posts."
-categories: articles
+categories: recipes
 tags: [sample-post, images, test]
 comments: true
 share: true
@@ -57,11 +57,11 @@ Apply the `third` class like so to display three images side by side that share 
 And you'll get something that looks like this:
 
 <figure class="third">
-	<a href="http://placehold.it/1200x600.jpg"><img src="http://placehold.it/600x300.jpg" alt="image"></a>
-	<a href="http://placehold.it/1200x600.jpg"><img src="http://placehold.it/600x300.jpg" alt="image"></a>
-	<a href="http://placehold.it/1200x600.jpg"><img src="http://placehold.it/600x300.jpg" alt="image"></a>
-	<a href="http://placehold.it/1200x600.jpg"><img src="http://placehold.it/600x300.jpg" alt="image"></a>
-	<a href="http://placehold.it/1200x600.jpg"><img src="http://placehold.it/600x300.jpg" alt="image"></a>
-	<a href="http://placehold.it/1200x600.jpg"><img src="http://placehold.it/600x300.jpg" alt="image"></a>
+	<a href="http://placehold.it/1200x1200.jpg"><img src="http://placehold.it/1200x600.jpg" alt="image"></a>
+	<a href="http://placehold.it/1200x1200.jpg"><img src="http://placehold.it/1200x900.jpg" alt="image"></a>
+	<a href="http://placehold.it/1200x1200.jpg"><img src="http://placehold.it/600x600.jpg" alt="image"></a>
+	<a href="http://placehold.it/1200x1200.jpg"><img src="http://placehold.it/1200x600.jpg" alt="image"></a>
+	<a href="http://placehold.it/1200x1200.jpg"><img src="http://placehold.it/1200x600.jpg" alt="image"></a>
+	<a href="http://placehold.it/1200x1200.jpg"><img src="http://placehold.it/1200x600.jpg" alt="image"></a>
 	<figcaption>Three images.</figcaption>
 </figure>

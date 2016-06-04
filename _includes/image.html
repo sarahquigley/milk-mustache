@@ -1,0 +1,14 @@
+{% capture imagePath %}/uploads/posts/{{ page.category }}/{{ page.date | date: "%Y-%m-%d" }}-{{ page.title | slugify }}/{% endcapture %}
+{% assign images = include.images | split: ' ' %}
+{% if include.caption %}
+<figure>
+{% for image in images %}
+<img src="{{ site.url }}{{ imagePath }}{{ image }}" {% if include.alt %} alt="{{ include.alt }}" {% endif %} {% if include.width %} width="{{ include.width }}" {% endif %}/>
+{% endfor %}
+  <figcaption>{{ include.caption }}</figcaption>
+</figure>
+{% else %}
+{% for image in images %}
+<img src="{{ site.url }}{{ imagePath }}{{ image }}" {% if include.alt %} alt="{{ include.alt }}" {% endif %} {% if include.width %} width="{{ include.width }}" {% endif %}/>
+{% endfor %}
+{% endif %}

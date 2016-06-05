@@ -1,0 +1,9 @@
+{% if page.image.feature %}
+<div class="entry-feature-image" {% if site.logo == null %}style="margin-top:0;"{% endif %}>
+  {% include image.html images=page.image.feature alt=page.title %}
+  {% if page.image.credit %}
+  <p class="image-credit">Image credit: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></p>
+  {% endif %}
+</div>
+{% endif %}
+

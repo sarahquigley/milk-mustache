@@ -13,8 +13,11 @@
 
 <div id="main" role="main">
   <article class="hentry">
-    {% if page.image.feature %}<img src="{{ site.url }}/images/{{ page.image.feature }}" class="entry-feature-image" alt="{{ page.title }}" {% if site.logo == null %}style="margin-top:0;"{% endif %}>{% if page.image.credit %}<p class="image-credit">Image credit: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></p>{% endif %}{% endif %}
+
+    {% include entry-feature-image.html %}
+
     <div class="entry-wrapper">
+
       <header class="entry-header">
         <ul class="entry-tags">
           {% for tag in page.tags %}<li><a href="{{ site.url }}/tags/#{{ tag }}" title="Pages tagged {{ tag }}">{{ tag }}</a></li>{% endfor %}
@@ -24,7 +27,9 @@
         {% else %}
           <h1 class="entry-title">{% if page.headline %}{{ page.headline }}{% else %}{{ page.title }}{% endif %}</h1>
         {% endif %}
+      <h1>{{ page.uploads }}</h1>
       </header>
+
       <footer class="entry-meta">
         {% if page.author %}
           {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.owner %}
@@ -43,12 +48,19 @@
       </footer>
       <div class="entry-content">
         {{ content }}
+
+        {% if page.recipe %}
+          {% include recipe.html %}
+        {% endif %}
+
         {% if (site.owner.disqus-shortname and page.comments) or site.comments %}
           <div id="disqus_thread"></div><!-- /#disqus_thread -->
           {% include disqus-comments.html %}
         {% endif %}
       </div><!-- /.entry-content -->
+
     </div><!-- /.entry-wrapper -->
+
     <nav class="pagination" role="navigation">
       {% if page.previous %}
         <a href="{{ site.url }}{{ page.previous.url }}" class="btn" title="{{ page.previous.title }}">Previous</a>
@@ -57,6 +69,7 @@
         <a href="{{ site.url }}{{ page.next.url }}" class="btn" title="{{ page.next.title }}">Next</a>
       {% endif %}
     </nav><!-- /.pagination -->
+
   </article>
 </div><!-- /#main -->
 

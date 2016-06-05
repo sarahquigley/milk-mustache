@@ -1,5 +1,6 @@
-{% capture imagePath %}/uploads/posts/{{ page.category }}/{{ page.date | date: "%Y-%m-%d" }}-{{ page.title | slugify }}/{% endcapture %}
+{% capture imagePath %}/{{ site.uploads_path }}/{{ page.layout }}s{% if page.category %}/{{ page.category }}{% endif %}/{% if page.date %}{{ page.date | date: "%Y-%m-%d" }}-{% endif %}{{ page.title | slugify }}/{% endcapture %}
 {% assign images = include.images | split: ' ' %}
+
 {% if include.caption %}
 <figure>
 {% for image in images %}

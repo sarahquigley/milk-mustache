@@ -1,11 +1,12 @@
 # Site wide configuration
 
-title: Milk Mustache 
+title: Milk Mustache
 locale: en_US
 description: The Joy of Eating
 logo: site-logo.png
 search: true
 url: http://localhost:4000
+uploads_path: uploads
 
 # Jekyll configuration
 
@@ -51,7 +52,7 @@ owner:
   name: Sarah Quigley
   avatar: bio-photo.jpg
   email: sarah@sarahquigley.net
-  disqus-shortname: #shortname
+  disqus-shortname: milkmustache
   twitter: finitevagabond
   facebook: quigley.sarah
   github: sarahquigley

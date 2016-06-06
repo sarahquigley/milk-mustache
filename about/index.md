@@ -1,24 +1,19 @@
 ---
 layout: page
 title: About Milk Mustache
-excerpt: "So Simple is a responsive Jekyll theme for your words and images."
-modified: 2014-08-08T19:44:38.564948-04:00
+excerpt: "Hello! My name is Sarah and I don't have a mustache, but I'm working on it. This is the place where I share my cooking adventures, big, small and in between."
 image:
   feature: DSCF6204.jpg
 ---
 
-Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the follow up to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes) --- by designer slash illustrator [Michael Rose](http://mademistakes.com).
+<div>
+{% include image.html images="about.jpg" %}
+</div>
 
-## So Simple Theme is all about:
+### Hello! My name is Sarah and this is the place where I share my cooking adventures, big, small and in between. I don't have a mustache, but I'm working on it.
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 9+ and all modern browsers.
-* Minimal embellishments and subtle animations.
-* Optional large feature images for posts and pages.
-* [Custom 404 page]({{ site.url }}/404.html) to get you started.
-* [Simple site search](https://github.com/christian-fei/Simple-Jekyll-Search)
-* Support for Disqus Comments
+The background scoop? I was born in Dublin, Ireland, which is beautiful and green and just as rainy as you've heard. I have some major wanderlust - I've travelled all around Europe, America and little bit of Asia and have lived in Vancouver, Los Angeles and New York city. I'm currently found in a little apartment with a pet turtle and too many housemates in Brooklyn, New York. *Hit me up if you're in the area, and I'll take you to all the tasty places!*
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install So Simple Theme</a>
+When I'm not wandering the world or growing out my mustache, I'm [playing the ukulele](https://soundcloud.com/sarah-quigley-542895767), writing poems and music, illustrating tiny stories or making wep applications (that's my day job). I have too many interests, so I also love playing board games, practicing yoga, running and cycling. Really I just love all the things!
 
-[^1]: Example: *domain.com/category-name/post-title*
+{% include contact-form.html %}

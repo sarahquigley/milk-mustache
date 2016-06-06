@@ -1,0 +1,34 @@
+<div id="about-contact">
+
+  <form action="https://formspree.io/{{ site.owner.formspree-email }}" method="POST" id="{{ page.title | slugify }}-contact-form" class="contact-form">
+
+    <h1>I Love Messages</h1>
+
+    <p>Send me a message. Tell me stories truth or fiction. (They could be about cooking, mustaches or anything in between.) You can use this handy contact form or shoot me an email at <a href="mailto:{{ site.owner.email }}">{{ site.owner.email }}</a>.</p>
+
+    <input type="hidden" name="_subject" value="Hello Milk Mustache" />
+    <input type="text" name="_gotcha" style="display:none" />
+
+    <p>
+    <label for="{{ page.title | slugify }}-contact-form-name">Name</label>
+    <input type="text" name="name" id="{{ page.title | slugify }}-contact-form-name">
+    </p>
+
+    <p>
+    <label for="{{ page.title | slugify }}-contact-form-email">Email</label>
+    <input type="email" name="_replyto" id="{{ page.title | slugify }}-contact-form-email">
+    </p>
+
+    <p>
+    <label for="{{ page.title | slugify }}-contact-form-message">Message</label>
+    <textarea name="message" id="{{ page.title | slugify }}-contact-form-message">
+    </textarea>
+    </p>
+
+    <p>
+    <input class="btn" type="submit" value="Send">
+    </p>
+
+  </form>
+
+</div>

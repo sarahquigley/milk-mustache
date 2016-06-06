@@ -172,6 +172,9 @@ span + .entry-title {
 	@include span-columns(12);
 	p:first-child {
 		margin-top: 0;
+	}
+
+	p:first-child, p:first-of-type {
     &:first-letter {
       @include font-size(60);
       float: left;

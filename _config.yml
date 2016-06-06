@@ -50,8 +50,9 @@ titlecase: true
 # Site owner
 owner:
   name: Sarah Quigley
-  avatar: bio-photo.jpg
+  avatar: about.jpg
   email: sarah@sarahquigley.net
+  formspree-email: sarah@sarahquigley.net
   disqus-shortname: milkmustache
   twitter: finitevagabond
   facebook: quigley.sarah
@@ -61,8 +62,10 @@ owner:
   instagram: finiteadventurer
   flickr: #username
   tumblr: #username
-  pinterest: #username
+  pinterest: ohmilkmustache
   weibo: #userid
+  soundcloud: sarah-quigley-542895767
+  medium: sarahquigley
   google:
     plus: #username
     analytics:

@@ -210,7 +210,20 @@ pre {
 }
 
 
+// Dropcap
+// ---------------------------------------------------
 
+.dropcap{
+  &:first-letter {
+    @include font-size(60);
+    float: left;
+    line-height: 0.8;
+    padding-top: 4px;
+    padding-right: 8px;
+    padding-left: 3px;
+    margin-bottom: 0;
+  }
+}
 
 
 // Global Transition

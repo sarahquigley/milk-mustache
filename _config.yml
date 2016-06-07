@@ -1,11 +1,12 @@
 # Site wide configuration
 
+environment: production
 title: Milk Mustache
 locale: en_US
 description: The Joy of Eating
 logo: site-logo.png
 search: true
-url: http://localhost:4000
+url: http://finiteadventures.github.io/milk-mustache
 uploads_path: uploads
 
 # Jekyll configuration

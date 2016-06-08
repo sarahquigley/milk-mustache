@@ -53,6 +53,6 @@ I’m not vegan, or vegetarian — though sometimes I aspire to be. My house
 
 Lemons are a winter fruit, but lemons feel like summer to me. They are tart little globes of sunshine. They give me visions of cold cold glasses of lemonade, frosted with drops of water. On hot summer days, I want all the lemons: lemon curd, lemon bars, lemon cake… lemon juice on my salads, lemon everywhere!
 
-{% include image.html images="DSC_0860.jpg DSC_0825" %}
+{% include image.html images="DSC_0860.jpg DSC_0825.jpg" %}
 
 This lemon curd is thick, creamy and delicious — everything lemon curd should be, vegan or otherwise. Serve it plain or topped with fruit. It’s excellent spread on scones or spooned over pancakes, waffles or french toast. Try it as topping for (vegan or non-vegan) yoghurt or ice cream or as a filling for pastries such as layer cakes, doughnuts or pies. For sweet and tangy start to the day, go wild and dollop some on your morning oatmeal!

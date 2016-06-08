@@ -6,7 +6,7 @@ image:
   feature: DSCF6204.jpg
 ---
 
-{% include image.html images="about.jpg" %}
+{% include image.html images="about.jpg" entry=page %}
 
 ### Hello! My name is Sarah and this is the place where I share my cooking adventures, big, small and in between. I don't have a mustache, but I'm working on it.
 

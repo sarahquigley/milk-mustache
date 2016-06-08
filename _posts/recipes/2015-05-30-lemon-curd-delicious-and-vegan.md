@@ -46,13 +46,13 @@ Memorial day weekend in New York city: after an unseasonably rainy month of May,
 
 A perfect day for standing over a stove top, stirring a pot of lemon curd as it thickens? Not exactly, but the air-conditioning is on and it will all be worth it when I have some tangy chilled jars of lemon curd to dig into (and spoon over everything).
 
-{% include image.html images="DSC_0720.jpg" %}
-{% include image.html images="DSC_0738.jpg DSC_0760.jpg" %}
+{% include image.html images="DSC_0720.jpg" entry=page %}
+{% include image.html images="DSC_0738.jpg DSC_0760.jpg" entry=page %}
 
 I’m not vegan, or vegetarian — though sometimes I aspire to be. My housemate Ilana tells me that I’m a reducetarian, a word I didn’t know existed until until I moved to New York city. Either way, exploring alternative ingredients and cooking methods, like those you find in vegan and vegetarian cuisine, is a lot of fun: limitations foster creativity.
 
 Lemons are a winter fruit, but lemons feel like summer to me. They are tart little globes of sunshine. They give me visions of cold cold glasses of lemonade, frosted with drops of water. On hot summer days, I want all the lemons: lemon curd, lemon bars, lemon cake… lemon juice on my salads, lemon everywhere!
 
-{% include image.html images="DSC_0860.jpg DSC_0825.jpg" %}
+{% include image.html images="DSC_0860.jpg DSC_0825.jpg" entry=page %}
 
 This lemon curd is thick, creamy and delicious — everything lemon curd should be, vegan or otherwise. Serve it plain or topped with fruit. It’s excellent spread on scones or spooned over pancakes, waffles or french toast. Try it as topping for (vegan or non-vegan) yoghurt or ice cream or as a filling for pastries such as layer cakes, doughnuts or pies. For sweet and tangy start to the day, go wild and dollop some on your morning oatmeal!

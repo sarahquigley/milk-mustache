@@ -5,7 +5,9 @@
     <h1>{{ recipe.title }}</h1>
     <div class="recipe-meta">
       <span><i class="fa fa-clock-o" aria-hidden="true"></i><em>  Preparation time:</em> {{ recipe.meta.preparation-time }}</span>
+      {% if recipe.meta.cooking-time %}
       <span><i class="fa fa-hourglass-start" aria-hidden="true"></i><em>  Cooking time:</em> {{ recipe.meta.cooking-time }}</span>
+      {% endif %}
       <span><i class="fa fa-cutlery" aria-hidden="true"></i><em>  Yield:</em> {{ recipe.meta.yield }}</span>
     </div>
   </header>

@@ -8,7 +8,7 @@ image:
   feature: DSC_0791.jpg
   credit: Sarah Quigley
   creditlink: "http://sarahquigley.net"
-  thumb: DSC_0122.jpg
+  thumb: DSC_0791.jpg
 comments: true
 share: true
 recipe:

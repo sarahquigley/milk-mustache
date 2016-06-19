@@ -3,21 +3,36 @@ layout: base
 search_omit: true
 ---
 
+<div id="page">
+<div class="entry">
+
 {% for post in site.posts limit:10 %}
 {% if forloop.first == true %}
-  <article class="entry-thumbnail-featured">
-    {% include image.html images=post.image.thumb entry=post %}
-    <a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span>{% if post.excerpt %} <span class="excerpt">{{ post.excerpt | remove: '\[ ... \]' | remove: '\( ... \)' | markdownify | strip_html | strip_newlines | escape_once }}</span>{% endif %}</a>
-  </article>
+  {% include thumbnail.html entry=post class="entry-thumbnail-feature" %}
 {% elsif forloop.index >= 1 and forloop.index <= 4 %}
-  <article class="entry-thumbnail-large">
-    {% include image.html images=post.image.thumb entry=post %}
-    <a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span>{% if post.excerpt %} <span class="excerpt">{{ post.excerpt | remove: '\[ ... \]' | remove: '\( ... \)' | markdownify | strip_html | strip_newlines | escape_once }}</span>{% endif %}</a>
-  </article>
+  {% if forloop.index == 2 %}
+  <div class="entry-thumbnail-group">
+  {% endif %}
+
+  {% include thumbnail.html entry=post class="entry-thumbnail-large" %}
+
+  {% if forloop.index == 4 %}
+  </div>
+  {% endif %}
 {% else %}
-  <article class="entry-thumbnail-medium">
-    {% include image.html images=post.image.thumb entry=post %}
-    <a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span>{% if post.excerpt %} <span class="excerpt">{{ post.excerpt | remove: '\[ ... \]' | remove: '\( ... \)' | markdownify | strip_html | strip_newlines | escape_once }}</span>{% endif %}</a>
-  </article>
+  {% if forloop.index == 5 %}
+  <div class="entry-wrapper">
+    <div class="entry-content">
+  {% endif %}
+
+  {% include thumbnail.html entry=post class="entry-thumbnail-medium" %}
+
+  {% if forloop.index == 10 %}
+    </div>
+  </div>
+  {% endif %}
 {% endif %}
 {% endfor %}
+
+</div>
+</div>

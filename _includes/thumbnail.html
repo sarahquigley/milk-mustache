@@ -1,0 +1,22 @@
+{% assign entry=include.entry %}
+
+<article class="entry-thumbnail {{ include.class }}">
+  <a href="{{ site.url }}{{ entry.url }}">
+    <div class="entry-thumbnail-image">
+      {% include image.html images=entry.image.thumb entry=entry %}
+    </div>
+    <div class="entry-thumbnail-text">
+      <div class="entry-thumbnail-title">
+        {{ entry.title }}
+      </div>
+      <div class="entry-date">
+        <time datetime="{{ entry.date | date_to_xmlschema }}">{{ entry.date | date: "%B %d, %Y" }}</time>
+      </div>
+      {% if entry.excerpt %}
+      <div class="excerpt">
+        {{ entry.excerpt | remove: '\[ ... \]' | remove: '\( ... \)' | markdownify | strip_html | strip_newlines | escape_once }}
+      </div>
+      {% endif %}
+    </div>
+  </a>
+</article>

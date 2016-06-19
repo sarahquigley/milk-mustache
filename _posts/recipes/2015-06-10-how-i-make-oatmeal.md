@@ -1,22 +1,22 @@
 ---
 layout: post
-title: "Make these brownies!"
-excerpt: "Brownies - simple, comforting, ever satisfying - who can fail to love the baker and bearer of brownies? Here's a little secret those brownie bakers have been trying to hush up for years... brownies are incredibly simple to prepare (or at least they can be)."
+title: "How I Make Oatmeal"
+excerpt: "I like to pretend I'm not, but I'm a creature of habit. My morning habit is oatmeal. It tails off a little in summer, but just a little."
 category: recipes
-tags: [baking, dessert, chocolate]
+tags: [breakfast, oatmeal, oats]
 image:
-  feature: DSCF0306.jpg
+  feature: 20150103_104353.jpg 
   credit: Sarah Quigley
   creditlink: "http://sarahquigley.net"
-  thumb: DSCF0306.jpg
+  thumb: 20150103_104353.jpg
 comments: true
 share: true
 recipe:
-  title: Chocolate Brownies 
+  title: Basic Stove-top Oatmeal 
   meta:
-    preparation-time: 15-20 minutes
-    cooking-time: 25-30 minutes
-    yield: 16 5 x 5cm squares 
+    preparation-time: 5-15 minutes
+    cooking-time: 3-5 minutes
+    yield: 1 - 3 portions 
   notes:
     - It only takes a tiny bit of time and a few basic baking ingredients to create these simple, yet decadent brownies.
   ingredients:

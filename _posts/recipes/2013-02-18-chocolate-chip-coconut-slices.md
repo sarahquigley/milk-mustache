@@ -51,7 +51,7 @@ There are so many recipes that I try once, and then never again. It's not that t
 
 A little like a cross between a blondie and a chewy chocolate chip cookie, these dense slices are definitely too good not to make again... and too easy! One bowl, 15 minutes of measuring and stirring (if even), less than a half an hour in the oven and - BAM - done! Let them cool - or don't - and dig in.
 
-This recipe was adapted from Averie's Samoas Bars over at Averie Cooks. Though I loved the original recipe, it was a little too sweet and greasy for my taste. With this in mind, in my version, I've toned down the sugar and butter a smidge from the original recipe - and I'm really happy with the results.
+This recipe was adapted from Averie's Samoas Bars over at [Averie Cooks](http://averiecooks.com). Though I loved the original recipe, it was a little too sweet and greasy for my taste. With this in mind, in my version, I've toned down the sugar and butter a smidge from the original recipe - and I'm really happy with the results.
 
 {% include image.html images="DSCF0593.jpg" entry=page %}
 
@@ -61,4 +61,4 @@ According to Averie, her recipes was inspired by a girl scout cookie known as 'S
 
 {% include image.html images="DSCF0602.jpg" entry=page %}
 
-Romantic too are the wafting scents of butter, chocolate and coconut filling the kitchen as you sit back, hot coffee in hand waiting for your chocolate chip coconut slices to emerge from the oven.kjj
+Romantic too are the wafting scents of butter, chocolate and coconut filling the kitchen as you sit back, hot coffee in hand waiting for your chocolate chip coconut slices to emerge from the oven.

@@ -4,35 +4,51 @@ search_omit: true
 ---
 
 <div id="page">
-<div class="entry">
+  <div class="entry">
 
-{% for post in site.posts limit:10 %}
-{% if forloop.first == true %}
-  {% include thumbnail.html entry=post class="entry-thumbnail-feature" %}
-{% elsif forloop.index >= 1 and forloop.index <= 4 %}
-  {% if forloop.index == 2 %}
-  <div class="entry-thumbnail-group">
-  {% endif %}
+  {% for post in paginator.posts %}
+  {% if paginator.page == 1 and forloop.first == true %}
+    {% include thumbnail.html entry=post class="entry-thumbnail-feature" %}
+  {% elsif paginator.page == 1 and forloop.index >= 1 and forloop.index <= 4 %}
+    {% if forloop.index == 2 %}
+    <div class="entry-thumbnail-group">
+    {% endif %}
 
-  {% include thumbnail.html entry=post class="entry-thumbnail-large" %}
+    {% include thumbnail.html entry=post class="entry-thumbnail-large" %}
 
-  {% if forloop.index == 4 %}
-  </div>
-  {% endif %}
-{% else %}
-  {% if forloop.index == 5 %}
-  <div class="entry-wrapper">
-    <div class="entry-content">
-  {% endif %}
-
-  {% include thumbnail.html entry=post class="entry-thumbnail-medium" %}
-
-  {% if forloop.index == 10 %}
+    {% if forloop.index == 4 %}
     </div>
-  </div>
-  {% endif %}
-{% endif %}
-{% endfor %}
+    {% endif %}
+  {% elsif paginator.page == 1 and forloop.index == 5 %}
+    <div class="entry-wrapper">
+      <div class="entry-content">
+      {% include thumbnail.html entry=post class="entry-thumbnail-medium" %}
+  {% elsif paginator.page > 1 and forloop.first == true %}
+    <div class="entry-wrapper">
+      <div class="entry-content">
+      {% include thumbnail.html entry=post class="entry-thumbnail-medium" %}
+  {% else %}
+      {% include thumbnail.html entry=post class="entry-thumbnail-medium" %}
 
+    {% if forloop.last == true %}
+      </div><!-- /.entry-content -->
+
+      <!-- Pagination links -->
+      <div class="pagination">
+        {% if paginator.previous_page %}
+        <a href="{{ paginator.previous_page_path }}" class="previous btn">Newer Posts <i class="fa fa-chevron-right fa-fw" aria-hidden="true"></i>
+        </a>
+        {% endif %}
+        {% if paginator.next_page %}
+        <a href="{{ paginator.next_page_path }}" class="next btn"><i class="fa fa-chevron-left fa-fw" aria-hidden="true"></i> Older Posts</a>
+        {% endif %}
+      </div><!-- /.pagination -->
+
+    </div><!-- /.entry-wrapper -->
+    {% endif %}
+  {% endif %}
+  {% endfor %}
+
+  </div>
 </div>
-</div>
+

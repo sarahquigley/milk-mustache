@@ -206,8 +206,12 @@ span + .entry-title {
    ========================================================================== */
 
 .pagination {
+  @include clearfix;
 	margin-top: 2em;
-	text-align: center;
+
+  .previous {
+    float: right;
+  }
 }
 
 /*

@@ -16,46 +16,48 @@
     <h1>{{ include.post.uploads }}</h1>
     </header>
 
-    <footer class="entry-meta">
-      {% if include.post.author %}
-        {% assign author = site.data.authors[include.post.author] %}{% else %}{% assign author = site.owner %}
-      {% endif %}
-      {% if author.avatar contains 'http' %}
-        <img src="{{ author.avatar }}" class="bio-photo" alt="{{ author.name }} bio photo"></a>
-      {% elsif author.avatar %}
-        <img src="{{ site.url }}/images/{{ author.avatar }}" class="bio-photo" alt="{{ author.name }} bio photo"></a>
-      {% endif %}
-      <span class="author vcard">By <span class="fn">{{ author.name }}</span></span>
-      <span class="entry-date date published"><time datetime="{{ include.post.date | date_to_xmlschema }}"><i class="fa fa-calendar-o"></i> {{ include.post.date | date: "%B %d, %Y" }}</time></span>
-      {% if include.post.modified %}<span class="entry-date date modified"><time datetime="{{ include.post.modified }}"><i class="fa fa-pencil"></i> {{ include.post.modified | date: "%B %d, %Y" }}</time></span>{% endif %}
-      {% if (site.owner.disqus-shortname and include.post.comments) or site.comments %}<span class="entry-comments"><i class="fa fa-comment-o"></i> <a href="#disqus_thread">Comment</a></span>{% endif %}
-      {% if include.post.share %}{% include social-share.html %}{% endif %}
-      {% if include.post.ads == true %}{% include ad-sidebar.html %}<!-- /.google-ads -->{% endif %}
-    </footer>
-    <div class="entry-content">
-      {{ include.content }}
+    <div class="entry-main">
+      <footer class="entry-meta">
+        {% if include.post.author %}
+          {% assign author = site.data.authors[include.post.author] %}{% else %}{% assign author = site.owner %}
+        {% endif %}
+        {% if author.avatar contains 'http' %}
+          <img src="{{ author.avatar }}" class="bio-photo" alt="{{ author.name }} bio photo"></a>
+        {% elsif author.avatar %}
+          <img src="{{ site.url }}/images/{{ author.avatar }}" class="bio-photo" alt="{{ author.name }} bio photo"></a>
+        {% endif %}
+        <span class="author vcard">By <span class="fn">{{ author.name }}</span></span>
+        <span class="entry-date date published"><time datetime="{{ include.post.date | date_to_xmlschema }}"><i class="fa fa-calendar-o"></i> {{ include.post.date | date: "%B %d, %Y" }}</time></span>
+        {% if include.post.modified %}<span class="entry-date date modified"><time datetime="{{ include.post.modified }}"><i class="fa fa-pencil"></i> {{ include.post.modified | date: "%B %d, %Y" }}</time></span>{% endif %}
+        {% if (site.owner.disqus-shortname and include.post.comments) or site.comments %}<span class="entry-comments"><i class="fa fa-comment-o"></i> <a href="#disqus_thread">Comment</a></span>{% endif %}
+        {% if include.post.share %}{% include social-share.html %}{% endif %}
+        {% if include.post.ads == true %}{% include ad-sidebar.html %}<!-- /.google-ads -->{% endif %}
+      </footer>
+      <div class="entry-content">
+        {{ include.content }}
 
-      {% if include.preview != true && include.post.recipe %}
-        {% include recipe.html %}
-      {% endif %}
+        {% if include.preview != true && include.post.recipe %}
+          {% include recipe.html %}
+        {% endif %}
 
-      {% if include.preview != true && (site.owner.disqus-shortname and include.post.comments) or site.comments %}
-        <div id="disqus_thread"></div><!-- /#disqus_thread -->
-        {% include disqus-comments.html %}
+        {% if include.preview != true && (site.owner.disqus-shortname and include.post.comments) or site.comments %}
+          <div id="disqus_thread"></div><!-- /#disqus_thread -->
+          {% include disqus-comments.html %}
+        {% endif %}
+      </div><!-- /.entry-content -->
+    </div><!-- /.entry-main -->
+
+    {% if include.preview != true %}
+    <nav class="pagination" role="navigation">
+      {% if include.post.previous %}
+        <a href="{{ site.url }}{{ include.post.previous.url }}" class="previous btn" title="{{ include.post.previous.title }}">Previous</a>
       {% endif %}
-    </div><!-- /.entry-content -->
+      {% if include.post.next %}
+        <a href="{{ site.url }}{{ include.post.next.url }}" class="next btn" title="{{ include.post.next.title }}">Next</a>
+      {% endif %}
+    </nav><!-- /.pagination -->
+    {% endif %}
 
   </div><!-- /.entry-wrapper -->
-
-  {% if include.preview != true %}
-  <nav class="pagination" role="navigation">
-    {% if include.post.previous %}
-      <a href="{{ site.url }}{{ include.post.previous.url }}" class="btn" title="{{ include.post.previous.title }}">Previous</a>
-    {% endif %}
-    {% if include.post.next %}
-      <a href="{{ site.url }}{{ include.post.next.url }}" class="btn" title="{{ include.post.next.title }}">Next</a>
-    {% endif %}
-  </nav><!-- /.pagination -->
-  {% endif %}
 
 </article>

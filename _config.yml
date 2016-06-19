@@ -6,7 +6,7 @@ locale: en_US
 description: The Joy of Eating
 logo: site-logo.png
 search: true
-url: http://finiteadventures.github.io/milk-mustache
+url: http://milk-mustache.com
 uploads_path: uploads
 
 # Jekyll configuration

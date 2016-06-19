@@ -3,7 +3,7 @@ layout: post
 title: Picadillo
 excerpt: "I hate to pick favourites, but this picadillo recipe may be my favourite Mexican dish. Scratch that - It might just be be one of my favourite dishes of all time. This meat dish is subtly sweet and packed with apple, raisins and almonds."
 category: recipes
-tags: [dinner, meat, beef, Hispanic]
+tags: [dinner, meat, beef, hispanic]
 image:
   feature: DSCN1148b.jpg
   credit: Sarah Quigley

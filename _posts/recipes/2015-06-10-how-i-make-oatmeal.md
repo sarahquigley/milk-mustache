@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How I Make Oatmeal"
-excerpt: ""
+excerpt: "I was sitting in my local ramen shop, Shinobi noodles, digging into a bowl of tan tan men when I discovered that my friend Jesse doesn't eat breakfast."
 category: recipes
 tags: [breakfast, oatmeal]
 image:

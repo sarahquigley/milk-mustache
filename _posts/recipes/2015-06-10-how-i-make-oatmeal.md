@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "How I Make Oatmeal"
-excerpt: "I like to pretend I'm not, but I'm a creature of habit. My morning habit is oatmeal. It tails off a little in summer, but just a little."
+excerpt: ""
 category: recipes
-tags: [breakfast, oatmeal, oats]
+tags: [breakfast, oatmeal]
 image:
   feature: 20150103_104353.jpg 
   credit: Sarah Quigley
@@ -14,50 +14,50 @@ share: true
 recipe:
   title: Basic Stove-top Oatmeal 
   meta:
-    preparation-time: 5-15 minutes
-    cooking-time: 3-5 minutes
+    preparation-time: 5 - 15 minutes
+    cooking-time: 3 - 5 minutes
     yield: 1 - 3 portions 
   notes:
-    - It only takes a tiny bit of time and a few basic baking ingredients to create these simple, yet decadent brownies.
-  ingredients:
+    - This is a very loose recipe, leaving lots of wiggle room for you to tailor it to your personal taste. I recommend using jumbo rolled oats, rather than the quick cooking kind, as I find their texture to be more satisfying. However, if you enjoy a very creamy texture, you may prefer the quick cooking oats. I like to use a mixture of nut milk and water when preparing my oatmeal. I usually use 1 cup nut milk and 1½ cups water for every cup of oats I prepare. My favourite milk of all is cashew milk, but almond milk or plain old dairy milk will work just as well.
+    - I'm a small person, and a proportionally small eater. ⅓ of a cup of oats is usually an ample breakfast for me, but my larger more masculine roommates will often eat a cup of oats in a single sitting. This recipe can be equally well prepared in a microwave safe bowl in the microwave, with similar cooking time. Beware, use a large bowl (and perhaps a lower power setting such as 70 or 80%) as oatmeal has a tendency to boil over in the microwave. It's worth noting, that I tend to prefer the texture of oatmeal prepared on the stove top.
+  ingredient-lists:
     main:
-        - 100 g (3.5 ounces) dark chocolate (70% cocoa content), roughly chopped
-        - 115 g (4 ounces / 1 stick) unsalted butter, plus a little extra for greasing pans
-        - 200g (7 ounces / 1 cup) golden caster sugar (can be substituted with any natural sugar, or if necessary, white sugar)
-        - 2 large eggs
-        - 1 tsp (5 ml) natural vanilla extract
-        - 110 g (4 ounces / 2/3 cup) all-purpose flour
-        - 1/4 tsp salt
+      ingredients:
+        - 1 cup rolled oats
+        - 2½ cups liquid (milk / nut milk, water or a mixture of both)
+    mixins:
+      title: Mixins
+      ingredients:
+        - 3 tbsp raisins
+        - 3 tsp flax seeds
+    toppings:
+      title: Toppings
+      ingredients:
+        - Fresh fruit of your choosing, chopped or sliced as necessary
+        - A spoonful of nut butter
+        - A sprinkling of nuts and / or seeds (optional)
+        - A spoonful of honey or jam (optional)
   method:
-    - Pre-heat oven to 180 C (350 F). Line a 20 x 20 cm (8 x 8 inch) square baking pan with parchment paper (or aluminium foil), and butter the parchment. The paper should extend above 2 edges of the pan.
-    - In a heatproof bowl over a pot of simmering water, melt butter and chocolate, stirring until smooth. Remove from bowl from the heat, and whisk in sugar until fully combined.
-    - Whisk in eggs, one at a time, followed by vanilla extract and salt. Finally, using a wooden spoon or rubber spatula, stir in flour.
-    - Spread finished batter evenly in the prepared baking pan, and bake for 25 - 30 minutes, or until a toothpick inserted into centre comes out clean (or almost clean - a few crumbs are okay, especially if you like your brownies fudgy).
-    - Cool in the pan. Slice into 16 5 x 5 cm (2 x 2 inch) squares, or however you fancy. For a touch of class, dust with a little powdered sugar.
+    - Into a medium pot, measure oats, water and / or milk. Add raisins and flax seeds.
+    - Bring oatmeal to a gentle simmer. Cook until thick and creamy, stirring frequently to ensure oatmeal doesn't stick to the bottom of the pot.
+    - Transfer oatmeal to serving bowl(s).
+    - Top oatmeal with fresh fruit. Dollop on nut butter. If using, sprinkle on nuts and / or seeds, spoon on jam or drizzle on honey.
   variations:
-    - Toss in chocolate chips or nuts. Swirl with caramel or your favourite nut butter. Spike with alcohol. Or find your inner kid and stud with your favourite candy! There's no end to the wonderful things you could do with these brownies.
+    - Mix in other types of dried fruit, nuts or seeds before cooking. Dried apricots are particularly delicious.
+    - Mix in some spices before cooking - or dust with spices after cooking. Cinnamon is a classic, but nutmeg, allspice, or cloves could all be interesting additions. Get creative.
+    - Lemon curd, nutella, maple syrup, stewed fruit (or rhubarb)... there are as many topping options as you can imagine.
 
 ---
 
 {: .dropcap }
-Brownies - simple, comforting, ever satisfying - who can fail to love the baker and bearer of brownies? Here's a little secret those brownie bakers have been trying to hush up for years... brownies are incredibly simple to prepare (or at least they can be). The recipe I'm going to share with you here is one of the quickest and easiest I've come across - and also one of the best.  
+I was sitting in my local ramen shop, Shinobi noodles, digging into a bowl of tan tan men when I discovered that my friend Jesse doesn't eat breakfast. Jesse is an ace computer programmer by day, dance ninja by night, an all day cookie master and a completely wonderful person, so his abject negligence in the breakfast department was unexpected and somewhat disconcerting. 
 
-{% include image.html images="DSCF0306.jpg" entry=page %}
+{% include image.html images="20140415_093359.jpg" entry=page %}
+{% include image.html images="20150104_114113.jpg 20140501_085414.jpg 20150111_122726.jpg" entry=page %}
 
-I should take a moment to thank Deb Perelman of Smitten Kitchen. Deb's recipe blog is truly inspiring, one of the best the internet has to offer... and it is from her favourite brownies that I have adapted this recipe. I'm extra grateful because these brownies have saved me time and time again in those 'emergencies' when I've promised baked goods, but failed at shopping/time management.
+I hate to think of Jesse missing out on the first (and quite possibly the best) meal of the day, so I've set out on a grand quest to get Jesse to eat breakfast — and my quest begins with oatmeal. In case it wasn't obvious from the outpourings of photos, I really like oatmeal. I have a solid oatmeal habit, and though I'm will effusively deny it, something of an oatmeal obsession. Strike that, why deny my obsession? Oatmeal is so unequivocably awesome.
 
-At times like that, this recipe makes me extra happy. Why? Seven ingredients, and for me at least, ingredients I almost always have around the house. Why? Twenty minutes, and they're in the oven, filling the kitchen with warm scents of home-baking. Yay! Another twenty minutes or so later, and boom - brownies... tasty tasty brownies and a satisfying sense of accomplishment.
+Some fairy tale characters understand the joys of a good bowl of oatmeal, though they don't always get the temperature just right. It's just so satisfying — and so easy to keep around the house... so versatile and so cheap. The true joy of oatmeal is not so much in the oatmeal itself (though that is wonderful), but in all the things you can put in your oatmeal and all the things you can put on top.
 
-{% include image.html images="DSCF0243.jpg" entry=page %}
-
-Extra bonus, these brownies (like most brownies) are cooled in the pan, so they can travel with you, fresh from the oven. No need to resort to that (lame?) excuse, 'I was late because my _____________ had to cool before I glazed it'. I think I may have actually used that one at some point.
-
-There's a decadence to the preparation of brownies that I love: cracking the chocolate, cutting the butter, watching them melt together until they meld in thick smooth chocolate glory... whisking and stirring and mixing and pouring. Mmmm. 
-
-{% include image.html images="DSCF0288.jpg DSCF0282.jpg" entry=page %}
-
-I'm not ashamed to admit that I lick the wooden spoon - and the wire whisk - and sometimes even the last scrapings from the bottom of the mixing bowl. I eat the crumbs too - the crumbs that stick to the knife, and the baking paper... that are left on the cutting board after slicing the fudgey treats. I'm not ashamed one bit -  these are the little joys that life is made of.
-
-{% include image.html images="DSCF0314.jpg" entry=page %}
-
-Having now thoroughly confessed my sins, and more than adequately expressed the ardency of my love for (these) brownies, here, at last is the recipe.
+{% include image.html images="20140607_115556.jpg DSC_0898.jpg" entry=page %}
+{% include image.html images="20140510_093604.jpg" entry=page %}

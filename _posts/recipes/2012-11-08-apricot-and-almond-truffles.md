@@ -35,7 +35,7 @@ recipe:
         - A few flaked almonds and/or couple of dried apricots, chopped in small pieces (garnish)
   method:
     - Blend all the ingredients (except coating) in a food processor until they form a ball of thick dough. Roll the dough into small balls. Enjoy the truffles nude, or coat in white chocolate.
-    - To coat with white chocolate: In a small bowl, over a pot of boiling water, melt some white chocolate. Using a toothpick or skewer, dip each ball in the chocolate until it is thoroughly coated. (This is easiest with truffle balls that have been refrigerated). Use a spoon to coat any hard to reach areas. Place each truffle on a parchment paper covered plate or sheet pan, and garnish with a flaked almond or dried apricot piece. Refrigerate until the chocolate has hardened.
+    - "To coat with white chocolate: In a small bowl, over a pot of boiling water, melt some white chocolate. Using a toothpick or skewer, dip each ball in the chocolate until it is thoroughly coated. (This is easiest with truffle balls that have been refrigerated). Use a spoon to coat any hard to reach areas. Place each truffle on a parchment paper covered plate or sheet pan, and garnish with a flaked almond or dried apricot piece. Refrigerate until the chocolate has hardened."
     - These truffles are best stored in the refrigerator, and are at their best when served a little cold.
 
 ---

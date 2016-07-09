@@ -51,7 +51,7 @@ recipe:
     - Use couscous in place of the bulgur. Other grains might be nice too... What about quinoa, brown rice, or even orzo? Feel free to experiment and tell me about the results!
     - Replace the red kidney beans with another bean of your choice. I recommend chickpeas. Fried or grilled cubes of tofu might also be a delicious alternative.
     - Add some feta or mozzarella cheese. This can be added as an extra on top of all the normal ingredients, or in place of the kidney beans, if you're not a bean lover.
-    - Try any or all of the following: Replace the green beans with lightly steamed broccoli. Substitute steamed sweet potatoes or butternut squash for the carrots. Use 2-3 scallions in place of the red onion.
+    - "Try any or all of the following: Replace the green beans with lightly steamed broccoli. Substitute steamed sweet potatoes or butternut squash for the carrots. Use 2 - 3 scallions in place of the red onion."
     - Replace the pine nuts with another nut or seed of your choice. I recommend pumpkin seeds, sunflower seeds or sliced almonds.
 
 ---

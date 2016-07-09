@@ -19,7 +19,7 @@ recipe:
     yield: 16 5 x 5cm squares 
   notes:
     - It only takes a tiny bit of time and a few basic baking ingredients to create these simple, yet decadent brownies.
-  ingredient-list:
+  ingredient-lists:
     main:
       ingredients:
         - 100 g (3.5 ounces) dark chocolate (70% cocoa content), roughly chopped

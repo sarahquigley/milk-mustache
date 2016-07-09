@@ -25,18 +25,18 @@ recipe:
       ingredients:
         - 1 pound (450 g) lean minced beef or pork
         - 1 medium onion, finely chopped
-        - 2-3 cloves garlic
+        - 2 - 3 cloves garlic
         - 500 g (18 oz) passata (tomato puree)
         - 1 medium apple, peeled, cored and chopped
-        - 1/2 cup raisins
-        - 1/4 cup slivered almonds
-        - 1/4 cup chopped parsley (optional)
+        - ½ cup raisins
+        - ¼ cup slivered almonds
+        - ¼ cup chopped parsley (optional)
         - 1 tbsp vinegar
         - 1 tsp sugar
         - 1 tsp salt
-        - 1/4 tsp ground cinnamon
-        - 1/4 tsp ground cumin
-        - 1/8 tsp ground pepper
+        - ¼ tsp ground cinnamon
+        - ¼ tsp ground cumin
+        - ⅛ tsp ground pepper
         - Olive oil
   method:
     - In a medium-sized pot over a medium heat, fry the onions and garlic in a little olive oil. When the onions begin to turn translucent, add the beef and cook until brown. At this stage, if necessary, pour away any excess fat. Stir in all the remaining ingredients. Cover the pot, and simmer for 30 minutes.

@@ -25,16 +25,16 @@ recipe:
     main:
       ingredients:
         - 100 g (3.5 ounces) salted butter
-        - 150g (5.3 ounces / 3/4 cup) light muscovado sugar (or similar light sticky brown sugar)
-        - 50g (1.8 ounces / 1/4 cup) golden caster sugar (can be substituted with any natural sugar, or if necessary, white sugar)
+        - 150 g (5.3 ounces / ¾ cup) light muscovado sugar (or similar light sticky brown sugar)
+        - 50 g (1.8 ounces / ¼ cup) golden caster sugar (can be substituted with any natural sugar, or if necessary, white sugar)
         - 1 large egg
         - 2 tsp (10 ml) natural vanilla extract
-        - 100g (3.5 ounces / 1 cup) unsweetened shredded coconut
-        - 100 - 125 g (3.5 - 4.4 ounces / ~3/4 cup) all-purpose flour (flour varies greatly in density, measure by weight if possible) (start with 100g, if batter is not fairly thick add extra 25g)
-        - 100 g (3.5 ounces / ~3/4 cup) dark chocolate (70% cocoa content), chopped into chips (or ready made chocolate chips)
-        - 75 g (2.6 ounces / ~1/2 cup) white chocolate chips
+        - 100 g (3.5 ounces / 1 cup) unsweetened shredded coconut
+        - 100 - 125 g (3.5 - 4.4 ounces / ~¾ cup) all-purpose flour (flour varies greatly in density, measure by weight if possible) (start with 100g, if batter is not fairly thick add extra 25g)
+        - 100 g (3.5 ounces / ~¾ cup) dark chocolate (70% cocoa content), chopped into chips (or ready made chocolate chips)
+        - 75 g (2.6 ounces / ~½ cup) white chocolate chips
   method:
-    - Preheat oven to 180 C (350 F). Line a 20 or 23 cm (8 or 9 inch) round pan with parchment paper (or aluminium foil), and butter the parchment.
+    - Preheat oven to 180ºC (350ºF). Line a 20 or 23 cm (8 or 9 inch) round pan with parchment paper (or aluminium foil), and butter the parchment.
     - In a heatproof bowl over a pot of simmering water, melt the butter. Remove the bowl from the heat and stir in both types of sugar. Allow the mixture to cool a little (about 5 minutes), then stir in egg, flour and coconut. Fold in chocolate chips.
     - Pour the mixture into the prepared baking pan, sprinkle a few extra chocolate chips on top if desired and bake for 22 - 25 minutes (until the top has turned a nice golden brown colour and the edges are beginning to darken.
     - Cool in the pan before slicing, or enjoy still a little warm and gooey from the oven.

@@ -12,7 +12,7 @@ image:
 comments: true
 share: true
 recipe:
-  title: "Rainbow Salad with Bulgur Wheat and Beans "
+  title: "Rainbow Salad with Bulgur Wheat and Beans"
   meta:
     preparation-time: 20 minutes
     cooking-time: 15 minutes
@@ -23,14 +23,14 @@ recipe:
     main:
       ingredients:
         - 1 cup (200 g) bulgur wheat
-        - 1 400 g can (240 g drained - about 1 1/3 cups) red kidney beans
+        - 1 400 g can (240 g drained - about 1⅓ cups) red kidney beans
         - 2 medium carrots, sliced in half circles
         - 125 - 150 g (~ 1 cup) green beans, sliced in thirds
-        - 200 - 250 g (1 1/2 - 2 cups) cherry tomatoes , halved - or 3 medium tomatoes, roughly chopped
-        - 1/2 medium red onion (~ 1/2 cup), finely chopped
-        - 1/4 cup (40 - 50 g) raisins or sultanas
+        - 200 - 250 g (1½ - 2 cups) cherry tomatoes , halved - or 3 medium tomatoes, roughly chopped
+        - ½ medium red onion (~ ½ cup), finely chopped
+        - ¼ cup (40 - 50 g) raisins or sultanas
         - 2 tbsp (20 g) pine nuts
-        - 1/4 cup fresh coriander leaf, roughly chopped (optional)
+        - ¼ cup fresh coriander leaf, roughly chopped (optional)
         - Lemon slices (optional garnish)
     dressing:
       title: Dressing
@@ -38,11 +38,11 @@ recipe:
         - 1 heaped tbsp wholegrain mustard
         - 2 tbsp extra virgin olive oil
         - 3 tbsp cider or white wine vinegar
-        - 1/2 tsp salt
+        - ½ tsp salt
         - A generous grinding of pepper
   method:
     - Steam the green beans and carrots, taking care not to overcook them. (If you prefer your veggies in a raw untarnished state, feel free to omit this step.) Be sure to remove the steamed vegetables from the heat while they still retain a little bite. Before you set them aside, if you wish, you may rinse the vegetables in some cold water to ensure they do not cook further in their residual heat.
-    - Cook the bulgur in 1 1/2 cups boiling water over a low heat. When all the water has been absorbed, set it aside.
+    - Cook the bulgur in 1½ cups boiling water over a low heat. When all the water has been absorbed, set it aside.
     - Using a colander, drain and thoroughly rinse the red kidney beans. Prepare the onions, tomatoes and coriander and place them in a large salad bowl with the raisins, pine nuts and red kidney beans.
     - Whisk the dressing ingredients together in small jar. Add the dressing to the salad bowl and toss it with the other ingredients until they are completely coated.
     - Finally, add the steamed vegetables and bulgur, and gently toss the salad once more, until all the ingredients are thoroughly mixed. Do not worry if the carrots and bulgur are still warm at this point; this salad is great either warm, room temperature or cold.

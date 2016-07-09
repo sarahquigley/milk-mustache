@@ -25,18 +25,18 @@ recipe:
         - 1 cup couscous, cooked with a little salt
         - 1 cup cooked red kidney beans, rinsed
         - 2 medium oranges, segmented and cut into chunks
-        - "1/4 - 1/3 English cucumber, sliced into half-circles"
+        - "¼ - ⅓ English cucumber, sliced into half-circles"
         - 1 avocado, cut into chunks
-        - Handful of parsley, finely chopped (about 1/4 cup) (optional)
+        - Handful of parsley, finely chopped (about ¼ cup) (optional)
         - Salt and pepper, to taste
     dressing:
       title: Dressing
       ingredients:
-          - 1/4 cup freshly squeezed orange juice (juice of 1 medium orange)
+          - ¼ cup freshly squeezed orange juice (juice of 1 medium orange)
           - 2 tbsp extra virgin olive oil
           - 1 tbsp white wine vinegar
           - "~ 1 heaped tbsp honey"
-          - "1/4 tsp orange zest (zest of ~ 1/4 medium orange) (optional)"
+          - "¼ tsp orange zest (zest of ~ ¼ medium orange) (optional)"
   method:
     - Prepare couscous and set aside until all water has been absorbed. Whisk dressing ingredients together in small jar. Prepare beans, orange, cucumber, avocado and parsley and place in a large salad bowl. Add dressing and lightly toss.
     - Add couscous to the salad (it doesn't matter if the couscous is still a little warm) and season to taste. Toss salad until thoroughly mixed.

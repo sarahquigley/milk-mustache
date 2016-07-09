@@ -26,36 +26,36 @@ recipe:
       ingredients:
         - 225 g flour
         - 1 tbsp double acting baking powder
-        - 1/2 tsp baking soda
-        - 1/2 tsp salt
+        - ½ tsp baking soda
+        - ½ tsp salt
         - 400 g (2 cups, 14 oz) golden caster sugar
         - 2 large eggs, at room temperature
         - 115g (4 oz, 1 stick) unsalted butter, at room temperature, cut into cubes
-        - 70 g (1/2 cup + 2 tbsp)cocoa powder
-        - 1/2 cup (120ml) buttermilk
+        - 70 g (½ cup + 2 tbsp)cocoa powder
+        - ½ cup (120ml) buttermilk
         - 1 cup (240 ml) water
         - 2 tsp natural vanilla extract
     chocolate-buttercream-icing:
       title: Chocolate Buttercream Icing
       ingredients:
-        - 170 g (1 1/2 cups, 6 oz) powdered sugar
+        - 170 g (1½ cups, 6 oz) powdered sugar
         - 2 tbsp cocoa powder
-        - 35 g (1 1/6 oz, 2 1/2 tbsp) unsalted butter, at room temperature
+        - 35 g (1⅙ oz, 2½ tbsp) unsalted butter, at room temperature
         - 2 - 3 tbsp sour cream
         - 3 tsp natural vanilla extract
         - Pinch of salt
     dark-chocolate-glaze:
       title: Dark Chocolate Glaze
       ingredients:
-        - 100g dark (min. 70% cocoa solids) chocolate
-        - 50g unsalted butter
+        - 100 g dark (min. 70% cocoa solids) chocolate
+        - 50 g unsalted butter
     decoration:
       title: Decoration (Optional, but Recommended)
       ingredients:
         - 1 pack each of Cadbury's dark, milk and white chocolate finger biscuits
-        - 20 - 30g finely chopped chocolate (I used white)
+        - 20 - 30 g finely chopped chocolate (I used white)
   method:
-    - Prepare and bake the cake: Preheat oven to 175 C (350 F). Butter two 23 cm (9 inch) round pans. Line the base of each pan with baking paper, butter the paper and, finally, flour the pans. In a large measuring jug, combine cocoa powder, buttermilk, water and vanilla extract, and set aside.
+    - Prepare and bake the cake: Preheat oven to 175ºC (350ºF). Butter two 23 cm (9 inch) round pans. Line the base of each pan with baking paper, butter the paper and, finally, flour the pans. In a large measuring jug, combine cocoa powder, buttermilk, water and vanilla extract, and set aside.
     - Measure flour, baking powder, baking soda and salt into the food processor bowl, and process for 2 seconds. Set this mixture aside for later use.
     - Place sugar and eggs in the food processor bowl, and process for 1 minute, stopping once in the middle to scrape down the bowl. Add butter, and process for another minute, again stopping in the middle to scrape down the bowl. With the machine running, slowly pour the reserved buttermilk mixture through the machine's feed tube, and process for another 20 seconds. Scrape down the sides of the bowl, and add the reserved flour mixture. Mix the flour into the batter by pulsing the machine 5 - 6 times (or until the flour has just disappeared), stopping to scrape down the bowl before the final pulse. Do not over-process the batter at this point.
     - Divide the mixture evenly between the two prepared pans, and bake for 25 to 30 minutes (or until a toothpick inserted into cake's centre comes out clean). Cool the cakes for 5 minutes in the pan, then invert them on to wire racks, removing them from their pans. Allow the cakes to cool completely before decorating.

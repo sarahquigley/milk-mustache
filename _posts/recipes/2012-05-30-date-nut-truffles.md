@@ -14,7 +14,7 @@ share: true
 recipe:
   title: Date Nut Truffles 
   meta:
-    preparation-time: 5-15 minutes + refrigeration time
+    preparation-time: 5 - 15 minutes + refrigeration time
     yield: 10 - 14 truffles
   notes:
     - Adapted from Chocolate-Covered Katie's fabulous German Chocolate Fudge Bites.
@@ -23,11 +23,11 @@ recipe:
   ingredient-lists:
     main:
       ingredients:
-        - 120 g Medjool dates, pits removed (3/4 cup, about 7 large dates)
-        - 1/2 cup walnuts (~65 g)
+        - 120 g Medjool dates, pits removed (¾ cup, about 7 large dates)
+        - ½ cup walnuts (~65 g)
         - 2 tbsp cocoa powder (or raw cocoa powder)
         - 2 tbsp dessicated coconut
-        - 1/2 tsp natural vanilla essence
+        - ½ tsp natural vanilla essence
         - Pinch of salt
     coating:
       title: Coating (Optional)

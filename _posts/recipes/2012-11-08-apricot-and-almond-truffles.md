@@ -14,7 +14,7 @@ share: true
 recipe:
   title: Apricot and Almond Truffles 
   meta:
-    preparation-time: 5 -15 minutes + refrigeration time
+    preparation-time: 5 - 15 minutes + refrigeration time
     yield: 8 - 10 pieces
   notes:
     - These apricot and almond truffles are a subtly sweet fruity counterpart to my date nut truffles. These truffles are delicious plain or coated in white chocolate.

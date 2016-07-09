@@ -14,8 +14,8 @@ share: true
 recipe:
   title: Chocolate Brownies 
   meta:
-    preparation-time: 15-20 minutes
-    cooking-time: 25-30 minutes
+    preparation-time: 15 - 20 minutes
+    cooking-time: 25 - 30 minutes
     yield: 16 5 x 5cm squares 
   notes:
     - It only takes a tiny bit of time and a few basic baking ingredients to create these simple, yet decadent brownies.
@@ -27,10 +27,10 @@ recipe:
         - 200g (7 ounces / 1 cup) golden caster sugar (can be substituted with any natural sugar, or if necessary, white sugar)
         - 2 large eggs
         - 1 tsp (5 ml) natural vanilla extract
-        - 110 g (4 ounces / 2/3 cup) all-purpose flour
-        - 1/4 tsp salt
+        - 110 g (4 ounces / ⅔ cup) all-purpose flour
+        - ¼ tsp salt
   method:
-    - Pre-heat oven to 180 C (350 F). Line a 20 x 20 cm (8 x 8 inch) square baking pan with parchment paper (or aluminium foil), and butter the parchment. The paper should extend above 2 edges of the pan.
+    - Pre-heat oven to 180ºC (350ºF). Line a 20 x 20 cm (8 x 8 inch) square baking pan with parchment paper (or aluminium foil), and butter the parchment. The paper should extend above 2 edges of the pan.
     - In a heatproof bowl over a pot of simmering water, melt butter and chocolate, stirring until smooth. Remove from bowl from the heat, and whisk in sugar until fully combined.
     - Whisk in eggs, one at a time, followed by vanilla extract and salt. Finally, using a wooden spoon or rubber spatula, stir in flour.
     - Spread finished batter evenly in the prepared baking pan, and bake for 25 - 30 minutes, or until a toothpick inserted into centre comes out clean (or almost clean - a few crumbs are okay, especially if you like your brownies fudgy).

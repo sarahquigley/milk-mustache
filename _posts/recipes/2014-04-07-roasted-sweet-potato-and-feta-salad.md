@@ -22,10 +22,10 @@ recipe:
   ingredient-lists:
     main:
       ingredients:
-        - 75g feta cheese, crumbled
+        - 75 g feta cheese, crumbled
         - 12 - 16 cherry tomatoes, halved
         - 1 red pepper, quartered and thinly sliced
-        - 1/4 cucumber, thinly sliced into half-moons
+        - ¼ cucumber, thinly sliced into half-moons
         - 2 scallion, sliced
         - 6 dried apricots, sliced
         - 1 cup baby spinach
@@ -35,7 +35,7 @@ recipe:
       title: Roasted Sweet Potatoes
       ingredients:
         - 1 medium sweet potato, cut into small cubes
-        - 1/2 tsp thyme
+        - ½ tsp thyme
         - 1 tsp olive oil
         - 2 tsp sunflower oil
         - Salt, to taste
@@ -48,7 +48,7 @@ recipe:
         - 1 tbsp whole-grain mustard
         - Salt and pepper, to taste
   method:
-    - Preheat oven to 180C (350F). Toss sweet potatoes in olive and sunflower oils, and season with thyme and a little salt. Roast sweet potatoes at 180 for 20 - 30 minutes, until soft, and a lightly crisped and browned. Remove them from the oven, and allow them to cool.
+    - Preheat oven to 180C (350°F). Toss sweet potatoes in olive and sunflower oils, and season with thyme and a little salt. Roast sweet potatoes at 180 for 20 - 30 minutes, until soft, and a lightly crisped and browned. Remove them from the oven, and allow them to cool.
     - While sweet potatoes roast, divide spinach, rocket, and lettuce between two bowls or plates. Top each bowl with half the cucumber, pepper and tomatoes. Prepare the dressing by whisking together lemon juice, oil, honey and mustard, then seasoning to taste.
     - When sweet potatoes are cool, divide them between the two bowls. Top each bowl with the crumbled feta and scallions. Drizzle half the dressing over each salad.
   variations:

@@ -14,8 +14,8 @@ share: true
 recipe:
   title: Jalapeño & Pineapple Cornbread
   meta:
-    preparation-time: 15-20 minutes
-    cooking-time: 30-35 minutes
+    preparation-time: 15 - 20 minutes
+    cooking-time: 30 - 35 minutes
     yield: 1 loaf
   notes:
     - All credit goes to Mike for suggesting I use crushed pineapple, rather than rings as I initially planned — that really worked out deliciously! 1 14 oz (400 g) can of pineapple should provide more than enough crushed pineapple.
@@ -38,7 +38,7 @@ recipe:
         - 2 large eggs
         - 2 jalapeño peppers, chopped, & optionally, an extra ½ jalapeño pepper, thinly sliced and deseeded for decoration
   method:
-    - Preheat the oven to 350 ° F (180 ° C). Butter and flour a loaf pan and set aside.
+    - Preheat the oven to 350°F (180°C). Butter and flour a loaf pan and set aside.
     - In a medium-sized mixing bowl, combine flour, cornmeal, baking powder, baking soda, sugar, paprika and salt.
     - In a separate bowl, whisk together yoghurt, milk, eggs and canola oil. Add to the dry ingredients and mix to form a batter.
     - Stir crushed pineapple and jalapeño peppers into the batter.

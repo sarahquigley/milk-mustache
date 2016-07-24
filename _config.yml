@@ -55,21 +55,21 @@ titlecase: true
 owner:
   name: Sarah Quigley
   avatar: about.jpg
-  email: sarah@sarahquigley.net
+  email: sarah+milk-mustache@sarahquigley.net
   formspree-email: sarah@sarahquigley.net
   disqus-shortname: milkmustache
-  twitter: finitevagabond
-  facebook: quigley.sarah
+  twitter: thejoyofeating
+  facebook: thejoyofeating
   github: sarahquigley
   stackexchange: #http://stackoverflow.com/users/123456/username
   linkedin: #username
-  instagram: finiteadventurer
+  instagram: ohmilkmustache
   flickr: #username
   tumblr: #username
   pinterest: ohmilkmustache
   weibo: #userid
   soundcloud: sarah-quigley-542895767
-  medium: sarahquigley
+  medium: milk-mustache
   google:
     plus: #username
     analytics:

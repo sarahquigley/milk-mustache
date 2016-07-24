@@ -1,0 +1,29 @@
+.image-group {
+  width: 100%;
+  img {
+    width: 100%;
+    height: auto;
+  }
+
+  .img-container {
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+
+	@include media($small) {
+    display: flex;
+
+    .image-container {
+      padding-left: 10px;
+      padding-right: 10px;
+
+      &:first-of-type {
+        padding-left: 0;
+      }
+
+      &:last-of-type {
+        padding-right: 0;
+      }
+    }
+  }
+}

@@ -47,18 +47,18 @@ recipe:
 {: .dropcap }
 There are so many recipes that I try once, and then never again. It's not that there's anything wrong with most of them per se - it's just that once was enough to tick that experience box... been there done, done that, ate the canoli. On the other hand, some recipes are keepers, like these chocolate chip coconut slices. Huzzah!
 
-{% include image.html images="DSCF0586.jpg" entry=page %}
+{% include image-group.html images="DSCF0586.jpg" entry=page %}
 
 A little like a cross between a blondie and a chewy chocolate chip cookie, these dense slices are definitely too good not to make again... and too easy! One bowl, 15 minutes of measuring and stirring (if even), less than a half an hour in the oven and - BAM - done! Let them cool - or don't - and dig in.
 
 This recipe was adapted from Averie's Samoas Bars over at [Averie Cooks](http://averiecooks.com). Though I loved the original recipe, it was a little too sweet and greasy for my taste. With this in mind, in my version, I've toned down the sugar and butter a smidge from the original recipe - and I'm really happy with the results.
 
-{% include image.html images="DSCF0593.jpg" entry=page %}
+{% include image-group.html images="DSCF0593.jpg" entry=page %}
 
 According to Averie, her recipes was inspired by a girl scout cookie known as 'Samoas' or alternatively, 'Caramel DeLites'. I was never a girl scout. I had never even tasted a girl scout cookie until my recent move to Canada (we don't really have girl scout cookies in Ireland). I'll say this - I didn't need the fuzzy haze of nastalgia to love this recipe - one bite was quite enough for that...
 
 ... But maybe I would have needed that fuzzy haze to keep the name 'Samoas'. Romantic as it is to imagine the baking of Samoan islanders inspiring dessert, I can't help suspecting their true origin is a little closer to home.
 
-{% include image.html images="DSCF0602.jpg" entry=page %}
+{% include image-group.html images="DSCF0602.jpg" entry=page %}
 
 Romantic too are the wafting scents of butter, chocolate and coconut filling the kitchen as you sit back, hot coffee in hand waiting for your chocolate chip coconut slices to emerge from the oven.

@@ -8,7 +8,7 @@ image:
   feature: DSCF4307.jpg
   credit: Sarah Quigley
   creditlink: "http://sarahquigley.net"
-  thumb: DSCF4307.jpg 
+  thumb: DSCF4307.jpg
 comments: true
 share: true
 recipe:
@@ -60,10 +60,10 @@ recipe:
 {: .dropcap }
 Anyone who knows me well will be aware that I'm a salad fiend. They're my favourite lunch, and my go-to food when I want a lazy dinner. My earliest kitchen memories are of spending, what felt like hours, laying out vegetables that my mother had sliced... In complex fractal like patterns on top of giant bowls of mixed greens, I placed thin rings of  tomato, delicate strips of pepper and half-moons of cucumber.
 
-{% include image.html images="20140316_142435a.jpg" entry=page %}
+{% include image-group.html images="20140316_142435a.jpg" entry=page %}
 
-As a kid returning from visits to family in New York, I would always miss the colourful salads served up in cafes and restaurants there. In Dublin, miserable bowls of iceberg lettuce, sliced white onion and cucumber dogged my path to salad heaven. Thankfully, the explosion of the Irish restaurant scene has made delicious salads abundant enough here to please even the most ardent salad lover, and I'm just left craving New York bagels and black and white cookies. 
+As a kid returning from visits to family in New York, I would always miss the colourful salads served up in cafes and restaurants there. In Dublin, miserable bowls of iceberg lettuce, sliced white onion and cucumber dogged my path to salad heaven. Thankfully, the explosion of the Irish restaurant scene has made delicious salads abundant enough here to please even the most ardent salad lover, and I'm just left craving New York bagels and black and white cookies.
 
-{% include image.html images="DSCF4333-2b.jpg" entry=page %}
+{% include image-group.html images="DSCF4333-2b.jpg" entry=page %}
 
 Today's recipe is a simple salad, made a little fancier (and more filling) by the addition of sweet potatoes roasted with a sprinkling of thyme. Feta cheese, dried apricots, cherry tomatoes make this salad the stuff of my food fantasies - and hopefully yours too.

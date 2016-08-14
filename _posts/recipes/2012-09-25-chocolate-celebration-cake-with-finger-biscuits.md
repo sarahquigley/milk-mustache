@@ -12,7 +12,7 @@ image:
 comments: true
 share: true
 recipe:
-  title: Chocolate Celebration Cake with Finger Biscuits 
+  title: Chocolate Celebration Cake with Finger Biscuits
   meta:
     preparation-time: 40 - 50 minutes + several hours cooling time
     cooking-time: 25 - 30 minutes
@@ -77,22 +77,22 @@ recipe:
 {: .dropcap }
 This is the recipe I turn to when I want to impress, seduce, or otherwise bake my way into people's good books. It is the death-by-chocolate cake that every chocolate cake lounging languorously behind the glass of cafe counters promises to be, but so rarely is.
 
-{% include image.html images="DSCN1321.jpg" entry=page %}
+{% include image-group.html images="DSCN1321.jpg" entry=page %}
 
-Let me tell you about the cake... two layers of chocolate bliss, sandwiching a layer of soft chocolate buttercream icing, topped with a fudgy dark chocolate glaze. The cake is surrounded by alternating dark, milk and white finger biscuits, an idea I spotted at a wedding I attended, and couldn't resist trying myself. The finger biscuits turned out to be a great idea... they are an incredibly fuss free way to create a special looking cake. 
+Let me tell you about the cake... two layers of chocolate bliss, sandwiching a layer of soft chocolate buttercream icing, topped with a fudgy dark chocolate glaze. The cake is surrounded by alternating dark, milk and white finger biscuits, an idea I spotted at a wedding I attended, and couldn't resist trying myself. The finger biscuits turned out to be a great idea... they are an incredibly fuss free way to create a special looking cake.
 
-One key to this dessert's success (and any culinary adventures for that matter) is good ingredients: real butter (unsalted is best), golden caster sugar and natural vanilla extract for the cake - high quality dark chocolate (70% cocoa content) for the glaze. Having recently relocated to Vancouver, British Columbia, I've been struggling to find a North American equivalent for golden caster sugar. My best recommendation is to use the finest grain Turbinado sugar you can find. Less essential, but still nice: if you can get your hands on golden icing sugar, your chocolate buttercream icing will have a deeper flavour. However, golden icing sugar can be difficult to find (and ridiculously over-priced) - your icing will still be delicious without it. 
+One key to this dessert's success (and any culinary adventures for that matter) is good ingredients: real butter (unsalted is best), golden caster sugar and natural vanilla extract for the cake - high quality dark chocolate (70% cocoa content) for the glaze. Having recently relocated to Vancouver, British Columbia, I've been struggling to find a North American equivalent for golden caster sugar. My best recommendation is to use the finest grain Turbinado sugar you can find. Less essential, but still nice: if you can get your hands on golden icing sugar, your chocolate buttercream icing will have a deeper flavour. However, golden icing sugar can be difficult to find (and ridiculously over-priced) - your icing will still be delicious without it.
 
-{% include image.html images="DSCN1490.jpg" entry=page %}
+{% include image-group.html images="DSCN1490.jpg" entry=page %}
 
 Speaking of ingredients, with my new Vancouver home, I've had the opportunity to test some of my best recipes in a new location. Shock and horror: many of them are not quite as tasty when prepared here, as they were back in Ireland! Currently I suspect that differences arise from the lower of fat content of North American butter (I miss you Irish butter). Differing flour densities may also be a factor. I'm a little worried that this cake (which I haven tested in North America) will suffer from similar problems. Before I made this move across the ocean, I wasn't aware that it was important to localise recipes for locally available ingredients. I plan to do some testing to figure out how to compensate for ingredient differences in this recipe and others. I'll let you all know the results.
 
-{% include image.html images="DSCN1471.jpg" entry=page %}
+{% include image-group.html images="DSCN1471.jpg" entry=page %}
 
 This cake is prepared using Abby Mandel's food processor method, which I couldn't recommend more highly. Not only have I have found that this method produces exceptionally light, moist cakes, but it is quick and easy. One of this method's unusual aspects is that that eggs and sugar are processed together first, and then butter is added. In contrast, conventional cake preparation has butter and sugar creamed together first, before adding eggs. It's worth noting that those of you without a food processor can still make this cake: Simply follow the conventional order for mixing butter, sugar and eggs. In the future, I will be posting a detailed piece about the food processor cake method, with step-by-step photos guiding you through the full procedure. Hopefully this will clear up any uncertainties anyone may have about trying the method for themselves.
 
-This cake has been in baked in my family for long enough that it qualifies as an old family recipe. My mother would bake it for me as a kid (my brother didn't like chocolate cake, weirdo), and I would do helpful things like weigh ingredients and lick the food processor bowl (cleaning!). The usual family version of this cake is somewhat simpler... this cake minus the chocolate glaze and fancy finger bisuit decoration, instead iced top and sides in buttercream icing. I've baked this simple version dozens of times for the storytelling and baking event I founded in Dublin, Milk and Cookie Stories. Beware... serving this cake to a crowd is dangerous business. 
+This cake has been in baked in my family for long enough that it qualifies as an old family recipe. My mother would bake it for me as a kid (my brother didn't like chocolate cake, weirdo), and I would do helpful things like weigh ingredients and lick the food processor bowl (cleaning!). The usual family version of this cake is somewhat simpler... this cake minus the chocolate glaze and fancy finger bisuit decoration, instead iced top and sides in buttercream icing. I've baked this simple version dozens of times for the storytelling and baking event I founded in Dublin, Milk and Cookie Stories. Beware... serving this cake to a crowd is dangerous business.
 
-{% include image.html images="DSCN1319.jpg" entry=page %}
+{% include image-group.html images="DSCN1319.jpg" entry=page %}
 
 Now for the recipe! Have fun with it... Make it your own. Find someone special to bake it for... Do a chocolate dance.

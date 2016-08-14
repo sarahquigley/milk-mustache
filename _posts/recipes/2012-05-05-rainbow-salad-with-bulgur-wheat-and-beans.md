@@ -16,7 +16,7 @@ recipe:
   meta:
     preparation-time: 20 minutes
     cooking-time: 15 minutes
-    yield: 4 - 6 portions 
+    yield: 4 - 6 portions
   notes:
     - I call this simple wholesome salad "Rainbow Salad", because it has ingredients of (almost) all the colours in the rainbow. It makes a great lunch, snack or side salad, and keeps well for several days in the fridge.
   ingredient-lists:
@@ -59,17 +59,17 @@ recipe:
 {: .dropcap }
 This is one of those recipes that started out as a "What can I make from what's left in the kitchen?" kind of creation, but has evolved into one of my go-to dishes when I'm looking for a simple healthy meal. It's quick to prepare and keeps well in the fridge, which makes it perfect for lunches or snacks. I love having a grain based salad, like this one, ready and waiting in the fridge. It's perfect for when I need a quick pick-me-up or a no-fuss, healthy meal.
 
-{% include image.html images="DSCN0712.jpg" entry=page %}
+{% include image-group.html images="DSCN0712.jpg" entry=page %}
 
 As its name suggests, this salad is packed full of a veritable rainbow of ingredients: nutritious beans, sweet carrots, refreshing tomatoes, tangy onions, crunchy pine nuts and raisins (extra sweetness) - and of course, bulgur wheat. Over the last while, I've developed something of a small obsession with bulgur - I love its chunky grains, so hearty and nutty flavour. I love how all the subtle flavours of this salad are tied together by the bulgur, and I hope that you do too.
 
-{% include image.html images="DSCN0628.jpg DSCN0594.jpg" entry=page %}
+{% include image-group.html images="DSCN0628.jpg DSCN0594.jpg" entry=page %}
 
-This dish is so simple to prepare that you really can't go wrong. Here are one or two tips that will make your time preparing it even easier. Firstly, do be sure to add the dressing to the salad BEFORE the bulgur and steamed veg have been added (as described in my instructions below). This salad becomes more difficult to stir after their addition, and it can be tough to fully incorporate the dressing without risking mushing up all your beautiful cherry tomatoes. Secondly, while you can mix your dressing separately in a jar before adding it to the salad (as described below) - it is also perfectly fine to add the dressing ingredients individually to the salad and combine it all in situ. This is what I do when I'm feeling especially lazy - or I don't feel like having an extra dish to clean. 
+This dish is so simple to prepare that you really can't go wrong. Here are one or two tips that will make your time preparing it even easier. Firstly, do be sure to add the dressing to the salad BEFORE the bulgur and steamed veg have been added (as described in my instructions below). This salad becomes more difficult to stir after their addition, and it can be tough to fully incorporate the dressing without risking mushing up all your beautiful cherry tomatoes. Secondly, while you can mix your dressing separately in a jar before adding it to the salad (as described below) - it is also perfectly fine to add the dressing ingredients individually to the salad and combine it all in situ. This is what I do when I'm feeling especially lazy - or I don't feel like having an extra dish to clean.
 
 If you just scroll down to the recipe below, you'll see a whole host of variations you can experiment with. I've tested most of these at one time or another, and have never been disappointed. One variation I would recommend in particular is replacing the green beans with broccoli. In fact, the first time I made this recipe I used broccoli - and have probably made it far more often with broccoli than green beans. I just always seem to have some broccoli knocking around at the back of the fridge.
 
-{% include image.html images="DSCN0728.jpg" entry=page %}
+{% include image-group.html images="DSCN0728.jpg" entry=page %}
 
 I thought it was worth mentioning, for anyone on a tight budget, this is a happily cheap dish to prepare, especially if you replace the pine nuts (which are quite overpriced in my local supermarket) with a more affordable seed or nut, use normal tomatoes instead of cherry tomatoes and omit the fresh coriander (or grow your own). I always try to be conscious of how much I'm spending on food - it's comforting to have some staple recipes that are both wholesome and easy on the pocket.
 

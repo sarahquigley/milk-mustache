@@ -4,7 +4,7 @@ environment: production
 title: Milk Mustache
 locale: en_US
 description: The Joy of Eating
-logo: site-logo.png
+logo: site-logo.svg
 search: true
 url: http://milk-mustache.com
 uploads_path: uploads
@@ -87,7 +87,10 @@ responsive_image:
   default_quality: 90
   sizes:
     - width: 480
-    - width: 800
+    - width: 620
+    - width: 768
+    - width: 1000
     - width: 1400
+    - width: 2000
   base_path: uploads
   output_path_format: uploads/resized/%{dirname}/%{width}/%{basename}

@@ -1,10 +1,10 @@
 {% capture srcset %}
     {% for i in resized %}
-        /{{ i.path }} {{ i.width }}w,
+      {{ site.url }}/{{ i.path }} {{ i.width }}w,
     {% endfor %}
 {% endcapture %}
 
 <div class="image-container" style="flex: {{ original.width | plus: 0.0 | divided_by: original.height }} 1 0%">
-  {% assign mainImage = resized | where_exp: "image", "image.width" === 1400 %}
-  <img src="/{{ mainImage.path }}" alt="{{ alt }}" srcset="{{ srcset | strip_newlines }} /{{ original.path }} {{ original.width }}w">
+  {% assign mainImage = resized | where: "width", 2000 | first %}
+  <img src="{{ site.url }}/{{ mainImage.path }}" alt="{{ alt }}" srcset="{{ srcset | strip_newlines }} {{ site.url }}/{{ original.path }} {{ original.width }}w">
 </div>

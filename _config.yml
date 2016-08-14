@@ -8,6 +8,7 @@ logo: site-logo.png
 search: true
 url: http://milk-mustache.com
 uploads_path: uploads
+encoding: UTF-8
 
 # Jekyll configuration
 
@@ -20,6 +21,8 @@ sass:
 gems:
   - jekyll-sitemap
   - jekyll-gist
+  - jekyll/responsive_image
+  - jekyll-paginate
 
 kramdown:
   auto_ids: true
@@ -77,3 +80,14 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
+
+# https://github.com/wildlyinaccurate/jekyll-responsive-image
+responsive_image:
+  template: _includes/image.html
+  default_quality: 90
+  sizes:
+    - width: 480
+    - width: 800
+    - width: 1400
+  base_path: uploads
+  output_path_format: uploads/resized/%{dirname}/%{width}/%{basename}

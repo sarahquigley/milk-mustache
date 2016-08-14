@@ -1,0 +1,23 @@
+{% capture imagePath %}{{ site.uploads_path }}/{{ include.entry.layout }}s{% if include.entry.category %}/{{ include.entry.category }}{% endif %}/{% if include.entry.date %}{{ include.entry.date | date: "%Y-%m-%d" }}-{% endif %}{% if include.entry.image-title %}{{ include.entry.image-title | slugify }}{% else %}{{ include.entry.title | slugify }}{% endif %}/{% endcapture %}
+{% assign images = include.images | split: ' ' %}
+
+<div class="image-group">
+  {% if include.caption %}
+  <figure>
+  {% for image in images %}
+    {% capture currentImagePath %}{{ imagePath }}{{ image }}{% endcapture %}
+    {% responsive_image_block %}
+      path: {{ currentImagePath }}
+    {% endresponsive_image_block %}
+  {% endfor %}
+    <figcaption>{{ include.caption }}</figcaption>
+  </figure>
+  {% else %}
+  {% for image in images %}
+    {% capture currentImagePath %}{{ imagePath }}{{ image }}{% endcapture %}
+    {% responsive_image_block %}
+      path: {{ currentImagePath }}
+    {% endresponsive_image_block %}
+  {% endfor %}
+  {% endif %}
+</div>

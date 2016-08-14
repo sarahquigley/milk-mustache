@@ -1,21 +1,10 @@
-{% capture imagePath %}/{{ site.uploads_path }}/{{ include.entry.layout }}s{% if include.entry.category %}/{{ include.entry.category }}{% endif %}/{% if include.entry.date %}{{ include.entry.date | date: "%Y-%m-%d" }}-{% endif %}{{ include.entry.title | slugify }}/{% endcapture %}
-{% assign images = include.images | split: ' ' %}
+{% capture srcset %}
+    {% for i in resized %}
+        /{{ i.path }} {{ i.width }}w,
+    {% endfor %}
+{% endcapture %}
 
-<div class="image-group">
-  {% if include.caption %}
-  <figure>
-  {% for image in images %}
-  <div class="image-container">
-    <img src="{{ site.url }}{{ imagePath }}{{ image }}" {% if include.alt %} alt="{{ include.alt }}" {% endif %} {% if include.width %} width="{{ include.width }}" {% endif %}/>
-  </div>
-  {% endfor %}
-    <figcaption>{{ include.caption }}</figcaption>
-  </figure>
-  {% else %}
-  {% for image in images %}
-  <div class="image-container">
-    <img src="{{ site.url }}{{ imagePath }}{{ image }}" {% if include.alt %} alt="{{ include.alt }}" {% endif %} {% if include.width %} width="{{ include.width }}" {% endif %}/>
-  </div>
-  {% endfor %}
-  {% endif %}
+<div class="image-container" style="flex: {{ original.width | plus: 0.0 | divided_by: original.height }} 1 0%">
+  {% assign mainImage = resized | where_exp: "image", "image.width" === 1400 %}
+  <img src="/{{ mainImage.path }}" alt="{{ alt }}" srcset="{{ srcset | strip_newlines }} /{{ original.path }} {{ original.width }}w">
 </div>

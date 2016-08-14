@@ -1,6 +1,6 @@
 {% if include.entry.image.feature %}
 <div class="entry-feature-image" {% if site.logo == null %}style="margin-top:0;"{% endif %}>
-  {% include image.html images=include.entry.image.feature alt=include.entry.title entry=include.entry %}
+  {% include image-group.html images=include.entry.image.feature alt=include.entry.title entry=include.entry %}
   {% if include.entry.image.credit %}
   <p class="image-credit">Image credit: <a href="{{ include.entry.image.creditlink }}">{{ include.entry.image.credit }}</a></p>
   {% endif %}

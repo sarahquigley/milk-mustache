@@ -1,42 +1,1030 @@
----
-sitemap: false
----
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-<title type="text">{{ site.title }}</title>
+<title type="text">Milk Mustache</title>
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
-<link rel="self" type="application/atom+xml" href="{{ site.url }}/feed.xml" />
-<link rel="alternate" type="text/html" href="{{ site.url }}" />
-<updated>{{ site.time | date_to_xmlschema }}</updated>
-<id>{{ site.url }}/</id>
+<link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml" />
+<link rel="alternate" type="text/html" href="http://localhost:4000" />
+<updated>2016-08-18T18:10:49-04:00</updated>
+<id>http://localhost:4000/</id>
 <author>
-  <name>{{ site.owner.name }}</name>
-  <uri>{{ site.url }}/</uri>
-  {% if site.owner.email %}<email>{{ site.owner.email }}</email>{% endif %}
+  <name>Sarah Quigley</name>
+  <uri>http://localhost:4000/</uri>
+  <email>sarah+milk-mustache@sarahquigley.net</email>
 </author>
-{% for post in site.posts limit:20 %}
-{% if post.author %}
-  {% assign author = site.data.authors[post.author] %}
-{% else %}
-  {% assign author = site.owner %}
-{% endif %}
+
+
 <entry>
-  <title type="html"><![CDATA[{{ post.title | cdata_escape }}]]></title>
-  <link rel="alternate" type="text/html" href="{{ site.url }}{{ post.url }}" />
-  <id>{{ site.url }}{{ post.id }}</id>
-  {% if post.modified %}<updated>{{ post.modified | to_xmlschema }}T00:00:00-00:00</updated>
-  <published>{{ post.date | date_to_xmlschema }}</published>
-  {% else %}<published>{{ post.date | date_to_xmlschema }}</published>
-  <updated>{{ post.date | date_to_xmlschema }}</updated>{% endif %}
+  <title type="html"><![CDATA[The Joy of Oatmeal, and Breakfast]]></title>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/recipes/the-joy-of-oatmeal-and-breakfast/" />
+  <id>http://localhost:4000/recipes/the-joy-of-oatmeal-and-breakfast</id>
+  <published>2015-07-09T00:00:00-04:00</published>
+  <updated>2015-07-09T00:00:00-04:00</updated>
   <author>
-    <name>{{ author.name }}</name>
-    <uri>{{ site.url }}</uri>
-    {% if author.email %}<email>{{ author.email }}</email>{% endif %}
+    <name>Sarah Quigley</name>
+    <uri>http://localhost:4000</uri>
+    <email>sarah+milk-mustache@sarahquigley.net</email>
   </author>
   <content type="html">
-    {{ post.content | xml_escape }}
-    {% include feed-footer.html %}
+    &lt;p class=&quot;dropcap&quot;&gt;I was sitting in my local ramen place, Shinobi noodles, waiting for a bowl of tan tan men when I made a shocking discovery: Jesse doesn’t eat breakfast. Dual classing as dance ninja and cookie master, Jesse is among my favourite people, so his neglect in the breakfast department was unexpected and disconcerting.&lt;/p&gt;
+
+&lt;div class=&quot;image-group&quot;&gt;
+  
+  
+    
+    
+
+&lt;div class=&quot;image-container&quot; style=&quot;flex: 1.3263250109505038 1 0%&quot;&gt;
+  
+  &lt;img src=&quot;http://localhost:4000/uploads/resized/posts/recipes/2015-07-09-the-joy-of-oatmeal-and-breakfast/2000/20140415_093359.jpg&quot; alt=&quot;&quot; srcset=&quot;          http://localhost:4000/uploads/resized/posts/recipes/2015-07-09-the-joy-of-oatmeal-and-breakfast/480/20140415_093359.jpg 480w,          http://localhost:4000/uploads/resized/posts/recipes/2015-07-09-the-joy-of-oatmeal-and-breakfast/620/20140415_093359.jpg 620w,          http://localhost:4000/uploads/resized/posts/recipes/2015-07-09-the-joy-of-oatmeal-and-breakfast/768/20140415_093359.jpg 768w,          http://localhost:4000/uploads/resized/posts/recipes/2015-07-09-the-joy-of-oatmeal-and-breakfast/1000/20140415_093359.jpg 1000w,          http://localhost:4000/uploads/resized/posts/recipes/2015-07-09-the-joy-of-oatmeal-and-breakfast/1400/20140415_093359.jpg 1400w,          http://localhost:4000/uploads/resized/posts/recipes/2015-07-09-the-joy-of-oatmeal-and-breakfast/2000/20140415_093359.jpg 2000w,     http://localhost:4000/uploads/posts/recipes/2015-07-09-the-joy-of-oatmeal-and-breakfast/20140415_093359.jpg 3028w&quot; /&gt;
+&lt;/div&gt;
+
+  
+  
+&lt;/div&gt;
+
+&lt;div class=&quot;image-group&quot;&gt;
+  
+  
+    
+    
+
+&lt;div class=&quot;image-container&quot; style=&quot;flex: 1.3334825425246195 1 0%&quot;&gt;
+  
+  &lt;img src=&quot;http://localhost:4000/uploads/resized/posts/recipes/2015-07-09-the-joy-of-oatmeal-and-breakfast/2000/20150104_114113.jpg&quot; alt=&quot;&quot; srcset=&quot;          http://localhost:4000/uploads/resized/posts/recipes/2015-07-09-the-joy-of-oatmeal-and-breakfast/480/20150104_114113.jpg 480w,          http://localhost:4000/uploads/resized/posts/recipes/2015-07-09-the-joy-of-oatmeal-and-breakfast/620/20150104_114113.jpg 620w,          http://localhost:4000/uploads/resized/posts/recipes/2015-07-09-the-joy-of-oatmeal-and-breakfast/768/20150104_114113.jpg 768w,          http://localhost:4000/uploads/resized/posts/recipes/2015-07-09-the-joy-of-oatmeal-and-breakfast/1000/20150104_114113.jpg 1000w,          http://localhost:4000/uploads/resized/posts/recipes/2015-07-09-the-joy-of-oatmeal-and-breakfast/1400/20150104_114113.jpg 1400w,          http://localhost:4000/uploads/resized/posts/recipes/2015-07-09-the-joy-of-oatmeal-and-breakfast/2000/20150104_114113.jpg 2000w,     http://localhost:4000/uploads/posts/recipes/2015-07-09-the-joy-of-oatmeal-and-breakfast/20150104_114113.jpg 2979w&quot; /&gt;
+&lt;/div&gt;
+
+  
+    
+    
+
+&lt;div class=&quot;image-container&quot; style=&quot;flex: 1.3331862312444838 1 0%&quot;&gt;
+  
+  &lt;img src=&quot;http://localhost:4000/uploads/resized/posts/recipes/2015-07-09-the-joy-of-oatmeal-and-breakfast/2000/20140501_085414.jpg&quot; alt=&quot;&quot; srcset=&quot;          http://localhost:4000/uploads/resized/posts/recipes/2015-07-09-the-joy-of-oatmeal-and-breakfast/480/20140501_085414.jpg 480w,          http://localhost:4000/uploads/resized/posts/recipes/2015-07-09-the-joy-of-oatmeal-and-breakfast/620/20140501_085414.jpg 620w,          http://localhost:4000/uploads/resized/posts/recipes/2015-07-09-the-joy-of-oatmeal-and-breakfast/768/20140501_085414.jpg 768w,          http://localhost:4000/uploads/resized/posts/recipes/2015-07-09-the-joy-of-oatmeal-and-breakfast/1000/20140501_085414.jpg 1000w,          http://localhost:4000/uploads/resized/posts/recipes/2015-07-09-the-joy-of-oatmeal-and-breakfast/1400/20140501_085414.jpg 1400w,          http://localhost:4000/uploads/resized/posts/recipes/2015-07-09-the-joy-of-oatmeal-and-breakfast/2000/20140501_085414.jpg 2000w,     http://localhost:4000/uploads/posts/recipes/2015-07-09-the-joy-of-oatmeal-and-breakfast/20140501_085414.jpg 3021w&quot; /&gt;
+&lt;/div&gt;
+
+  
+    
+    
+
+&lt;div class=&quot;image-container&quot; style=&quot;flex: 1.3333333333333333 1 0%&quot;&gt;
+  
+  &lt;img src=&quot;http://localhost:4000/uploads/resized/posts/recipes/2015-07-09-the-joy-of-oatmeal-and-breakfast/2000/20150111_122726.jpg&quot; alt=&quot;&quot; srcset=&quot;          http://localhost:4000/uploads/resized/posts/recipes/2015-07-09-the-joy-of-oatmeal-and-breakfast/480/20150111_122726.jpg 480w,          http://localhost:4000/uploads/resized/posts/recipes/2015-07-09-the-joy-of-oatmeal-and-breakfast/620/20150111_122726.jpg 620w,          http://localhost:4000/uploads/resized/posts/recipes/2015-07-09-the-joy-of-oatmeal-and-breakfast/768/20150111_122726.jpg 768w,          http://localhost:4000/uploads/resized/posts/recipes/2015-07-09-the-joy-of-oatmeal-and-breakfast/1000/20150111_122726.jpg 1000w,          http://localhost:4000/uploads/resized/posts/recipes/2015-07-09-the-joy-of-oatmeal-and-breakfast/1400/20150111_122726.jpg 1400w,          http://localhost:4000/uploads/resized/posts/recipes/2015-07-09-the-joy-of-oatmeal-and-breakfast/2000/20150111_122726.jpg 2000w,     http://localhost:4000/uploads/posts/recipes/2015-07-09-the-joy-of-oatmeal-and-breakfast/20150111_122726.jpg 3264w&quot; /&gt;
+&lt;/div&gt;
+
+  
+  
+&lt;/div&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“When you wake up in the morning, Pooh,” said Piglet at last, “what’s the first thing you say to yourself?”&lt;/p&gt;
+
+  &lt;p&gt;“What’s for breakfast?” said Pooh. “What do you say, Piglet?”&lt;/p&gt;
+
+  &lt;p&gt;“I say, I wonder what’s going to happen exciting today?” said Piglet.&lt;/p&gt;
+
+  &lt;p&gt;Pooh nodded thoughtfully. “It’s the same thing,” he said.”&lt;/p&gt;
+
+  &lt;p&gt;― Winnie the Pooh, by A. A. Milne&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;And so I’ve set out on a personal quest: get Jesse to eat breakfast. Whatever the health benefits of breakfast are (quite a few, if the internets are to be believed), I’m with Pooh Bear on the whole breakfast question: How could I call myself a true friend if I stood by letting Jesse’s days pass unpunctuated by the excitement of breakfast? Which brings me to oatmeal.&lt;/p&gt;
+
+&lt;div class=&quot;image-group&quot;&gt;
+  
+  
+    
+    
+
+&lt;div class=&quot;image-container&quot; style=&quot;flex: 1.3333333333333333 1 0%&quot;&gt;
+  
+  &lt;img src=&quot;http://localhost:4000/uploads/resized/posts/recipes/2015-07-09-the-joy-of-oatmeal-and-breakfast/2000/20140607_115556.jpg&quot; alt=&quot;&quot; srcset=&quot;          http://localhost:4000/uploads/resized/posts/recipes/2015-07-09-the-joy-of-oatmeal-and-breakfast/480/20140607_115556.jpg 480w,          http://localhost:4000/uploads/resized/posts/recipes/2015-07-09-the-joy-of-oatmeal-and-breakfast/620/20140607_115556.jpg 620w,          http://localhost:4000/uploads/resized/posts/recipes/2015-07-09-the-joy-of-oatmeal-and-breakfast/768/20140607_115556.jpg 768w,          http://localhost:4000/uploads/resized/posts/recipes/2015-07-09-the-joy-of-oatmeal-and-breakfast/1000/20140607_115556.jpg 1000w,          http://localhost:4000/uploads/resized/posts/recipes/2015-07-09-the-joy-of-oatmeal-and-breakfast/1400/20140607_115556.jpg 1400w,          http://localhost:4000/uploads/resized/posts/recipes/2015-07-09-the-joy-of-oatmeal-and-breakfast/2000/20140607_115556.jpg 2000w,     http://localhost:4000/uploads/posts/recipes/2015-07-09-the-joy-of-oatmeal-and-breakfast/20140607_115556.jpg 3264w&quot; /&gt;
+&lt;/div&gt;
+
+  
+    
+    
+
+&lt;div class=&quot;image-container&quot; style=&quot;flex: 1.5001337971635 1 0%&quot;&gt;
+  
+  &lt;img src=&quot;http://localhost:4000/uploads/resized/posts/recipes/2015-07-09-the-joy-of-oatmeal-and-breakfast/2000/DSC_0898.jpg&quot; alt=&quot;&quot; srcset=&quot;          http://localhost:4000/uploads/resized/posts/recipes/2015-07-09-the-joy-of-oatmeal-and-breakfast/480/DSC_0898.jpg 480w,          http://localhost:4000/uploads/resized/posts/recipes/2015-07-09-the-joy-of-oatmeal-and-breakfast/620/DSC_0898.jpg 620w,          http://localhost:4000/uploads/resized/posts/recipes/2015-07-09-the-joy-of-oatmeal-and-breakfast/768/DSC_0898.jpg 768w,          http://localhost:4000/uploads/resized/posts/recipes/2015-07-09-the-joy-of-oatmeal-and-breakfast/1000/DSC_0898.jpg 1000w,          http://localhost:4000/uploads/resized/posts/recipes/2015-07-09-the-joy-of-oatmeal-and-breakfast/1400/DSC_0898.jpg 1400w,          http://localhost:4000/uploads/resized/posts/recipes/2015-07-09-the-joy-of-oatmeal-and-breakfast/2000/DSC_0898.jpg 2000w,     http://localhost:4000/uploads/posts/recipes/2015-07-09-the-joy-of-oatmeal-and-breakfast/DSC_0898.jpg 5606w&quot; /&gt;
+&lt;/div&gt;
+
+  
+  
+&lt;/div&gt;
+
+&lt;div class=&quot;image-group&quot;&gt;
+  
+  
+    
+    
+
+&lt;div class=&quot;image-container&quot; style=&quot;flex: 1.3333333333333333 1 0%&quot;&gt;
+  
+  &lt;img src=&quot;http://localhost:4000/uploads/resized/posts/recipes/2015-07-09-the-joy-of-oatmeal-and-breakfast/2000/20140510_093604.jpg&quot; alt=&quot;&quot; srcset=&quot;          http://localhost:4000/uploads/resized/posts/recipes/2015-07-09-the-joy-of-oatmeal-and-breakfast/480/20140510_093604.jpg 480w,          http://localhost:4000/uploads/resized/posts/recipes/2015-07-09-the-joy-of-oatmeal-and-breakfast/620/20140510_093604.jpg 620w,          http://localhost:4000/uploads/resized/posts/recipes/2015-07-09-the-joy-of-oatmeal-and-breakfast/768/20140510_093604.jpg 768w,          http://localhost:4000/uploads/resized/posts/recipes/2015-07-09-the-joy-of-oatmeal-and-breakfast/1000/20140510_093604.jpg 1000w,          http://localhost:4000/uploads/resized/posts/recipes/2015-07-09-the-joy-of-oatmeal-and-breakfast/1400/20140510_093604.jpg 1400w,          http://localhost:4000/uploads/resized/posts/recipes/2015-07-09-the-joy-of-oatmeal-and-breakfast/2000/20140510_093604.jpg 2000w,     http://localhost:4000/uploads/posts/recipes/2015-07-09-the-joy-of-oatmeal-and-breakfast/20140510_093604.jpg 3264w&quot; /&gt;
+&lt;/div&gt;
+
+  
+  
+&lt;/div&gt;
+
+&lt;p&gt;And so Jesse asks, “What food could possibly be both simple and delicious enough to kickstart my breakfast habit?” And so without hesitation I answer, “Oatmeal! Always oatmeal! Ever oatmeal! So quick to prepare! So infinitely customisable! So tasty and satisfying!”&lt;/p&gt;
+
+&lt;p&gt;Jesse, if you’re reading this, this oatmeal recipe is for you — and for all the rest of you too. May all your days be full and include a fabulous breakfast. Possibly oatmeal?&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/recipes/the-joy-of-oatmeal-and-breakfast/&quot;&gt;The Joy of Oatmeal, and Breakfast&lt;/a&gt; was originally published by Sarah Quigley at &lt;a href=&quot;http://localhost:4000&quot;&gt;Milk Mustache&lt;/a&gt; on July 09, 2015.&lt;/p&gt;
   </content>
 </entry>
-{% endfor %}
+
+
+<entry>
+  <title type="html"><![CDATA[Lemon Curd, Delicious and Vegan]]></title>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/recipes/lemon-curd-delicious-and-vegan/" />
+  <id>http://localhost:4000/recipes/lemon-curd-delicious-and-vegan</id>
+  <published>2015-05-30T00:00:00-04:00</published>
+  <updated>2015-05-30T00:00:00-04:00</updated>
+  <author>
+    <name>Sarah Quigley</name>
+    <uri>http://localhost:4000</uri>
+    <email>sarah+milk-mustache@sarahquigley.net</email>
+  </author>
+  <content type="html">
+    &lt;p class=&quot;dropcap&quot;&gt;Memorial day weekend in New York city: after an unseasonably rainy month of May, summer heat has finally rolled in; it’s sultry out. On the stoops of Bushwick, locals hide in spots of shade, sipping iced drinks. The streets have already taken on that sticky summer slowness, as if the world is mired in molasses. Somewhere someone’s having a barbecue. The scent of wood smoke wafts down the road.&lt;/p&gt;
+
+&lt;p&gt;A perfect day for standing over a stove top, stirring a pot of lemon curd as it thickens? Not exactly, but the air-conditioning is on and it will all be worth it when I have some tangy chilled jars of lemon curd to dig into (and spoon over everything).&lt;/p&gt;
+
+&lt;div class=&quot;image-group&quot;&gt;
+  
+  
+    
+    
+
+&lt;div class=&quot;image-container&quot; style=&quot;flex: 1.2842484747642817 1 0%&quot;&gt;
+  
+  &lt;img src=&quot;http://localhost:4000/uploads/resized/posts/recipes/2015-05-30-lemon-curd-delicious-and-vegan/2000/DSC_0720.jpg&quot; alt=&quot;&quot; srcset=&quot;          http://localhost:4000/uploads/resized/posts/recipes/2015-05-30-lemon-curd-delicious-and-vegan/480/DSC_0720.jpg 480w,          http://localhost:4000/uploads/resized/posts/recipes/2015-05-30-lemon-curd-delicious-and-vegan/620/DSC_0720.jpg 620w,          http://localhost:4000/uploads/resized/posts/recipes/2015-05-30-lemon-curd-delicious-and-vegan/768/DSC_0720.jpg 768w,          http://localhost:4000/uploads/resized/posts/recipes/2015-05-30-lemon-curd-delicious-and-vegan/1000/DSC_0720.jpg 1000w,          http://localhost:4000/uploads/resized/posts/recipes/2015-05-30-lemon-curd-delicious-and-vegan/1400/DSC_0720.jpg 1400w,          http://localhost:4000/uploads/resized/posts/recipes/2015-05-30-lemon-curd-delicious-and-vegan/2000/DSC_0720.jpg 2000w,     http://localhost:4000/uploads/posts/recipes/2015-05-30-lemon-curd-delicious-and-vegan/DSC_0720.jpg 4631w&quot; /&gt;
+&lt;/div&gt;
+
+  
+  
+&lt;/div&gt;
+
+&lt;div class=&quot;image-group&quot;&gt;
+  
+  
+    
+    
+
+&lt;div class=&quot;image-container&quot; style=&quot;flex: 0.6666666666666666 1 0%&quot;&gt;
+  
+  &lt;img src=&quot;http://localhost:4000/uploads/resized/posts/recipes/2015-05-30-lemon-curd-delicious-and-vegan/2000/DSC_0738.jpg&quot; alt=&quot;&quot; srcset=&quot;          http://localhost:4000/uploads/resized/posts/recipes/2015-05-30-lemon-curd-delicious-and-vegan/480/DSC_0738.jpg 480w,          http://localhost:4000/uploads/resized/posts/recipes/2015-05-30-lemon-curd-delicious-and-vegan/620/DSC_0738.jpg 620w,          http://localhost:4000/uploads/resized/posts/recipes/2015-05-30-lemon-curd-delicious-and-vegan/768/DSC_0738.jpg 768w,          http://localhost:4000/uploads/resized/posts/recipes/2015-05-30-lemon-curd-delicious-and-vegan/1000/DSC_0738.jpg 1000w,          http://localhost:4000/uploads/resized/posts/recipes/2015-05-30-lemon-curd-delicious-and-vegan/1400/DSC_0738.jpg 1400w,          http://localhost:4000/uploads/resized/posts/recipes/2015-05-30-lemon-curd-delicious-and-vegan/2000/DSC_0738.jpg 2000w,     http://localhost:4000/uploads/posts/recipes/2015-05-30-lemon-curd-delicious-and-vegan/DSC_0738.jpg 3702w&quot; /&gt;
+&lt;/div&gt;
+
+  
+    
+    
+
+&lt;div class=&quot;image-container&quot; style=&quot;flex: 0.6667254141698978 1 0%&quot;&gt;
+  
+  &lt;img src=&quot;http://localhost:4000/uploads/resized/posts/recipes/2015-05-30-lemon-curd-delicious-and-vegan/2000/DSC_0760.jpg&quot; alt=&quot;&quot; srcset=&quot;          http://localhost:4000/uploads/resized/posts/recipes/2015-05-30-lemon-curd-delicious-and-vegan/480/DSC_0760.jpg 480w,          http://localhost:4000/uploads/resized/posts/recipes/2015-05-30-lemon-curd-delicious-and-vegan/620/DSC_0760.jpg 620w,          http://localhost:4000/uploads/resized/posts/recipes/2015-05-30-lemon-curd-delicious-and-vegan/768/DSC_0760.jpg 768w,          http://localhost:4000/uploads/resized/posts/recipes/2015-05-30-lemon-curd-delicious-and-vegan/1000/DSC_0760.jpg 1000w,          http://localhost:4000/uploads/resized/posts/recipes/2015-05-30-lemon-curd-delicious-and-vegan/1400/DSC_0760.jpg 1400w,          http://localhost:4000/uploads/resized/posts/recipes/2015-05-30-lemon-curd-delicious-and-vegan/2000/DSC_0760.jpg 2000w,     http://localhost:4000/uploads/posts/recipes/2015-05-30-lemon-curd-delicious-and-vegan/DSC_0760.jpg 3783w&quot; /&gt;
+&lt;/div&gt;
+
+  
+  
+&lt;/div&gt;
+
+&lt;p&gt;I’m not vegan, or vegetarian — though sometimes I aspire to be. My housemate Ilana tells me that I’m a reducetarian, a word I didn’t know existed until until I moved to New York city. Either way, exploring alternative ingredients and cooking methods, like those you find in vegan and vegetarian cuisine, is a lot of fun: limitations foster creativity.&lt;/p&gt;
+
+&lt;p&gt;Lemons are a winter fruit, but lemons feel like summer to me. They are tart little globes of sunshine. They give me visions of cold cold glasses of lemonade, frosted with drops of water. On hot summer days, I want all the lemons: lemon curd, lemon bars, lemon cake… lemon juice on my salads, lemon everywhere!&lt;/p&gt;
+
+&lt;div class=&quot;image-group&quot;&gt;
+  
+  
+    
+    
+
+&lt;div class=&quot;image-container&quot; style=&quot;flex: 0.6666081460674157 1 0%&quot;&gt;
+  
+  &lt;img src=&quot;http://localhost:4000/uploads/resized/posts/recipes/2015-05-30-lemon-curd-delicious-and-vegan/2000/DSC_0860.jpg&quot; alt=&quot;&quot; srcset=&quot;          http://localhost:4000/uploads/resized/posts/recipes/2015-05-30-lemon-curd-delicious-and-vegan/480/DSC_0860.jpg 480w,          http://localhost:4000/uploads/resized/posts/recipes/2015-05-30-lemon-curd-delicious-and-vegan/620/DSC_0860.jpg 620w,          http://localhost:4000/uploads/resized/posts/recipes/2015-05-30-lemon-curd-delicious-and-vegan/768/DSC_0860.jpg 768w,          http://localhost:4000/uploads/resized/posts/recipes/2015-05-30-lemon-curd-delicious-and-vegan/1000/DSC_0860.jpg 1000w,          http://localhost:4000/uploads/resized/posts/recipes/2015-05-30-lemon-curd-delicious-and-vegan/1400/DSC_0860.jpg 1400w,          http://localhost:4000/uploads/resized/posts/recipes/2015-05-30-lemon-curd-delicious-and-vegan/2000/DSC_0860.jpg 2000w,     http://localhost:4000/uploads/posts/recipes/2015-05-30-lemon-curd-delicious-and-vegan/DSC_0860.jpg 3797w&quot; /&gt;
+&lt;/div&gt;
+
+  
+    
+    
+
+&lt;div class=&quot;image-container&quot; style=&quot;flex: 1.6257203518350014 1 0%&quot;&gt;
+  
+  &lt;img src=&quot;http://localhost:4000/uploads/resized/posts/recipes/2015-05-30-lemon-curd-delicious-and-vegan/2000/DSC_0825.jpg&quot; alt=&quot;&quot; srcset=&quot;          http://localhost:4000/uploads/resized/posts/recipes/2015-05-30-lemon-curd-delicious-and-vegan/480/DSC_0825.jpg 480w,          http://localhost:4000/uploads/resized/posts/recipes/2015-05-30-lemon-curd-delicious-and-vegan/620/DSC_0825.jpg 620w,          http://localhost:4000/uploads/resized/posts/recipes/2015-05-30-lemon-curd-delicious-and-vegan/768/DSC_0825.jpg 768w,          http://localhost:4000/uploads/resized/posts/recipes/2015-05-30-lemon-curd-delicious-and-vegan/1000/DSC_0825.jpg 1000w,          http://localhost:4000/uploads/resized/posts/recipes/2015-05-30-lemon-curd-delicious-and-vegan/1400/DSC_0825.jpg 1400w,          http://localhost:4000/uploads/resized/posts/recipes/2015-05-30-lemon-curd-delicious-and-vegan/2000/DSC_0825.jpg 2000w,     http://localhost:4000/uploads/posts/recipes/2015-05-30-lemon-curd-delicious-and-vegan/DSC_0825.jpg 5360w&quot; /&gt;
+&lt;/div&gt;
+
+  
+  
+&lt;/div&gt;
+
+&lt;p&gt;This lemon curd is thick, creamy and delicious — everything lemon curd should be, vegan or otherwise. Serve it plain or topped with fruit. It’s excellent spread on scones or spooned over pancakes, waffles or french toast. Try it as topping for (vegan or non-vegan) yoghurt or ice cream or as a filling for pastries such as layer cakes, doughnuts or pies. For sweet and tangy start to the day, go wild and dollop some on your morning oatmeal!&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/recipes/lemon-curd-delicious-and-vegan/&quot;&gt;Lemon Curd, Delicious and Vegan&lt;/a&gt; was originally published by Sarah Quigley at &lt;a href=&quot;http://localhost:4000&quot;&gt;Milk Mustache&lt;/a&gt; on May 30, 2015.&lt;/p&gt;
+  </content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Everybody Loves Jalapeño & Pineapple Cornbread]]></title>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/recipes/everybody-loves-jalape%C3%B1o-pineapple-cornbread/" />
+  <id>http://localhost:4000/recipes/everybody-loves-jalapeño-pineapple-cornbread</id>
+  <published>2015-04-29T00:00:00-04:00</published>
+  <updated>2015-04-29T00:00:00-04:00</updated>
+  <author>
+    <name>Sarah Quigley</name>
+    <uri>http://localhost:4000</uri>
+    <email>sarah+milk-mustache@sarahquigley.net</email>
+  </author>
+  <content type="html">
+    &lt;p class=&quot;dropcap&quot;&gt;It’s another Tuesday in our topsy turvy Brooklyn apartment and Mike asks me to make cornbread — or I should say more cornbread. Just the night before, we had polished off a batch, companion to a pot of use-up-the carrots-that-have-been-in-the-freezer-too-long lentil soup. Today, the scent lingers, haunting our kitchen (and thoughts) like a new romance.&lt;/p&gt;
+
+&lt;p&gt;It’s Tuesday and, for a second day running, I’m weighing dry ingredients, whisking wet. Not content to make quite the same bread twice, I dial it up a notch with jalapeño peppers, pineapple and a dash of paprika. In no time, I’m flour-streaked, chilli-fingered, spattered in batter — but the bread’s in the oven and it smells damn good.&lt;/p&gt;
+
+&lt;div class=&quot;image-group&quot;&gt;
+  
+  
+    
+    
+
+&lt;div class=&quot;image-container&quot; style=&quot;flex: 1.5 1 0%&quot;&gt;
+  
+  &lt;img src=&quot;http://localhost:4000/uploads/resized/posts/recipes/2015-04-29-everybody-loves-jalapeno-pineapple-cornbread/2000/DSC_0131.jpg&quot; alt=&quot;&quot; srcset=&quot;          http://localhost:4000/uploads/resized/posts/recipes/2015-04-29-everybody-loves-jalapeno-pineapple-cornbread/480/DSC_0131.jpg 480w,          http://localhost:4000/uploads/resized/posts/recipes/2015-04-29-everybody-loves-jalapeno-pineapple-cornbread/620/DSC_0131.jpg 620w,          http://localhost:4000/uploads/resized/posts/recipes/2015-04-29-everybody-loves-jalapeno-pineapple-cornbread/768/DSC_0131.jpg 768w,          http://localhost:4000/uploads/resized/posts/recipes/2015-04-29-everybody-loves-jalapeno-pineapple-cornbread/1000/DSC_0131.jpg 1000w,          http://localhost:4000/uploads/resized/posts/recipes/2015-04-29-everybody-loves-jalapeno-pineapple-cornbread/1400/DSC_0131.jpg 1400w,          http://localhost:4000/uploads/resized/posts/recipes/2015-04-29-everybody-loves-jalapeno-pineapple-cornbread/2000/DSC_0131.jpg 2000w,     http://localhost:4000/uploads/posts/recipes/2015-04-29-everybody-loves-jalapeno-pineapple-cornbread/DSC_0131.jpg 6000w&quot; /&gt;
+&lt;/div&gt;
+
+  
+  
+&lt;/div&gt;
+
+&lt;div class=&quot;image-group&quot;&gt;
+  
+  
+    
+    
+
+&lt;div class=&quot;image-container&quot; style=&quot;flex: 0.7599202392821536 1 0%&quot;&gt;
+  
+  &lt;img src=&quot;http://localhost:4000/uploads/resized/posts/recipes/2015-04-29-everybody-loves-jalapeno-pineapple-cornbread/2000/DSC_0039.jpg&quot; alt=&quot;&quot; srcset=&quot;          http://localhost:4000/uploads/resized/posts/recipes/2015-04-29-everybody-loves-jalapeno-pineapple-cornbread/480/DSC_0039.jpg 480w,          http://localhost:4000/uploads/resized/posts/recipes/2015-04-29-everybody-loves-jalapeno-pineapple-cornbread/620/DSC_0039.jpg 620w,          http://localhost:4000/uploads/resized/posts/recipes/2015-04-29-everybody-loves-jalapeno-pineapple-cornbread/768/DSC_0039.jpg 768w,          http://localhost:4000/uploads/resized/posts/recipes/2015-04-29-everybody-loves-jalapeno-pineapple-cornbread/1000/DSC_0039.jpg 1000w,          http://localhost:4000/uploads/resized/posts/recipes/2015-04-29-everybody-loves-jalapeno-pineapple-cornbread/1400/DSC_0039.jpg 1400w,          http://localhost:4000/uploads/resized/posts/recipes/2015-04-29-everybody-loves-jalapeno-pineapple-cornbread/2000/DSC_0039.jpg 2000w,     http://localhost:4000/uploads/posts/recipes/2015-04-29-everybody-loves-jalapeno-pineapple-cornbread/DSC_0039.jpg 3811w&quot; /&gt;
+&lt;/div&gt;
+
+  
+    
+    
+
+&lt;div class=&quot;image-container&quot; style=&quot;flex: 1.5001352447930754 1 0%&quot;&gt;
+  
+  &lt;img src=&quot;http://localhost:4000/uploads/resized/posts/recipes/2015-04-29-everybody-loves-jalapeno-pineapple-cornbread/2000/DSC_0097.jpg&quot; alt=&quot;&quot; srcset=&quot;          http://localhost:4000/uploads/resized/posts/recipes/2015-04-29-everybody-loves-jalapeno-pineapple-cornbread/480/DSC_0097.jpg 480w,          http://localhost:4000/uploads/resized/posts/recipes/2015-04-29-everybody-loves-jalapeno-pineapple-cornbread/620/DSC_0097.jpg 620w,          http://localhost:4000/uploads/resized/posts/recipes/2015-04-29-everybody-loves-jalapeno-pineapple-cornbread/768/DSC_0097.jpg 768w,          http://localhost:4000/uploads/resized/posts/recipes/2015-04-29-everybody-loves-jalapeno-pineapple-cornbread/1000/DSC_0097.jpg 1000w,          http://localhost:4000/uploads/resized/posts/recipes/2015-04-29-everybody-loves-jalapeno-pineapple-cornbread/1400/DSC_0097.jpg 1400w,          http://localhost:4000/uploads/resized/posts/recipes/2015-04-29-everybody-loves-jalapeno-pineapple-cornbread/2000/DSC_0097.jpg 2000w,     http://localhost:4000/uploads/posts/recipes/2015-04-29-everybody-loves-jalapeno-pineapple-cornbread/DSC_0097.jpg 5546w&quot; /&gt;
+&lt;/div&gt;
+
+  
+  
+&lt;/div&gt;
+
+&lt;p&gt;It smells so good that it’s barely out the stove door before my housemates descend like bandits, bread and butter knives at the ready. With whisk and camera in hand, I fend them off for long enough to snap a few shots of the precious cornbread bullion.&lt;/p&gt;
+
+&lt;p&gt;Speckled green with jalapeños, top decorated with jalapeño rings and a perfect golden brown, this is one of prettiest cornbreads that I’ve ever prepared — and it tastes amazing too: spicy and just a little sweet. It’s tender-crusted, crumbly and moist — a veritable riot in the mouth (best riot of your life).&lt;/p&gt;
+
+&lt;div class=&quot;image-group&quot;&gt;
+  
+  
+    
+    
+
+&lt;div class=&quot;image-container&quot; style=&quot;flex: 1.5 1 0%&quot;&gt;
+  
+  &lt;img src=&quot;http://localhost:4000/uploads/resized/posts/recipes/2015-04-29-everybody-loves-jalapeno-pineapple-cornbread/2000/DSC_0149.jpg&quot; alt=&quot;&quot; srcset=&quot;          http://localhost:4000/uploads/resized/posts/recipes/2015-04-29-everybody-loves-jalapeno-pineapple-cornbread/480/DSC_0149.jpg 480w,          http://localhost:4000/uploads/resized/posts/recipes/2015-04-29-everybody-loves-jalapeno-pineapple-cornbread/620/DSC_0149.jpg 620w,          http://localhost:4000/uploads/resized/posts/recipes/2015-04-29-everybody-loves-jalapeno-pineapple-cornbread/768/DSC_0149.jpg 768w,          http://localhost:4000/uploads/resized/posts/recipes/2015-04-29-everybody-loves-jalapeno-pineapple-cornbread/1000/DSC_0149.jpg 1000w,          http://localhost:4000/uploads/resized/posts/recipes/2015-04-29-everybody-loves-jalapeno-pineapple-cornbread/1400/DSC_0149.jpg 1400w,          http://localhost:4000/uploads/resized/posts/recipes/2015-04-29-everybody-loves-jalapeno-pineapple-cornbread/2000/DSC_0149.jpg 2000w,     http://localhost:4000/uploads/posts/recipes/2015-04-29-everybody-loves-jalapeno-pineapple-cornbread/DSC_0149.jpg 6000w&quot; /&gt;
+&lt;/div&gt;
+
+  
+  
+&lt;/div&gt;
+
+&lt;p&gt;Oh cornbread, the only problem now is that you’re gone already — too quickly consumed by cornbread-loving hoards (and me). Time to bake another loaf.&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/recipes/everybody-loves-jalape%C3%B1o-pineapple-cornbread/&quot;&gt;Everybody Loves Jalapeño &amp; Pineapple Cornbread&lt;/a&gt; was originally published by Sarah Quigley at &lt;a href=&quot;http://localhost:4000&quot;&gt;Milk Mustache&lt;/a&gt; on April 29, 2015.&lt;/p&gt;
+  </content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Roasted Sweet Potato and Feta Salad]]></title>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/recipes/roasted-sweet-potato-and-feta-salad/" />
+  <id>http://localhost:4000/recipes/roasted-sweet-potato-and-feta-salad</id>
+  <published>2014-04-07T00:00:00-04:00</published>
+  <updated>2014-04-07T00:00:00-04:00</updated>
+  <author>
+    <name>Sarah Quigley</name>
+    <uri>http://localhost:4000</uri>
+    <email>sarah+milk-mustache@sarahquigley.net</email>
+  </author>
+  <content type="html">
+    &lt;p class=&quot;dropcap&quot;&gt;Anyone who knows me well will be aware that I’m a salad fiend. They’re my favourite lunch, and my go-to food when I want a lazy dinner. My earliest kitchen memories are of spending, what felt like hours, laying out vegetables that my mother had sliced… In complex fractal like patterns on top of giant bowls of mixed greens, I placed thin rings of  tomato, delicate strips of pepper and half-moons of cucumber.&lt;/p&gt;
+
+&lt;div class=&quot;image-group&quot;&gt;
+  
+  
+    
+    
+
+&lt;div class=&quot;image-container&quot; style=&quot;flex: 1.3333333333333333 1 0%&quot;&gt;
+  
+  &lt;img src=&quot;http://localhost:4000/&quot; alt=&quot;&quot; srcset=&quot;          http://localhost:4000/uploads/resized/posts/recipes/2014-04-07-roasted-sweet-potato-and-feta-salad/480/20140316_142435a.jpg 480w,          http://localhost:4000/uploads/resized/posts/recipes/2014-04-07-roasted-sweet-potato-and-feta-salad/620/20140316_142435a.jpg 620w,          http://localhost:4000/uploads/resized/posts/recipes/2014-04-07-roasted-sweet-potato-and-feta-salad/768/20140316_142435a.jpg 768w,          http://localhost:4000/uploads/resized/posts/recipes/2014-04-07-roasted-sweet-potato-and-feta-salad/1000/20140316_142435a.jpg 1000w,     http://localhost:4000/uploads/posts/recipes/2014-04-07-roasted-sweet-potato-and-feta-salad/20140316_142435a.jpg 1200w&quot; /&gt;
+&lt;/div&gt;
+
+  
+  
+&lt;/div&gt;
+
+&lt;p&gt;As a kid returning from visits to family in New York, I would always miss the colourful salads served up in cafes and restaurants there. In Dublin, miserable bowls of iceberg lettuce, sliced white onion and cucumber dogged my path to salad heaven. Thankfully, the explosion of the Irish restaurant scene has made delicious salads abundant enough here to please even the most ardent salad lover, and I’m just left craving New York bagels and black and white cookies.&lt;/p&gt;
+
+&lt;div class=&quot;image-group&quot;&gt;
+  
+  
+    
+    
+
+&lt;div class=&quot;image-container&quot; style=&quot;flex: 1.3333333333333333 1 0%&quot;&gt;
+  
+  &lt;img src=&quot;http://localhost:4000/&quot; alt=&quot;&quot; srcset=&quot;          http://localhost:4000/uploads/resized/posts/recipes/2014-04-07-roasted-sweet-potato-and-feta-salad/480/DSCF4333-2b.jpg 480w,          http://localhost:4000/uploads/resized/posts/recipes/2014-04-07-roasted-sweet-potato-and-feta-salad/620/DSCF4333-2b.jpg 620w,          http://localhost:4000/uploads/resized/posts/recipes/2014-04-07-roasted-sweet-potato-and-feta-salad/768/DSCF4333-2b.jpg 768w,          http://localhost:4000/uploads/resized/posts/recipes/2014-04-07-roasted-sweet-potato-and-feta-salad/1000/DSCF4333-2b.jpg 1000w,     http://localhost:4000/uploads/posts/recipes/2014-04-07-roasted-sweet-potato-and-feta-salad/DSCF4333-2b.jpg 1200w&quot; /&gt;
+&lt;/div&gt;
+
+  
+  
+&lt;/div&gt;
+
+&lt;p&gt;Today’s recipe is a simple salad, made a little fancier (and more filling) by the addition of sweet potatoes roasted with a sprinkling of thyme. Feta cheese, dried apricots, cherry tomatoes make this salad the stuff of my food fantasies - and hopefully yours too.&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/recipes/roasted-sweet-potato-and-feta-salad/&quot;&gt;Roasted Sweet Potato and Feta Salad&lt;/a&gt; was originally published by Sarah Quigley at &lt;a href=&quot;http://localhost:4000&quot;&gt;Milk Mustache&lt;/a&gt; on April 07, 2014.&lt;/p&gt;
+  </content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Chocolate Chip Coconut Slices]]></title>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/recipes/chocolate-chip-coconut-slices/" />
+  <id>http://localhost:4000/recipes/chocolate-chip-coconut-slices</id>
+  <published>2013-02-18T00:00:00-05:00</published>
+  <updated>2013-02-18T00:00:00-05:00</updated>
+  <author>
+    <name>Sarah Quigley</name>
+    <uri>http://localhost:4000</uri>
+    <email>sarah+milk-mustache@sarahquigley.net</email>
+  </author>
+  <content type="html">
+    &lt;p class=&quot;dropcap&quot;&gt;There are so many recipes that I try once, and then never again. It’s not that there’s anything wrong with most of them per se - it’s just that once was enough to tick that experience box… been there done, done that, ate the canoli. On the other hand, some recipes are keepers, like these chocolate chip coconut slices. Huzzah!&lt;/p&gt;
+
+&lt;div class=&quot;image-group&quot;&gt;
+  
+  
+    
+    
+
+&lt;div class=&quot;image-container&quot; style=&quot;flex: 1.3333333333333333 1 0%&quot;&gt;
+  
+  &lt;img src=&quot;http://localhost:4000/&quot; alt=&quot;&quot; srcset=&quot;          http://localhost:4000/uploads/resized/posts/recipes/2013-02-18-chocolate-chip-coconut-slices/480/DSCF0586.jpg 480w,          http://localhost:4000/uploads/resized/posts/recipes/2013-02-18-chocolate-chip-coconut-slices/620/DSCF0586.jpg 620w,          http://localhost:4000/uploads/resized/posts/recipes/2013-02-18-chocolate-chip-coconut-slices/768/DSCF0586.jpg 768w,          http://localhost:4000/uploads/resized/posts/recipes/2013-02-18-chocolate-chip-coconut-slices/1000/DSCF0586.jpg 1000w,     http://localhost:4000/uploads/posts/recipes/2013-02-18-chocolate-chip-coconut-slices/DSCF0586.jpg 1200w&quot; /&gt;
+&lt;/div&gt;
+
+  
+  
+&lt;/div&gt;
+
+&lt;p&gt;A little like a cross between a blondie and a chewy chocolate chip cookie, these dense slices are definitely too good not to make again… and too easy! One bowl, 15 minutes of measuring and stirring (if even), less than a half an hour in the oven and - BAM - done! Let them cool - or don’t - and dig in.&lt;/p&gt;
+
+&lt;p&gt;This recipe was adapted from Averie’s Samoas Bars over at &lt;a href=&quot;http://averiecooks.com&quot;&gt;Averie Cooks&lt;/a&gt;. Though I loved the original recipe, it was a little too sweet and greasy for my taste. With this in mind, in my version, I’ve toned down the sugar and butter a smidge from the original recipe - and I’m really happy with the results.&lt;/p&gt;
+
+&lt;div class=&quot;image-group&quot;&gt;
+  
+  
+    
+    
+
+&lt;div class=&quot;image-container&quot; style=&quot;flex: 1.3333333333333333 1 0%&quot;&gt;
+  
+  &lt;img src=&quot;http://localhost:4000/&quot; alt=&quot;&quot; srcset=&quot;          http://localhost:4000/uploads/resized/posts/recipes/2013-02-18-chocolate-chip-coconut-slices/480/DSCF0593.jpg 480w,          http://localhost:4000/uploads/resized/posts/recipes/2013-02-18-chocolate-chip-coconut-slices/620/DSCF0593.jpg 620w,          http://localhost:4000/uploads/resized/posts/recipes/2013-02-18-chocolate-chip-coconut-slices/768/DSCF0593.jpg 768w,          http://localhost:4000/uploads/resized/posts/recipes/2013-02-18-chocolate-chip-coconut-slices/1000/DSCF0593.jpg 1000w,     http://localhost:4000/uploads/posts/recipes/2013-02-18-chocolate-chip-coconut-slices/DSCF0593.jpg 1200w&quot; /&gt;
+&lt;/div&gt;
+
+  
+  
+&lt;/div&gt;
+
+&lt;p&gt;According to Averie, her recipes was inspired by a girl scout cookie known as ‘Samoas’ or alternatively, ‘Caramel DeLites’. I was never a girl scout. I had never even tasted a girl scout cookie until my recent move to Canada (we don’t really have girl scout cookies in Ireland). I’ll say this - I didn’t need the fuzzy haze of nastalgia to love this recipe - one bite was quite enough for that…&lt;/p&gt;
+
+&lt;p&gt;… But maybe I would have needed that fuzzy haze to keep the name ‘Samoas’. Romantic as it is to imagine the baking of Samoan islanders inspiring dessert, I can’t help suspecting their true origin is a little closer to home.&lt;/p&gt;
+
+&lt;div class=&quot;image-group&quot;&gt;
+  
+  
+    
+    
+
+&lt;div class=&quot;image-container&quot; style=&quot;flex: 1.2987012987012987 1 0%&quot;&gt;
+  
+  &lt;img src=&quot;http://localhost:4000/&quot; alt=&quot;&quot; srcset=&quot;          http://localhost:4000/uploads/resized/posts/recipes/2013-02-18-chocolate-chip-coconut-slices/480/DSCF0602.jpg 480w,          http://localhost:4000/uploads/resized/posts/recipes/2013-02-18-chocolate-chip-coconut-slices/620/DSCF0602.jpg 620w,          http://localhost:4000/uploads/resized/posts/recipes/2013-02-18-chocolate-chip-coconut-slices/768/DSCF0602.jpg 768w,          http://localhost:4000/uploads/resized/posts/recipes/2013-02-18-chocolate-chip-coconut-slices/1000/DSCF0602.jpg 1000w,     http://localhost:4000/uploads/posts/recipes/2013-02-18-chocolate-chip-coconut-slices/DSCF0602.jpg 1200w&quot; /&gt;
+&lt;/div&gt;
+
+  
+  
+&lt;/div&gt;
+
+&lt;p&gt;Romantic too are the wafting scents of butter, chocolate and coconut filling the kitchen as you sit back, hot coffee in hand waiting for your chocolate chip coconut slices to emerge from the oven.&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/recipes/chocolate-chip-coconut-slices/&quot;&gt;Chocolate Chip Coconut Slices&lt;/a&gt; was originally published by Sarah Quigley at &lt;a href=&quot;http://localhost:4000&quot;&gt;Milk Mustache&lt;/a&gt; on February 18, 2013.&lt;/p&gt;
+  </content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Make these brownies!]]></title>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/recipes/make-these-brownies/" />
+  <id>http://localhost:4000/recipes/make-these-brownies</id>
+  <published>2013-01-26T00:00:00-05:00</published>
+  <updated>2013-01-26T00:00:00-05:00</updated>
+  <author>
+    <name>Sarah Quigley</name>
+    <uri>http://localhost:4000</uri>
+    <email>sarah+milk-mustache@sarahquigley.net</email>
+  </author>
+  <content type="html">
+    &lt;p class=&quot;dropcap&quot;&gt;Brownies - simple, comforting, ever satisfying - who can fail to love the baker and bearer of brownies? Here’s a little secret those brownie bakers have been trying to hush up for years… brownies are incredibly simple to prepare (or at least they can be). The recipe I’m going to share with you here is one of the quickest and easiest I’ve come across - and also one of the best.&lt;/p&gt;
+
+&lt;div class=&quot;image-group&quot;&gt;
+  
+  
+    
+    
+
+&lt;div class=&quot;image-container&quot; style=&quot;flex: 1.4457831325301205 1 0%&quot;&gt;
+  
+  &lt;img src=&quot;http://localhost:4000/&quot; alt=&quot;&quot; srcset=&quot;          http://localhost:4000/uploads/resized/posts/recipes/2013-01-26-make-these-brownies/480/DSCF0306.jpg 480w,          http://localhost:4000/uploads/resized/posts/recipes/2013-01-26-make-these-brownies/620/DSCF0306.jpg 620w,          http://localhost:4000/uploads/resized/posts/recipes/2013-01-26-make-these-brownies/768/DSCF0306.jpg 768w,          http://localhost:4000/uploads/resized/posts/recipes/2013-01-26-make-these-brownies/1000/DSCF0306.jpg 1000w,     http://localhost:4000/uploads/posts/recipes/2013-01-26-make-these-brownies/DSCF0306.jpg 1200w&quot; /&gt;
+&lt;/div&gt;
+
+  
+  
+&lt;/div&gt;
+
+&lt;p&gt;I should take a moment to thank Deb Perelman of Smitten Kitchen. Deb’s recipe blog is truly inspiring, one of the best the internet has to offer… and it is from her favourite brownies that I have adapted this recipe. I’m extra grateful because these brownies have saved me time and time again in those ‘emergencies’ when I’ve promised baked goods, but failed at shopping/time management.&lt;/p&gt;
+
+&lt;p&gt;At times like that, this recipe makes me extra happy. Why? Seven ingredients, and for me at least, ingredients I almost always have around the house. Why? Twenty minutes, and they’re in the oven, filling the kitchen with warm scents of home-baking. Yay! Another twenty minutes or so later, and boom - brownies… tasty tasty brownies and a satisfying sense of accomplishment.&lt;/p&gt;
+
+&lt;div class=&quot;image-group&quot;&gt;
+  
+  
+    
+    
+
+&lt;div class=&quot;image-container&quot; style=&quot;flex: 1.3333333333333333 1 0%&quot;&gt;
+  
+  &lt;img src=&quot;http://localhost:4000/&quot; alt=&quot;&quot; srcset=&quot;          http://localhost:4000/uploads/resized/posts/recipes/2013-01-26-make-these-brownies/480/DSCF0243.jpg 480w,          http://localhost:4000/uploads/resized/posts/recipes/2013-01-26-make-these-brownies/620/DSCF0243.jpg 620w,          http://localhost:4000/uploads/resized/posts/recipes/2013-01-26-make-these-brownies/768/DSCF0243.jpg 768w,          http://localhost:4000/uploads/resized/posts/recipes/2013-01-26-make-these-brownies/1000/DSCF0243.jpg 1000w,     http://localhost:4000/uploads/posts/recipes/2013-01-26-make-these-brownies/DSCF0243.jpg 1200w&quot; /&gt;
+&lt;/div&gt;
+
+  
+  
+&lt;/div&gt;
+
+&lt;p&gt;Extra bonus, these brownies (like most brownies) are cooled in the pan, so they can travel with you, fresh from the oven. No need to resort to that (lame?) excuse, ‘I was late because my &lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;_ had to cool before I glazed it’. I think I may have actually used that one at some point.&lt;/p&gt;
+
+&lt;p&gt;There’s a decadence to the preparation of brownies that I love: cracking the chocolate, cutting the butter, watching them melt together until they meld in thick smooth chocolate glory… whisking and stirring and mixing and pouring. Mmmm.&lt;/p&gt;
+
+&lt;div class=&quot;image-group&quot;&gt;
+  
+  
+    
+    
+
+&lt;div class=&quot;image-container&quot; style=&quot;flex: 1.3333333333333333 1 0%&quot;&gt;
+  
+  &lt;img src=&quot;http://localhost:4000/&quot; alt=&quot;&quot; srcset=&quot;          http://localhost:4000/uploads/resized/posts/recipes/2013-01-26-make-these-brownies/480/DSCF0288.jpg 480w,          http://localhost:4000/uploads/resized/posts/recipes/2013-01-26-make-these-brownies/620/DSCF0288.jpg 620w,          http://localhost:4000/uploads/resized/posts/recipes/2013-01-26-make-these-brownies/768/DSCF0288.jpg 768w,          http://localhost:4000/uploads/resized/posts/recipes/2013-01-26-make-these-brownies/1000/DSCF0288.jpg 1000w,     http://localhost:4000/uploads/posts/recipes/2013-01-26-make-these-brownies/DSCF0288.jpg 1200w&quot; /&gt;
+&lt;/div&gt;
+
+  
+    
+    
+
+&lt;div class=&quot;image-container&quot; style=&quot;flex: 1.3333333333333333 1 0%&quot;&gt;
+  
+  &lt;img src=&quot;http://localhost:4000/&quot; alt=&quot;&quot; srcset=&quot;          http://localhost:4000/uploads/resized/posts/recipes/2013-01-26-make-these-brownies/480/DSCF0282.jpg 480w,          http://localhost:4000/uploads/resized/posts/recipes/2013-01-26-make-these-brownies/620/DSCF0282.jpg 620w,          http://localhost:4000/uploads/resized/posts/recipes/2013-01-26-make-these-brownies/768/DSCF0282.jpg 768w,          http://localhost:4000/uploads/resized/posts/recipes/2013-01-26-make-these-brownies/1000/DSCF0282.jpg 1000w,     http://localhost:4000/uploads/posts/recipes/2013-01-26-make-these-brownies/DSCF0282.jpg 1200w&quot; /&gt;
+&lt;/div&gt;
+
+  
+  
+&lt;/div&gt;
+
+&lt;p&gt;I’m not ashamed to admit that I lick the wooden spoon - and the wire whisk - and sometimes even the last scrapings from the bottom of the mixing bowl. I eat the crumbs too - the crumbs that stick to the knife, and the baking paper… that are left on the cutting board after slicing the fudgey treats. I’m not ashamed one bit -  these are the little joys that life is made of.&lt;/p&gt;
+
+&lt;div class=&quot;image-group&quot;&gt;
+  
+  
+    
+    
+
+&lt;div class=&quot;image-container&quot; style=&quot;flex: 1.3333333333333333 1 0%&quot;&gt;
+  
+  &lt;img src=&quot;http://localhost:4000/&quot; alt=&quot;&quot; srcset=&quot;          http://localhost:4000/uploads/resized/posts/recipes/2013-01-26-make-these-brownies/480/DSCF0314.jpg 480w,          http://localhost:4000/uploads/resized/posts/recipes/2013-01-26-make-these-brownies/620/DSCF0314.jpg 620w,          http://localhost:4000/uploads/resized/posts/recipes/2013-01-26-make-these-brownies/768/DSCF0314.jpg 768w,          http://localhost:4000/uploads/resized/posts/recipes/2013-01-26-make-these-brownies/1000/DSCF0314.jpg 1000w,     http://localhost:4000/uploads/posts/recipes/2013-01-26-make-these-brownies/DSCF0314.jpg 1200w&quot; /&gt;
+&lt;/div&gt;
+
+  
+  
+&lt;/div&gt;
+
+&lt;p&gt;Having now thoroughly confessed my sins, and more than adequately expressed the ardency of my love for (these) brownies, here, at last is the recipe.&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/recipes/make-these-brownies/&quot;&gt;Make these brownies!&lt;/a&gt; was originally published by Sarah Quigley at &lt;a href=&quot;http://localhost:4000&quot;&gt;Milk Mustache&lt;/a&gt; on January 26, 2013.&lt;/p&gt;
+  </content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Apricot and Almond Truffles]]></title>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/recipes/apricot-and-almond-truffles/" />
+  <id>http://localhost:4000/recipes/apricot-and-almond-truffles</id>
+  <published>2012-11-08T00:00:00-05:00</published>
+  <updated>2012-11-08T00:00:00-05:00</updated>
+  <author>
+    <name>Sarah Quigley</name>
+    <uri>http://localhost:4000</uri>
+    <email>sarah+milk-mustache@sarahquigley.net</email>
+  </author>
+  <content type="html">
+    &lt;p class=&quot;dropcap&quot;&gt;These apricot and almond truffles are soft bursts of fruitiness, bright orange parties for your tongue. Subtly sweet, smooth with a hint of nutty crunch, they are great to have on hand when you need a quick energy boost, or to tame a raging sweet tooth. I like them in combination with their fudgy inspirations, date nut truffles.&lt;/p&gt;
+
+&lt;div class=&quot;image-group&quot;&gt;
+  
+  
+    
+    
+
+&lt;div class=&quot;image-container&quot; style=&quot;flex: 1.3333333333333333 1 0%&quot;&gt;
+  
+  &lt;img src=&quot;http://localhost:4000/&quot; alt=&quot;&quot; srcset=&quot;          http://localhost:4000/uploads/resized/posts/recipes/2012-11-08-apricot-and-almond-truffles/480/DSCN1250.jpg 480w,          http://localhost:4000/uploads/resized/posts/recipes/2012-11-08-apricot-and-almond-truffles/620/DSCN1250.jpg 620w,          http://localhost:4000/uploads/resized/posts/recipes/2012-11-08-apricot-and-almond-truffles/768/DSCN1250.jpg 768w,          http://localhost:4000/uploads/resized/posts/recipes/2012-11-08-apricot-and-almond-truffles/1000/DSCN1250.jpg 1000w,     http://localhost:4000/uploads/posts/recipes/2012-11-08-apricot-and-almond-truffles/DSCN1250.jpg 1200w&quot; /&gt;
+&lt;/div&gt;
+
+  
+  
+&lt;/div&gt;
+
+&lt;p&gt;These truffles are delicious plain, but for something a little more decadent, coat them in white chocolate. I found some awesome vanilla bean speckled white chocolate for mine and couldn’t have been happier with the contrast between the soft fruity truffles and their crunchy rich outer shell.&lt;/p&gt;
+
+&lt;p&gt;When I created these truffles, another inspiration was marzipan. Their flavour and texture is reminiscent of that sweet almond paste, but they are less cloyingly sweet - and definitely a healthier everyday treat than their sugary inspiration. Marzipan seems to be one of those foods that’s either loved or hated, but I’m hoping these truffles will still appeal to the marzipan antagonists of the world. If you’re a marzipan hater, give them a go and tell me your thoughts.&lt;/p&gt;
+
+&lt;div class=&quot;image-group&quot;&gt;
+  
+  
+    
+    
+
+&lt;div class=&quot;image-container&quot; style=&quot;flex: 1.3333333333333333 1 0%&quot;&gt;
+  
+  &lt;img src=&quot;http://localhost:4000/&quot; alt=&quot;&quot; srcset=&quot;          http://localhost:4000/uploads/resized/posts/recipes/2012-11-08-apricot-and-almond-truffles/480/DSCN1242.jpg 480w,          http://localhost:4000/uploads/resized/posts/recipes/2012-11-08-apricot-and-almond-truffles/620/DSCN1242.jpg 620w,          http://localhost:4000/uploads/resized/posts/recipes/2012-11-08-apricot-and-almond-truffles/768/DSCN1242.jpg 768w,          http://localhost:4000/uploads/resized/posts/recipes/2012-11-08-apricot-and-almond-truffles/1000/DSCN1242.jpg 1000w,     http://localhost:4000/uploads/posts/recipes/2012-11-08-apricot-and-almond-truffles/DSCN1242.jpg 1200w&quot; /&gt;
+&lt;/div&gt;
+
+  
+  
+&lt;/div&gt;
+
+&lt;p&gt;As for tips and tricks, there’s not much to know about these truffles. I would like to reiterate one thing I said about creating my date nut truffles: if chocolate coating your truffles, melt the chocolate in a small deep container (I used a ramekin suspended over boiling water in a steamer basket). This saves on chocolate waste, so you only need to melt just the right amount of chocolate for your truffles - not to mention creating a deeper well of chocolate for easier truffle coating. I was able to coat about two thirds of the surface of my truffles simply by dipping the truffles in the melted chocolate, but I had to use a small spoon to dollop the chocolate on the final third.&lt;/p&gt;
+
+&lt;div class=&quot;image-group&quot;&gt;
+  
+  
+    
+    
+
+&lt;div class=&quot;image-container&quot; style=&quot;flex: 1.3856812933025404 1 0%&quot;&gt;
+  
+  &lt;img src=&quot;http://localhost:4000/&quot; alt=&quot;&quot; srcset=&quot;          http://localhost:4000/uploads/resized/posts/recipes/2012-11-08-apricot-and-almond-truffles/480/DSCN1268.jpg 480w,          http://localhost:4000/uploads/resized/posts/recipes/2012-11-08-apricot-and-almond-truffles/620/DSCN1268.jpg 620w,          http://localhost:4000/uploads/resized/posts/recipes/2012-11-08-apricot-and-almond-truffles/768/DSCN1268.jpg 768w,          http://localhost:4000/uploads/resized/posts/recipes/2012-11-08-apricot-and-almond-truffles/1000/DSCN1268.jpg 1000w,     http://localhost:4000/uploads/posts/recipes/2012-11-08-apricot-and-almond-truffles/DSCN1268.jpg 1200w&quot; /&gt;
+&lt;/div&gt;
+
+  
+  
+&lt;/div&gt;
+
+&lt;p&gt;Well, until next time - happy truffle eating!&lt;/p&gt;
+
+
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/recipes/apricot-and-almond-truffles/&quot;&gt;Apricot and Almond Truffles&lt;/a&gt; was originally published by Sarah Quigley at &lt;a href=&quot;http://localhost:4000&quot;&gt;Milk Mustache&lt;/a&gt; on November 08, 2012.&lt;/p&gt;
+  </content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Couscous Salad with Orange and Avocado]]></title>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/recipes/couscous-avocado-with-orange-and-avocado/" />
+  <id>http://localhost:4000/recipes/couscous-avocado-with-orange-and-avocado</id>
+  <published>2012-10-13T00:00:00-04:00</published>
+  <updated>2012-10-13T00:00:00-04:00</updated>
+  <author>
+    <name>Sarah Quigley</name>
+    <uri>http://localhost:4000</uri>
+    <email>sarah+milk-mustache@sarahquigley.net</email>
+  </author>
+  <content type="html">
+    &lt;p class=&quot;dropcap&quot;&gt;Let’s talk about orange and avocado - two foods just begging to be served together, and yet before I accidentally created this salad from the dregs of my larder, I never knew.  Orange’s sweet tanginess is the perfect counterpoint for the creaminess of avocado. I’ve fallen in love with this pairing, and have been spending my spare moments dreaming of new dishes to try it out in.&lt;/p&gt;
+
+&lt;div class=&quot;image-group&quot;&gt;
+  
+  
+    
+    
+
+&lt;div class=&quot;image-container&quot; style=&quot;flex: 1.3318534961154274 1 0%&quot;&gt;
+  
+  &lt;img src=&quot;http://localhost:4000/&quot; alt=&quot;&quot; srcset=&quot;          http://localhost:4000/uploads/resized/posts/recipes/2012-10-13-couscous-salad-with-orange-and-avocado/480/DSCF0202.jpg 480w,          http://localhost:4000/uploads/resized/posts/recipes/2012-10-13-couscous-salad-with-orange-and-avocado/620/DSCF0202.jpg 620w,          http://localhost:4000/uploads/resized/posts/recipes/2012-10-13-couscous-salad-with-orange-and-avocado/768/DSCF0202.jpg 768w,          http://localhost:4000/uploads/resized/posts/recipes/2012-10-13-couscous-salad-with-orange-and-avocado/1000/DSCF0202.jpg 1000w,     http://localhost:4000/uploads/posts/recipes/2012-10-13-couscous-salad-with-orange-and-avocado/DSCF0202.jpg 1200w&quot; /&gt;
+&lt;/div&gt;
+
+  
+  
+&lt;/div&gt;
+
+&lt;p&gt;What about the salad that started it all? Orange and avocado, of course, cucumber for crunch, hearty red kidney beans and fluffy couscous, dressed in a honey orange vinaigrette… This salad is light and fresh - perfect for a simple wholesome lunch, a palette cleansing side dish – or, if you’re a weirdo like me, an unusual breakfast.&lt;/p&gt;
+
+&lt;p&gt;There’s nothing very complicated about preparing this salad. I have one piece of advice: avoid cutting the avocados until everything else is chopped, the dressing is made, and the couscous is cooked and ready to go - that way you’ll enjoy the avocado at its very best. Mushy brown avocado is never a very appetising proposition.&lt;/p&gt;
+
+&lt;div class=&quot;image-group&quot;&gt;
+  
+  
+    
+    
+
+&lt;div class=&quot;image-container&quot; style=&quot;flex: 1.3333333333333333 1 0%&quot;&gt;
+  
+  &lt;img src=&quot;http://localhost:4000/&quot; alt=&quot;&quot; srcset=&quot;          http://localhost:4000/uploads/resized/posts/recipes/2012-10-13-couscous-salad-with-orange-and-avocado/480/DSCF0170a.jpg 480w,          http://localhost:4000/uploads/resized/posts/recipes/2012-10-13-couscous-salad-with-orange-and-avocado/620/DSCF0170a.jpg 620w,          http://localhost:4000/uploads/resized/posts/recipes/2012-10-13-couscous-salad-with-orange-and-avocado/768/DSCF0170a.jpg 768w,          http://localhost:4000/uploads/resized/posts/recipes/2012-10-13-couscous-salad-with-orange-and-avocado/1000/DSCF0170a.jpg 1000w,     http://localhost:4000/uploads/posts/recipes/2012-10-13-couscous-salad-with-orange-and-avocado/DSCF0170a.jpg 1200w&quot; /&gt;
+&lt;/div&gt;
+
+  
+    
+    
+
+&lt;div class=&quot;image-container&quot; style=&quot;flex: 1.3333333333333333 1 0%&quot;&gt;
+  
+  &lt;img src=&quot;http://localhost:4000/&quot; alt=&quot;&quot; srcset=&quot;          http://localhost:4000/uploads/resized/posts/recipes/2012-10-13-couscous-salad-with-orange-and-avocado/480/DSCF0163a.jpg 480w,          http://localhost:4000/uploads/resized/posts/recipes/2012-10-13-couscous-salad-with-orange-and-avocado/620/DSCF0163a.jpg 620w,          http://localhost:4000/uploads/resized/posts/recipes/2012-10-13-couscous-salad-with-orange-and-avocado/768/DSCF0163a.jpg 768w,          http://localhost:4000/uploads/resized/posts/recipes/2012-10-13-couscous-salad-with-orange-and-avocado/1000/DSCF0163a.jpg 1000w,     http://localhost:4000/uploads/posts/recipes/2012-10-13-couscous-salad-with-orange-and-avocado/DSCF0163a.jpg 1200w&quot; /&gt;
+&lt;/div&gt;
+
+  
+  
+&lt;/div&gt;
+
+&lt;p&gt;This dish is best served freshly made. Though it can be stored for a day or so in the fridge, the cucumbers lose their crispness and the avocados inevitably brown. If you wish to make this salad in advance, I would advice omitting the cucumber and avocado, and adding them at the last minute, shortly before serving.&lt;/p&gt;
+
+&lt;div class=&quot;image-group&quot;&gt;
+  
+  
+    
+    
+
+&lt;div class=&quot;image-container&quot; style=&quot;flex: 1.3333333333333333 1 0%&quot;&gt;
+  
+  &lt;img src=&quot;http://localhost:4000/&quot; alt=&quot;&quot; srcset=&quot;          http://localhost:4000/uploads/resized/posts/recipes/2012-10-13-couscous-salad-with-orange-and-avocado/480/DSCF0226.jpg 480w,          http://localhost:4000/uploads/resized/posts/recipes/2012-10-13-couscous-salad-with-orange-and-avocado/620/DSCF0226.jpg 620w,          http://localhost:4000/uploads/resized/posts/recipes/2012-10-13-couscous-salad-with-orange-and-avocado/768/DSCF0226.jpg 768w,          http://localhost:4000/uploads/resized/posts/recipes/2012-10-13-couscous-salad-with-orange-and-avocado/1000/DSCF0226.jpg 1000w,     http://localhost:4000/uploads/posts/recipes/2012-10-13-couscous-salad-with-orange-and-avocado/DSCF0226.jpg 1200w&quot; /&gt;
+&lt;/div&gt;
+
+  
+  
+&lt;/div&gt;
+
+&lt;p&gt;Go forth and have salad! Have this salad. It’s healthy, easy on the wallet - but much more importantly, it’s fluffy, zesty, creamy and crunchy all at once.&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/recipes/couscous-avocado-with-orange-and-avocado/&quot;&gt;Couscous Salad with Orange and Avocado&lt;/a&gt; was originally published by Sarah Quigley at &lt;a href=&quot;http://localhost:4000&quot;&gt;Milk Mustache&lt;/a&gt; on October 13, 2012.&lt;/p&gt;
+  </content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Chocolate Celebration Cake with Finger Biscuits]]></title>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/recipes/chocolate-celebration-cake-with-finger-biscuits/" />
+  <id>http://localhost:4000/recipes/chocolate-celebration-cake-with-finger-biscuits</id>
+  <published>2012-09-25T00:00:00-04:00</published>
+  <updated>2012-09-25T00:00:00-04:00</updated>
+  <author>
+    <name>Sarah Quigley</name>
+    <uri>http://localhost:4000</uri>
+    <email>sarah+milk-mustache@sarahquigley.net</email>
+  </author>
+  <content type="html">
+    &lt;p class=&quot;dropcap&quot;&gt;This is the recipe I turn to when I want to impress, seduce, or otherwise bake my way into people’s good books. It is the death-by-chocolate cake that every chocolate cake lounging languorously behind the glass of cafe counters promises to be, but so rarely is.&lt;/p&gt;
+
+&lt;div class=&quot;image-group&quot;&gt;
+  
+  
+    
+    
+
+&lt;div class=&quot;image-container&quot; style=&quot;flex: 1.3574660633484164 1 0%&quot;&gt;
+  
+  &lt;img src=&quot;http://localhost:4000/&quot; alt=&quot;&quot; srcset=&quot;          http://localhost:4000/uploads/resized/posts/recipes/2012-09-25-chocolate-celebration-cake-with-finger-biscuits/480/DSCN1321.jpg 480w,          http://localhost:4000/uploads/resized/posts/recipes/2012-09-25-chocolate-celebration-cake-with-finger-biscuits/620/DSCN1321.jpg 620w,          http://localhost:4000/uploads/resized/posts/recipes/2012-09-25-chocolate-celebration-cake-with-finger-biscuits/768/DSCN1321.jpg 768w,          http://localhost:4000/uploads/resized/posts/recipes/2012-09-25-chocolate-celebration-cake-with-finger-biscuits/1000/DSCN1321.jpg 1000w,     http://localhost:4000/uploads/posts/recipes/2012-09-25-chocolate-celebration-cake-with-finger-biscuits/DSCN1321.jpg 1200w&quot; /&gt;
+&lt;/div&gt;
+
+  
+  
+&lt;/div&gt;
+
+&lt;p&gt;Let me tell you about the cake… two layers of chocolate bliss, sandwiching a layer of soft chocolate buttercream icing, topped with a fudgy dark chocolate glaze. The cake is surrounded by alternating dark, milk and white finger biscuits, an idea I spotted at a wedding I attended, and couldn’t resist trying myself. The finger biscuits turned out to be a great idea… they are an incredibly fuss free way to create a special looking cake.&lt;/p&gt;
+
+&lt;p&gt;One key to this dessert’s success (and any culinary adventures for that matter) is good ingredients: real butter (unsalted is best), golden caster sugar and natural vanilla extract for the cake - high quality dark chocolate (70% cocoa content) for the glaze. Having recently relocated to Vancouver, British Columbia, I’ve been struggling to find a North American equivalent for golden caster sugar. My best recommendation is to use the finest grain Turbinado sugar you can find. Less essential, but still nice: if you can get your hands on golden icing sugar, your chocolate buttercream icing will have a deeper flavour. However, golden icing sugar can be difficult to find (and ridiculously over-priced) - your icing will still be delicious without it.&lt;/p&gt;
+
+&lt;div class=&quot;image-group&quot;&gt;
+  
+  
+    
+    
+
+&lt;div class=&quot;image-container&quot; style=&quot;flex: 1.348314606741573 1 0%&quot;&gt;
+  
+  &lt;img src=&quot;http://localhost:4000/&quot; alt=&quot;&quot; srcset=&quot;          http://localhost:4000/uploads/resized/posts/recipes/2012-09-25-chocolate-celebration-cake-with-finger-biscuits/480/DSCN1490.jpg 480w,          http://localhost:4000/uploads/resized/posts/recipes/2012-09-25-chocolate-celebration-cake-with-finger-biscuits/620/DSCN1490.jpg 620w,          http://localhost:4000/uploads/resized/posts/recipes/2012-09-25-chocolate-celebration-cake-with-finger-biscuits/768/DSCN1490.jpg 768w,          http://localhost:4000/uploads/resized/posts/recipes/2012-09-25-chocolate-celebration-cake-with-finger-biscuits/1000/DSCN1490.jpg 1000w,     http://localhost:4000/uploads/posts/recipes/2012-09-25-chocolate-celebration-cake-with-finger-biscuits/DSCN1490.jpg 1200w&quot; /&gt;
+&lt;/div&gt;
+
+  
+  
+&lt;/div&gt;
+
+&lt;p&gt;Speaking of ingredients, with my new Vancouver home, I’ve had the opportunity to test some of my best recipes in a new location. Shock and horror: many of them are not quite as tasty when prepared here, as they were back in Ireland! Currently I suspect that differences arise from the lower of fat content of North American butter (I miss you Irish butter). Differing flour densities may also be a factor. I’m a little worried that this cake (which I haven tested in North America) will suffer from similar problems. Before I made this move across the ocean, I wasn’t aware that it was important to localise recipes for locally available ingredients. I plan to do some testing to figure out how to compensate for ingredient differences in this recipe and others. I’ll let you all know the results.&lt;/p&gt;
+
+&lt;div class=&quot;image-group&quot;&gt;
+  
+  
+    
+    
+
+&lt;div class=&quot;image-container&quot; style=&quot;flex: 1.3318534961154274 1 0%&quot;&gt;
+  
+  &lt;img src=&quot;http://localhost:4000/&quot; alt=&quot;&quot; srcset=&quot;          http://localhost:4000/uploads/resized/posts/recipes/2012-09-25-chocolate-celebration-cake-with-finger-biscuits/480/DSCN1471.jpg 480w,          http://localhost:4000/uploads/resized/posts/recipes/2012-09-25-chocolate-celebration-cake-with-finger-biscuits/620/DSCN1471.jpg 620w,          http://localhost:4000/uploads/resized/posts/recipes/2012-09-25-chocolate-celebration-cake-with-finger-biscuits/768/DSCN1471.jpg 768w,          http://localhost:4000/uploads/resized/posts/recipes/2012-09-25-chocolate-celebration-cake-with-finger-biscuits/1000/DSCN1471.jpg 1000w,     http://localhost:4000/uploads/posts/recipes/2012-09-25-chocolate-celebration-cake-with-finger-biscuits/DSCN1471.jpg 1200w&quot; /&gt;
+&lt;/div&gt;
+
+  
+  
+&lt;/div&gt;
+
+&lt;p&gt;This cake is prepared using Abby Mandel’s food processor method, which I couldn’t recommend more highly. Not only have I have found that this method produces exceptionally light, moist cakes, but it is quick and easy. One of this method’s unusual aspects is that that eggs and sugar are processed together first, and then butter is added. In contrast, conventional cake preparation has butter and sugar creamed together first, before adding eggs. It’s worth noting that those of you without a food processor can still make this cake: Simply follow the conventional order for mixing butter, sugar and eggs. In the future, I will be posting a detailed piece about the food processor cake method, with step-by-step photos guiding you through the full procedure. Hopefully this will clear up any uncertainties anyone may have about trying the method for themselves.&lt;/p&gt;
+
+&lt;p&gt;This cake has been in baked in my family for long enough that it qualifies as an old family recipe. My mother would bake it for me as a kid (my brother didn’t like chocolate cake, weirdo), and I would do helpful things like weigh ingredients and lick the food processor bowl (cleaning!). The usual family version of this cake is somewhat simpler… this cake minus the chocolate glaze and fancy finger bisuit decoration, instead iced top and sides in buttercream icing. I’ve baked this simple version dozens of times for the storytelling and baking event I founded in Dublin, Milk and Cookie Stories. Beware… serving this cake to a crowd is dangerous business.&lt;/p&gt;
+
+&lt;div class=&quot;image-group&quot;&gt;
+  
+  
+    
+    
+
+&lt;div class=&quot;image-container&quot; style=&quot;flex: 1.2526096033402923 1 0%&quot;&gt;
+  
+  &lt;img src=&quot;http://localhost:4000/&quot; alt=&quot;&quot; srcset=&quot;          http://localhost:4000/uploads/resized/posts/recipes/2012-09-25-chocolate-celebration-cake-with-finger-biscuits/480/DSCN1319.jpg 480w,          http://localhost:4000/uploads/resized/posts/recipes/2012-09-25-chocolate-celebration-cake-with-finger-biscuits/620/DSCN1319.jpg 620w,          http://localhost:4000/uploads/resized/posts/recipes/2012-09-25-chocolate-celebration-cake-with-finger-biscuits/768/DSCN1319.jpg 768w,          http://localhost:4000/uploads/resized/posts/recipes/2012-09-25-chocolate-celebration-cake-with-finger-biscuits/1000/DSCN1319.jpg 1000w,     http://localhost:4000/uploads/posts/recipes/2012-09-25-chocolate-celebration-cake-with-finger-biscuits/DSCN1319.jpg 1200w&quot; /&gt;
+&lt;/div&gt;
+
+  
+  
+&lt;/div&gt;
+
+&lt;p&gt;Now for the recipe! Have fun with it… Make it your own. Find someone special to bake it for… Do a chocolate dance.&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/recipes/chocolate-celebration-cake-with-finger-biscuits/&quot;&gt;Chocolate Celebration Cake with Finger Biscuits&lt;/a&gt; was originally published by Sarah Quigley at &lt;a href=&quot;http://localhost:4000&quot;&gt;Milk Mustache&lt;/a&gt; on September 25, 2012.&lt;/p&gt;
+  </content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Date Nut Truffles]]></title>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/recipes/date-nut-truffles/" />
+  <id>http://localhost:4000/recipes/date-nut-truffles</id>
+  <published>2012-05-30T00:00:00-04:00</published>
+  <updated>2012-05-30T00:00:00-04:00</updated>
+  <author>
+    <name>Sarah Quigley</name>
+    <uri>http://localhost:4000</uri>
+    <email>sarah+milk-mustache@sarahquigley.net</email>
+  </author>
+  <content type="html">
+    &lt;p class=&quot;dropcap&quot;&gt;Date nut truffles, fudgy, flavourful, and oh so good for you… These truffles have some impressive stats: vegan, raw if you buy the ingredients with care, sweetened with dates, full of healthy nut oils… and yes, delicious. When I tasted these guys for the first time, I knew I’d finally found the treat I’d been waiting for. Date nut truffles, where have you been all my life? This is love.&lt;/p&gt;
+
+&lt;div class=&quot;image-group&quot;&gt;
+  
+  
+    
+    
+
+&lt;div class=&quot;image-container&quot; style=&quot;flex: 1.3333333333333333 1 0%&quot;&gt;
+  
+  &lt;img src=&quot;http://localhost:4000/&quot; alt=&quot;&quot; srcset=&quot;          http://localhost:4000/uploads/resized/posts/recipes/2012-05-30-date-nut-truffles/480/DSCN1295a.jpg 480w,          http://localhost:4000/uploads/resized/posts/recipes/2012-05-30-date-nut-truffles/620/DSCN1295a.jpg 620w,          http://localhost:4000/uploads/resized/posts/recipes/2012-05-30-date-nut-truffles/768/DSCN1295a.jpg 768w,          http://localhost:4000/uploads/resized/posts/recipes/2012-05-30-date-nut-truffles/1000/DSCN1295a.jpg 1000w,     http://localhost:4000/uploads/posts/recipes/2012-05-30-date-nut-truffles/DSCN1295a.jpg 1200w&quot; /&gt;
+&lt;/div&gt;
+
+  
+  
+&lt;/div&gt;
+
+&lt;p&gt;You know what I find most exciting about this recipe? It has four variations: nude (I like this word), cocoa-dusted, nut-covered and, the piece-de-resistance, dark chocolated-coated. All four are delectable, and quick and easy to prepare. I’ll admit, making the chocolate-coated variety takes a little longer (still quick!), and is a little messier, but they’re so pretty that they are more than worth the extra trouble.&lt;/p&gt;
+
+&lt;p&gt;This recipe was adapted from a recipe on one of the most creative food blogs I follow. Do check out the original recipe, Chocolate-Covered Katie’s fabulous German Chocolate Fudge Bites. Katie’s blog is well worth exploring - it is full of tasty healthy treats! Her recipe is almost identical to the nude version of these truffles (I used walnuts in favour of pecans). My one nitty-picky problem wth the original recipe was I didn’t think the sweets looked quite as delicious as they tasted… I wanted treats pretty enough for a chocolate box, and so I was inspired to create my variations of the recipe.&lt;/p&gt;
+
+&lt;div class=&quot;image-group&quot;&gt;
+  
+  
+    
+    
+
+&lt;div class=&quot;image-container&quot; style=&quot;flex: 1.3333333333333333 1 0%&quot;&gt;
+  
+  &lt;img src=&quot;http://localhost:4000/&quot; alt=&quot;&quot; srcset=&quot;          http://localhost:4000/uploads/resized/posts/recipes/2012-05-30-date-nut-truffles/480/DSCN1071.jpg 480w,          http://localhost:4000/uploads/resized/posts/recipes/2012-05-30-date-nut-truffles/620/DSCN1071.jpg 620w,          http://localhost:4000/uploads/resized/posts/recipes/2012-05-30-date-nut-truffles/768/DSCN1071.jpg 768w,          http://localhost:4000/uploads/resized/posts/recipes/2012-05-30-date-nut-truffles/1000/DSCN1071.jpg 1000w,     http://localhost:4000/uploads/posts/recipes/2012-05-30-date-nut-truffles/DSCN1071.jpg 1200w&quot; /&gt;
+&lt;/div&gt;
+
+  
+  
+&lt;/div&gt;
+
+&lt;p&gt;Of all these truffles’ ingredients, the dates are the most important: seek out the softest dates you can find. Expensive as they can be, I recommend splashing out on some Medjool dates. (I remember my first time tasting Medjool dates as a nine or ten year old. I had a mini celebration at the discovery of sweets I wouldn’t need my parent’s permission to eat!) Medjool dates have a gorgeous, almost caramel-like, flavour and a melt-in-your-mouth texture, and are certainly the best dates that are commonly available in my local stores.&lt;/p&gt;
+
+&lt;p&gt;I tried cheap dried pitted dates in a previous attempt at this recipe. Due to their hardness and dryness, these dates did not process properly, leaving my truffles with a gritty texture and an uneven flavour. However, if all you can find are dried dates, you should achieve satisfactory results by soaking the dates beforehand in some water until they regain a soft texture. If your dates are soft, but not quite as moist as Medjool dates, try adding a tablespoon or two of water to the mixture before it is processed.&lt;/p&gt;
+
+&lt;div class=&quot;image-group&quot;&gt;
+  
+  
+    
+    
+
+&lt;div class=&quot;image-container&quot; style=&quot;flex: 1.3333333333333333 1 0%&quot;&gt;
+  
+  &lt;img src=&quot;http://localhost:4000/&quot; alt=&quot;&quot; srcset=&quot;          http://localhost:4000/uploads/resized/posts/recipes/2012-05-30-date-nut-truffles/480/DSCN1276a.jpg 480w,          http://localhost:4000/uploads/resized/posts/recipes/2012-05-30-date-nut-truffles/620/DSCN1276a.jpg 620w,          http://localhost:4000/uploads/resized/posts/recipes/2012-05-30-date-nut-truffles/768/DSCN1276a.jpg 768w,          http://localhost:4000/uploads/resized/posts/recipes/2012-05-30-date-nut-truffles/1000/DSCN1276a.jpg 1000w,     http://localhost:4000/uploads/posts/recipes/2012-05-30-date-nut-truffles/DSCN1276a.jpg 1200w&quot; /&gt;
+&lt;/div&gt;
+
+  
+  
+&lt;/div&gt;
+
+&lt;p&gt;For the chocolate-coated variation of these truffles, good chocolate is also vital. I recommend dark chocolate with a minimum 60% cocoa content (I used 74%), preferably a good European brand (not Cadbury’s). A small tip chocolate-coating the truffles: melt the chocolate in a small deep container (I used a ramekin placed in a steamer basket over some boiling water). I was able to coat about two thirds of the surface of my truffles simply by dipping the truffles in the melted chocolate, but I had to use a small spoon to dollop the chocolate on the final third.&lt;/p&gt;
+
+&lt;p&gt;I’m really excited about exploring more flavours of truffles (healthy or otherwise). The keen-eyed among you may have already spotted my next truffle concoction. Hint: look carefully in the photos posted here. The bright orange oddity hiding among its chocolate compadrees will soon be unveiled in all its apricot and almond glory. I have said too much already… You’ll have to wait for the recipe to find out more.&lt;/p&gt;
+
+&lt;div class=&quot;image-group&quot;&gt;
+  
+  
+    
+    
+
+&lt;div class=&quot;image-container&quot; style=&quot;flex: 1.3363028953229399 1 0%&quot;&gt;
+  
+  &lt;img src=&quot;http://localhost:4000/&quot; alt=&quot;&quot; srcset=&quot;          http://localhost:4000/uploads/resized/posts/recipes/2012-05-30-date-nut-truffles/480/DSCN1288a.jpg 480w,          http://localhost:4000/uploads/resized/posts/recipes/2012-05-30-date-nut-truffles/620/DSCN1288a.jpg 620w,          http://localhost:4000/uploads/resized/posts/recipes/2012-05-30-date-nut-truffles/768/DSCN1288a.jpg 768w,          http://localhost:4000/uploads/resized/posts/recipes/2012-05-30-date-nut-truffles/1000/DSCN1288a.jpg 1000w,     http://localhost:4000/uploads/posts/recipes/2012-05-30-date-nut-truffles/DSCN1288a.jpg 1200w&quot; /&gt;
+&lt;/div&gt;
+
+  
+  
+&lt;/div&gt;
+
+&lt;p&gt;Is it just me, or can you see these guys tucked away together in dainty gift boxes? “Oh wow, you made these!?” Yes, friends will be totally impressed when they see them… and even more once they’ve tasted them and you tell them how healthy they are!&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/recipes/date-nut-truffles/&quot;&gt;Date Nut Truffles&lt;/a&gt; was originally published by Sarah Quigley at &lt;a href=&quot;http://localhost:4000&quot;&gt;Milk Mustache&lt;/a&gt; on May 30, 2012.&lt;/p&gt;
+  </content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Picadillo]]></title>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/recipes/picadillo/" />
+  <id>http://localhost:4000/recipes/picadillo</id>
+  <published>2012-05-28T00:00:00-04:00</published>
+  <updated>2012-05-28T00:00:00-04:00</updated>
+  <author>
+    <name>Sarah Quigley</name>
+    <uri>http://localhost:4000</uri>
+    <email>sarah+milk-mustache@sarahquigley.net</email>
+  </author>
+  <content type="html">
+    &lt;p class=&quot;dropcap&quot;&gt;I hate to pick favourites, but this picadillo recipe may be my favourite Mexican dish. Scratch that - It might just be be one of my favourite dishes of all time. This meat dish is subtly sweet and packed with apple, raisins and almonds. Yum! I’m a big fan of adding a little fruit to savoury dishes, which may be part of why I have a special love for this recipe…&lt;/p&gt;
+
+&lt;div class=&quot;image-group&quot;&gt;
+  
+  
+    
+    
+
+&lt;div class=&quot;image-container&quot; style=&quot;flex: 1.3333333333333333 1 0%&quot;&gt;
+  
+  &lt;img src=&quot;http://localhost:4000/&quot; alt=&quot;&quot; srcset=&quot;          http://localhost:4000/uploads/resized/posts/recipes/2012-05-28-picadillo/480/DSCN1148b.jpg 480w,          http://localhost:4000/uploads/resized/posts/recipes/2012-05-28-picadillo/620/DSCN1148b.jpg 620w,          http://localhost:4000/uploads/resized/posts/recipes/2012-05-28-picadillo/768/DSCN1148b.jpg 768w,          http://localhost:4000/uploads/resized/posts/recipes/2012-05-28-picadillo/1000/DSCN1148b.jpg 1000w,     http://localhost:4000/uploads/posts/recipes/2012-05-28-picadillo/DSCN1148b.jpg 1200w&quot; /&gt;
+&lt;/div&gt;
+
+  
+  
+&lt;/div&gt;
+
+&lt;p&gt;Picadillo is made throughout Latin America, and every region seems to have its own unique version. This recipe is an old family favourite… the page of the old 1977 Better Homes and Gardens: Mexican Cook Book it comes from is splashed and stained from use. Picadillo always brings back memories of the enormous Mexican spreads my mother prepared for my family during my childhood. These were fill your own tortilla or (taco) affairs, with two or three Mexican dishes and whole array of toppings - chopped tomatoes, grated Cheddar cheese, spinach or lettuce, home-made guacamole, chopped red onion, hot sauce, and, on an indulgent day, sour cream. Of the dishes made for these spreads, picadillo was always my absolute favourite… always the one I would beg my mother to cook.&lt;/p&gt;
+
+&lt;div class=&quot;image-group&quot;&gt;
+  
+  
+    
+    
+
+&lt;div class=&quot;image-container&quot; style=&quot;flex: 1.3729977116704806 1 0%&quot;&gt;
+  
+  &lt;img src=&quot;http://localhost:4000/&quot; alt=&quot;&quot; srcset=&quot;          http://localhost:4000/uploads/resized/posts/recipes/2012-05-28-picadillo/480/DSCN1085a.jpg 480w,          http://localhost:4000/uploads/resized/posts/recipes/2012-05-28-picadillo/620/DSCN1085a.jpg 620w,          http://localhost:4000/uploads/resized/posts/recipes/2012-05-28-picadillo/768/DSCN1085a.jpg 768w,          http://localhost:4000/uploads/resized/posts/recipes/2012-05-28-picadillo/1000/DSCN1085a.jpg 1000w,     http://localhost:4000/uploads/posts/recipes/2012-05-28-picadillo/DSCN1085a.jpg 1200w&quot; /&gt;
+&lt;/div&gt;
+
+  
+  
+&lt;/div&gt;
+
+&lt;p&gt;When I make picadillo, I like to follow my mother’s example and serve it with a selection of toppings (how many depends on how fancy I’m feeling) and warmed tortillas - I recommend you do the same! This time around, I topped the picadillo quite simply, with freshly grated cheddar cheese, chopped tomatoes and lettuce. To make things a little special, I went all out and prepared home-made tortillas and a side-dish of Spanish rice. My flour tortilla recipe is still in need of some refinement… they tasted decent, but I was hoping for even better and it was tough to roll them as thin I would have liked. (Try again. Fail again. Fail better.) The Spanish rice recipe on the other hand is another old family recipe, which I’ll be sharing with you all soon.&lt;/p&gt;
+
+&lt;p&gt;If flour tortillas aren’t your thing, picadillo is also excellent as a taco filling or served over rice (nice alternatives if you’re following a gluten-free diet.) I’ve read it’s great for filling tamales too… though I’ve never tried that myself. This is a very quick and easy dish to prepare… no more difficult than making a bolognese. Picadillo isn’t just for meat eaters. I’ve made an absolutely delicious vegetarian (and vegan) friendly version of this dish many times previously by subsituting beef with red kidney beans.&lt;/p&gt;
+
+&lt;div class=&quot;image-group&quot;&gt;
+  
+  
+    
+    
+
+&lt;div class=&quot;image-container&quot; style=&quot;flex: 1.3333333333333333 1 0%&quot;&gt;
+  
+  &lt;img src=&quot;http://localhost:4000/&quot; alt=&quot;&quot; srcset=&quot;          http://localhost:4000/uploads/resized/posts/recipes/2012-05-28-picadillo/480/DSCN1146a.jpg 480w,          http://localhost:4000/uploads/resized/posts/recipes/2012-05-28-picadillo/620/DSCN1146a.jpg 620w,          http://localhost:4000/uploads/resized/posts/recipes/2012-05-28-picadillo/768/DSCN1146a.jpg 768w,          http://localhost:4000/uploads/resized/posts/recipes/2012-05-28-picadillo/1000/DSCN1146a.jpg 1000w,     http://localhost:4000/uploads/posts/recipes/2012-05-28-picadillo/DSCN1146a.jpg 1200w&quot; /&gt;
+&lt;/div&gt;
+
+  
+  
+&lt;/div&gt;
+
+&lt;p&gt;You might be wondering about the mustachioed cocktail stick flag boldIy flying above this tortilla castle. It just so happens that I think food is better with a flag, but there’s another far more important explanation for this special garnish. Three months and a thousand and one suggestions later, I am overjoyed to announce that I’ve finally found an identity that feels right for this little corner of the internet. This flag was created to celebrate that new identity. I’m very pleased to welcome you to Milk Mustache, a bright little recipe blog celebrating the joy of eating! Get your mustaches on and celebrate with me by making yourself a Mexican feast… Don’t forget the picadillo!&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/recipes/picadillo/&quot;&gt;Picadillo&lt;/a&gt; was originally published by Sarah Quigley at &lt;a href=&quot;http://localhost:4000&quot;&gt;Milk Mustache&lt;/a&gt; on May 28, 2012.&lt;/p&gt;
+  </content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Rainbow Salad with Bulgur Wheat and Beans]]></title>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/recipes/rainbow-salad-with-bulgur-wheat-and-beans/" />
+  <id>http://localhost:4000/recipes/rainbow-salad-with-bulgur-wheat-and-beans</id>
+  <published>2012-05-05T00:00:00-04:00</published>
+  <updated>2012-05-05T00:00:00-04:00</updated>
+  <author>
+    <name>Sarah Quigley</name>
+    <uri>http://localhost:4000</uri>
+    <email>sarah+milk-mustache@sarahquigley.net</email>
+  </author>
+  <content type="html">
+    &lt;p class=&quot;dropcap&quot;&gt;This is one of those recipes that started out as a “What can I make from what’s left in the kitchen?” kind of creation, but has evolved into one of my go-to dishes when I’m looking for a simple healthy meal. It’s quick to prepare and keeps well in the fridge, which makes it perfect for lunches or snacks. I love having a grain based salad, like this one, ready and waiting in the fridge. It’s perfect for when I need a quick pick-me-up or a no-fuss, healthy meal.&lt;/p&gt;
+
+&lt;div class=&quot;image-group&quot;&gt;
+  
+  
+    
+    
+
+&lt;div class=&quot;image-container&quot; style=&quot;flex: 1.3333333333333333 1 0%&quot;&gt;
+  
+  &lt;img src=&quot;http://localhost:4000/&quot; alt=&quot;&quot; srcset=&quot;          http://localhost:4000/uploads/resized/posts/recipes/2012-05-05-rainbow-salad-with-bulgur-wheat-and-beans/480/DSCN0712.jpg 480w,          http://localhost:4000/uploads/resized/posts/recipes/2012-05-05-rainbow-salad-with-bulgur-wheat-and-beans/620/DSCN0712.jpg 620w,          http://localhost:4000/uploads/resized/posts/recipes/2012-05-05-rainbow-salad-with-bulgur-wheat-and-beans/768/DSCN0712.jpg 768w,          http://localhost:4000/uploads/resized/posts/recipes/2012-05-05-rainbow-salad-with-bulgur-wheat-and-beans/1000/DSCN0712.jpg 1000w,     http://localhost:4000/uploads/posts/recipes/2012-05-05-rainbow-salad-with-bulgur-wheat-and-beans/DSCN0712.jpg 1200w&quot; /&gt;
+&lt;/div&gt;
+
+  
+  
+&lt;/div&gt;
+
+&lt;p&gt;As its name suggests, this salad is packed full of a veritable rainbow of ingredients: nutritious beans, sweet carrots, refreshing tomatoes, tangy onions, crunchy pine nuts and raisins (extra sweetness) - and of course, bulgur wheat. Over the last while, I’ve developed something of a small obsession with bulgur - I love its chunky grains, so hearty and nutty flavour. I love how all the subtle flavours of this salad are tied together by the bulgur, and I hope that you do too.&lt;/p&gt;
+
+&lt;div class=&quot;image-group&quot;&gt;
+  
+  
+    
+    
+
+&lt;div class=&quot;image-container&quot; style=&quot;flex: 1.3333333333333333 1 0%&quot;&gt;
+  
+  &lt;img src=&quot;http://localhost:4000/&quot; alt=&quot;&quot; srcset=&quot;          http://localhost:4000/uploads/resized/posts/recipes/2012-05-05-rainbow-salad-with-bulgur-wheat-and-beans/480/DSCN0628.jpg 480w,          http://localhost:4000/uploads/resized/posts/recipes/2012-05-05-rainbow-salad-with-bulgur-wheat-and-beans/620/DSCN0628.jpg 620w,          http://localhost:4000/uploads/resized/posts/recipes/2012-05-05-rainbow-salad-with-bulgur-wheat-and-beans/768/DSCN0628.jpg 768w,          http://localhost:4000/uploads/resized/posts/recipes/2012-05-05-rainbow-salad-with-bulgur-wheat-and-beans/1000/DSCN0628.jpg 1000w,     http://localhost:4000/uploads/posts/recipes/2012-05-05-rainbow-salad-with-bulgur-wheat-and-beans/DSCN0628.jpg 1200w&quot; /&gt;
+&lt;/div&gt;
+
+  
+    
+    
+
+&lt;div class=&quot;image-container&quot; style=&quot;flex: 1.3333333333333333 1 0%&quot;&gt;
+  
+  &lt;img src=&quot;http://localhost:4000/&quot; alt=&quot;&quot; srcset=&quot;          http://localhost:4000/uploads/resized/posts/recipes/2012-05-05-rainbow-salad-with-bulgur-wheat-and-beans/480/DSCN0594.jpg 480w,          http://localhost:4000/uploads/resized/posts/recipes/2012-05-05-rainbow-salad-with-bulgur-wheat-and-beans/620/DSCN0594.jpg 620w,          http://localhost:4000/uploads/resized/posts/recipes/2012-05-05-rainbow-salad-with-bulgur-wheat-and-beans/768/DSCN0594.jpg 768w,          http://localhost:4000/uploads/resized/posts/recipes/2012-05-05-rainbow-salad-with-bulgur-wheat-and-beans/1000/DSCN0594.jpg 1000w,     http://localhost:4000/uploads/posts/recipes/2012-05-05-rainbow-salad-with-bulgur-wheat-and-beans/DSCN0594.jpg 1200w&quot; /&gt;
+&lt;/div&gt;
+
+  
+  
+&lt;/div&gt;
+
+&lt;p&gt;This dish is so simple to prepare that you really can’t go wrong. Here are one or two tips that will make your time preparing it even easier. Firstly, do be sure to add the dressing to the salad BEFORE the bulgur and steamed veg have been added (as described in my instructions below). This salad becomes more difficult to stir after their addition, and it can be tough to fully incorporate the dressing without risking mushing up all your beautiful cherry tomatoes. Secondly, while you can mix your dressing separately in a jar before adding it to the salad (as described below) - it is also perfectly fine to add the dressing ingredients individually to the salad and combine it all in situ. This is what I do when I’m feeling especially lazy - or I don’t feel like having an extra dish to clean.&lt;/p&gt;
+
+&lt;p&gt;If you just scroll down to the recipe below, you’ll see a whole host of variations you can experiment with. I’ve tested most of these at one time or another, and have never been disappointed. One variation I would recommend in particular is replacing the green beans with broccoli. In fact, the first time I made this recipe I used broccoli - and have probably made it far more often with broccoli than green beans. I just always seem to have some broccoli knocking around at the back of the fridge.&lt;/p&gt;
+
+&lt;div class=&quot;image-group&quot;&gt;
+  
+  
+    
+    
+
+&lt;div class=&quot;image-container&quot; style=&quot;flex: 1.3333333333333333 1 0%&quot;&gt;
+  
+  &lt;img src=&quot;http://localhost:4000/&quot; alt=&quot;&quot; srcset=&quot;          http://localhost:4000/uploads/resized/posts/recipes/2012-05-05-rainbow-salad-with-bulgur-wheat-and-beans/480/DSCN0728.jpg 480w,          http://localhost:4000/uploads/resized/posts/recipes/2012-05-05-rainbow-salad-with-bulgur-wheat-and-beans/620/DSCN0728.jpg 620w,          http://localhost:4000/uploads/resized/posts/recipes/2012-05-05-rainbow-salad-with-bulgur-wheat-and-beans/768/DSCN0728.jpg 768w,          http://localhost:4000/uploads/resized/posts/recipes/2012-05-05-rainbow-salad-with-bulgur-wheat-and-beans/1000/DSCN0728.jpg 1000w,     http://localhost:4000/uploads/posts/recipes/2012-05-05-rainbow-salad-with-bulgur-wheat-and-beans/DSCN0728.jpg 1200w&quot; /&gt;
+&lt;/div&gt;
+
+  
+  
+&lt;/div&gt;
+
+&lt;p&gt;I thought it was worth mentioning, for anyone on a tight budget, this is a happily cheap dish to prepare, especially if you replace the pine nuts (which are quite overpriced in my local supermarket) with a more affordable seed or nut, use normal tomatoes instead of cherry tomatoes and omit the fresh coriander (or grow your own). I always try to be conscious of how much I’m spending on food - it’s comforting to have some staple recipes that are both wholesome and easy on the pocket.&lt;/p&gt;
+
+&lt;p&gt;Now all that’s left is to answer the inevitable question, where oh where is the blue in this rainbow salad?  Well, don’t worry my friends, I have been deeply pondering this question, and though it is no mean feat thinking up blue ingredients, I’m prepared to present a few solutions. For a truly rainbow salad, the adventurous (or rainbow loving) among you should consider the following additions: blueberries (dried or fresh), blue corn or blue potatoes. As for me, I’m usually happy chowing down on almost all the colours of the rainbow, but if I ever do test out a blue ingredient in this salad, I’ll be sure to let you know.&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/recipes/rainbow-salad-with-bulgur-wheat-and-beans/&quot;&gt;Rainbow Salad with Bulgur Wheat and Beans&lt;/a&gt; was originally published by Sarah Quigley at &lt;a href=&quot;http://localhost:4000&quot;&gt;Milk Mustache&lt;/a&gt; on May 05, 2012.&lt;/p&gt;
+  </content>
+</entry>
+
 </feed>

@@ -1,25 +1,127 @@
----
-sitemap: false
----
-
 [
-{% for post in site.posts %}
-  {% if post.title != null and post.title != empty and post.search_omit != true %}
-    {% if forloop.index > 1 %},{% endif %}{
-      "title"			: {{ post.title | jsonify }},
-      "link"			: "{{ site.url }}{{ post.url }}",
-      "excerpt"		: "{{ post.excerpt | markdownify | strip_html | strip_newlines | escape_once | remove: '\[' | remove: '\]' | remove: '\(' | remove: '\)' }}"
-    }
-  {% endif %}
-{% endfor %}
 
-{% for page in site.pages %}
-  {% if page.layout != 'none' and page.layout != 'none' and page.title != null and page.title != empty and page.search_omit != true %}
-    {% if forloop.index > 1 %},{% endif %}{
-      "title"			: {{ page.title | jsonify }},
-      "link"			: "{{ site.url }}{{ page.url | replace: 'index.html', '' }}",
-      "excerpt"		: "{{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}"
+  
+    {
+      "title"			: "The Joy of Oatmeal, and Breakfast",
+      "link"			: "http://localhost:4000/recipes/the-joy-of-oatmeal-and-breakfast/",
+      "excerpt"		: "I was sitting in my local ramen place, Shinobi noodles, waiting for a bowl of tan tan men when I made a shocking discovery: Jesse doesn’t eat breakfast."
     }
-  {%endif%}
-{% endfor %}
+  
+
+  
+    ,{
+      "title"			: "Lemon Curd, Delicious and Vegan",
+      "link"			: "http://localhost:4000/recipes/lemon-curd-delicious-and-vegan/",
+      "excerpt"		: "Memorial day weekend in New York city: after an unseasonably rainy month of May, summer heat has finally rolled in; it’s sultry out. On the stoops of Bushwick, locals hide in spots of shade, sipping iced drinks."
+    }
+  
+
+  
+    ,{
+      "title"			: "Everybody Loves Jalapeño & Pineapple Cornbread",
+      "link"			: "http://localhost:4000/recipes/everybody-loves-jalape%C3%B1o-pineapple-cornbread/",
+      "excerpt"		: "It’s another Tuesday in our topsy turvy Brooklyn apartment and Mike asks me to make cornbread…"
+    }
+  
+
+  
+    ,{
+      "title"			: "Roasted Sweet Potato and Feta Salad",
+      "link"			: "http://localhost:4000/recipes/roasted-sweet-potato-and-feta-salad/",
+      "excerpt"		: "Anyone who knows me well will be aware that I’m a salad fiend. They’re my favourite lunch, and my go-to food when I want a lazy dinner. My earliest kitchen memories are of spending, what felt like hours, laying out vegetables that my mother had sliced…"
+    }
+  
+
+  
+    ,{
+      "title"			: "Chocolate Chip Coconut Slices",
+      "link"			: "http://localhost:4000/recipes/chocolate-chip-coconut-slices/",
+      "excerpt"		: "There are so many recipes that I try once, and then never again. It’s not that there’s anything wrong with most of them per se - it’s just that once was enough to tick that experience box… been there done, done that, ate the canoli."
+    }
+  
+
+  
+    ,{
+      "title"			: "Make these brownies!",
+      "link"			: "http://localhost:4000/recipes/make-these-brownies/",
+      "excerpt"		: "Brownies - simple, comforting, ever satisfying - who can fail to love the baker and bearer of brownies? Here’s a little secret those brownie bakers have been trying to hush up for years… brownies are incredibly simple to prepare (or at least they can be)."
+    }
+  
+
+  
+    ,{
+      "title"			: "Apricot and Almond Truffles",
+      "link"			: "http://localhost:4000/recipes/apricot-and-almond-truffles/",
+      "excerpt"		: "These apricot and almond truffles are soft bursts of fruitiness, bright orange parties for your tongue. Subtly sweet, smooth with a hint of nutty crunch, they are great to have on hand when you need a quick energy boost, or to tame a raging sweet tooth."
+    }
+  
+
+  
+    ,{
+      "title"			: "Couscous Salad with Orange and Avocado",
+      "link"			: "http://localhost:4000/recipes/couscous-avocado-with-orange-and-avocado/",
+      "excerpt"		: "Let’s talk about orange and avocado - two foods just begging to be served together, and yet before I accidentally created this salad from the dregs of my larder, I never knew.  Orange’s sweet tanginess is the perfect counterpoint for the creaminess of avocado."
+    }
+  
+
+  
+    ,{
+      "title"			: "Chocolate Celebration Cake with Finger Biscuits",
+      "link"			: "http://localhost:4000/recipes/chocolate-celebration-cake-with-finger-biscuits/",
+      "excerpt"		: "This is the recipe I turn to when I want to impress, seduce, or otherwise bake my way into people’s good books. It is the death-by-chocolate cake that every chocolate cake lounging languorously behind the glass of cafe counters promises to be, but so rarely is."
+    }
+  
+
+  
+    ,{
+      "title"			: "Date Nut Truffles",
+      "link"			: "http://localhost:4000/recipes/date-nut-truffles/",
+      "excerpt"		: "Date nut truffles, fudgy, flavourful, and oh so good for you… These truffles have some impressive stats: vegan, raw if you buy the ingredients with care, sweetened with dates, full of healthy nut oils… and yes, delicious."
+    }
+  
+
+  
+    ,{
+      "title"			: "Picadillo",
+      "link"			: "http://localhost:4000/recipes/picadillo/",
+      "excerpt"		: "I hate to pick favourites, but this picadillo recipe may be my favourite Mexican dish. Scratch that - It might just be be one of my favourite dishes of all time. This meat dish is subtly sweet and packed with apple, raisins and almonds."
+    }
+  
+
+  
+    ,{
+      "title"			: "Rainbow Salad with Bulgur Wheat and Beans",
+      "link"			: "http://localhost:4000/recipes/rainbow-salad-with-bulgur-wheat-and-beans/",
+      "excerpt"		: "This is one of those recipes that started out as a ‘What can I make from what’s left in the kitchen?’ kind of creation, but has evolved into one of my go-to dishes when I’m looking for a simple healthy meal."
+    }
+  
+
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+    ,{
+      "title"			: "About Milk Mustache",
+      "link"			: "http://localhost:4000/about/",
+      "excerpt"		: "Hello! My name is Sarah and I don’t have a mustache, but I’m working on it. This is the place where I share my cooking adventures, big, small and in between."
+    }
+  
+
+  
+
+  
+
+  
+
+  
+
 ]

@@ -1,54 +1,638 @@
----
-layout: base
-search_omit: true
----
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
+<head>
+<meta charset="utf-8">
+<title>Milk Mustache</title>
 
-<div id="page">
+
+
+
+<!-- Twitter Cards -->
+<meta name="twitter:title" content="Milk Mustache">
+
+<meta name="twitter:site" content="@thejoyofeating">
+<meta name="twitter:creator" content="@thejoyofeating">
+
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="http://localhost:4000/images/site-logo.svg">
+
+<!-- Open Graph -->
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Milk Mustache">
+
+<meta property="og:url" content="http://localhost:4000/">
+<meta property="og:site_name" content="Milk Mustache">
+
+
+
+
+
+<link rel="canonical" href="http://localhost:4000/">
+<link href="http://localhost:4000/feed.xml" type="application/atom+xml" rel="alternate" title="Milk Mustache Feed">
+
+<!-- https://t.co/dKP3o1e -->
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="http://localhost:4000/assets/css/main.css">
+<!-- Webfonts -->
+  <script src="https://use.edgefonts.net/source-sans-pro:n2,i2,n3,i3,n4,i4,n6,i6,n7,i7,n9,i9;source-code-pro:n4,n7;volkhov.js"></script>
+
+  <meta http-equiv="cleartype" content="on">
+
+  <!-- HTML5 Shiv and Media Query Support -->
+  <!--[if lt IE 9]>
+    <script src="http://localhost:4000/assets/js/vendor/html5shiv.min.js"></script>
+    <script src="http://localhost:4000/assets/js/vendor/respond.min.js"></script>
+  <![endif]-->
+
+  <!-- Modernizr -->
+  <script src="http://localhost:4000/assets/js/vendor/modernizr-2.7.1.custom.min.js"></script>
+
+
+<!-- MathJax -->
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
+
+<!-- Icons -->
+<!-- 16x16, 24x24, 32x32, 48x48, 64x64 -->
+<link rel="shortcut icon" sizes="16x16 24x24 32x32 48x48 64x64" href="http://localhost:4000/images/site-logo.ico">
+<!-- 57x57 (precomposed) for iPhone 3GS, pre-2011 iPod Touch and older Android devices -->
+<link rel="apple-touch-icon-precomposed" sizes="57x57" href="http://localhost:4000/images/site-logo-57.png">
+<!-- 72x72 (precomposed) for 1st generation iPad, iPad 2 and iPad mini -->
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://localhost:4000/images/site-logo-72.png">
+<!-- 114x114 (precomposed) for iPhone 4, 4S, 5 and post-2011 iPod Touch -->
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://localhost:4000/images/site-logo-114.png">
+<!-- For iPhone with @2× display running iOS ≥ 7: -->
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="http://localhost:4000/images/site-logo-120.png">
+<!-- 144x144 (precomposed) for iPad 3rd and 4th generation -->
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://localhost:4000/images/site-logo-144.png">
+<!-- For iPad with @2× display running iOS ≥ 7: -->
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="http://localhost:4000/images/site-logo-152.png">
+<!-- For iPhone 6 Plus with @3× display: -->
+<link rel="apple-touch-icon-precomposed" sizes="180x180" href="http://localhost:4000/images/site-logo-180.png">
+<!-- For Chrome for Android: -->
+<link rel="icon" sizes="192x192" href="http://localhost:4000/images/site-logo-192.png">
+
+</head>
+
+<body id="base">
+
+<div class="navigation-wrapper">
+	<nav role="navigation" id="site-nav" class="animated drop">
+	    <ul>
+      
+		    
+		    <li><a href="http://localhost:4000/about/" >About</a></li>
+		  
+		    
+		    <li><a href="http://localhost:4000/recipes/" >Recipes</a></li>
+		  
+		    
+		    <li><a href="http://localhost:4000/search/" >Search</a></li>
+		  
+	    </ul>
+	</nav>
+</div><!-- /.navigation-wrapper -->
+
+<!--[if lt IE 9]><div class="upgrade"><strong><a href="http://whatbrowser.org/">Your browser is quite old!</strong> Why not upgrade to a different browser to better enjoy this site?</a></div><![endif]-->
+
+<header class="masthead">
+	<div class="wrap">
+      
+  		<a href="http://localhost:4000/" class="site-logo" rel="home" title="Milk Mustache"><img src="http://localhost:4000/images/site-logo.svg" width="200" height="200" alt="Milk Mustache logo" class="animated fadeInDown"></a>
+      
+      <h1 class="site-title animated fadeIn"><a href="http://localhost:4000/">Milk Mustache</a></h1>
+		<h2 class="site-description animated fadeIn" itemprop="description">The Joy of Eating</h2>
+	</div>
+</header><!-- /.masthead -->
+
+<div class="js-menu-screen menu-screen"></div>
+
+
+<div id="main" role="main">
+  <div id="page">
   <div class="entry">
 
-  {% for post in paginator.posts %}
-  {% if paginator.page == 1 and forloop.first == true %}
-    {% include thumbnail.html entry=post class="entry-thumbnail-feature" %}
-  {% elsif paginator.page == 1 and forloop.index >= 1 and forloop.index <= 4 %}
-    {% if forloop.index == 2 %}
-    <div class="entry-thumbnail-group">
-    {% endif %}
+  
+  
+    
 
-    {% include thumbnail.html entry=post class="entry-thumbnail-large" %}
+<article class="entry-thumbnail entry-thumbnail-feature">
+  <a href="http://localhost:4000/recipes/the-joy-of-oatmeal-and-breakfast/">
+    <div class="entry-thumbnail-image">
+      
 
-    {% if forloop.index == 4 %}
+
+<div class="image-group">
+  
+  
+    
+    
+
+<div class="image-container" style="flex: 1.3333333333333333 1 0%">
+  
+  <img src="http://localhost:4000/uploads/resized/posts/recipes/2015-07-09-the-joy-of-oatmeal-and-breakfast/2000/20150103_104353.jpg" alt="" srcset="          http://localhost:4000/uploads/resized/posts/recipes/2015-07-09-the-joy-of-oatmeal-and-breakfast/480/20150103_104353.jpg 480w,          http://localhost:4000/uploads/resized/posts/recipes/2015-07-09-the-joy-of-oatmeal-and-breakfast/620/20150103_104353.jpg 620w,          http://localhost:4000/uploads/resized/posts/recipes/2015-07-09-the-joy-of-oatmeal-and-breakfast/768/20150103_104353.jpg 768w,          http://localhost:4000/uploads/resized/posts/recipes/2015-07-09-the-joy-of-oatmeal-and-breakfast/1000/20150103_104353.jpg 1000w,          http://localhost:4000/uploads/resized/posts/recipes/2015-07-09-the-joy-of-oatmeal-and-breakfast/1400/20150103_104353.jpg 1400w,          http://localhost:4000/uploads/resized/posts/recipes/2015-07-09-the-joy-of-oatmeal-and-breakfast/2000/20150103_104353.jpg 2000w,     http://localhost:4000/uploads/posts/recipes/2015-07-09-the-joy-of-oatmeal-and-breakfast/20150103_104353.jpg 3264w">
+</div>
+
+  
+  
+</div>
+
     </div>
-    {% endif %}
-  {% elsif paginator.page == 1 and forloop.index == 5 %}
-    <div class="entry-wrapper">
-      <div class="entry-content">
-      {% include thumbnail.html entry=post class="entry-thumbnail-medium" %}
-  {% elsif paginator.page > 1 and forloop.first == true %}
-    <div class="entry-wrapper">
-      <div class="entry-content">
-      {% include thumbnail.html entry=post class="entry-thumbnail-medium" %}
-  {% else %}
-      {% include thumbnail.html entry=post class="entry-thumbnail-medium" %}
+    <div class="entry-thumbnail-text">
+      <div class="entry-thumbnail-title">
+        The Joy of Oatmeal, and Breakfast
+      </div>
+      <div class="entry-date">
+        <time datetime="2015-07-09T00:00:00-04:00">July 09, 2015</time>
+      </div>
+      
+      <div class="excerpt">
+        I was sitting in my local ramen place, Shinobi noodles, waiting for a bowl of tan tan men when I made a shocking discovery: Jesse doesn’t eat breakfast.
+      </div>
+      
+    </div>
+  </a>
+</article>
 
-    {% if forloop.last == true %}
+  
+  
+  
+    
+    <div class="entry-thumbnail-group">
+    
+
+    
+
+<article class="entry-thumbnail entry-thumbnail-large">
+  <a href="http://localhost:4000/recipes/lemon-curd-delicious-and-vegan/">
+    <div class="entry-thumbnail-image">
+      
+
+
+<div class="image-group">
+  
+  
+    
+    
+
+<div class="image-container" style="flex: 1.502709677419355 1 0%">
+  
+  <img src="http://localhost:4000/uploads/resized/posts/recipes/2015-05-30-lemon-curd-delicious-and-vegan/2000/DSC_0791.jpg" alt="" srcset="          http://localhost:4000/uploads/resized/posts/recipes/2015-05-30-lemon-curd-delicious-and-vegan/480/DSC_0791.jpg 480w,          http://localhost:4000/uploads/resized/posts/recipes/2015-05-30-lemon-curd-delicious-and-vegan/620/DSC_0791.jpg 620w,          http://localhost:4000/uploads/resized/posts/recipes/2015-05-30-lemon-curd-delicious-and-vegan/768/DSC_0791.jpg 768w,          http://localhost:4000/uploads/resized/posts/recipes/2015-05-30-lemon-curd-delicious-and-vegan/1000/DSC_0791.jpg 1000w,          http://localhost:4000/uploads/resized/posts/recipes/2015-05-30-lemon-curd-delicious-and-vegan/1400/DSC_0791.jpg 1400w,          http://localhost:4000/uploads/resized/posts/recipes/2015-05-30-lemon-curd-delicious-and-vegan/2000/DSC_0791.jpg 2000w,     http://localhost:4000/uploads/posts/recipes/2015-05-30-lemon-curd-delicious-and-vegan/DSC_0791.jpg 5823w">
+</div>
+
+  
+  
+</div>
+
+    </div>
+    <div class="entry-thumbnail-text">
+      <div class="entry-thumbnail-title">
+        Lemon Curd, Delicious and Vegan
+      </div>
+      <div class="entry-date">
+        <time datetime="2015-05-30T00:00:00-04:00">May 30, 2015</time>
+      </div>
+      
+      <div class="excerpt">
+        Memorial day weekend in New York city: after an unseasonably rainy month of May, summer heat has finally rolled in; it’s sultry out. On the stoops of Bushwick, locals hide in spots of shade, sipping iced drinks.
+      </div>
+      
+    </div>
+  </a>
+</article>
+
+
+    
+  
+  
+  
+    
+
+    
+
+<article class="entry-thumbnail entry-thumbnail-large">
+  <a href="http://localhost:4000/recipes/everybody-loves-jalape%C3%B1o-pineapple-cornbread/">
+    <div class="entry-thumbnail-image">
+      
+
+
+<div class="image-group">
+  
+  
+    
+    
+
+<div class="image-container" style="flex: 1.5822784810126582 1 0%">
+  
+  <img src="http://localhost:4000/uploads/resized/posts/recipes/2015-04-29-everybody-loves-jalapeno-pineapple-cornbread/2000/DSC_0122.jpg" alt="" srcset="          http://localhost:4000/uploads/resized/posts/recipes/2015-04-29-everybody-loves-jalapeno-pineapple-cornbread/480/DSC_0122.jpg 480w,          http://localhost:4000/uploads/resized/posts/recipes/2015-04-29-everybody-loves-jalapeno-pineapple-cornbread/620/DSC_0122.jpg 620w,          http://localhost:4000/uploads/resized/posts/recipes/2015-04-29-everybody-loves-jalapeno-pineapple-cornbread/768/DSC_0122.jpg 768w,          http://localhost:4000/uploads/resized/posts/recipes/2015-04-29-everybody-loves-jalapeno-pineapple-cornbread/1000/DSC_0122.jpg 1000w,          http://localhost:4000/uploads/resized/posts/recipes/2015-04-29-everybody-loves-jalapeno-pineapple-cornbread/1400/DSC_0122.jpg 1400w,          http://localhost:4000/uploads/resized/posts/recipes/2015-04-29-everybody-loves-jalapeno-pineapple-cornbread/2000/DSC_0122.jpg 2000w,     http://localhost:4000/uploads/posts/recipes/2015-04-29-everybody-loves-jalapeno-pineapple-cornbread/DSC_0122.jpg 6000w">
+</div>
+
+  
+  
+</div>
+
+    </div>
+    <div class="entry-thumbnail-text">
+      <div class="entry-thumbnail-title">
+        Everybody Loves Jalapeño & Pineapple Cornbread
+      </div>
+      <div class="entry-date">
+        <time datetime="2015-04-29T00:00:00-04:00">April 29, 2015</time>
+      </div>
+      
+      <div class="excerpt">
+        It’s another Tuesday in our topsy turvy Brooklyn apartment and Mike asks me to make cornbread…
+      </div>
+      
+    </div>
+  </a>
+</article>
+
+
+    
+  
+  
+  
+    
+
+    
+
+<article class="entry-thumbnail entry-thumbnail-large">
+  <a href="http://localhost:4000/recipes/roasted-sweet-potato-and-feta-salad/">
+    <div class="entry-thumbnail-image">
+      
+
+
+<div class="image-group">
+  
+  
+    
+    
+
+<div class="image-container" style="flex: 1.3333333333333333 1 0%">
+  
+  <img src="http://localhost:4000/" alt="" srcset="          http://localhost:4000/uploads/resized/posts/recipes/2014-04-07-roasted-sweet-potato-and-feta-salad/480/DSCF4307.jpg 480w,          http://localhost:4000/uploads/resized/posts/recipes/2014-04-07-roasted-sweet-potato-and-feta-salad/620/DSCF4307.jpg 620w,          http://localhost:4000/uploads/resized/posts/recipes/2014-04-07-roasted-sweet-potato-and-feta-salad/768/DSCF4307.jpg 768w,          http://localhost:4000/uploads/resized/posts/recipes/2014-04-07-roasted-sweet-potato-and-feta-salad/1000/DSCF4307.jpg 1000w,     http://localhost:4000/uploads/posts/recipes/2014-04-07-roasted-sweet-potato-and-feta-salad/DSCF4307.jpg 1200w">
+</div>
+
+  
+  
+</div>
+
+    </div>
+    <div class="entry-thumbnail-text">
+      <div class="entry-thumbnail-title">
+        Roasted Sweet Potato and Feta Salad
+      </div>
+      <div class="entry-date">
+        <time datetime="2014-04-07T00:00:00-04:00">April 07, 2014</time>
+      </div>
+      
+      <div class="excerpt">
+        Anyone who knows me well will be aware that I’m a salad fiend. They’re my favourite lunch, and my go-to food when I want a lazy dinner. My earliest kitchen memories are of spending, what felt like hours, laying out vegetables that my mother had sliced…
+      </div>
+      
+    </div>
+  </a>
+</article>
+
+
+    
+    </div>
+    
+  
+  
+  
+    <div class="entry-wrapper">
+      <div class="entry-content">
+      
+
+<article class="entry-thumbnail entry-thumbnail-medium">
+  <a href="http://localhost:4000/recipes/chocolate-chip-coconut-slices/">
+    <div class="entry-thumbnail-image">
+      
+
+
+<div class="image-group">
+  
+  
+    
+    
+
+<div class="image-container" style="flex: 1.3333333333333333 1 0%">
+  
+  <img src="http://localhost:4000/" alt="" srcset="          http://localhost:4000/uploads/resized/posts/recipes/2013-02-18-chocolate-chip-coconut-slices/480/DSCF0586.jpg 480w,          http://localhost:4000/uploads/resized/posts/recipes/2013-02-18-chocolate-chip-coconut-slices/620/DSCF0586.jpg 620w,          http://localhost:4000/uploads/resized/posts/recipes/2013-02-18-chocolate-chip-coconut-slices/768/DSCF0586.jpg 768w,          http://localhost:4000/uploads/resized/posts/recipes/2013-02-18-chocolate-chip-coconut-slices/1000/DSCF0586.jpg 1000w,     http://localhost:4000/uploads/posts/recipes/2013-02-18-chocolate-chip-coconut-slices/DSCF0586.jpg 1200w">
+</div>
+
+  
+  
+</div>
+
+    </div>
+    <div class="entry-thumbnail-text">
+      <div class="entry-thumbnail-title">
+        Chocolate Chip Coconut Slices
+      </div>
+      <div class="entry-date">
+        <time datetime="2013-02-18T00:00:00-05:00">February 18, 2013</time>
+      </div>
+      
+      <div class="excerpt">
+        There are so many recipes that I try once, and then never again. It’s not that there’s anything wrong with most of them per se - it’s just that once was enough to tick that experience box… been there done, done that, ate the canoli.
+      </div>
+      
+    </div>
+  </a>
+</article>
+
+  
+  
+  
+      
+
+<article class="entry-thumbnail entry-thumbnail-medium">
+  <a href="http://localhost:4000/recipes/make-these-brownies/">
+    <div class="entry-thumbnail-image">
+      
+
+
+<div class="image-group">
+  
+  
+    
+    
+
+<div class="image-container" style="flex: 1.4457831325301205 1 0%">
+  
+  <img src="http://localhost:4000/" alt="" srcset="          http://localhost:4000/uploads/resized/posts/recipes/2013-01-26-make-these-brownies/480/DSCF0306.jpg 480w,          http://localhost:4000/uploads/resized/posts/recipes/2013-01-26-make-these-brownies/620/DSCF0306.jpg 620w,          http://localhost:4000/uploads/resized/posts/recipes/2013-01-26-make-these-brownies/768/DSCF0306.jpg 768w,          http://localhost:4000/uploads/resized/posts/recipes/2013-01-26-make-these-brownies/1000/DSCF0306.jpg 1000w,     http://localhost:4000/uploads/posts/recipes/2013-01-26-make-these-brownies/DSCF0306.jpg 1200w">
+</div>
+
+  
+  
+</div>
+
+    </div>
+    <div class="entry-thumbnail-text">
+      <div class="entry-thumbnail-title">
+        Make these brownies!
+      </div>
+      <div class="entry-date">
+        <time datetime="2013-01-26T00:00:00-05:00">January 26, 2013</time>
+      </div>
+      
+      <div class="excerpt">
+        Brownies - simple, comforting, ever satisfying - who can fail to love the baker and bearer of brownies? Here’s a little secret those brownie bakers have been trying to hush up for years… brownies are incredibly simple to prepare (or at least they can be).
+      </div>
+      
+    </div>
+  </a>
+</article>
+
+
+    
+  
+  
+  
+      
+
+<article class="entry-thumbnail entry-thumbnail-medium">
+  <a href="http://localhost:4000/recipes/apricot-and-almond-truffles/">
+    <div class="entry-thumbnail-image">
+      
+
+
+<div class="image-group">
+  
+  
+    
+    
+
+<div class="image-container" style="flex: 1.3333333333333333 1 0%">
+  
+  <img src="http://localhost:4000/" alt="" srcset="          http://localhost:4000/uploads/resized/posts/recipes/2012-11-08-apricot-and-almond-truffles/480/DSCN1250.jpg 480w,          http://localhost:4000/uploads/resized/posts/recipes/2012-11-08-apricot-and-almond-truffles/620/DSCN1250.jpg 620w,          http://localhost:4000/uploads/resized/posts/recipes/2012-11-08-apricot-and-almond-truffles/768/DSCN1250.jpg 768w,          http://localhost:4000/uploads/resized/posts/recipes/2012-11-08-apricot-and-almond-truffles/1000/DSCN1250.jpg 1000w,     http://localhost:4000/uploads/posts/recipes/2012-11-08-apricot-and-almond-truffles/DSCN1250.jpg 1200w">
+</div>
+
+  
+  
+</div>
+
+    </div>
+    <div class="entry-thumbnail-text">
+      <div class="entry-thumbnail-title">
+        Apricot and Almond Truffles
+      </div>
+      <div class="entry-date">
+        <time datetime="2012-11-08T00:00:00-05:00">November 08, 2012</time>
+      </div>
+      
+      <div class="excerpt">
+        These apricot and almond truffles are soft bursts of fruitiness, bright orange parties for your tongue. Subtly sweet, smooth with a hint of nutty crunch, they are great to have on hand when you need a quick energy boost, or to tame a raging sweet tooth.
+      </div>
+      
+    </div>
+  </a>
+</article>
+
+
+    
+  
+  
+  
+      
+
+<article class="entry-thumbnail entry-thumbnail-medium">
+  <a href="http://localhost:4000/recipes/couscous-avocado-with-orange-and-avocado/">
+    <div class="entry-thumbnail-image">
+      
+
+
+<div class="image-group">
+  
+  
+    
+    
+
+<div class="image-container" style="flex: 1.3318534961154274 1 0%">
+  
+  <img src="http://localhost:4000/" alt="" srcset="          http://localhost:4000/uploads/resized/posts/recipes/2012-10-13-couscous-salad-with-orange-and-avocado/480/DSCF0202.jpg 480w,          http://localhost:4000/uploads/resized/posts/recipes/2012-10-13-couscous-salad-with-orange-and-avocado/620/DSCF0202.jpg 620w,          http://localhost:4000/uploads/resized/posts/recipes/2012-10-13-couscous-salad-with-orange-and-avocado/768/DSCF0202.jpg 768w,          http://localhost:4000/uploads/resized/posts/recipes/2012-10-13-couscous-salad-with-orange-and-avocado/1000/DSCF0202.jpg 1000w,     http://localhost:4000/uploads/posts/recipes/2012-10-13-couscous-salad-with-orange-and-avocado/DSCF0202.jpg 1200w">
+</div>
+
+  
+  
+</div>
+
+    </div>
+    <div class="entry-thumbnail-text">
+      <div class="entry-thumbnail-title">
+        Couscous Salad with Orange and Avocado
+      </div>
+      <div class="entry-date">
+        <time datetime="2012-10-13T00:00:00-04:00">October 13, 2012</time>
+      </div>
+      
+      <div class="excerpt">
+        Let’s talk about orange and avocado - two foods just begging to be served together, and yet before I accidentally created this salad from the dregs of my larder, I never knew.  Orange’s sweet tanginess is the perfect counterpoint for the creaminess of avocado.
+      </div>
+      
+    </div>
+  </a>
+</article>
+
+
+    
+  
+  
+  
+      
+
+<article class="entry-thumbnail entry-thumbnail-medium">
+  <a href="http://localhost:4000/recipes/chocolate-celebration-cake-with-finger-biscuits/">
+    <div class="entry-thumbnail-image">
+      
+
+
+<div class="image-group">
+  
+  
+    
+    
+
+<div class="image-container" style="flex: 1.3574660633484164 1 0%">
+  
+  <img src="http://localhost:4000/" alt="" srcset="          http://localhost:4000/uploads/resized/posts/recipes/2012-09-25-chocolate-celebration-cake-with-finger-biscuits/480/DSCN1321.jpg 480w,          http://localhost:4000/uploads/resized/posts/recipes/2012-09-25-chocolate-celebration-cake-with-finger-biscuits/620/DSCN1321.jpg 620w,          http://localhost:4000/uploads/resized/posts/recipes/2012-09-25-chocolate-celebration-cake-with-finger-biscuits/768/DSCN1321.jpg 768w,          http://localhost:4000/uploads/resized/posts/recipes/2012-09-25-chocolate-celebration-cake-with-finger-biscuits/1000/DSCN1321.jpg 1000w,     http://localhost:4000/uploads/posts/recipes/2012-09-25-chocolate-celebration-cake-with-finger-biscuits/DSCN1321.jpg 1200w">
+</div>
+
+  
+  
+</div>
+
+    </div>
+    <div class="entry-thumbnail-text">
+      <div class="entry-thumbnail-title">
+        Chocolate Celebration Cake with Finger Biscuits
+      </div>
+      <div class="entry-date">
+        <time datetime="2012-09-25T00:00:00-04:00">September 25, 2012</time>
+      </div>
+      
+      <div class="excerpt">
+        This is the recipe I turn to when I want to impress, seduce, or otherwise bake my way into people’s good books. It is the death-by-chocolate cake that every chocolate cake lounging languorously behind the glass of cafe counters promises to be, but so rarely is.
+      </div>
+      
+    </div>
+  </a>
+</article>
+
+
+    
+  
+  
+  
+      
+
+<article class="entry-thumbnail entry-thumbnail-medium">
+  <a href="http://localhost:4000/recipes/date-nut-truffles/">
+    <div class="entry-thumbnail-image">
+      
+
+
+<div class="image-group">
+  
+  
+    
+    
+
+<div class="image-container" style="flex: 1.3333333333333333 1 0%">
+  
+  <img src="http://localhost:4000/" alt="" srcset="          http://localhost:4000/uploads/resized/posts/recipes/2012-05-30-date-nut-truffles/480/DSCN1295a.jpg 480w,          http://localhost:4000/uploads/resized/posts/recipes/2012-05-30-date-nut-truffles/620/DSCN1295a.jpg 620w,          http://localhost:4000/uploads/resized/posts/recipes/2012-05-30-date-nut-truffles/768/DSCN1295a.jpg 768w,          http://localhost:4000/uploads/resized/posts/recipes/2012-05-30-date-nut-truffles/1000/DSCN1295a.jpg 1000w,     http://localhost:4000/uploads/posts/recipes/2012-05-30-date-nut-truffles/DSCN1295a.jpg 1200w">
+</div>
+
+  
+  
+</div>
+
+    </div>
+    <div class="entry-thumbnail-text">
+      <div class="entry-thumbnail-title">
+        Date Nut Truffles
+      </div>
+      <div class="entry-date">
+        <time datetime="2012-05-30T00:00:00-04:00">May 30, 2012</time>
+      </div>
+      
+      <div class="excerpt">
+        Date nut truffles, fudgy, flavourful, and oh so good for you… These truffles have some impressive stats: vegan, raw if you buy the ingredients with care, sweetened with dates, full of healthy nut oils… and yes, delicious.
+      </div>
+      
+    </div>
+  </a>
+</article>
+
+
+    
       </div><!-- /.entry-content -->
 
       <!-- Pagination links -->
       <div class="pagination">
-        {% if paginator.previous_page %}
-        <a href="{{ paginator.previous_page_path }}" class="previous btn">Newer Posts <i class="fa fa-chevron-right fa-fw" aria-hidden="true"></i>
-        </a>
-        {% endif %}
-        {% if paginator.next_page %}
-        <a href="{{ paginator.next_page_path }}" class="next btn"><i class="fa fa-chevron-left fa-fw" aria-hidden="true"></i> Older Posts</a>
-        {% endif %}
+        
+        
+        <a href="/page2" class="next btn"><i class="fa fa-chevron-left fa-fw" aria-hidden="true"></i> Older Posts</a>
+        
       </div><!-- /.pagination -->
 
     </div><!-- /.entry-wrapper -->
-    {% endif %}
-  {% endif %}
-  {% endfor %}
+    
+  
+  
 
   </div>
 </div>
 
+
+</div><!-- /#main -->
+
+<div class="footer-wrapper">
+  <footer role="contentinfo" class="entry-wrapper">
+    
+
+<span>&copy; 2016 Sarah Quigley. Powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a>.</span>
+<div class="social-icons">
+	<a href="https://twitter.com/thejoyofeating" title="Sarah Quigley on Twitter" target="_blank"><i class="fa fa-twitter-square fa-2x"></i></a>
+	<a href="https://facebook.com/thejoyofeating" title="Sarah Quigley on Facebook" target="_blank"><i class="fa fa-facebook-square fa-2x"></i></a>
+	
+	
+	
+	<a href="https://instagram.com/ohmilkmustache" title="Sarah Quigley on Instagram" target="_blank"><i class="fa fa-instagram fa-2x"></i></a>
+	
+	<a href="https://github.com/sarahquigley" title="Sarah Quigley on Github" target="_blank"><i class="fa fa-github-square fa-2x"></i></a>
+	
+  <a href="https://www.pinterest.com/ohmilkmustache/" title="Sarah Quigley on Pinterest" target="_blank"><i class="fa fa-pinterest fa-2x"></i></a>
+	
+	<a href="https://soundcloud.com/sarah-quigley-542895767" title="Sarah Quigley on Soundcloud" target="_blank"><i class="fa fa-soundcloud fa-2x"></i></a>
+	<a href="https://medium.com/@{ site.owner.medium }}" title="Sarah Quigley on Medium" target="_blank"><i class="fa fa-medium fa-2x"></i></a>
+  <a href="http://localhost:4000/feed.xml" title="Atom/RSS feed"><i class="fa fa-rss-square fa-2x"></i></a>
+</div><!-- /.social-icons -->
+
+  </footer>
+</div><!-- /.footer-wrapper -->
+
+<script type="text/javascript">
+  var BASE_URL = 'http://localhost:4000';
+</script>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="http://localhost:4000/assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
+<script src="http://localhost:4000/assets/js/scripts.min.js"></script>
+
+
+
+
+</body>
+</html>

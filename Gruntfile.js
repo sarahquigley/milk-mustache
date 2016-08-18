@@ -59,6 +59,12 @@ module.exports = function(grunt) {
       dist: [
         'assets/js/scripts.min.js'
       ]
+    },
+    'gh-pages': {
+      options: {
+        base: '_site'
+      },
+      src: ['**']
     }
   });
 

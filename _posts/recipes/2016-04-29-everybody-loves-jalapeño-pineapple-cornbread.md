@@ -2,7 +2,7 @@
 layout: post
 title: "Everybody Loves Jalapeño & Pineapple Cornbread"
 image-title: "Everybody Loves Jalapeno & Pineapple Cornbread"
-excerpt: "It’s another Tuesday in our topsy turvy Brooklyn apartment and Mike asks me to make cornbread..."
+excerpt: "It’s another Tuesday in our topsy turvy Brooklyn apartment and Mike asks me to make cornbread — or I should say more cornbread. Just the night before, we had polished off a batch, companion to a pot of use-up-the carrots-that-have-been-in-the-freezer-too-long lentil soup."
 category: recipes
 tags: [bread, baking, cornbread]
 image:

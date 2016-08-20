@@ -1,5 +1,6 @@
 'use strict';
 module.exports = function(grunt) {
+  require('load-grunt-tasks')(grunt);
 
   grunt.initConfig({
     jshint: {
@@ -67,14 +68,6 @@ module.exports = function(grunt) {
       src: ['**']
     }
   });
-
-  // Load tasks
-  grunt.loadNpmTasks('grunt-contrib-clean');
-  grunt.loadNpmTasks('grunt-contrib-jshint');
-  grunt.loadNpmTasks('grunt-contrib-uglify');
-  grunt.loadNpmTasks('grunt-contrib-watch');
-  grunt.loadNpmTasks('grunt-contrib-imagemin');
-  grunt.loadNpmTasks('grunt-svgmin');
 
   // Register tasks
   grunt.registerTask('default', [

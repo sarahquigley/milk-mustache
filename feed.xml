@@ -4,7 +4,7 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml" />
 <link rel="alternate" type="text/html" href="http://localhost:4000" />
-<updated>2016-08-18T18:10:49-04:00</updated>
+<updated>2016-08-19T21:10:58-04:00</updated>
 <id>http://localhost:4000/</id>
 <author>
   <name>Sarah Quigley</name>
@@ -436,9 +436,9 @@
 
 
 <entry>
-  <title type="html"><![CDATA[Make these brownies!]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/recipes/make-these-brownies/" />
-  <id>http://localhost:4000/recipes/make-these-brownies</id>
+  <title type="html"><![CDATA[Let's Make Brownies]]></title>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/recipes/let-s-make-brownies/" />
+  <id>http://localhost:4000/recipes/let-s-make-brownies</id>
   <published>2013-01-26T00:00:00-05:00</published>
   <updated>2013-01-26T00:00:00-05:00</updated>
   <author>
@@ -447,26 +447,11 @@
     <email>sarah+milk-mustache@sarahquigley.net</email>
   </author>
   <content type="html">
-    &lt;p class=&quot;dropcap&quot;&gt;Brownies - simple, comforting, ever satisfying - who can fail to love the baker and bearer of brownies? Here’s a little secret those brownie bakers have been trying to hush up for years… brownies are incredibly simple to prepare (or at least they can be). The recipe I’m going to share with you here is one of the quickest and easiest I’ve come across - and also one of the best.&lt;/p&gt;
+    &lt;blockquote&gt;
+  &lt;p&gt;“And when all of the flourless chocolate cakes &amp;amp; chocolate mousse or ganache cakes have come and gone, there will still be nothing like a fudgy brownie, dry &amp;amp; crackled on top, moist &amp;amp; dense within, with a glass of cold milk.” ― Richard Sax&lt;/p&gt;
+&lt;/blockquote&gt;
 
-&lt;div class=&quot;image-group&quot;&gt;
-  
-  
-    
-    
-
-&lt;div class=&quot;image-container&quot; style=&quot;flex: 1.4457831325301205 1 0%&quot;&gt;
-  
-  &lt;img src=&quot;http://localhost:4000/&quot; alt=&quot;&quot; srcset=&quot;          http://localhost:4000/uploads/resized/posts/recipes/2013-01-26-make-these-brownies/480/DSCF0306.jpg 480w,          http://localhost:4000/uploads/resized/posts/recipes/2013-01-26-make-these-brownies/620/DSCF0306.jpg 620w,          http://localhost:4000/uploads/resized/posts/recipes/2013-01-26-make-these-brownies/768/DSCF0306.jpg 768w,          http://localhost:4000/uploads/resized/posts/recipes/2013-01-26-make-these-brownies/1000/DSCF0306.jpg 1000w,     http://localhost:4000/uploads/posts/recipes/2013-01-26-make-these-brownies/DSCF0306.jpg 1200w&quot; /&gt;
-&lt;/div&gt;
-
-  
-  
-&lt;/div&gt;
-
-&lt;p&gt;I should take a moment to thank Deb Perelman of Smitten Kitchen. Deb’s recipe blog is truly inspiring, one of the best the internet has to offer… and it is from her favourite brownies that I have adapted this recipe. I’m extra grateful because these brownies have saved me time and time again in those ‘emergencies’ when I’ve promised baked goods, but failed at shopping/time management.&lt;/p&gt;
-
-&lt;p&gt;At times like that, this recipe makes me extra happy. Why? Seven ingredients, and for me at least, ingredients I almost always have around the house. Why? Twenty minutes, and they’re in the oven, filling the kitchen with warm scents of home-baking. Yay! Another twenty minutes or so later, and boom - brownies… tasty tasty brownies and a satisfying sense of accomplishment.&lt;/p&gt;
+&lt;p class=&quot;dropcap&quot;&gt;Join me on a January afternoon in Vancouver, British Columbia, sidewalks turning slick with rain. Vancouver doesn’t mess about ― none of those non-commital Irish days here, teasing you with damp and drizzle. I cycle home, rain-spattered despite a raincoat, hair wind-swept into a giant mane of unmanageable blond frizz. They call me the Lion (if only).&lt;/p&gt;
 
 &lt;div class=&quot;image-group&quot;&gt;
   
@@ -476,16 +461,14 @@
 
 &lt;div class=&quot;image-container&quot; style=&quot;flex: 1.3333333333333333 1 0%&quot;&gt;
   
-  &lt;img src=&quot;http://localhost:4000/&quot; alt=&quot;&quot; srcset=&quot;          http://localhost:4000/uploads/resized/posts/recipes/2013-01-26-make-these-brownies/480/DSCF0243.jpg 480w,          http://localhost:4000/uploads/resized/posts/recipes/2013-01-26-make-these-brownies/620/DSCF0243.jpg 620w,          http://localhost:4000/uploads/resized/posts/recipes/2013-01-26-make-these-brownies/768/DSCF0243.jpg 768w,          http://localhost:4000/uploads/resized/posts/recipes/2013-01-26-make-these-brownies/1000/DSCF0243.jpg 1000w,     http://localhost:4000/uploads/posts/recipes/2013-01-26-make-these-brownies/DSCF0243.jpg 1200w&quot; /&gt;
+  &lt;img src=&quot;http://localhost:4000/uploads/resized/posts/recipes/2013-01-26-let-s-make-brownies/2000/DSCF0299.jpg&quot; alt=&quot;&quot; srcset=&quot;          http://localhost:4000/uploads/resized/posts/recipes/2013-01-26-let-s-make-brownies/480/DSCF0299.jpg 480w,          http://localhost:4000/uploads/resized/posts/recipes/2013-01-26-let-s-make-brownies/620/DSCF0299.jpg 620w,          http://localhost:4000/uploads/resized/posts/recipes/2013-01-26-let-s-make-brownies/768/DSCF0299.jpg 768w,          http://localhost:4000/uploads/resized/posts/recipes/2013-01-26-let-s-make-brownies/1000/DSCF0299.jpg 1000w,          http://localhost:4000/uploads/resized/posts/recipes/2013-01-26-let-s-make-brownies/1400/DSCF0299.jpg 1400w,          http://localhost:4000/uploads/resized/posts/recipes/2013-01-26-let-s-make-brownies/2000/DSCF0299.jpg 2000w,     http://localhost:4000/uploads/posts/recipes/2013-01-26-let-s-make-brownies/DSCF0299.jpg 2500w&quot; /&gt;
 &lt;/div&gt;
 
   
   
 &lt;/div&gt;
 
-&lt;p&gt;Extra bonus, these brownies (like most brownies) are cooled in the pan, so they can travel with you, fresh from the oven. No need to resort to that (lame?) excuse, ‘I was late because my &lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;_ had to cool before I glazed it’. I think I may have actually used that one at some point.&lt;/p&gt;
-
-&lt;p&gt;There’s a decadence to the preparation of brownies that I love: cracking the chocolate, cutting the butter, watching them melt together until they meld in thick smooth chocolate glory… whisking and stirring and mixing and pouring. Mmmm.&lt;/p&gt;
+&lt;p&gt;I’m barely in the door, when you arrive, umbrella armed, gumboot shod, just a little dripping. The house is all creaks. We make tea, hot hot tea. We drizzle it with honey, because we can. Drops patter against the roof, and it’s almost musical. You sing something silly about rain. I do too. You tell me days like this call for a hot oven full of home-baked somethings, comfort food. I agree. ‘How about cookies?’, I say. ‘How about brownies?’, say you.&lt;/p&gt;
 
 &lt;div class=&quot;image-group&quot;&gt;
   
@@ -495,23 +478,12 @@
 
 &lt;div class=&quot;image-container&quot; style=&quot;flex: 1.3333333333333333 1 0%&quot;&gt;
   
-  &lt;img src=&quot;http://localhost:4000/&quot; alt=&quot;&quot; srcset=&quot;          http://localhost:4000/uploads/resized/posts/recipes/2013-01-26-make-these-brownies/480/DSCF0288.jpg 480w,          http://localhost:4000/uploads/resized/posts/recipes/2013-01-26-make-these-brownies/620/DSCF0288.jpg 620w,          http://localhost:4000/uploads/resized/posts/recipes/2013-01-26-make-these-brownies/768/DSCF0288.jpg 768w,          http://localhost:4000/uploads/resized/posts/recipes/2013-01-26-make-these-brownies/1000/DSCF0288.jpg 1000w,     http://localhost:4000/uploads/posts/recipes/2013-01-26-make-these-brownies/DSCF0288.jpg 1200w&quot; /&gt;
-&lt;/div&gt;
-
-  
-    
-    
-
-&lt;div class=&quot;image-container&quot; style=&quot;flex: 1.3333333333333333 1 0%&quot;&gt;
-  
-  &lt;img src=&quot;http://localhost:4000/&quot; alt=&quot;&quot; srcset=&quot;          http://localhost:4000/uploads/resized/posts/recipes/2013-01-26-make-these-brownies/480/DSCF0282.jpg 480w,          http://localhost:4000/uploads/resized/posts/recipes/2013-01-26-make-these-brownies/620/DSCF0282.jpg 620w,          http://localhost:4000/uploads/resized/posts/recipes/2013-01-26-make-these-brownies/768/DSCF0282.jpg 768w,          http://localhost:4000/uploads/resized/posts/recipes/2013-01-26-make-these-brownies/1000/DSCF0282.jpg 1000w,     http://localhost:4000/uploads/posts/recipes/2013-01-26-make-these-brownies/DSCF0282.jpg 1200w&quot; /&gt;
+  &lt;img src=&quot;http://localhost:4000/&quot; alt=&quot;&quot; srcset=&quot;          http://localhost:4000/uploads/resized/posts/recipes/2013-01-26-let-s-make-brownies/480/DSCF0288.jpg 480w,          http://localhost:4000/uploads/resized/posts/recipes/2013-01-26-let-s-make-brownies/620/DSCF0288.jpg 620w,          http://localhost:4000/uploads/resized/posts/recipes/2013-01-26-let-s-make-brownies/768/DSCF0288.jpg 768w,          http://localhost:4000/uploads/resized/posts/recipes/2013-01-26-let-s-make-brownies/1000/DSCF0288.jpg 1000w,     http://localhost:4000/uploads/posts/recipes/2013-01-26-let-s-make-brownies/DSCF0288.jpg 1200w&quot; /&gt;
 &lt;/div&gt;
 
   
   
 &lt;/div&gt;
-
-&lt;p&gt;I’m not ashamed to admit that I lick the wooden spoon - and the wire whisk - and sometimes even the last scrapings from the bottom of the mixing bowl. I eat the crumbs too - the crumbs that stick to the knife, and the baking paper… that are left on the cutting board after slicing the fudgey treats. I’m not ashamed one bit -  these are the little joys that life is made of.&lt;/p&gt;
 
 &lt;div class=&quot;image-group&quot;&gt;
   
@@ -521,16 +493,42 @@
 
 &lt;div class=&quot;image-container&quot; style=&quot;flex: 1.3333333333333333 1 0%&quot;&gt;
   
-  &lt;img src=&quot;http://localhost:4000/&quot; alt=&quot;&quot; srcset=&quot;          http://localhost:4000/uploads/resized/posts/recipes/2013-01-26-make-these-brownies/480/DSCF0314.jpg 480w,          http://localhost:4000/uploads/resized/posts/recipes/2013-01-26-make-these-brownies/620/DSCF0314.jpg 620w,          http://localhost:4000/uploads/resized/posts/recipes/2013-01-26-make-these-brownies/768/DSCF0314.jpg 768w,          http://localhost:4000/uploads/resized/posts/recipes/2013-01-26-make-these-brownies/1000/DSCF0314.jpg 1000w,     http://localhost:4000/uploads/posts/recipes/2013-01-26-make-these-brownies/DSCF0314.jpg 1200w&quot; /&gt;
+  &lt;img src=&quot;http://localhost:4000/&quot; alt=&quot;&quot; srcset=&quot;          http://localhost:4000/uploads/resized/posts/recipes/2013-01-26-let-s-make-brownies/480/DSCF0243.jpg 480w,          http://localhost:4000/uploads/resized/posts/recipes/2013-01-26-let-s-make-brownies/620/DSCF0243.jpg 620w,          http://localhost:4000/uploads/resized/posts/recipes/2013-01-26-let-s-make-brownies/768/DSCF0243.jpg 768w,          http://localhost:4000/uploads/resized/posts/recipes/2013-01-26-let-s-make-brownies/1000/DSCF0243.jpg 1000w,     http://localhost:4000/uploads/posts/recipes/2013-01-26-let-s-make-brownies/DSCF0243.jpg 1200w&quot; /&gt;
+&lt;/div&gt;
+
+  
+    
+    
+
+&lt;div class=&quot;image-container&quot; style=&quot;flex: 1.3333333333333333 1 0%&quot;&gt;
+  
+  &lt;img src=&quot;http://localhost:4000/&quot; alt=&quot;&quot; srcset=&quot;          http://localhost:4000/uploads/resized/posts/recipes/2013-01-26-let-s-make-brownies/480/DSCF0282.jpg 480w,          http://localhost:4000/uploads/resized/posts/recipes/2013-01-26-let-s-make-brownies/620/DSCF0282.jpg 620w,          http://localhost:4000/uploads/resized/posts/recipes/2013-01-26-let-s-make-brownies/768/DSCF0282.jpg 768w,          http://localhost:4000/uploads/resized/posts/recipes/2013-01-26-let-s-make-brownies/1000/DSCF0282.jpg 1000w,     http://localhost:4000/uploads/posts/recipes/2013-01-26-let-s-make-brownies/DSCF0282.jpg 1200w&quot; /&gt;
 &lt;/div&gt;
 
   
   
 &lt;/div&gt;
 
-&lt;p&gt;Having now thoroughly confessed my sins, and more than adequately expressed the ardency of my love for (these) brownies, here, at last is the recipe.&lt;/p&gt;
+&lt;p&gt;Oh the interminable battle of cookie and brownie ― and maybe it’s imagining pulling the tray from the oven, digging our spoons into that hidden treasure, so tender, soft and oozing  ― or the thought of the scent, that embodiment of warmth and comfort, suffusing our house? Or maybe it’s the appeal just pouring batter in pan, lazy winter days call for lazy winter desserts after all… whatever it is, brownies win today.&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/recipes/make-these-brownies/&quot;&gt;Make these brownies!&lt;/a&gt; was originally published by Sarah Quigley at &lt;a href=&quot;http://localhost:4000&quot;&gt;Milk Mustache&lt;/a&gt; on January 26, 2013.&lt;/p&gt;
+&lt;div class=&quot;image-group&quot;&gt;
+  
+  
+    
+    
+
+&lt;div class=&quot;image-container&quot; style=&quot;flex: 1.3333333333333333 1 0%&quot;&gt;
+  
+  &lt;img src=&quot;http://localhost:4000/&quot; alt=&quot;&quot; srcset=&quot;          http://localhost:4000/uploads/resized/posts/recipes/2013-01-26-let-s-make-brownies/480/DSCF0314.jpg 480w,          http://localhost:4000/uploads/resized/posts/recipes/2013-01-26-let-s-make-brownies/620/DSCF0314.jpg 620w,          http://localhost:4000/uploads/resized/posts/recipes/2013-01-26-let-s-make-brownies/768/DSCF0314.jpg 768w,          http://localhost:4000/uploads/resized/posts/recipes/2013-01-26-let-s-make-brownies/1000/DSCF0314.jpg 1000w,     http://localhost:4000/uploads/posts/recipes/2013-01-26-let-s-make-brownies/DSCF0314.jpg 1200w&quot; /&gt;
+&lt;/div&gt;
+
+  
+  
+&lt;/div&gt;
+
+&lt;p&gt;Join me on this dim grey frigid day; or if you can’t face the wet or the rain, if your cat’s caught a cold, and you have too, invite me around,  I’ll bring the baking supplies. Let’s make brownies. Here’s a recipe. It’s a good one, simple too. Let’s do it.&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/recipes/let-s-make-brownies/&quot;&gt;Let's Make Brownies&lt;/a&gt; was originally published by Sarah Quigley at &lt;a href=&quot;http://localhost:4000&quot;&gt;Milk Mustache&lt;/a&gt; on January 26, 2013.&lt;/p&gt;
   </content>
 </entry>
 

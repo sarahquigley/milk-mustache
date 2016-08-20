@@ -42,9 +42,9 @@
 
   
     ,{
-      "title"			: "Make these brownies!",
-      "link"			: "http://localhost:4000/recipes/make-these-brownies/",
-      "excerpt"		: "Brownies - simple, comforting, ever satisfying - who can fail to love the baker and bearer of brownies? Here’s a little secret those brownie bakers have been trying to hush up for years… brownies are incredibly simple to prepare (or at least they can be)."
+      "title"			: "Let's Make Brownies",
+      "link"			: "http://localhost:4000/recipes/let-s-make-brownies/",
+      "excerpt"		: "Join me on a January afternoon in Vancouver, British Columbia, sidewalks turning slick with rain. Vancouver doesn’t mess about ― none of those non-commital Irish days here, teasing you with damp and drizzle."
     }
   
 

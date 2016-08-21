@@ -37,11 +37,13 @@ recipe:
         - Good quality dark chocolate, minimum 60% cocoa content (25 - 50 g per 5 truffles)
         - Chopped walnuts (garnish)
   method:
-    - Blend all the ingredients (except coatings) in a food processor until they form a ball of thick dough. Roll the dough into small balls. Enjoy the truffles nude, or for some fancier options, try out one or more of the coatings described in detail below.
-    - "Coating 1, Chopped nuts: Roll each ball in chopped nuts until thoroughly coated. Brush off any loose nuts. This is easiest when the truffle balls are a just little soft and warm."
-    - "Coating 2, Cocoa powder: Lightly roll truffles in cocoa powder until thoroughly coated. This works well with either warm or refrigerated truffle balls."
-    - "Coating 3, Dark chocolate with walnut garnish: In a small bowl, over a pot of boiling water, melt some dark chocolate. Using a toothpick or skewer, dip each ball in the chocolate until it is thoroughly coated. (This is easiest with truffle balls that have been refrigerated). Use a spoon to coat any hard to reach areas. Place each truffle on a greaseproof paper covered plate or sheet pan, and garnish with a piece of chopped walnut. Refrigerate until the chocolate has hardened."
-    - These truffles are best stored in the refrigerator, and are at their most fudgy and delicious when served a little cold.
+    main:
+      steps:
+        - Blend all the ingredients (except coatings) in a food processor until they form a ball of thick dough. Roll the dough into small balls. Enjoy the truffles nude, or for some fancier options, try out one or more of the coatings described in detail below.
+        - "Coating 1, Chopped nuts: Roll each ball in chopped nuts until thoroughly coated. Brush off any loose nuts. This is easiest when the truffle balls are a just little soft and warm."
+        - "Coating 2, Cocoa powder: Lightly roll truffles in cocoa powder until thoroughly coated. This works well with either warm or refrigerated truffle balls."
+        - "Coating 3, Dark chocolate with walnut garnish: In a small bowl, over a pot of boiling water, melt some dark chocolate. Using a toothpick or skewer, dip each ball in the chocolate until it is thoroughly coated. (This is easiest with truffle balls that have been refrigerated). Use a spoon to coat any hard to reach areas. Place each truffle on a greaseproof paper covered plate or sheet pan, and garnish with a piece of chopped walnut. Refrigerate until the chocolate has hardened."
+        - These truffles are best stored in the refrigerator, and are at their most fudgy and delicious when served a little cold.
   variations:
     - Use another nut of your choice in place of walnuts in the truffle mixture. Pecans or hazelnuts sound like tempting alternatives to me.
     - Stir some dark chocolate chips into to the truffle mixture for greater decadence.

@@ -38,10 +38,12 @@ recipe:
         - A sprinkling of nuts and / or seeds (optional)
         - A spoonful of honey or jam (optional)
   method:
-    - Into a medium pot, measure oats, water and / or milk. Add raisins and flax seeds.
-    - Bring oatmeal to a gentle simmer. Cook until thick and creamy, stirring frequently to ensure it doesn’t stick to the bottom of the pot.
-    - Transfer oatmeal to serving bowl(s).
-    - Top oatmeal with fresh fruit. Dollop on nut butter. If using, sprinkle on nuts and / or seeds, spoon on jam or drizzle on honey.
+    main:
+      steps:
+        - Into a medium pot, measure oats, water and / or milk. Add raisins and flax seeds.
+        - Bring oatmeal to a gentle simmer. Cook until thick and creamy, stirring frequently to ensure it doesn’t stick to the bottom of the pot.
+        - Transfer oatmeal to serving bowl(s).
+        - Top oatmeal with fresh fruit. Dollop on nut butter. If using, sprinkle on nuts and / or seeds, spoon on jam or drizzle on honey.
   variations:
     - "This is a very loose recipe, leaving lots of wiggle room for you to tailor it to your personal taste:"
     - Replace (or supplement) mix-ins with other types of dried fruit, nuts or seeds. Dried apricots are particularly delicious.
@@ -56,12 +58,9 @@ I was sitting in my local ramen place, Shinobi noodles, waiting for a bowl of ta
 {% include image-group.html images="20140415_093359.jpg" entry=page %}
 {% include image-group.html images="20150104_114113.jpg 20140501_085414.jpg 20150111_122726.jpg" entry=page %}
 
-> “When you wake up in the morning, Pooh,” said Piglet at last, “what’s the first thing you say to yourself?”
->
-> “What’s for breakfast?” said Pooh. “What do you say, Piglet?”
->
-> “I say, I wonder what’s going to happen exciting today?” said Piglet.
->
+> “When you wake up in the morning, Pooh,” said Piglet at last, “what’s the first thing you say to yourself?”\\
+> “What’s for breakfast?” said Pooh. “What do you say, Piglet?”\\
+> “I say, I wonder what’s going to happen exciting today?” said Piglet.\\
 > Pooh nodded thoughtfully. “It’s the same thing,” he said.”
 >
 > ― Winnie the Pooh, by A. A. Milne

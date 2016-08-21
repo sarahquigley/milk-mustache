@@ -48,10 +48,12 @@ recipe:
         - 1 tbsp whole-grain mustard
         - Salt and pepper, to taste
   method:
-    - Preheat oven to 180ºC (350°F). Toss sweet potatoes in olive and sunflower oil, and season with thyme and a little salt. Roast sweet potatoes for 20 - 30 minutes, until soft, and a lightly crisped and browned. Remove them from the oven, and allow them to cool.
-    - While sweet potatoes roast, divide spinach, rocket, and lettuce between two bowls or plates. Top each bowl with half the cucumber, pepper and tomatoes.
-    - Prepare the dressing by whisking together lemon juice, oil, honey and mustard, then seasoning to taste.
-    - When sweet potatoes are cool, divide them between the two bowls. Top each bowl with the crumbled feta and scallions. Drizzle half the dressing over each salad.
+    main:
+      steps:
+        - Preheat oven to 180ºC (350°F). Toss sweet potatoes in olive and sunflower oil, and season with thyme and a little salt. Roast sweet potatoes for 20 - 30 minutes, until soft, and a lightly crisped and browned. Remove them from the oven, and allow them to cool.
+        - While sweet potatoes roast, divide spinach, rocket, and lettuce between two bowls or plates. Top each bowl with half the cucumber, pepper and tomatoes.
+        - Prepare the dressing by whisking together lemon juice, oil, honey and mustard, then seasoning to taste.
+        - When sweet potatoes are cool, divide them between the two bowls. Top each bowl with the crumbled feta and scallions. Drizzle half the dressing over each salad.
   variations:
     - Looking for something a little more filling? Top the salad with grilled chicken or add some nuts or seeds.
     - Substitute dried apricots with another type of dried fruit. Dried figs or dates could both be excellent.

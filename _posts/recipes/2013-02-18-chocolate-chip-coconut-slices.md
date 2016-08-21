@@ -34,10 +34,12 @@ recipe:
         - 100 g (3.5 ounces / ~¾ cup) dark chocolate (70% cocoa content), chopped into chips (or ready made chocolate chips)
         - 75 g (2.6 ounces / ~½ cup) white chocolate chips
   method:
-    - Preheat oven to 180ºC (350ºF). Line a 20 or 23 cm (8 or 9 inch) round pan with parchment paper (or aluminium foil), and butter the parchment.
-    - In a heatproof bowl over a pot of simmering water, melt the butter. Remove the bowl from the heat and stir in both types of sugar. Allow the mixture to cool a little (about 5 minutes), then stir in egg, flour and coconut. Fold in chocolate chips.
-    - Pour the mixture into the prepared baking pan, sprinkle a few extra chocolate chips on top if desired and bake for 22 - 25 minutes (until the top has turned a nice golden brown colour and the edges are beginning to darken.
-    - Cool in the pan before slicing, or enjoy still a little warm and gooey from the oven.
+    main:
+      steps:
+        - Preheat oven to 180ºC (350ºF). Line a 20 or 23 cm (8 or 9 inch) round pan with parchment paper (or aluminium foil), and butter the parchment.
+        - In a heatproof bowl over a pot of simmering water, melt the butter. Remove the bowl from the heat and stir in both types of sugar. Allow the mixture to cool a little (about 5 minutes), then stir in egg, flour and coconut. Fold in chocolate chips.
+        - Pour the mixture into the prepared baking pan, sprinkle a few extra chocolate chips on top if desired and bake for 22 - 25 minutes (until the top has turned a nice golden brown colour and the edges are beginning to darken.
+        - Cool in the pan before slicing, or enjoy still a little warm and gooey from the oven.
   variations:
     - Make Samoas bars instead of slices. Use an 20 x 20 cm (8 x 8 inch) square pan, instead of a round pan.
     - "Try different mix-ins in place of (or in addition to) dark and white chocolate chips. Consider: milk chocolate, butterscotch or even yoghurt chips, dried fruit or nuts, or your favourite candy."

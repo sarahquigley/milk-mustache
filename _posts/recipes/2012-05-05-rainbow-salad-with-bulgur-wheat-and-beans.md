@@ -41,12 +41,14 @@ recipe:
         - ½ tsp salt
         - A generous grinding of pepper
   method:
-    - Steam the green beans and carrots, taking care not to overcook them. (If you prefer your veggies in a raw untarnished state, feel free to omit this step.) Be sure to remove the steamed vegetables from the heat while they still retain a little bite. Before you set them aside, if you wish, you may rinse the vegetables in some cold water to ensure they do not cook further in their residual heat.
-    - Cook the bulgur in 1½ cups boiling water over a low heat. When all the water has been absorbed, set it aside.
-    - Using a colander, drain and thoroughly rinse the red kidney beans. Prepare the onions, tomatoes and coriander and place them in a large salad bowl with the raisins, pine nuts and red kidney beans.
-    - Whisk the dressing ingredients together in small jar. Add the dressing to the salad bowl and toss it with the other ingredients until they are completely coated.
-    - Finally, add the steamed vegetables and bulgur, and gently toss the salad once more, until all the ingredients are thoroughly mixed. Do not worry if the carrots and bulgur are still warm at this point; this salad is great either warm, room temperature or cold.
-    - Serve and enjoy!
+    main:
+      steps:
+        - Steam the green beans and carrots, taking care not to overcook them. (If you prefer your veggies in a raw untarnished state, feel free to omit this step.) Be sure to remove the steamed vegetables from the heat while they still retain a little bite. Before you set them aside, if you wish, you may rinse the vegetables in some cold water to ensure they do not cook further in their residual heat.
+        - Cook the bulgur in 1½ cups boiling water over a low heat. When all the water has been absorbed, set it aside.
+        - Using a colander, drain and thoroughly rinse the red kidney beans. Prepare the onions, tomatoes and coriander and place them in a large salad bowl with the raisins, pine nuts and red kidney beans.
+        - Whisk the dressing ingredients together in small jar. Add the dressing to the salad bowl and toss it with the other ingredients until they are completely coated.
+        - Finally, add the steamed vegetables and bulgur, and gently toss the salad once more, until all the ingredients are thoroughly mixed. Do not worry if the carrots and bulgur are still warm at this point; this salad is great either warm, room temperature or cold.
+        - Serve and enjoy!
   variations:
     - Use couscous in place of the bulgur. Other grains might be nice too... What about quinoa, brown rice, or even orzo? Feel free to experiment and tell me about the results!
     - Replace the red kidney beans with another bean of your choice. I recommend chickpeas. Fried or grilled cubes of tofu might also be a delicious alternative.

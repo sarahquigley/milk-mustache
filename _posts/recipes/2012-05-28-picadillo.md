@@ -39,8 +39,10 @@ recipe:
         - ⅛ tsp ground pepper
         - Olive oil
   method:
-    - In a medium-sized pot over a medium heat, fry the onions and garlic in a little olive oil. When the onions begin to turn translucent, add the beef and cook until brown. At this stage, if necessary, pour away any excess fat. Stir in all the remaining ingredients. Cover the pot, and simmer for 30 minutes.
-    - Serve over rice, or as a tortilla or taco filling.
+    main:
+      steps:
+        - In a medium-sized pot over a medium heat, fry the onions and garlic in a little olive oil. When the onions begin to turn translucent, add the beef and cook until brown. At this stage, if necessary, pour away any excess fat. Stir in all the remaining ingredients. Cover the pot, and simmer for 30 minutes.
+        - Serve over rice, or as a tortilla or taco filling.
   variations:
     - For a delicious vegetarian (and vegan) version of this dish, simply replace the meat with 1 pound of cooked red kidney beans (or another bean of your choice).
 

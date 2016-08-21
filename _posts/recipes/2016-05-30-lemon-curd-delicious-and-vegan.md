@@ -31,13 +31,15 @@ recipe:
         - 2 tsp (10 ml) natural vanilla essence
         - 2 pinches salt
   method:
-    - Place coconut cream and lemon zest in a small pot, and whisk together.
-    - Separately, mix lemon juice and arrowroot together until you have a smooth suspension without any visible powder
-    - Add lemon juice mixture to the coconut cream mixture. Add maple syrup and vanilla essence. Whisk until well combined.
-    - Bring the mixture to a low simmer over a medium heat, whisking constantly. Once bubbles form, reduce the heat to medium-low and continue whisking. Occasionally scrape the bottom of the pot with a spoon or spatula to ensure the curd isn’t sticking.
-    - When the curd is thick and wobbly, forming soft peaks when you spoon some over the top of the mixture, remove from the heat and leave to cool for 10 – 15 min.
-    - Whisk a final time, transfer the curd to a glass jar or plastic container and cover with a lid or plastic wrap.
-    - Refrigerate for 4 – 5 hours, or until chilled and set.
+    main:
+      steps:
+        - Place coconut cream and lemon zest in a small pot, and whisk together.
+        - Separately, mix lemon juice and arrowroot together until you have a smooth suspension without any visible powder
+        - Add lemon juice mixture to the coconut cream mixture. Add maple syrup and vanilla essence. Whisk until well combined.
+        - Bring the mixture to a low simmer over a medium heat, whisking constantly. Once bubbles form, reduce the heat to medium-low and continue whisking. Occasionally scrape the bottom of the pot with a spoon or spatula to ensure the curd isn’t sticking.
+        - When the curd is thick and wobbly, forming soft peaks when you spoon some over the top of the mixture, remove from the heat and leave to cool for 10 – 15 min.
+        - Whisk a final time, transfer the curd to a glass jar or plastic container and cover with a lid or plastic wrap.
+        - Refrigerate for 4 – 5 hours, or until chilled and set.
 
 ---
 

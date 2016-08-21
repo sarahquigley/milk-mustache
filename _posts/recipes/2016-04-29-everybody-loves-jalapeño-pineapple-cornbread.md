@@ -39,12 +39,14 @@ recipe:
         - 2 large eggs
         - 2 jalapeño peppers, chopped, & optionally, an extra ½ jalapeño pepper, thinly sliced and deseeded for decoration
   method:
-    - Preheat the oven to 350°F (180°C). Butter and flour a loaf pan and set aside.
-    - In a medium-sized mixing bowl, combine flour, cornmeal, baking powder, baking soda, sugar, paprika and salt.
-    - In a separate bowl, whisk together yoghurt, milk, eggs and canola oil. Add to the dry ingredients and mix to form a batter.
-    - Stir crushed pineapple and jalapeño peppers into the batter.
-    - Pour batter into prepared loaf tin. Optionally, decorate the top of the batter with thin slices of jalapeño pepper.
-    - Bake 30–35 minutes, until light golden brown and a toothpick inserted in centre comes out clean.
+    main:
+      steps:
+        - Preheat the oven to 350°F (180°C). Butter and flour a loaf pan and set aside.
+        - In a medium-sized mixing bowl, combine flour, cornmeal, baking powder, baking soda, sugar, paprika and salt.
+        - In a separate bowl, whisk together yoghurt, milk, eggs and canola oil. Add to the dry ingredients and mix to form a batter.
+        - Stir crushed pineapple and jalapeño peppers into the batter.
+        - Pour batter into prepared loaf tin. Optionally, decorate the top of the batter with thin slices of jalapeño pepper.
+        - Bake 30–35 minutes, until light golden brown and a toothpick inserted in centre comes out clean.
 
 ---
 

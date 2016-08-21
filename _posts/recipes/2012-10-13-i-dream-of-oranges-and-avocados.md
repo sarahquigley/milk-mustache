@@ -38,11 +38,13 @@ recipe:
           - "~ 1 heaped tbsp honey"
           - "¼ tsp orange zest (zest of ~ ¼ medium orange) (optional)"
   method:
-    - Prepare couscous and set aside until all water has been absorbed.
-    - Whisk dressing ingredients together in small jar.
-    - Prepare beans, orange, cucumber, avocado and parsley and place in a large salad bowl. Add dressing and lightly toss.
-    - Add couscous to the salad (it doesn't matter if the couscous is still a little warm) and season to taste. Toss until thoroughly mixed.
-    - Dig in and enjoy!
+    main:
+      steps:
+        - Prepare couscous and set aside until all water has been absorbed.
+        - Whisk dressing ingredients together in small jar.
+        - Prepare beans, orange, cucumber, avocado and parsley and place in a large salad bowl. Add dressing and lightly toss.
+        - Add couscous to the salad (it doesn't matter if the couscous is still a little warm) and season to taste. Toss until thoroughly mixed.
+        - Dig in and enjoy!
 
 ---
 

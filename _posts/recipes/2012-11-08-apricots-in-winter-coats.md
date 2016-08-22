@@ -56,7 +56,7 @@ recipe:
 > ― Diane Ackerman, The Consolation of Apricots
 
 {: .dropcap }
-My cat Rumptious tells me I should pay him more attention. He pokes me in the ankle as I roll balls of apricots and almonds between my palms and dip them in vanilla bean speckled white chocolate - apricots in white coats, for winter. Cats don't appreciate apricots, or almonds, or white chocolate for that matter, or understand the merits coating one in the other.
+My cat Rumptious tells me I should pay him more attention. He pokes me in the ankle as I roll balls of apricots and almonds between my palms and dip them in vanilla bean speckled white chocolate - apricots in white coats, coats for winter. Cats don't appreciate apricots, or almonds, or white chocolate for that matter, or understand the merits coating one in the other.
 
 {% include image-group.html images="DSCN1242.jpg" entry=page %}
 
@@ -69,4 +69,4 @@ My cat Rumptious tells me I should pay him more attention. He pokes me in the an
 >
 > ― Diane Ackerman, The Consolation of Apricots
 
-Rumptious knows other joys, cat pleasures that I can't truly know - the thrill of stalking like a shadow in the night, of creeping between moonbeams, the dark lust of the hunt. Still I feel a pang of regret for Rumptious, with his cat's tongue, blind to the subtle sweet joy of apricots... Because if there's a time for a taste of blushing summer sun, it's in these darkening Irish days at the close of autumn, when daylight disappears to a few short damp and dreary hours. If apricots in spring are sweet, then the apricots in November, as winter digs its heals in, are sweeter still.
+Rumptious knows other joys, cat pleasures that I can't truly know - the thrill of stalking shadows in the night, of creeping between streetlights, the dark lust of the hunt. Still I feel a pang of regret for Rumptious, with his cat's tongue, blind to the subtle sweet joy of apricots... Because if there's a time for a taste of blushing summer sun, it's in these darkening Irish days at the close of autumn, when daylight disappears to a few short damp and dreary hours. If apricots in spring are sweet, then the apricots in November, as winter digs its heals in, are sweeter still.

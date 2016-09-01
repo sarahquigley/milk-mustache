@@ -55,19 +55,56 @@ recipe:
         - 1 pack each of Cadbury's dark, milk and white chocolate finger biscuits
         - 20 - 30 g finely chopped chocolate (I used white)
   method:
-    main:
+    before-preparing-the-cake:
+      title: Before Preparing the Cake
       steps:
-        - "Prepare and bake the cake: Preheat oven to 175ºC (350ºF). Butter two 23 cm (9 inch) round pans. Line the base of each pan with baking paper, butter the paper and, finally, flour the pans. In a large measuring jug, combine cocoa powder, buttermilk, water and vanilla extract, and set aside."
+        - Preheat oven to 175ºC (350ºF).
+        - Butter two 23 cm (9 inch) round pans. Line the base of each pan with baking paper, butter the paper and, finally, flour the pans.
+    prepare-the-cake-food-processor-method:
+      title: Prepare the Cake Batter (Food Processor Method)
+      steps:
+        - In a large measuring jug, combine cocoa powder, buttermilk, water and vanilla extract, and set aside.
         - Measure flour, baking powder, baking soda and salt into the food processor bowl, and process for 2 seconds. Set this mixture aside for later use.
-        - Place sugar and eggs in the food processor bowl, and process for 1 minute, stopping once in the middle to scrape down the bowl. Add butter, and process for another minute, again stopping in the middle to scrape down the bowl. With the machine running, slowly pour the reserved buttermilk mixture through the machine's feed tube, and process for another 20 seconds. Scrape down the sides of the bowl, and add the reserved flour mixture. Mix the flour into the batter by pulsing the machine 5 - 6 times (or until the flour has just disappeared), stopping to scrape down the bowl before the final pulse. Do not over-process the batter at this point.
-        - Divide the mixture evenly between the two prepared pans, and bake for 25 to 30 minutes (or until a toothpick inserted into cake's centre comes out clean). Cool the cakes for 5 minutes in the pan, then invert them on to wire racks, removing them from their pans. Allow the cakes to cool completely before decorating.
+        - Place sugar and eggs in the food processor bowl, and process for 1 minute, stopping once in the middle to scrape down the bowl.
+        - Add butter to the processor bowl, and process for another minute, again stopping in the middle to scrape down the bowl.
+        - With the machine running, slowly pour the reserved buttermilk mixture through the machine's feed tube, and process for another 20 seconds.
+        - Scrape down the sides of the bowl, and add the reserved flour mixture.
+        - Mix the flour mixture into the batter by pulsing the machine 5 - 6 times (or until the flour has just disappeared), stopping to scrape down the bowl before the final pulse. Do not over-process the batter at this point.
+    prepare-the-cake-alternative-non-food-processor-method:
+      title: Prepare the Cake Batter (Alternative Non Food Processor Method)
+      steps:
+        - Measure dry ingredients (flour, cocoa powder, baking powder, baking soda and salt) into a bowl, mix and set aside.
+        - In a large bowl, cream together butter and sugar. Beat in eggs one at a time.
+        - In a large measuring jug, combine buttermilk, water and vanilla extract. Beat into the butter, sugar and egg mixture.
+        - Finally, stir dry ingredients into the mixture until they have disappeared. Avoid overmixing at this stage. 
+    bake-the-cake:
+      title: Bake the Cake
+      steps:
+        - Divide the batter evenly between the two prepared pans, and bake for 25 to 30 minutes (or until a toothpick inserted into cake's centre comes out clean).
+        - Cool the cakes for 5 minutes in the pan, then invert them on to wire racks, removing them from their pans. Allow the cakes to cool completely before decorating.
         - Once the cake has cooled...
-        - "Prepare the buttercream icing: Measure icing sugar, cocoa powder and salt into the food processor bowl and process for 5 seconds. Add butter, vanilla and 2 tbsp sour cream and process until smooth. If you prefer a softer creamier frosting (as I do for this cake), the remaining sour cream can be added to adjust the consistency of the icing."
-        - "Prepare the glaze: In a heatproof bowl over a pot of simmering water, melt the butter and chocolate, and stir them together."
-        - "Assemble and decorate the cake: Place the first layer of cake on your favourite cake platter. Spread the buttercream icing evenly over the top of this layer, and gently place the second layer on top. Pour the chocolate glaze over the cake. Using a metal spatula, butter knife or back of a spoon, smooth it thickly over the top of the cake."
-        - If decorating with finger biscuits, smooth a thin layer of glaze over the sides of the cake. Before this glaze sets, press the finger biscuits gently around the cake, alternating between dark, milk and white chocolate fingers.
-        - If omitting the finger biscuits, you may glaze the top of the cake only, or, if you wish, tease it into decadent drips over the edges of the cake. Alternatively, you may prepare extra glaze and glaze the sides of the cake. I would suggest doubling the specified amount of glaze (though I have not personally tested this).
-        - Finally, sprinkle chopped chocolate artistically over the top of the cake. You may also sprinkle small chunks of leftover finger biscuits over the top of the cake, as I did.
+    prepare-the-buttercream-icing:
+      title: Prepare the Buttercream Icing
+      steps:
+        - Measure icing sugar, cocoa powder and salt into the food processor bowl and process for 5 seconds.
+        - Add butter, vanilla and 2 tbsp sour cream and process until smooth.
+        - If you prefer a softer creamier frosting (as I do for this cake), the remaining sour cream can be added to adjust the consistency of the icing.
+    prepare-the-glaze:
+      title: Prepare the Glaze
+      steps:
+        - In a heatproof bowl over a pot of simmering water, melt the butter and chocolate, and stir them together.
+    assemble-the-cake:
+      title: Assemble the Cake
+      steps:
+        - Place the first layer of cake on your favourite cake platter.
+        - Spread the buttercream icing evenly over the top of this layer, and gently place the second layer on top.
+        - Pour the chocolate glaze over the cake. Using a metal spatula, butter knife or back of a spoon, smooth it thickly over the top of the cake.
+    to-decorate:
+      title: To Decorate
+      steps:
+        - To decorate with finger biscuits, smooth a thin layer of glaze over the sides of the cake. Before this sets, press finger biscuits gently around the cake, alternating between dark, milk and white chocolate fingers.
+        - If omitting the finger biscuits, glaze the top of the cake only, or prepare extra glaze the sides of the cake (2.5 - 3 times the given recipe). 
+        - If you wish, garnish top of cake with chopped chocolate and / or small chunks of leftover finger biscuits.
   variations:
     - "Simplify: This chocolate cake recipe is delicious enough to stand on its own (without icing and glaze) as a simple dessert. Halve the cake recipe to make a single round layer. Once baked, dust the cake with a little icing sugar and serve with ice cream or lightly sweetened whipped cream."
     - "Buttercream it: For a sweeter, less sophisticated cake, forget the glaze and double the amount of buttercream icing instead. Use the extra icing to ice the top (and sides if you wish) of the cake. Great for children!"

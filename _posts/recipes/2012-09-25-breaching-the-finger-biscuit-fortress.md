@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Chocolate Celebration Cake with Finger Biscuits"
-excerpt: "This is the recipe I turn to when I want to impress, seduce, or otherwise bake my way into people's good books. It is the death-by-chocolate cake that every chocolate cake lounging languorously behind the glass of cafe counters promises to be, but so rarely is."
+title: "Breaching the Finger Biscuit Fortress"
+excerpt: "This week I baked a cake, a terrible, wonderful cake - a cake so deliciously decadent it re-aligned my concept of decadence. I may forget everything else about this week, in fact I think I already have - but this cake has left its mark, and it's in indelible chocolate."
 category: recipes
 tags: [baking, dessert, cakes, chocolate]
 image:
@@ -18,8 +18,9 @@ recipe:
     cooking-time: 25 - 30 minutes
     yield: 12 - 16 slices
   notes:
-    - Cake and buttercream icing recipe from Abby Mandel's Cuisinart Classroom, a wonderful and innovative (but unfortunately out of print) cookbook for food processor lovers. Chocolate glaze from Green and Black's Chocolate Recipes.
-    - Moist, not-too-sweet, with a sophisticated dark chocolate glaze, this chocolate cake is pure indulgence. Find an excuse to celebrate and bake it!
+    - Cake and buttercream icing recipes from Abby Mandel's Cuisinart Classroom, an innovative (but unfortunately out of print) cookbook for food processor lovers. Chocolate glaze from Green and Black's Chocolate Recipes.
+    - My preferred technique for preparing this cake is the food processor method. This method is quick, easy and produces exceptionally light, moist cakes. I have included instructions for both food processor and conventional preparation methods below.
+    - Finger biscuits are a Cadbury's biscuit popular in the British isles.
   ingredient-lists:
     cake:
       title: Chocolate Cake
@@ -50,7 +51,7 @@ recipe:
         - 100 g dark (min. 70% cocoa solids) chocolate
         - 50 g unsalted butter
     decoration:
-      title: Decoration (Optional, but Recommended)
+      title: Decoration (Optional, but Pretty)
       ingredients:
         - 1 pack each of Cadbury's dark, milk and white chocolate finger biscuits
         - 20 - 30 g finely chopped chocolate (I used white)
@@ -71,7 +72,7 @@ recipe:
         - Scrape down the sides of the bowl, and add the reserved flour mixture.
         - Mix the flour mixture into the batter by pulsing the machine 5 - 6 times (or until the flour has just disappeared), stopping to scrape down the bowl before the final pulse. Do not over-process the batter at this point.
     prepare-the-cake-alternative-non-food-processor-method:
-      title: Prepare the Cake Batter (Alternative Non Food Processor Method)
+      title: Prepare the Cake Batter (Conventional Method)
       steps:
         - Measure dry ingredients (flour, cocoa powder, baking powder, baking soda and salt) into a bowl, mix and set aside.
         - In a large bowl, cream together butter and sugar. Beat in eggs one at a time.
@@ -107,31 +108,21 @@ recipe:
         - If you wish, garnish top of cake with chopped chocolate and / or small chunks of leftover finger biscuits.
   variations:
     - "Simplify: This chocolate cake recipe is delicious enough to stand on its own (without icing and glaze) as a simple dessert. Halve the cake recipe to make a single round layer. Once baked, dust the cake with a little icing sugar and serve with ice cream or lightly sweetened whipped cream."
-    - "Buttercream it: For a sweeter, less sophisticated cake, forget the glaze and double the amount of buttercream icing instead. Use the extra icing to ice the top (and sides if you wish) of the cake. Great for children!"
+    - "Buttercream it: For a sweeter, less sophisticated cake, forget the glaze and finger biscuits. Instead, double the amount of buttercream icing and use it to ice the top (and sides if you wish) of the cake. Great for kids!"
     - "For parties: Bake the cake as a single 32.5 x 23 cm (9 x 13 inches) baking pan. Keep the cake as a single layer, and ice the top of the cake with a double recipe of chocolate buttercream icing. Cut the cake into cubes and share!"
-    - "Be adventurous: Find alternative decorations for the top and sides of your cake!"
+    - "Adventure: Find alternative decorations for the top and sides of your cake!"
 
 ---
 
-{: .dropcap }
-This is the recipe I turn to when I want to impress, seduce, or otherwise bake my way into people's good books. It is the death-by-chocolate cake that every chocolate cake lounging languorously behind the glass of cafe counters promises to be, but so rarely is.
-
-{% include image-group.html images="DSCN1321.jpg" entry=page %}
-
-Let me tell you about the cake... two layers of chocolate bliss, sandwiching a layer of soft chocolate buttercream icing, topped with a fudgy dark chocolate glaze. The cake is surrounded by alternating dark, milk and white finger biscuits, an idea I spotted at a wedding I attended, and couldn't resist trying myself. The finger biscuits turned out to be a great idea... they are an incredibly fuss free way to create a special looking cake.
-
-One key to this dessert's success (and any culinary adventures for that matter) is good ingredients: real butter (unsalted is best), golden caster sugar and natural vanilla extract for the cake - high quality dark chocolate (70% cocoa content) for the glaze. Having recently relocated to Vancouver, British Columbia, I've been struggling to find a North American equivalent for golden caster sugar. My best recommendation is to use the finest grain Turbinado sugar you can find. Less essential, but still nice: if you can get your hands on golden icing sugar, your chocolate buttercream icing will have a deeper flavour. However, golden icing sugar can be difficult to find (and ridiculously over-priced) - your icing will still be delicious without it.
-
-{% include image-group.html images="DSCN1490.jpg" entry=page %}
-
-Speaking of ingredients, with my new Vancouver home, I've had the opportunity to test some of my best recipes in a new location. Shock and horror: many of them are not quite as tasty when prepared here, as they were back in Ireland! Currently I suspect that differences arise from the lower of fat content of North American butter (I miss you Irish butter). Differing flour densities may also be a factor. I'm a little worried that this cake (which I haven tested in North America) will suffer from similar problems. Before I made this move across the ocean, I wasn't aware that it was important to localise recipes for locally available ingredients. I plan to do some testing to figure out how to compensate for ingredient differences in this recipe and others. I'll let you all know the results.
+{: .dropcap } 
+This week I baked a cake, a terrible, wonderful cake - a cake so deliciously decadent it re-aligned my concept of decadence. I may forget everything else about this week, in fact I think I already have - but this cake has left its mark, and it's in indelible chocolate.
 
 {% include image-group.html images="DSCN1471.jpg" entry=page %}
 
-This cake is prepared using Abby Mandel's food processor method, which I couldn't recommend more highly. Not only have I have found that this method produces exceptionally light, moist cakes, but it is quick and easy. One of this method's unusual aspects is that that eggs and sugar are processed together first, and then butter is added. In contrast, conventional cake preparation has butter and sugar creamed together first, before adding eggs. It's worth noting that those of you without a food processor can still make this cake: Simply follow the conventional order for mixing butter, sugar and eggs. In the future, I will be posting a detailed piece about the food processor cake method, with step-by-step photos guiding you through the full procedure. Hopefully this will clear up any uncertainties anyone may have about trying the method for themselves.
+Consider the cake in question: two tiers of chocolate bliss, filled with a thick layer of chocolate buttercream icing, topped with a fudgy dark chocolate glaze, surrounded by a palisade of dark, milk and white chocolate finger biscuits. When marking those really big moments in life, like turning twenty seven and nine sixteenths, or second breakfast, or Friday, or waking up to another day on this big watery planet, consider this cake.
 
-This cake has been in baked in my family for long enough that it qualifies as an old family recipe. My mother would bake it for me as a kid (my brother didn't like chocolate cake, weirdo), and I would do helpful things like weigh ingredients and lick the food processor bowl (cleaning!). The usual family version of this cake is somewhat simpler... this cake minus the chocolate glaze and fancy finger bisuit decoration, instead iced top and sides in buttercream icing. I've baked this simple version dozens of times for the storytelling and baking event I founded in Dublin, Milk and Cookie Stories. Beware... serving this cake to a crowd is dangerous business.
+{% include image-group.html images="DSCN1490.jpg" entry=page %}
 
-{% include image-group.html images="DSCN1319.jpg" entry=page %}
+One of the finer things about adulthood is discovering the endless selection of terrible, wonderful decisions that suddenly no one can tell you not to make. And then making them...
 
-Now for the recipe! Have fun with it... Make it your own. Find someone special to bake it for... Do a chocolate dance.
+Or baking them, as the case may be.

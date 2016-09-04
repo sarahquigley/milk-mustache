@@ -4,7 +4,7 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://milk-mustache.com/feed.xml" />
 <link rel="alternate" type="text/html" href="http://milk-mustache.com" />
-<updated>2016-08-20T11:16:08-04:00</updated>
+<updated>2016-09-04T12:07:07-04:00</updated>
 <id>http://milk-mustache.com/</id>
 <author>
   <name>Sarah Quigley</name>
@@ -76,13 +76,10 @@
 &lt;/div&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;“When you wake up in the morning, Pooh,” said Piglet at last, “what’s the first thing you say to yourself?”&lt;/p&gt;
-
-  &lt;p&gt;“What’s for breakfast?” said Pooh. “What do you say, Piglet?”&lt;/p&gt;
-
-  &lt;p&gt;“I say, I wonder what’s going to happen exciting today?” said Piglet.&lt;/p&gt;
-
-  &lt;p&gt;Pooh nodded thoughtfully. “It’s the same thing,” he said.”&lt;/p&gt;
+  &lt;p&gt;“When you wake up in the morning, Pooh,” said Piglet at last, “what’s the first thing you say to yourself?”&lt;br /&gt;
+“What’s for breakfast?” said Pooh. “What do you say, Piglet?”&lt;br /&gt;
+“I say, I wonder what’s going to happen exciting today?” said Piglet.&lt;br /&gt;
+Pooh nodded thoughtfully. “It’s the same thing,” he said.”&lt;/p&gt;
 
   &lt;p&gt;― Winnie the Pooh, by A. A. Milne&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -309,9 +306,9 @@
 
 
 <entry>
-  <title type="html"><![CDATA[Roasted Sweet Potato and Feta Salad]]></title>
-  <link rel="alternate" type="text/html" href="http://milk-mustache.com/recipes/roasted-sweet-potato-and-feta-salad/" />
-  <id>http://milk-mustache.com/recipes/roasted-sweet-potato-and-feta-salad</id>
+  <title type="html"><![CDATA[Thyme for Salad]]></title>
+  <link rel="alternate" type="text/html" href="http://milk-mustache.com/recipes/thyme-for-salad/" />
+  <id>http://milk-mustache.com/recipes/thyme-for-salad</id>
   <published>2014-04-07T00:00:00-04:00</published>
   <updated>2014-04-07T00:00:00-04:00</updated>
   <author>
@@ -320,7 +317,7 @@
     <email>sarah+milk-mustache@sarahquigley.net</email>
   </author>
   <content type="html">
-    &lt;p class=&quot;dropcap&quot;&gt;Anyone who knows me well will be aware that I’m a salad fiend. They’re my favourite lunch, and my go-to food when I want a lazy dinner. My earliest kitchen memories are of spending, what felt like hours, laying out vegetables that my mother had sliced… In complex fractal like patterns on top of giant bowls of mixed greens, I placed thin rings of  tomato, delicate strips of pepper and half-moons of cucumber.&lt;/p&gt;
+    &lt;p class=&quot;dropcap&quot;&gt;It’s always time for salad… or thyme for salad (depending how much terrible puns offend you) - except when it’s time for something that isn’t salad, like soup, or Belgian waffles, or soft shell crab bánh mì with pickles and jalapeños. Sometimes it’s time for those things too. But sometimes it’s time for salad, and today is one of those times. So let’s talk salad.&lt;/p&gt;
 
 &lt;div class=&quot;image-group&quot;&gt;
   
@@ -330,14 +327,14 @@
 
 &lt;div class=&quot;image-container&quot; style=&quot;flex: 1.3333333333333333 1 0%&quot;&gt;
   
-  &lt;img src=&quot;http://milk-mustache.com/&quot; alt=&quot;&quot; srcset=&quot;          http://milk-mustache.com/uploads/resized/posts/recipes/2014-04-07-roasted-sweet-potato-and-feta-salad/480/20140316_142435a.jpg 480w,          http://milk-mustache.com/uploads/resized/posts/recipes/2014-04-07-roasted-sweet-potato-and-feta-salad/620/20140316_142435a.jpg 620w,          http://milk-mustache.com/uploads/resized/posts/recipes/2014-04-07-roasted-sweet-potato-and-feta-salad/768/20140316_142435a.jpg 768w,          http://milk-mustache.com/uploads/resized/posts/recipes/2014-04-07-roasted-sweet-potato-and-feta-salad/1000/20140316_142435a.jpg 1000w,     http://milk-mustache.com/uploads/posts/recipes/2014-04-07-roasted-sweet-potato-and-feta-salad/20140316_142435a.jpg 1200w&quot; /&gt;
+  &lt;img src=&quot;http://milk-mustache.com/&quot; alt=&quot;&quot; srcset=&quot;          http://milk-mustache.com/uploads/resized/posts/recipes/2014-04-07-thyme-for-salad/480/20140316_142435a.jpg 480w,          http://milk-mustache.com/uploads/resized/posts/recipes/2014-04-07-thyme-for-salad/620/20140316_142435a.jpg 620w,          http://milk-mustache.com/uploads/resized/posts/recipes/2014-04-07-thyme-for-salad/768/20140316_142435a.jpg 768w,          http://milk-mustache.com/uploads/resized/posts/recipes/2014-04-07-thyme-for-salad/1000/20140316_142435a.jpg 1000w,     http://milk-mustache.com/uploads/posts/recipes/2014-04-07-thyme-for-salad/20140316_142435a.jpg 1200w&quot; /&gt;
 &lt;/div&gt;
 
   
   
 &lt;/div&gt;
 
-&lt;p&gt;As a kid returning from visits to family in New York, I would always miss the colourful salads served up in cafes and restaurants there. In Dublin, miserable bowls of iceberg lettuce, sliced white onion and cucumber dogged my path to salad heaven. Thankfully, the explosion of the Irish restaurant scene has made delicious salads abundant enough here to please even the most ardent salad lover, and I’m just left craving New York bagels and black and white cookies.&lt;/p&gt;
+&lt;p&gt;There are some cool things about salad that people rarely talk about… like how you can arrange all the ingredients in complex fractal patterns over their bed of greens. I didn’t do that with this salad, but what’s important is that I could have. Another thing I wish I heard about salads is how much more fabulous the addition of some richly aromatic herbs makes them. That’s a generally solid cooking rule, and yet somehow I’d never quite cottoned to it with salads.&lt;/p&gt;
 
 &lt;div class=&quot;image-group&quot;&gt;
   
@@ -347,16 +344,18 @@
 
 &lt;div class=&quot;image-container&quot; style=&quot;flex: 1.3333333333333333 1 0%&quot;&gt;
   
-  &lt;img src=&quot;http://milk-mustache.com/&quot; alt=&quot;&quot; srcset=&quot;          http://milk-mustache.com/uploads/resized/posts/recipes/2014-04-07-roasted-sweet-potato-and-feta-salad/480/DSCF4333-2b.jpg 480w,          http://milk-mustache.com/uploads/resized/posts/recipes/2014-04-07-roasted-sweet-potato-and-feta-salad/620/DSCF4333-2b.jpg 620w,          http://milk-mustache.com/uploads/resized/posts/recipes/2014-04-07-roasted-sweet-potato-and-feta-salad/768/DSCF4333-2b.jpg 768w,          http://milk-mustache.com/uploads/resized/posts/recipes/2014-04-07-roasted-sweet-potato-and-feta-salad/1000/DSCF4333-2b.jpg 1000w,     http://milk-mustache.com/uploads/posts/recipes/2014-04-07-roasted-sweet-potato-and-feta-salad/DSCF4333-2b.jpg 1200w&quot; /&gt;
+  &lt;img src=&quot;http://milk-mustache.com/&quot; alt=&quot;&quot; srcset=&quot;          http://milk-mustache.com/uploads/resized/posts/recipes/2014-04-07-thyme-for-salad/480/DSCF4333-2b.jpg 480w,          http://milk-mustache.com/uploads/resized/posts/recipes/2014-04-07-thyme-for-salad/620/DSCF4333-2b.jpg 620w,          http://milk-mustache.com/uploads/resized/posts/recipes/2014-04-07-thyme-for-salad/768/DSCF4333-2b.jpg 768w,          http://milk-mustache.com/uploads/resized/posts/recipes/2014-04-07-thyme-for-salad/1000/DSCF4333-2b.jpg 1000w,     http://milk-mustache.com/uploads/posts/recipes/2014-04-07-thyme-for-salad/DSCF4333-2b.jpg 1200w&quot; /&gt;
 &lt;/div&gt;
 
   
   
 &lt;/div&gt;
 
-&lt;p&gt;Today’s recipe is a simple salad, made a little fancier (and more filling) by the addition of sweet potatoes roasted with a sprinkling of thyme. Feta cheese, dried apricots, cherry tomatoes make this salad the stuff of my food fantasies - and hopefully yours too.&lt;/p&gt;
+&lt;p&gt;Here’s a salad recipe. I hope you like it. It has feta cheese in it, and dried apricots, and cherry tomatoes, because I think they’re all pretty sweet. I roasted up some sweet potatoes in oil and thyme, and tossed them in too, because sweet potatoes are delicious and the smell of thyme is just the best. Thyme for time. Time for thyme. Thyme for salad.&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://milk-mustache.com/recipes/roasted-sweet-potato-and-feta-salad/&quot;&gt;Roasted Sweet Potato and Feta Salad&lt;/a&gt; was originally published by Sarah Quigley at &lt;a href=&quot;http://milk-mustache.com&quot;&gt;Milk Mustache&lt;/a&gt; on April 07, 2014.&lt;/p&gt;
+&lt;p&gt;Time for salad.&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://milk-mustache.com/recipes/thyme-for-salad/&quot;&gt;Thyme for Salad&lt;/a&gt; was originally published by Sarah Quigley at &lt;a href=&quot;http://milk-mustache.com&quot;&gt;Milk Mustache&lt;/a&gt; on April 07, 2014.&lt;/p&gt;
   </content>
 </entry>
 
@@ -373,7 +372,18 @@
     <email>sarah+milk-mustache@sarahquigley.net</email>
   </author>
   <content type="html">
-    &lt;p class=&quot;dropcap&quot;&gt;There are so many recipes that I try once, and then never again. It’s not that there’s anything wrong with most of them per se - it’s just that once was enough to tick that experience box… been there done, done that, ate the canoli. On the other hand, some recipes are keepers, like these chocolate chip coconut slices. Huzzah!&lt;/p&gt;
+    &lt;blockquote&gt;
+  &lt;p&gt;The Mountains — grow unnoticed —&lt;br /&gt;
+Their Purple figures rise&lt;br /&gt;
+Without attempt — Exhaustion —&lt;br /&gt;
+Assistance — or Applause—&lt;/p&gt;
+
+  &lt;p&gt;— Emily Dickinson&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p class=&quot;dropcap&quot;&gt;I live near Trout Lake, which is surrounded by a park called John Hendry, although few people seem to call it that. John Hendry was a lumber tycoon (which is a fittingly Canadian thing to be) and had a sawmill there, until his daughter Aldyen donated the land to the Park Board. So the park became John Hendry park, and it’s an excellent park, with swimming, tennis courts, bike paths, an ice rink and so much more.&lt;/p&gt;
+
+&lt;p&gt;It’s lovely in the way that you hope a park will be. Strangers pilot tiny toy sail boats in the shallows of the lake. Someone’s grandfather launches a kite, and a child runs after it, until caught by an updraft it soars beyond reach. Bounding dogs chase anything chaseable (kids, sticks, pigeons and other dogs), roll in the grass, splash at ducks doing duck things and send them flying for less canine rocked waters. At the right time of year, barbecues fill the park with heady umami scents of wood smoke and grilling meat.&lt;/p&gt;
 
 &lt;div class=&quot;image-group&quot;&gt;
   
@@ -383,16 +393,22 @@
 
 &lt;div class=&quot;image-container&quot; style=&quot;flex: 1.3333333333333333 1 0%&quot;&gt;
   
-  &lt;img src=&quot;http://milk-mustache.com/&quot; alt=&quot;&quot; srcset=&quot;          http://milk-mustache.com/uploads/resized/posts/recipes/2013-02-18-chocolate-chip-coconut-slices/480/DSCF0586.jpg 480w,          http://milk-mustache.com/uploads/resized/posts/recipes/2013-02-18-chocolate-chip-coconut-slices/620/DSCF0586.jpg 620w,          http://milk-mustache.com/uploads/resized/posts/recipes/2013-02-18-chocolate-chip-coconut-slices/768/DSCF0586.jpg 768w,          http://milk-mustache.com/uploads/resized/posts/recipes/2013-02-18-chocolate-chip-coconut-slices/1000/DSCF0586.jpg 1000w,     http://milk-mustache.com/uploads/posts/recipes/2013-02-18-chocolate-chip-coconut-slices/DSCF0586.jpg 1200w&quot; /&gt;
+  &lt;img src=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2013-02-18-chocolate-chip-coconut-slices/2000/DSCF0593.jpg&quot; alt=&quot;&quot; srcset=&quot;          http://milk-mustache.com/uploads/resized/posts/recipes/2013-02-18-chocolate-chip-coconut-slices/480/DSCF0593.jpg 480w,          http://milk-mustache.com/uploads/resized/posts/recipes/2013-02-18-chocolate-chip-coconut-slices/620/DSCF0593.jpg 620w,          http://milk-mustache.com/uploads/resized/posts/recipes/2013-02-18-chocolate-chip-coconut-slices/768/DSCF0593.jpg 768w,          http://milk-mustache.com/uploads/resized/posts/recipes/2013-02-18-chocolate-chip-coconut-slices/1000/DSCF0593.jpg 1000w,          http://milk-mustache.com/uploads/resized/posts/recipes/2013-02-18-chocolate-chip-coconut-slices/1400/DSCF0593.jpg 1400w,          http://milk-mustache.com/uploads/resized/posts/recipes/2013-02-18-chocolate-chip-coconut-slices/2000/DSCF0593.jpg 2000w,     http://milk-mustache.com/uploads/posts/recipes/2013-02-18-chocolate-chip-coconut-slices/DSCF0593.jpg 2500w&quot; /&gt;
 &lt;/div&gt;
 
   
   
 &lt;/div&gt;
 
-&lt;p&gt;A little like a cross between a blondie and a chewy chocolate chip cookie, these dense slices are definitely too good not to make again… and too easy! One bowl, 15 minutes of measuring and stirring (if even), less than a half an hour in the oven and - BAM - done! Let them cool - or don’t - and dig in.&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;There is an eagle in me and a mockingbird . . . and the eagle flies among the Rocky Mountains of my dreams and fights among the Sierra crags of what I want . . . and the mockingbird warbles in the early forenoon before the dew is gone, warbles in the underbrush of my Chattanoogas of hope, gushes over the blue Ozark foothills of my wishes—And I got the eagle and the mockingbird from the wilderness.&lt;/p&gt;
 
-&lt;p&gt;This recipe was adapted from Averie’s Samoas Bars over at &lt;a href=&quot;http://averiecooks.com&quot;&gt;Averie Cooks&lt;/a&gt;. Though I loved the original recipe, it was a little too sweet and greasy for my taste. With this in mind, in my version, I’ve toned down the sugar and butter a smidge from the original recipe - and I’m really happy with the results.&lt;/p&gt;
+  &lt;p&gt;— Carl Sandburg, Wilderness&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Across Trout lake, beyond the trees lining the park, beyond the invisible expanse of city, Grouse and the rest of the North Shore mountains peek, craggy, snow-capped most of the year. A friend told me that when she loses her bearings in Vancouver, the mountains are her compass, which makes sense - there are few parts of this town from which they aren’t visible.&lt;/p&gt;
+
+&lt;p&gt;From the confines of a city, a landscape shaped by humans for humans, the untamed can feel so far away as to effectively not exist. Not in Vancouver, where those rough peaks become guardians, silent, ancient, ever watching, ever present - constant as the sun in the sky, the earth beneath your feet - a reminder of wide wild world beyond our paved streets and manicured lawns.&lt;/p&gt;
 
 &lt;div class=&quot;image-group&quot;&gt;
   
@@ -402,33 +418,25 @@
 
 &lt;div class=&quot;image-container&quot; style=&quot;flex: 1.3333333333333333 1 0%&quot;&gt;
   
-  &lt;img src=&quot;http://milk-mustache.com/&quot; alt=&quot;&quot; srcset=&quot;          http://milk-mustache.com/uploads/resized/posts/recipes/2013-02-18-chocolate-chip-coconut-slices/480/DSCF0593.jpg 480w,          http://milk-mustache.com/uploads/resized/posts/recipes/2013-02-18-chocolate-chip-coconut-slices/620/DSCF0593.jpg 620w,          http://milk-mustache.com/uploads/resized/posts/recipes/2013-02-18-chocolate-chip-coconut-slices/768/DSCF0593.jpg 768w,          http://milk-mustache.com/uploads/resized/posts/recipes/2013-02-18-chocolate-chip-coconut-slices/1000/DSCF0593.jpg 1000w,     http://milk-mustache.com/uploads/posts/recipes/2013-02-18-chocolate-chip-coconut-slices/DSCF0593.jpg 1200w&quot; /&gt;
+  &lt;img src=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2013-02-18-chocolate-chip-coconut-slices/2000/DSCF0590.jpg&quot; alt=&quot;&quot; srcset=&quot;          http://milk-mustache.com/uploads/resized/posts/recipes/2013-02-18-chocolate-chip-coconut-slices/480/DSCF0590.jpg 480w,          http://milk-mustache.com/uploads/resized/posts/recipes/2013-02-18-chocolate-chip-coconut-slices/620/DSCF0590.jpg 620w,          http://milk-mustache.com/uploads/resized/posts/recipes/2013-02-18-chocolate-chip-coconut-slices/768/DSCF0590.jpg 768w,          http://milk-mustache.com/uploads/resized/posts/recipes/2013-02-18-chocolate-chip-coconut-slices/1000/DSCF0590.jpg 1000w,          http://milk-mustache.com/uploads/resized/posts/recipes/2013-02-18-chocolate-chip-coconut-slices/1400/DSCF0590.jpg 1400w,          http://milk-mustache.com/uploads/resized/posts/recipes/2013-02-18-chocolate-chip-coconut-slices/2000/DSCF0590.jpg 2000w,     http://milk-mustache.com/uploads/posts/recipes/2013-02-18-chocolate-chip-coconut-slices/DSCF0590.jpg 2500w&quot; /&gt;
 &lt;/div&gt;
 
-  
-  
-&lt;/div&gt;
-
-&lt;p&gt;According to Averie, her recipes was inspired by a girl scout cookie known as ‘Samoas’ or alternatively, ‘Caramel DeLites’. I was never a girl scout. I had never even tasted a girl scout cookie until my recent move to Canada (we don’t really have girl scout cookies in Ireland). I’ll say this - I didn’t need the fuzzy haze of nastalgia to love this recipe - one bite was quite enough for that…&lt;/p&gt;
-
-&lt;p&gt;… But maybe I would have needed that fuzzy haze to keep the name ‘Samoas’. Romantic as it is to imagine the baking of Samoan islanders inspiring dessert, I can’t help suspecting their true origin is a little closer to home.&lt;/p&gt;
-
-&lt;div class=&quot;image-group&quot;&gt;
-  
   
     
     
 
-&lt;div class=&quot;image-container&quot; style=&quot;flex: 1.2987012987012987 1 0%&quot;&gt;
+&lt;div class=&quot;image-container&quot; style=&quot;flex: 1.2993762993762994 1 0%&quot;&gt;
   
-  &lt;img src=&quot;http://milk-mustache.com/&quot; alt=&quot;&quot; srcset=&quot;          http://milk-mustache.com/uploads/resized/posts/recipes/2013-02-18-chocolate-chip-coconut-slices/480/DSCF0602.jpg 480w,          http://milk-mustache.com/uploads/resized/posts/recipes/2013-02-18-chocolate-chip-coconut-slices/620/DSCF0602.jpg 620w,          http://milk-mustache.com/uploads/resized/posts/recipes/2013-02-18-chocolate-chip-coconut-slices/768/DSCF0602.jpg 768w,          http://milk-mustache.com/uploads/resized/posts/recipes/2013-02-18-chocolate-chip-coconut-slices/1000/DSCF0602.jpg 1000w,     http://milk-mustache.com/uploads/posts/recipes/2013-02-18-chocolate-chip-coconut-slices/DSCF0602.jpg 1200w&quot; /&gt;
+  &lt;img src=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2013-02-18-chocolate-chip-coconut-slices/2000/DSCF0602.jpg&quot; alt=&quot;&quot; srcset=&quot;          http://milk-mustache.com/uploads/resized/posts/recipes/2013-02-18-chocolate-chip-coconut-slices/480/DSCF0602.jpg 480w,          http://milk-mustache.com/uploads/resized/posts/recipes/2013-02-18-chocolate-chip-coconut-slices/620/DSCF0602.jpg 620w,          http://milk-mustache.com/uploads/resized/posts/recipes/2013-02-18-chocolate-chip-coconut-slices/768/DSCF0602.jpg 768w,          http://milk-mustache.com/uploads/resized/posts/recipes/2013-02-18-chocolate-chip-coconut-slices/1000/DSCF0602.jpg 1000w,          http://milk-mustache.com/uploads/resized/posts/recipes/2013-02-18-chocolate-chip-coconut-slices/1400/DSCF0602.jpg 1400w,          http://milk-mustache.com/uploads/resized/posts/recipes/2013-02-18-chocolate-chip-coconut-slices/2000/DSCF0602.jpg 2000w,     http://milk-mustache.com/uploads/posts/recipes/2013-02-18-chocolate-chip-coconut-slices/DSCF0602.jpg 2500w&quot; /&gt;
 &lt;/div&gt;
 
   
   
 &lt;/div&gt;
 
-&lt;p&gt;Romantic too are the wafting scents of butter, chocolate and coconut filling the kitchen as you sit back, hot coffee in hand waiting for your chocolate chip coconut slices to emerge from the oven.&lt;/p&gt;
+&lt;p&gt;Sooner or later, some future Sarah will move on to a new life somewhere else with different colours and a different cadence. When she remembers Vancouver, I think she’ll think of the mountains, their silent strength a backdrop for the sci-fi towers of downtown, which glisten like icicles in the winter sun. Old gods make their homes in the mountains. New gods make their homes in the towers. Old gods meet new on the streets of Vancouver.&lt;/p&gt;
+
+&lt;p&gt;Here are some chocolate chip coconut slices. They aren’t grand as mountains, or tall as towers, but they probably taste better.&lt;/p&gt;
 
     &lt;p&gt;&lt;a href=&quot;http://milk-mustache.com/recipes/chocolate-chip-coconut-slices/&quot;&gt;Chocolate Chip Coconut Slices&lt;/a&gt; was originally published by Sarah Quigley at &lt;a href=&quot;http://milk-mustache.com&quot;&gt;Milk Mustache&lt;/a&gt; on February 18, 2013.&lt;/p&gt;
   </content>
@@ -534,9 +542,9 @@
 
 
 <entry>
-  <title type="html"><![CDATA[Apricot and Almond Truffles]]></title>
-  <link rel="alternate" type="text/html" href="http://milk-mustache.com/recipes/apricot-and-almond-truffles/" />
-  <id>http://milk-mustache.com/recipes/apricot-and-almond-truffles</id>
+  <title type="html"><![CDATA[Apricots in Winter Coats]]></title>
+  <link rel="alternate" type="text/html" href="http://milk-mustache.com/recipes/apricots-in-winter-coats/" />
+  <id>http://milk-mustache.com/recipes/apricots-in-winter-coats</id>
   <published>2012-11-08T00:00:00-05:00</published>
   <updated>2012-11-08T00:00:00-05:00</updated>
   <author>
@@ -545,7 +553,16 @@
     <email>sarah+milk-mustache@sarahquigley.net</email>
   </author>
   <content type="html">
-    &lt;p class=&quot;dropcap&quot;&gt;These apricot and almond truffles are soft bursts of fruitiness, bright orange parties for your tongue. Subtly sweet, smooth with a hint of nutty crunch, they are great to have on hand when you need a quick energy boost, or to tame a raging sweet tooth. I like them in combination with their fudgy inspirations, date nut truffles.&lt;/p&gt;
+    &lt;blockquote&gt;
+  &lt;p&gt;Somewhere between a peach and a prayer,&lt;br /&gt;
+they taste of well water&lt;br /&gt;
+and butterscotch and dried apples&lt;br /&gt;
+and desert simooms and lust.&lt;/p&gt;
+
+  &lt;p&gt;― Diane Ackerman, The Consolation of Apricots&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p class=&quot;dropcap&quot;&gt;My cat Rumptious tells me I should pay him more attention. He pokes me in the ankle as I roll balls of apricots and almonds between my palms and dip them in vanilla bean speckled white chocolate - apricots in white coats, coats for winter. Cats don’t appreciate apricots, or almonds, or white chocolate for that matter, or understand the merits coating one in the other.&lt;/p&gt;
 
 &lt;div class=&quot;image-group&quot;&gt;
   
@@ -555,16 +572,12 @@
 
 &lt;div class=&quot;image-container&quot; style=&quot;flex: 1.3333333333333333 1 0%&quot;&gt;
   
-  &lt;img src=&quot;http://milk-mustache.com/&quot; alt=&quot;&quot; srcset=&quot;          http://milk-mustache.com/uploads/resized/posts/recipes/2012-11-08-apricot-and-almond-truffles/480/DSCN1250.jpg 480w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-11-08-apricot-and-almond-truffles/620/DSCN1250.jpg 620w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-11-08-apricot-and-almond-truffles/768/DSCN1250.jpg 768w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-11-08-apricot-and-almond-truffles/1000/DSCN1250.jpg 1000w,     http://milk-mustache.com/uploads/posts/recipes/2012-11-08-apricot-and-almond-truffles/DSCN1250.jpg 1200w&quot; /&gt;
+  &lt;img src=&quot;http://milk-mustache.com/&quot; alt=&quot;&quot; srcset=&quot;          http://milk-mustache.com/uploads/resized/posts/recipes/2012-11-08-apricots-in-winter-coats/480/DSCN1242.jpg 480w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-11-08-apricots-in-winter-coats/620/DSCN1242.jpg 620w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-11-08-apricots-in-winter-coats/768/DSCN1242.jpg 768w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-11-08-apricots-in-winter-coats/1000/DSCN1242.jpg 1000w,     http://milk-mustache.com/uploads/posts/recipes/2012-11-08-apricots-in-winter-coats/DSCN1242.jpg 1200w&quot; /&gt;
 &lt;/div&gt;
 
   
   
 &lt;/div&gt;
-
-&lt;p&gt;These truffles are delicious plain, but for something a little more decadent, coat them in white chocolate. I found some awesome vanilla bean speckled white chocolate for mine and couldn’t have been happier with the contrast between the soft fruity truffles and their crunchy rich outer shell.&lt;/p&gt;
-
-&lt;p&gt;When I created these truffles, another inspiration was marzipan. Their flavour and texture is reminiscent of that sweet almond paste, but they are less cloyingly sweet - and definitely a healthier everyday treat than their sugary inspiration. Marzipan seems to be one of those foods that’s either loved or hated, but I’m hoping these truffles will still appeal to the marzipan antagonists of the world. If you’re a marzipan hater, give them a go and tell me your thoughts.&lt;/p&gt;
 
 &lt;div class=&quot;image-group&quot;&gt;
   
@@ -574,42 +587,42 @@
 
 &lt;div class=&quot;image-container&quot; style=&quot;flex: 1.3333333333333333 1 0%&quot;&gt;
   
-  &lt;img src=&quot;http://milk-mustache.com/&quot; alt=&quot;&quot; srcset=&quot;          http://milk-mustache.com/uploads/resized/posts/recipes/2012-11-08-apricot-and-almond-truffles/480/DSCN1242.jpg 480w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-11-08-apricot-and-almond-truffles/620/DSCN1242.jpg 620w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-11-08-apricot-and-almond-truffles/768/DSCN1242.jpg 768w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-11-08-apricot-and-almond-truffles/1000/DSCN1242.jpg 1000w,     http://milk-mustache.com/uploads/posts/recipes/2012-11-08-apricot-and-almond-truffles/DSCN1242.jpg 1200w&quot; /&gt;
+  &lt;img src=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2012-11-08-apricots-in-winter-coats/2000/DSCN1254.jpg&quot; alt=&quot;&quot; srcset=&quot;          http://milk-mustache.com/uploads/resized/posts/recipes/2012-11-08-apricots-in-winter-coats/480/DSCN1254.jpg 480w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-11-08-apricots-in-winter-coats/620/DSCN1254.jpg 620w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-11-08-apricots-in-winter-coats/768/DSCN1254.jpg 768w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-11-08-apricots-in-winter-coats/1000/DSCN1254.jpg 1000w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-11-08-apricots-in-winter-coats/1400/DSCN1254.jpg 1400w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-11-08-apricots-in-winter-coats/2000/DSCN1254.jpg 2000w,     http://milk-mustache.com/uploads/posts/recipes/2012-11-08-apricots-in-winter-coats/DSCN1254.jpg 2500w&quot; /&gt;
 &lt;/div&gt;
 
-  
-  
-&lt;/div&gt;
-
-&lt;p&gt;As for tips and tricks, there’s not much to know about these truffles. I would like to reiterate one thing I said about creating my date nut truffles: if chocolate coating your truffles, melt the chocolate in a small deep container (I used a ramekin suspended over boiling water in a steamer basket). This saves on chocolate waste, so you only need to melt just the right amount of chocolate for your truffles - not to mention creating a deeper well of chocolate for easier truffle coating. I was able to coat about two thirds of the surface of my truffles simply by dipping the truffles in the melted chocolate, but I had to use a small spoon to dollop the chocolate on the final third.&lt;/p&gt;
-
-&lt;div class=&quot;image-group&quot;&gt;
-  
   
     
     
 
 &lt;div class=&quot;image-container&quot; style=&quot;flex: 1.3856812933025404 1 0%&quot;&gt;
   
-  &lt;img src=&quot;http://milk-mustache.com/&quot; alt=&quot;&quot; srcset=&quot;          http://milk-mustache.com/uploads/resized/posts/recipes/2012-11-08-apricot-and-almond-truffles/480/DSCN1268.jpg 480w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-11-08-apricot-and-almond-truffles/620/DSCN1268.jpg 620w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-11-08-apricot-and-almond-truffles/768/DSCN1268.jpg 768w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-11-08-apricot-and-almond-truffles/1000/DSCN1268.jpg 1000w,     http://milk-mustache.com/uploads/posts/recipes/2012-11-08-apricot-and-almond-truffles/DSCN1268.jpg 1200w&quot; /&gt;
+  &lt;img src=&quot;http://milk-mustache.com/&quot; alt=&quot;&quot; srcset=&quot;          http://milk-mustache.com/uploads/resized/posts/recipes/2012-11-08-apricots-in-winter-coats/480/DSCN1268.jpg 480w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-11-08-apricots-in-winter-coats/620/DSCN1268.jpg 620w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-11-08-apricots-in-winter-coats/768/DSCN1268.jpg 768w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-11-08-apricots-in-winter-coats/1000/DSCN1268.jpg 1000w,     http://milk-mustache.com/uploads/posts/recipes/2012-11-08-apricots-in-winter-coats/DSCN1268.jpg 1200w&quot; /&gt;
 &lt;/div&gt;
 
   
   
 &lt;/div&gt;
 
-&lt;p&gt;Well, until next time - happy truffle eating!&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;What could be more thrilling&lt;br /&gt;
+than ripe apricots out of season, &lt;br /&gt;
+a gush of taboo sweetness&lt;br /&gt;
+to offset the savage wistfulness of early spring?&lt;/p&gt;
 
+  &lt;p&gt;― Diane Ackerman, The Consolation of Apricots&lt;/p&gt;
+&lt;/blockquote&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://milk-mustache.com/recipes/apricot-and-almond-truffles/&quot;&gt;Apricot and Almond Truffles&lt;/a&gt; was originally published by Sarah Quigley at &lt;a href=&quot;http://milk-mustache.com&quot;&gt;Milk Mustache&lt;/a&gt; on November 08, 2012.&lt;/p&gt;
+&lt;p&gt;Rumptious knows other joys, cat pleasures that I can’t truly know - the thrill of stalking shadows in the night, of creeping between streetlights, the dark lust of the hunt. Still I feel a pang of regret for Rumptious, with his cat’s tongue, blind to the subtle sweet joy of apricots… Because if there’s a time for a taste of blushing summer sun, it’s in these darkening Irish days at the close of autumn, when daylight disappears to a few short damp and dreary hours. If apricots in spring are sweet, then the apricots in November, as winter digs its heals in, are sweeter still.&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://milk-mustache.com/recipes/apricots-in-winter-coats/&quot;&gt;Apricots in Winter Coats&lt;/a&gt; was originally published by Sarah Quigley at &lt;a href=&quot;http://milk-mustache.com&quot;&gt;Milk Mustache&lt;/a&gt; on November 08, 2012.&lt;/p&gt;
   </content>
 </entry>
 
 
 <entry>
-  <title type="html"><![CDATA[Couscous Salad with Orange and Avocado]]></title>
-  <link rel="alternate" type="text/html" href="http://milk-mustache.com/recipes/couscous-avocado-with-orange-and-avocado/" />
-  <id>http://milk-mustache.com/recipes/couscous-avocado-with-orange-and-avocado</id>
+  <title type="html"><![CDATA[I Dream of Oranges and Avocados]]></title>
+  <link rel="alternate" type="text/html" href="http://milk-mustache.com/recipes/i-dream-of-oranges-and-avocados/" />
+  <id>http://milk-mustache.com/recipes/i-dream-of-oranges-and-avocados</id>
   <published>2012-10-13T00:00:00-04:00</published>
   <updated>2012-10-13T00:00:00-04:00</updated>
   <author>
@@ -618,7 +631,67 @@
     <email>sarah+milk-mustache@sarahquigley.net</email>
   </author>
   <content type="html">
-    &lt;p class=&quot;dropcap&quot;&gt;Let’s talk about orange and avocado - two foods just begging to be served together, and yet before I accidentally created this salad from the dregs of my larder, I never knew.  Orange’s sweet tanginess is the perfect counterpoint for the creaminess of avocado. I’ve fallen in love with this pairing, and have been spending my spare moments dreaming of new dishes to try it out in.&lt;/p&gt;
+    &lt;p class=&quot;dropcap&quot;&gt;Let’s talk about orange and avocado - two foods just begging to be served together, and yet before I accidentally created this dish from the dregs of my larder, I never knew it. Orange’s sweet tanginess is the perfect counterpoint for the creaminess of avocado. I’ve fallen in love with this pairing, and have been spending my spare moments unashamedly daydreaming about it.&lt;/p&gt;
+
+&lt;div class=&quot;image-group&quot;&gt;
+  
+  
+    
+    
+
+&lt;div class=&quot;image-container&quot; style=&quot;flex: 1.3333333333333333 1 0%&quot;&gt;
+  
+  &lt;img src=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2012-10-13-i-dream-of-oranges-and-avocados/2000/DSCF0170.jpg&quot; alt=&quot;&quot; srcset=&quot;          http://milk-mustache.com/uploads/resized/posts/recipes/2012-10-13-i-dream-of-oranges-and-avocados/480/DSCF0170.jpg 480w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-10-13-i-dream-of-oranges-and-avocados/620/DSCF0170.jpg 620w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-10-13-i-dream-of-oranges-and-avocados/768/DSCF0170.jpg 768w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-10-13-i-dream-of-oranges-and-avocados/1000/DSCF0170.jpg 1000w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-10-13-i-dream-of-oranges-and-avocados/1400/DSCF0170.jpg 1400w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-10-13-i-dream-of-oranges-and-avocados/2000/DSCF0170.jpg 2000w,     http://milk-mustache.com/uploads/posts/recipes/2012-10-13-i-dream-of-oranges-and-avocados/DSCF0170.jpg 2500w&quot; /&gt;
+&lt;/div&gt;
+
+  
+    
+    
+
+&lt;div class=&quot;image-container&quot; style=&quot;flex: 1.3333333333333333 1 0%&quot;&gt;
+  
+  &lt;img src=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2012-10-13-i-dream-of-oranges-and-avocados/2000/DSCF0163.jpg&quot; alt=&quot;&quot; srcset=&quot;          http://milk-mustache.com/uploads/resized/posts/recipes/2012-10-13-i-dream-of-oranges-and-avocados/480/DSCF0163.jpg 480w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-10-13-i-dream-of-oranges-and-avocados/620/DSCF0163.jpg 620w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-10-13-i-dream-of-oranges-and-avocados/768/DSCF0163.jpg 768w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-10-13-i-dream-of-oranges-and-avocados/1000/DSCF0163.jpg 1000w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-10-13-i-dream-of-oranges-and-avocados/1400/DSCF0163.jpg 1400w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-10-13-i-dream-of-oranges-and-avocados/2000/DSCF0163.jpg 2000w,     http://milk-mustache.com/uploads/posts/recipes/2012-10-13-i-dream-of-oranges-and-avocados/DSCF0163.jpg 2500w&quot; /&gt;
+&lt;/div&gt;
+
+  
+  
+&lt;/div&gt;
+
+&lt;div class=&quot;image-group&quot;&gt;
+  
+  
+    
+    
+
+&lt;div class=&quot;image-container&quot; style=&quot;flex: 1.3333333333333333 1 0%&quot;&gt;
+  
+  &lt;img src=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2012-10-13-i-dream-of-oranges-and-avocados/2000/DSCF0220.jpg&quot; alt=&quot;&quot; srcset=&quot;          http://milk-mustache.com/uploads/resized/posts/recipes/2012-10-13-i-dream-of-oranges-and-avocados/480/DSCF0220.jpg 480w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-10-13-i-dream-of-oranges-and-avocados/620/DSCF0220.jpg 620w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-10-13-i-dream-of-oranges-and-avocados/768/DSCF0220.jpg 768w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-10-13-i-dream-of-oranges-and-avocados/1000/DSCF0220.jpg 1000w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-10-13-i-dream-of-oranges-and-avocados/1400/DSCF0220.jpg 1400w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-10-13-i-dream-of-oranges-and-avocados/2000/DSCF0220.jpg 2000w,     http://milk-mustache.com/uploads/posts/recipes/2012-10-13-i-dream-of-oranges-and-avocados/DSCF0220.jpg 2500w&quot; /&gt;
+&lt;/div&gt;
+
+  
+  
+&lt;/div&gt;
+
+&lt;p&gt;This dish is light, fresh - crunchy, zesty (shouldn’t more things be zesty?) - and easy on the wallet. It’s perfect for a simple wholesome lunch, a palette cleansing side – or even, for the adventurous, an unusual and exotic breakfast. Speaking of breakfast…&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://milk-mustache.com/recipes/i-dream-of-oranges-and-avocados/&quot;&gt;I Dream of Oranges and Avocados&lt;/a&gt; was originally published by Sarah Quigley at &lt;a href=&quot;http://milk-mustache.com&quot;&gt;Milk Mustache&lt;/a&gt; on October 13, 2012.&lt;/p&gt;
+  </content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Breaching the Finger Biscuit Fortress]]></title>
+  <link rel="alternate" type="text/html" href="http://milk-mustache.com/recipes/breaching-the-finger-biscuit-fortress/" />
+  <id>http://milk-mustache.com/recipes/breaching-the-finger-biscuit-fortress</id>
+  <published>2012-09-25T00:00:00-04:00</published>
+  <updated>2012-09-25T00:00:00-04:00</updated>
+  <author>
+    <name>Sarah Quigley</name>
+    <uri>http://milk-mustache.com</uri>
+    <email>sarah+milk-mustache@sarahquigley.net</email>
+  </author>
+  <content type="html">
+    &lt;p class=&quot;dropcap&quot;&gt;This week I baked a cake, a terrible, wonderful cake - a cake so deliciously decadent it re-aligned my concept of decadence. I may forget everything else about this week, in fact I think I already have - but this cake has left its mark, and it’s in indelible chocolate.&lt;/p&gt;
 
 &lt;div class=&quot;image-group&quot;&gt;
   
@@ -628,97 +701,14 @@
 
 &lt;div class=&quot;image-container&quot; style=&quot;flex: 1.3318534961154274 1 0%&quot;&gt;
   
-  &lt;img src=&quot;http://milk-mustache.com/&quot; alt=&quot;&quot; srcset=&quot;          http://milk-mustache.com/uploads/resized/posts/recipes/2012-10-13-couscous-salad-with-orange-and-avocado/480/DSCF0202.jpg 480w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-10-13-couscous-salad-with-orange-and-avocado/620/DSCF0202.jpg 620w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-10-13-couscous-salad-with-orange-and-avocado/768/DSCF0202.jpg 768w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-10-13-couscous-salad-with-orange-and-avocado/1000/DSCF0202.jpg 1000w,     http://milk-mustache.com/uploads/posts/recipes/2012-10-13-couscous-salad-with-orange-and-avocado/DSCF0202.jpg 1200w&quot; /&gt;
+  &lt;img src=&quot;http://milk-mustache.com/&quot; alt=&quot;&quot; srcset=&quot;          http://milk-mustache.com/uploads/resized/posts/recipes/2012-09-25-breaching-the-finger-biscuit-fortress/480/DSCN1471.jpg 480w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-09-25-breaching-the-finger-biscuit-fortress/620/DSCN1471.jpg 620w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-09-25-breaching-the-finger-biscuit-fortress/768/DSCN1471.jpg 768w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-09-25-breaching-the-finger-biscuit-fortress/1000/DSCN1471.jpg 1000w,     http://milk-mustache.com/uploads/posts/recipes/2012-09-25-breaching-the-finger-biscuit-fortress/DSCN1471.jpg 1200w&quot; /&gt;
 &lt;/div&gt;
 
   
   
 &lt;/div&gt;
 
-&lt;p&gt;What about the salad that started it all? Orange and avocado, of course, cucumber for crunch, hearty red kidney beans and fluffy couscous, dressed in a honey orange vinaigrette… This salad is light and fresh - perfect for a simple wholesome lunch, a palette cleansing side dish – or, if you’re a weirdo like me, an unusual breakfast.&lt;/p&gt;
-
-&lt;p&gt;There’s nothing very complicated about preparing this salad. I have one piece of advice: avoid cutting the avocados until everything else is chopped, the dressing is made, and the couscous is cooked and ready to go - that way you’ll enjoy the avocado at its very best. Mushy brown avocado is never a very appetising proposition.&lt;/p&gt;
-
-&lt;div class=&quot;image-group&quot;&gt;
-  
-  
-    
-    
-
-&lt;div class=&quot;image-container&quot; style=&quot;flex: 1.3333333333333333 1 0%&quot;&gt;
-  
-  &lt;img src=&quot;http://milk-mustache.com/&quot; alt=&quot;&quot; srcset=&quot;          http://milk-mustache.com/uploads/resized/posts/recipes/2012-10-13-couscous-salad-with-orange-and-avocado/480/DSCF0170a.jpg 480w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-10-13-couscous-salad-with-orange-and-avocado/620/DSCF0170a.jpg 620w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-10-13-couscous-salad-with-orange-and-avocado/768/DSCF0170a.jpg 768w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-10-13-couscous-salad-with-orange-and-avocado/1000/DSCF0170a.jpg 1000w,     http://milk-mustache.com/uploads/posts/recipes/2012-10-13-couscous-salad-with-orange-and-avocado/DSCF0170a.jpg 1200w&quot; /&gt;
-&lt;/div&gt;
-
-  
-    
-    
-
-&lt;div class=&quot;image-container&quot; style=&quot;flex: 1.3333333333333333 1 0%&quot;&gt;
-  
-  &lt;img src=&quot;http://milk-mustache.com/&quot; alt=&quot;&quot; srcset=&quot;          http://milk-mustache.com/uploads/resized/posts/recipes/2012-10-13-couscous-salad-with-orange-and-avocado/480/DSCF0163a.jpg 480w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-10-13-couscous-salad-with-orange-and-avocado/620/DSCF0163a.jpg 620w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-10-13-couscous-salad-with-orange-and-avocado/768/DSCF0163a.jpg 768w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-10-13-couscous-salad-with-orange-and-avocado/1000/DSCF0163a.jpg 1000w,     http://milk-mustache.com/uploads/posts/recipes/2012-10-13-couscous-salad-with-orange-and-avocado/DSCF0163a.jpg 1200w&quot; /&gt;
-&lt;/div&gt;
-
-  
-  
-&lt;/div&gt;
-
-&lt;p&gt;This dish is best served freshly made. Though it can be stored for a day or so in the fridge, the cucumbers lose their crispness and the avocados inevitably brown. If you wish to make this salad in advance, I would advice omitting the cucumber and avocado, and adding them at the last minute, shortly before serving.&lt;/p&gt;
-
-&lt;div class=&quot;image-group&quot;&gt;
-  
-  
-    
-    
-
-&lt;div class=&quot;image-container&quot; style=&quot;flex: 1.3333333333333333 1 0%&quot;&gt;
-  
-  &lt;img src=&quot;http://milk-mustache.com/&quot; alt=&quot;&quot; srcset=&quot;          http://milk-mustache.com/uploads/resized/posts/recipes/2012-10-13-couscous-salad-with-orange-and-avocado/480/DSCF0226.jpg 480w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-10-13-couscous-salad-with-orange-and-avocado/620/DSCF0226.jpg 620w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-10-13-couscous-salad-with-orange-and-avocado/768/DSCF0226.jpg 768w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-10-13-couscous-salad-with-orange-and-avocado/1000/DSCF0226.jpg 1000w,     http://milk-mustache.com/uploads/posts/recipes/2012-10-13-couscous-salad-with-orange-and-avocado/DSCF0226.jpg 1200w&quot; /&gt;
-&lt;/div&gt;
-
-  
-  
-&lt;/div&gt;
-
-&lt;p&gt;Go forth and have salad! Have this salad. It’s healthy, easy on the wallet - but much more importantly, it’s fluffy, zesty, creamy and crunchy all at once.&lt;/p&gt;
-
-    &lt;p&gt;&lt;a href=&quot;http://milk-mustache.com/recipes/couscous-avocado-with-orange-and-avocado/&quot;&gt;Couscous Salad with Orange and Avocado&lt;/a&gt; was originally published by Sarah Quigley at &lt;a href=&quot;http://milk-mustache.com&quot;&gt;Milk Mustache&lt;/a&gt; on October 13, 2012.&lt;/p&gt;
-  </content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[Chocolate Celebration Cake with Finger Biscuits]]></title>
-  <link rel="alternate" type="text/html" href="http://milk-mustache.com/recipes/chocolate-celebration-cake-with-finger-biscuits/" />
-  <id>http://milk-mustache.com/recipes/chocolate-celebration-cake-with-finger-biscuits</id>
-  <published>2012-09-25T00:00:00-04:00</published>
-  <updated>2012-09-25T00:00:00-04:00</updated>
-  <author>
-    <name>Sarah Quigley</name>
-    <uri>http://milk-mustache.com</uri>
-    <email>sarah+milk-mustache@sarahquigley.net</email>
-  </author>
-  <content type="html">
-    &lt;p class=&quot;dropcap&quot;&gt;This is the recipe I turn to when I want to impress, seduce, or otherwise bake my way into people’s good books. It is the death-by-chocolate cake that every chocolate cake lounging languorously behind the glass of cafe counters promises to be, but so rarely is.&lt;/p&gt;
-
-&lt;div class=&quot;image-group&quot;&gt;
-  
-  
-    
-    
-
-&lt;div class=&quot;image-container&quot; style=&quot;flex: 1.3574660633484164 1 0%&quot;&gt;
-  
-  &lt;img src=&quot;http://milk-mustache.com/&quot; alt=&quot;&quot; srcset=&quot;          http://milk-mustache.com/uploads/resized/posts/recipes/2012-09-25-chocolate-celebration-cake-with-finger-biscuits/480/DSCN1321.jpg 480w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-09-25-chocolate-celebration-cake-with-finger-biscuits/620/DSCN1321.jpg 620w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-09-25-chocolate-celebration-cake-with-finger-biscuits/768/DSCN1321.jpg 768w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-09-25-chocolate-celebration-cake-with-finger-biscuits/1000/DSCN1321.jpg 1000w,     http://milk-mustache.com/uploads/posts/recipes/2012-09-25-chocolate-celebration-cake-with-finger-biscuits/DSCN1321.jpg 1200w&quot; /&gt;
-&lt;/div&gt;
-
-  
-  
-&lt;/div&gt;
-
-&lt;p&gt;Let me tell you about the cake… two layers of chocolate bliss, sandwiching a layer of soft chocolate buttercream icing, topped with a fudgy dark chocolate glaze. The cake is surrounded by alternating dark, milk and white finger biscuits, an idea I spotted at a wedding I attended, and couldn’t resist trying myself. The finger biscuits turned out to be a great idea… they are an incredibly fuss free way to create a special looking cake.&lt;/p&gt;
-
-&lt;p&gt;One key to this dessert’s success (and any culinary adventures for that matter) is good ingredients: real butter (unsalted is best), golden caster sugar and natural vanilla extract for the cake - high quality dark chocolate (70% cocoa content) for the glaze. Having recently relocated to Vancouver, British Columbia, I’ve been struggling to find a North American equivalent for golden caster sugar. My best recommendation is to use the finest grain Turbinado sugar you can find. Less essential, but still nice: if you can get your hands on golden icing sugar, your chocolate buttercream icing will have a deeper flavour. However, golden icing sugar can be difficult to find (and ridiculously over-priced) - your icing will still be delicious without it.&lt;/p&gt;
+&lt;p&gt;Consider the cake in question: two tiers of chocolate bliss, filled with a thick layer of chocolate buttercream icing, topped with a fudgy dark chocolate glaze, surrounded by a palisade of dark, milk and white chocolate finger biscuits. When marking those really big moments in life, like turning twenty seven and nine sixteenths, or second breakfast, or Friday, or waking up to another day on this big watery planet, consider this cake.&lt;/p&gt;
 
 &lt;div class=&quot;image-group&quot;&gt;
   
@@ -728,52 +718,18 @@
 
 &lt;div class=&quot;image-container&quot; style=&quot;flex: 1.348314606741573 1 0%&quot;&gt;
   
-  &lt;img src=&quot;http://milk-mustache.com/&quot; alt=&quot;&quot; srcset=&quot;          http://milk-mustache.com/uploads/resized/posts/recipes/2012-09-25-chocolate-celebration-cake-with-finger-biscuits/480/DSCN1490.jpg 480w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-09-25-chocolate-celebration-cake-with-finger-biscuits/620/DSCN1490.jpg 620w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-09-25-chocolate-celebration-cake-with-finger-biscuits/768/DSCN1490.jpg 768w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-09-25-chocolate-celebration-cake-with-finger-biscuits/1000/DSCN1490.jpg 1000w,     http://milk-mustache.com/uploads/posts/recipes/2012-09-25-chocolate-celebration-cake-with-finger-biscuits/DSCN1490.jpg 1200w&quot; /&gt;
+  &lt;img src=&quot;http://milk-mustache.com/&quot; alt=&quot;&quot; srcset=&quot;          http://milk-mustache.com/uploads/resized/posts/recipes/2012-09-25-breaching-the-finger-biscuit-fortress/480/DSCN1490.jpg 480w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-09-25-breaching-the-finger-biscuit-fortress/620/DSCN1490.jpg 620w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-09-25-breaching-the-finger-biscuit-fortress/768/DSCN1490.jpg 768w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-09-25-breaching-the-finger-biscuit-fortress/1000/DSCN1490.jpg 1000w,     http://milk-mustache.com/uploads/posts/recipes/2012-09-25-breaching-the-finger-biscuit-fortress/DSCN1490.jpg 1200w&quot; /&gt;
 &lt;/div&gt;
 
   
   
 &lt;/div&gt;
 
-&lt;p&gt;Speaking of ingredients, with my new Vancouver home, I’ve had the opportunity to test some of my best recipes in a new location. Shock and horror: many of them are not quite as tasty when prepared here, as they were back in Ireland! Currently I suspect that differences arise from the lower of fat content of North American butter (I miss you Irish butter). Differing flour densities may also be a factor. I’m a little worried that this cake (which I haven tested in North America) will suffer from similar problems. Before I made this move across the ocean, I wasn’t aware that it was important to localise recipes for locally available ingredients. I plan to do some testing to figure out how to compensate for ingredient differences in this recipe and others. I’ll let you all know the results.&lt;/p&gt;
+&lt;p&gt;One of the finer things about adulthood is discovering the endless selection of terrible, wonderful decisions that suddenly no one can tell you not to make. And then making them…&lt;/p&gt;
 
-&lt;div class=&quot;image-group&quot;&gt;
-  
-  
-    
-    
+&lt;p&gt;Or baking them, as the case may be.&lt;/p&gt;
 
-&lt;div class=&quot;image-container&quot; style=&quot;flex: 1.3318534961154274 1 0%&quot;&gt;
-  
-  &lt;img src=&quot;http://milk-mustache.com/&quot; alt=&quot;&quot; srcset=&quot;          http://milk-mustache.com/uploads/resized/posts/recipes/2012-09-25-chocolate-celebration-cake-with-finger-biscuits/480/DSCN1471.jpg 480w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-09-25-chocolate-celebration-cake-with-finger-biscuits/620/DSCN1471.jpg 620w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-09-25-chocolate-celebration-cake-with-finger-biscuits/768/DSCN1471.jpg 768w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-09-25-chocolate-celebration-cake-with-finger-biscuits/1000/DSCN1471.jpg 1000w,     http://milk-mustache.com/uploads/posts/recipes/2012-09-25-chocolate-celebration-cake-with-finger-biscuits/DSCN1471.jpg 1200w&quot; /&gt;
-&lt;/div&gt;
-
-  
-  
-&lt;/div&gt;
-
-&lt;p&gt;This cake is prepared using Abby Mandel’s food processor method, which I couldn’t recommend more highly. Not only have I have found that this method produces exceptionally light, moist cakes, but it is quick and easy. One of this method’s unusual aspects is that that eggs and sugar are processed together first, and then butter is added. In contrast, conventional cake preparation has butter and sugar creamed together first, before adding eggs. It’s worth noting that those of you without a food processor can still make this cake: Simply follow the conventional order for mixing butter, sugar and eggs. In the future, I will be posting a detailed piece about the food processor cake method, with step-by-step photos guiding you through the full procedure. Hopefully this will clear up any uncertainties anyone may have about trying the method for themselves.&lt;/p&gt;
-
-&lt;p&gt;This cake has been in baked in my family for long enough that it qualifies as an old family recipe. My mother would bake it for me as a kid (my brother didn’t like chocolate cake, weirdo), and I would do helpful things like weigh ingredients and lick the food processor bowl (cleaning!). The usual family version of this cake is somewhat simpler… this cake minus the chocolate glaze and fancy finger bisuit decoration, instead iced top and sides in buttercream icing. I’ve baked this simple version dozens of times for the storytelling and baking event I founded in Dublin, Milk and Cookie Stories. Beware… serving this cake to a crowd is dangerous business.&lt;/p&gt;
-
-&lt;div class=&quot;image-group&quot;&gt;
-  
-  
-    
-    
-
-&lt;div class=&quot;image-container&quot; style=&quot;flex: 1.2526096033402923 1 0%&quot;&gt;
-  
-  &lt;img src=&quot;http://milk-mustache.com/&quot; alt=&quot;&quot; srcset=&quot;          http://milk-mustache.com/uploads/resized/posts/recipes/2012-09-25-chocolate-celebration-cake-with-finger-biscuits/480/DSCN1319.jpg 480w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-09-25-chocolate-celebration-cake-with-finger-biscuits/620/DSCN1319.jpg 620w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-09-25-chocolate-celebration-cake-with-finger-biscuits/768/DSCN1319.jpg 768w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-09-25-chocolate-celebration-cake-with-finger-biscuits/1000/DSCN1319.jpg 1000w,     http://milk-mustache.com/uploads/posts/recipes/2012-09-25-chocolate-celebration-cake-with-finger-biscuits/DSCN1319.jpg 1200w&quot; /&gt;
-&lt;/div&gt;
-
-  
-  
-&lt;/div&gt;
-
-&lt;p&gt;Now for the recipe! Have fun with it… Make it your own. Find someone special to bake it for… Do a chocolate dance.&lt;/p&gt;
-
-    &lt;p&gt;&lt;a href=&quot;http://milk-mustache.com/recipes/chocolate-celebration-cake-with-finger-biscuits/&quot;&gt;Chocolate Celebration Cake with Finger Biscuits&lt;/a&gt; was originally published by Sarah Quigley at &lt;a href=&quot;http://milk-mustache.com&quot;&gt;Milk Mustache&lt;/a&gt; on September 25, 2012.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://milk-mustache.com/recipes/breaching-the-finger-biscuit-fortress/&quot;&gt;Breaching the Finger Biscuit Fortress&lt;/a&gt; was originally published by Sarah Quigley at &lt;a href=&quot;http://milk-mustache.com&quot;&gt;Milk Mustache&lt;/a&gt; on September 25, 2012.&lt;/p&gt;
   </content>
 </entry>
 

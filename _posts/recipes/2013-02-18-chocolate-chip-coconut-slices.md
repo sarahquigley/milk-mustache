@@ -53,9 +53,9 @@ recipe:
 > — Emily Dickinson
 
 {: .dropcap }
-I live near Trout Lake, which is surrounded by a park called John Hendry, although few people seem to call it that. John Hendry was a lumber tycoon (which is a fittingly Canadian thing to be) and had a sawmill there, until his daughter Aldyen donated the land to the Park Board. So the park became John Hendry park, and it's an excellent park, with swimming, tennis courts, bike paths, an ice rink and so much more.
+Trout Lake is surrounded by a park called John Hendry, although few people seem to call it that. John Hendry was a lumber tycoon (which is a fittingly Canadian thing to be) and had a sawmill there, until his daughter Aldyen donated the land to the Park Board. So the park became John Hendry park, and it's an excellent park, with swimming, tennis courts, bike paths, an ice rink and so much more.
 
-It's lovely in the way that you hope a park will be. Strangers pilot tiny toy sail boats in the shallows of the lake. Someone's grandfather launches a kite, and a child runs after it, until caught by an updraft it soars beyond reach. Bounding dogs chase anything chaseable (kids, sticks, pigeons and other dogs), roll in the grass, splash at ducks doing duck things and send them flying for less canine rocked waters. At the right time of year, barbecues fill the park with heady umami scents of wood smoke and grilling meat.
+It's lovely in the way that you hope a park will be. Strangers pilot tiny toy sail boats in the shallows of the lake. Someone's grandfather launches a kite, and a child runs after it, until caught by an updraft it soars beyond reach. Bounding dogs chase anything that can be chased (kids, sticks, pigeons and other dogs), roll in the grass, splash at ducks doing duck things and send them flying for less canine rocked waters. At the right time of year, barbecues fill the park with heady umami scents of wood smoke and grilling meat.
 
 {% include image-group.html images="DSCF0593.jpg" entry=page %}
 
@@ -65,7 +65,7 @@ It's easy to dismiss parks as quiet bastions of leisure, where nothing really im
 > 
 > — Carl Sandburg, Wilderness
 
-Across Trout lake, beyond the trees lining the park, beyond the invisible expanse of city, Grouse and the rest of the North Shore mountains peek, craggy, snow-capped most of the year. A friend told me that when she loses her bearings in Vancouver, the mountains are her compass, which makes sense - there are few parts of this town from which they aren't visible.
+Across Trout lake, beyond the trees lining the park, beyond the invisible expanse of city, Grouse and the rest of the North Shore mountains peek, craggy, snow-capped most of the year. A friend told me that when she loses her bearings in Vancouver, the mountains are her compass. There are few parts of this town from which they can't be seen.
 
 From the confines of a city, a landscape shaped by humans for humans, the untamed can feel so far away as to effectively not exist. Not in Vancouver, where those rough peaks become guardians, silent, ancient, ever watching, ever present - constant as the sun in the sky, the earth beneath your feet - a reminder of wide wild world beyond our paved streets and manicured lawns.
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Chocolate Chip Coconut Slices"
-excerpt: "There are so many recipes that I try once, and then never again. It's not that there's anything wrong with most of them per se - it's just that once was enough to tick that experience box... been there done, done that, ate the canoli."
+excerpt: "I live near Trout Lake, which is surrounded by a park called John Hendry, although few people seem to call it that. John Hendry was a lumber tycoon (which is a fittingly Canadian thing to be) and had a sawmill there, until his daughter Aldyen donated the land to the Park Board."
 category: recipes
 tags: [baking, dessert, chocolate]
 image:
@@ -28,7 +28,7 @@ recipe:
         - 1 large egg
         - 2 tsp (10 ml) natural vanilla extract
         - 100 g (3.5 ounces / 1 cup) unsweetened shredded coconut
-        - 100 - 125 g (3.5 - 4.4 ounces / ~¾ cup) all-purpose flour (flour varies greatly in density, measure by weight if possible) (start with 100g, if batter is not fairly thick add extra 25g)
+        - 100 - 125 g (3.5 - 4.4 ounces / ~¾ cup) all-purpose flour (start with 100g, if batter is not fairly thick add extra 25g)
         - 100 g (3.5 ounces / ~¾ cup) dark chocolate (70% cocoa content), chopped into chips
         - 75 g (2.6 ounces / ~½ cup) white chocolate, chopped into chips
   method:
@@ -45,9 +45,30 @@ recipe:
 
 ---
 
+> The Mountains — grow unnoticed —\\
+> Their Purple figures rise\\
+> Without attempt — Exhaustion —\\
+> Assistance — or Applause—
+>
+> — Emily Dickinson
+
 {: .dropcap }
+I live near Trout Lake, which is surrounded by a park called John Hendry, although few people seem to call it that. John Hendry was a lumber tycoon (which is a fittingly Canadian thing to be) and had a sawmill there, until his daughter Aldyen donated the land to the Park Board. So the park became John Hendry park, and it's an excellent park, with swimming, tennis courts, bike paths, an ice rink and so much more.
+
+It's lovely in the way that you hope a park will be. Strangers pilot tiny toy sail boats in the shallows of the lake. Someone's grandfather launches a kite, and a child runs after it, until caught by an updraft it soars beyond reach. Bounding dogs chase anything chaseable (kids, sticks, pigeons and other dogs), roll in the grass, splash at ducks doing duck things and send them flying for less canine rocked waters. At the right time of year, barbecues fill the park with heady umami scents of wood smoke and grilling meat.
 
 {% include image-group.html images="DSCF0593.jpg" entry=page %}
 
+> There is an eagle in me and a mockingbird . . . and the eagle flies among the Rocky Mountains of my dreams and fights among the Sierra crags of what I want . . . and the mockingbird warbles in the early forenoon before the dew is gone, warbles in the underbrush of my Chattanoogas of hope, gushes over the blue Ozark foothills of my wishes—And I got the eagle and the mockingbird from the wilderness.
+> 
+> — Carl Sandburg, Wilderness
+
+Across Trout lake, beyond the trees lining the park, beyond the invisible expanse of city, Grouse and the rest of the North Shore mountains peek, craggy, snow-capped most of the year. A friend told me that when she loses her bearings in Vancouver, the mountains are her compass, which makes sense - there are few parts of this town from which they aren't visible.
+
+From the confines of a city, a landscape shaped by humans for humans, the untamed can feel so far away as to effectively not exist. Not in Vancouver, where those rough peaks become guardians, silent, ancient, ever watching, ever present - constant as the sun in the sky, the earth beneath your feet - a reminder of wide wild world beyond our paved streets and manicured lawns.
+
 {% include image-group.html images="DSCF0590.jpg DSCF0602.jpg" entry=page %}
 
+Sooner or later, some future Sarah will move on to a new life somewhere else with different colours and a different cadence. When she remembers Vancouver, I think she'll think of the mountains, their silent strength a backdrop for the sci-fi towers of downtown, which glisten like icicles in the winter sun. Old gods make their homes in the mountains. New gods make their homes in the towers. Old gods meet new on the streets of Vancouver.
+
+Here are some chocolate chip coconut slices. They aren't grand as mountains, or tall as towers, but they probably taste better.

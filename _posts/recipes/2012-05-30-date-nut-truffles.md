@@ -3,7 +3,7 @@ layout: post
 title: "Date Nut Truffles"
 excerpt: "Date nut truffles, fudgy, flavourful, and oh so good for you... These truffles have some impressive stats: vegan, raw if you buy the ingredients with care, sweetened with dates, full of healthy nut oils... and yes, delicious."
 category: recipes
-tags: [dessert, snacks, chocolate]
+tags: [dessert, snacks, chocolate, vegan]
 image:
   feature: DSCN1295a.jpg
   credit: Sarah Quigley
@@ -17,9 +17,8 @@ recipe:
     preparation-time: 5 - 15 minutes + refrigeration time
     yield: 10 - 14 truffles
   notes:
-    - Adapted from Chocolate-Covered Katie's fabulous German Chocolate Fudge Bites.
     - Perfect post-exercise snacks, the fudgy texture and rich flavour of these wholesome truffles will please dessert-lovers and healthy eaters alike. Unlike their traditional alternatives, these truffles are suitable for vegans and raw foodies of the world.
-    - These truffles are equally delicious nude or covered in one of coatings described below. For the best truffles, use the softest dates available. I recommend the Medjool variety.
+    - These truffles are equally delicious plain or covered in one of coatings described below. For the best truffles, use the softest dates available. I recommend the Medjool variety.
   ingredient-lists:
     main:
       ingredients:
@@ -30,7 +29,7 @@ recipe:
         - ½ tsp natural vanilla essence
         - Pinch of salt
     coating:
-      title: Coating (Optional)
+      title: Coatings (Optional)
       ingredients:
         - Chopped nuts of choice (~2 tbsp per 5 truffles)
         - Cocoa powder (or raw cacao powder) (~1 tbsp per 5 truffles)
@@ -39,11 +38,25 @@ recipe:
   method:
     main:
       steps:
-        - Blend all the ingredients (except coatings) in a food processor until they form a ball of thick dough. Roll the dough into small balls. Enjoy the truffles nude, or for some fancier options, try out one or more of the coatings described in detail below.
-        - "Coating 1, Chopped nuts: Roll each ball in chopped nuts until thoroughly coated. Brush off any loose nuts. This is easiest when the truffle balls are a just little soft and warm."
-        - "Coating 2, Cocoa powder: Lightly roll truffles in cocoa powder until thoroughly coated. This works well with either warm or refrigerated truffle balls."
-        - "Coating 3, Dark chocolate with walnut garnish: In a small bowl, over a pot of boiling water, melt some dark chocolate. Using a toothpick or skewer, dip each ball in the chocolate until it is thoroughly coated. (This is easiest with truffle balls that have been refrigerated). Use a spoon to coat any hard to reach areas. Place each truffle on a greaseproof paper covered plate or sheet pan, and garnish with a piece of chopped walnut. Refrigerate until the chocolate has hardened."
+        - Blend all the ingredients (except coatings) in a food processor until they form a ball of thick dough.
+        - Roll the dough into small balls.
+        - Enjoy the truffles plain, or for some fancier options, try out one or more of the coatings described in detail below.
         - These truffles are best stored in the refrigerator, and are at their most fudgy and delicious when served a little cold.
+    coating-1-chopped-nuts:
+      title: "Coating 1: Chopped nuts"
+      steps:
+        - Roll each ball in chopped nuts until thoroughly coated. Brush off any loose nuts. This is easiest when the truffle balls are a just little soft and warm.
+    coating-2-cocoa-powder:
+      title: "Coating 2: Cocoa Powder"
+      steps:
+        - Lightly roll truffles in cocoa powder until thoroughly coated. This works well with either warm or refrigerated truffle balls.
+    coating-3-dark-chocolate:
+      title: "Coating 3: Dark Chocolate with Walnut Garnish"
+      steps:
+        - In a small bowl, over a pot of boiling water, melt some dark chocolate.
+        - Using a toothpick or skewer, dip each ball in the chocolate until it is thoroughly coated. (This is easiest with truffle balls that have been refrigerated). Use a spoon to coat any hard to reach areas.
+        - Place each truffle on a greaseproof paper covered plate or sheet pan, and garnish with a piece of chopped walnut.
+        - Refrigerate until the chocolate has hardened.
   variations:
     - Use another nut of your choice in place of walnuts in the truffle mixture. Pecans or hazelnuts sound like tempting alternatives to me.
     - Stir some dark chocolate chips into to the truffle mixture for greater decadence.

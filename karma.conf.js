@@ -41,7 +41,7 @@ module.exports = function(config){
 
     // List of reporters to use
     reporters: [
-      'html',
+      'kjhtml',
       'mocha',
       'coverage',
     ],

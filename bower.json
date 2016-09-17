@@ -27,6 +27,6 @@
     "tests"
   ],
   "dependencies": {
-    "lodash": "~3.10.x"
+    "lodash": "~4.15.x"
   }
 }

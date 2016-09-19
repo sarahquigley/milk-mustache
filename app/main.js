@@ -1,3 +1,0 @@
-var hello = () => {
-  return 'hello';
-};

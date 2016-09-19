@@ -1,8 +1,8 @@
 {
-  "name": "es6-app-skeleton",
-  "description": "ES6 App Skeleton",
+  "name": "es6-jekyll-skeleton",
+  "description": "ES6 Jekyll Skeleton",
   "version": "0.0.0",
-  "homepage": "https://github.com/finiteadventures/es6-app-skeleton",
+  "homepage": "https://github.com/finiteadventures/es6-jekyll-skeleton",
   "author": {
     "name": "Sarah Quigley",
     "email": "sarah@sarahquigley.net",
@@ -17,7 +17,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/finiteadventures/es6-app-skeleton.git"
+    "url": "https://github.com/finiteadventures/es6-jekyll-skeleton.git"
   },
   "private": false,
   "license": "MIT",

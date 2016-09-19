@@ -1,10 +1,10 @@
-# ES6 App Skeleton
+# ES6 Jekyll Skeleton
 
-[![Build Status](https://travis-ci.org/finiteadventures/es6-app-skeleton.svg)](https://travis-ci.org/finiteadventures/es6-app-skeleton)
-[![Dependency Status](https://gemnasium.com/finiteadventures/es6-app-skeleton.svg)](https://gemnasium.com/finiteadventures/es6-app-skeleton)
-[![devDependency Status](https://david-dm.org/finiteadventures/es6-app-skeleton/dev-status.svg)](https://david-dm.org/finiteadventures/es6-app-skeleton#info=devDependencies)
-[![GitHub release](https://img.shields.io/github/release/finiteadventures/es6-app-skeleton.svg)](https://github.com/finiteadventures/es6-app-skeleton/releases)
-[![Coverage Status](https://coveralls.io/repos/finiteadventures/es6-app-skeleton/badge.svg?branch=master&service=github)](https://coveralls.io/github/finiteadventures/es6-app-skeleton?branch=master)
+[![Build Status](https://travis-ci.org/finiteadventures/es6-jekyll-skeleton.svg)](https://travis-ci.org/finiteadventures/es6-jekyll-skeleton)
+[![Dependency Status](https://gemnasium.com/finiteadventures/es6-jekyll-skeleton.svg)](https://gemnasium.com/finiteadventures/es6-jekyll-skeleton)
+[![devDependency Status](https://david-dm.org/finiteadventures/es6-jekyll-skeleton/dev-status.svg)](https://david-dm.org/finiteadventures/es6-jekyll-skeleton#info=devDependencies)
+[![GitHub release](https://img.shields.io/github/release/finiteadventures/es6-jekyll-skeleton.svg)](https://github.com/finiteadventures/es6-jekyll-skeleton/releases)
+[![Coverage Status](https://coveralls.io/repos/finiteadventures/es6-jekyll-skeleton/badge.svg?branch=master&service=github)](https://coveralls.io/github/finiteadventures/es6-jekyll-skeleton?branch=master)
 
 A skeleton for creating web applications in Ecmascript 6 (and SCSS).
 

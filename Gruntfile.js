@@ -8,16 +8,16 @@ module.exports = function(grunt) {
   // Configure variables for use across grunt tasks
   var config = {
     dirs: {
-      app: 'app',
+      src: 'src',
       dev: '.dev',
-      build: 'build',
+      build: '.build',
     },
     files: {
       scripts: [
-        '<%= config.dirs.app %>/main.js',
+        '<%= config.dirs.src %>/scripts/main.js',
       ],
       tests: [
-        '<%= config.dirs.app %>/**/*.spec.js'
+        '<%= config.dirs.src %>/scripts/**/*.spec.js'
       ]
     }
   };
@@ -26,36 +26,6 @@ module.exports = function(grunt) {
     pkg: grunt.file.readJSON('package.json'),
 
     config: config,
-
-    // Autoprefixer tasks   - add browser specific prefixes to css
-    // autoprefixer:dev     - add browser specific prefixes to css in temporary .dev directory
-    autoprefixer: {
-      options: {
-        browsers: ['last 2 versions']
-      },
-      dev: {
-        files: [{
-          expand: true,
-          cwd: '<%= config.dirs.dev %>/styles/',
-          src: '**/*.css',
-          dest: '<%= config.dirs.dev %>/styles/'
-        }]
-      }
-    },
-
-    // Babel tasks    - ES6 javascript compilation
-    // babel:dev      - Compile ES6 javascript files to temporary directory during development
-    babel: {
-      dev: {
-        options: {
-          sourceMap: true,
-          presets: ['es2015']
-        },
-        files: {
-          '<%= config.dirs.dev %>/main.js': config.files.scripts
-        }
-      }
-    },
 
     // Clean tasks    - For erasing contents of specified directories
     // clean:dev      - Clean temporary directory created for holding compiled files during development
@@ -70,7 +40,17 @@ module.exports = function(grunt) {
     concurrent: {
       test: {
         tasks: [
+          'jekyll:dev',
           'karma:concurrent',
+          'watch'
+        ],
+        options: {
+          logConcurrentOutput: true
+        }
+      },
+      dev: {
+        tasks: [
+          'jekyll:dev',
           'watch'
         ],
         options: {
@@ -79,43 +59,24 @@ module.exports = function(grunt) {
       }
     },
 
-    // Connect task
-    // connect:livereload - Serve site on port 9000
-    connect: {
-      options: {
-        port: 9000,
-        hostname: 'localhost', // Change this to '0.0.0.0' to access the server from outside.
-        livereload: 35729
-      },
-
-      livereload: {
-        options: {
-          open: true, // open page in default browser
-          middleware: function (connect) {
-            return [
-              connect.static(config.dirs.dev),
-              connect.static(config.dirs.app)
-            ];
-          }
-        }
-      }
-    },
-
     // Copy task      - Copy files from one directory to another
-    // copy:build     - Copy files from app directory to build directory during build process
+    // copy:build     - Copy files from src directory to build directory during build process
     copy: {
       build: {
         files: [
           {
             expand: true,
             dot: true,
-            cwd: '<%= config.dirs.app %>',
+            cwd: '<%= config.dirs.dev %>',
             dest: '<%= config.dirs.build %>',
             src: [
-              '*.html',
+              '*.{html,xml}',
               '*/**/*.html',
-              '!bower_components/**/*.html',
               'assets/**/*',
+              'uploads/**/*',
+              '!bower_components/**/*.html',
+              '!scripts/**/*.js',
+              '!styles/**/*.css',
             ]
           }
         ]
@@ -181,6 +142,34 @@ module.exports = function(grunt) {
       }
     },
 
+    // Jekyll - static site generator
+    jekyll: {
+      options: {
+        bundleExec: true,
+        src : '<%= config.dirs.src %>'
+      },
+      dev: {
+        options: {
+          config: '<%= config.dirs.src %>/_config.yml,<%= config.dirs.src %>/_config-dev.yml',
+          serve: true,
+          watch: true,
+          dest: '<%= config.dirs.dev %>',
+          drafts: true,
+          future: true
+        }
+      },
+      build: {
+        options: {
+          config: '<%= config.dirs.src %>/_config.yml',
+          serve: false,
+          watch: false,
+          dest: '<%= config.dirs.dev %>',
+          drafts: false,
+          future: false
+        }
+      }
+    },
+
     // Karma - test runner
     // karma:concurrent   - Run test in the background
     // karma:single       - Run tests once
@@ -203,29 +192,15 @@ module.exports = function(grunt) {
       }
     },
 
-    // Sass tasks    - SCSS and SASS compilation
-    // sass:dev      - Compile .scss and .sass files to temporary directory during development
-    sass: {
-      dev: {
-        files: [{
-          expand: true,
-          cwd: '<%= config.dirs.app %>/styles',
-          src: ['**/*.{scss,sass}'],
-          dest: '<%= config.dirs.dev %>/styles',
-          ext: '.css'
-        }]
-      }
-    },
-
     // UseminPrepare tasks  - Reads HTML for usemin blocks to enable smart builds that automatically
     //                        concat, minify and revision files. Creates configurations in memory so
     //                        additional tasks can operate on them
     // useminPrepare:build  - UseminPrepare task for build process
     useminPrepare: {
       build: {
-        src: ['<%= config.dirs.app %>/index.html'],
+        src: ['<%= config.dirs.dev %>/index.html'],
         options: {
-          staging: '<%= config.dirs.dev %>',
+          staging: '<%= config.dirs.dev %>/tmp',
           dest: '<%= config.dirs.build %>',
           flow: {
             steps: {
@@ -259,26 +234,12 @@ module.exports = function(grunt) {
         livereload: true
       },
 
-      babel: {
-        files: config.files.scripts,
-        tasks: ['babel:dev']
-      },
-
       livereload: {
-        options: {
-          livereload: '<%= connect.options.livereload %>'
-        },
+        host: 'localhost',
+        port: '4000',
         files: [
-          '<%= config.dirs.app %>/**/*.html',
-          '<%= config.dirs.dev %>/**/*.js'
+          '<%= config.dirs.dev %>/**/*.{html,js,css}',
         ]
-      },
-
-      sass: {
-        files: [
-          '<%= config.dirs.app %>/styles/**/*.{scss,sass}'
-        ],
-        tasks: ['sass']
       },
 
       wiredep: {
@@ -296,8 +257,8 @@ module.exports = function(grunt) {
     wiredep: {
       dev: {
         src: [
-          '<%= config.dirs.app %>/index.html',
-          '<%= config.dirs.app %>/styles/main.scss',
+          '<%= config.dirs.src %>/_include/head.html',
+          '<%= config.dirs.src %>/styles/main.scss',
         ]
       },
 
@@ -340,7 +301,7 @@ module.exports = function(grunt) {
     ]);
   });
 
-  // build                    - Build app, ready for deployment
+  // build                    - Build src, ready for deployment
   //    [--no-install-deps]   - Skip dependency installation.
   grunt.registerTask('build', 'Build, ready for deployment', function(){
     if(! grunt.option('no-install-deps')){
@@ -350,15 +311,12 @@ module.exports = function(grunt) {
     }
 
     grunt.task.run([
-      'clean:dev',
-      'babel:dev',
-      'wiredep:dev',
-      'sass:dev',
-      'autoprefixer:dev',
       'clean:build',
+      'wiredep:dev',
+      'jekyll:build',
+      'copy:build',
       'useminPrepare',
       'concat',
-      'copy:build',
       'cssmin',
       'uglify',
       'filerev',
@@ -368,8 +326,8 @@ module.exports = function(grunt) {
     ]);
   });
 
-  // deploy                    - Build app, deploy to gh-pages branch on Github
-  grunt.registerTask('deploy', 'Build app, deploy to gh-pages branch', function(){
+  // deploy                    - Build src, deploy to gh-pages branch on Github
+  grunt.registerTask('deploy', 'Build src, deploy to gh-pages branch', function(){
     grunt.task.run([
       'build',
       'gh-pages',
@@ -388,11 +346,7 @@ module.exports = function(grunt) {
 
     grunt.task.run([
       'clean:dev',
-      'babel:dev',
       'wiredep:dev',
-      'sass:dev',
-      'autoprefixer:dev',
-      'connect:livereload'
     ]);
 
     if(grunt.option('test')){
@@ -401,7 +355,9 @@ module.exports = function(grunt) {
         'concurrent:test'
       ]);
     } else {
-      grunt.task.run(['watch']);
+      grunt.task.run([
+        'concurrent:dev'
+      ]);
     }
   });
 

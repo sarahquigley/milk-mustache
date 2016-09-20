@@ -6,7 +6,7 @@ module.exports = function(config){
     // List of files/patterns to load in the browser
     files : [
       // bower:js
-      'app/bower_components/lodash/lodash.js',
+      'src/bower_components/lodash/lodash.js',
       // endbower
       '.dev/main.js',
       'app/**/*.spec.js',

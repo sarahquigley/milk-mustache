@@ -6,7 +6,7 @@
 [![GitHub release](https://img.shields.io/github/release/finiteadventures/es6-jekyll-skeleton.svg)](https://github.com/finiteadventures/es6-jekyll-skeleton/releases)
 [![Coverage Status](https://coveralls.io/repos/finiteadventures/es6-jekyll-skeleton/badge.svg?branch=master&service=github)](https://coveralls.io/github/finiteadventures/es6-jekyll-skeleton?branch=master)
 
-A skeleton for creating web applications in Ecmascript 6 (and SCSS).
+A skeleton for creating static sites with Jekyll, with build and deployment infrastructure built using Grunt.
 
 
 ## Installing dependencies
@@ -34,19 +34,18 @@ To use the `grunt-cli`, it must be installed globally.
 sudo npm install -g grunt-cli
 ```
 
+### Install Project Specific Ruby Gems
 
-### Install SASS Ruby Gem
-
-This gem is required for compilation of `.scss` and `.sass` files to `.css`. Before installing the gem, ensure Ruby and Ruby's Gem package manager are installed. Then, install the `sass` gem:
+These include `jekyll` and various `jekyll` plugins. Install with bundler:
 
 ```
-sudo gem install sass
+bundle install
 ```
 
 
-### Install Project Specific Dependencies
+### Install Project Specific Front-End Dependencies
 
-This project has two kinds of dependencies: tools and libraries.
+This project has two kinds of dependencies on the front-end: tools and libraries.
 
 Tools:
 
@@ -69,7 +68,7 @@ npm install
 This will create the following folders:
 
 * `node_modules` - contains the npm packages for tools needed.
-* `app/bower_components` - contains bower packages for libraries needed.
+* `src/bower_components` - contains bower packages for libraries needed.
 
 
 

@@ -21,26 +21,34 @@
 <meta name="MobileOptimized" content="320">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<!-- For all browsers -->
-<link rel="stylesheet" href="{{ site.url }}/assets/css/main.css">
+<!-- build:css(app) styles/vendor.min.css -->
+<!-- bower:css -->
+<!-- endbower -->
+<!-- endbuild -->
+
+<!-- build:css(.dev) styles/main.min.css -->
+<link rel="stylesheet" href="/styles/main.css">
+<!-- endbuild -->
+
 <!-- Webfonts -->
-  <script src="https://use.edgefonts.net/source-sans-pro:n2,i2,n3,i3,n4,i4,n6,i6,n7,i7,n9,i9;source-code-pro:n4,n7;volkhov.js"></script>
+<script src="https://use.edgefonts.net/source-sans-pro:n2,i2,n3,i3,n4,i4,n6,i6,n7,i7,n9,i9;source-code-pro:n4,n7;volkhov.js"></script>
 
-  <meta http-equiv="cleartype" content="on">
+<meta http-equiv="cleartype" content="on">
 
-  <!-- HTML5 Shiv and Media Query Support -->
-  <!--[if lt IE 9]>
-    <script src="{{ site.url }}/assets/js/vendor/html5shiv.min.js"></script>
-    <script src="{{ site.url }}/assets/js/vendor/respond.min.js"></script>
-  <![endif]-->
-
-  <!-- Modernizr -->
-  <script src="{{ site.url }}/assets/js/vendor/modernizr-2.7.1.custom.min.js"></script>
+<!-- HTML5 Shiv and Media Query Support -->
+<!--[if lt IE 9]>
+<script src="{{ site.url }}/assets/js/vendor/html5shiv.min.js"></script>
+<script src="{{ site.url }}/assets/js/vendor/respond.min.js"></script>
+<![endif]-->
 
 {% if site.mathjax == true %}
 <!-- MathJax -->
 <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 {% endif %}
+
+<!-- build:js(app) scripts/vendor-head.min.js -->
+<script src="/assets/js/vendor/modernizr-2.7.1.custom.min.js"></script>
+<!-- endbuild -->
 
 <!-- Icons -->
 <!-- 16x16, 24x24, 32x32, 48x48, 64x64 -->

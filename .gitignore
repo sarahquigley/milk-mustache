@@ -1,13 +1,12 @@
-/bower_components/
-/app/bower_components/
+/src/bower_components/
+/src/uploads/resized/
 /node_modules/
 /.dev/
-/build/
+/.build/
 /.sass-cache/
 /.grunt/
 /coverage/
-/_site/
-/uploads/resized/
+/.jekyll-metadata
 .DS_Store
 *.swo
 *.swp

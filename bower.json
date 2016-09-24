@@ -1,0 +1,37 @@
+{
+  "name": "Milk Mustache",
+  "description": "A food blog.",
+  "version": "0.0.0",
+  "homepage": "https://github.com/finiteadventures/es6-jekyll-skeleton",
+  "author": {
+    "name": "Sarah Quigley",
+    "email": "sarah@sarahquigley.net",
+    "url": "http://sarahquigley.net"
+  },
+  "contributors": [
+    {
+      "name": "Mike Stewart",
+      "email": "mike@mikestewart.net",
+      "url": "https://github.com/mstewart"
+    },
+    {
+      "name": "Michael Rose",
+      "email": "michael@mademistakes.com",
+      "url": "http://mmistakes.github.io/so-simple-theme/"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/finiteadventures/milk-mustache.git"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "lodash": "~4.15.x"
+  }
+}

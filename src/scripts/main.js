@@ -1,0 +1,6 @@
+---
+---
+
+var hello = () => {
+  return 'hello';
+};

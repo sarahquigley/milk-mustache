@@ -35,19 +35,18 @@
 
 <meta http-equiv="cleartype" content="on">
 
-<!-- HTML5 Shiv and Media Query Support -->
-<!--[if lt IE 9]>
-<script src="{{ site.url }}/assets/js/vendor/html5shiv.min.js"></script>
-<script src="{{ site.url }}/assets/js/vendor/respond.min.js"></script>
-<![endif]-->
-
 {% if site.mathjax == true %}
 <!-- MathJax -->
 <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 {% endif %}
 
 <!-- build:js(app) scripts/vendor-head.min.js -->
-<script src="/assets/js/vendor/modernizr-2.7.1.custom.min.js"></script>
+<script src="/scripts/vendor/modernizr-2.7.1.custom.min.js"></script>
+<!-- HTML5 Shiv and Media Query Support -->
+<!--[if lt IE 9]>
+<script src="/bower_components/html5shiv/dist/html5shiv.js"></script>
+<script src="/bower_components/dest/respond.src.js"></script>
+<![endif]-->
 <!-- endbuild -->
 
 <!-- Icons -->

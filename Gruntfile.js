@@ -258,7 +258,12 @@ module.exports = function(grunt) {
       dev: {
         src: [
           '<%= config.dirs.src %>/_include/head.html',
+          '<%= config.dirs.src %>/_include/scripts.html',
           '<%= config.dirs.src %>/styles/main.scss',
+        ],
+        exclude: [
+          '<%= config.dirs.src %>/bower_components/dest/respond.src.js',
+          '<%= config.dirs.src %>/bower_components/html5shiv/dist/html5shiv.js'
         ]
       },
 

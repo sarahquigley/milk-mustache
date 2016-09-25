@@ -12,11 +12,15 @@ sitemap: false
 */
 
 @import "variables";
+@import "grid-settings";
 
 /*
    Vendor
    ========================================================================== */
 // bower:scss
+@import "../bower_components/fontawesome/scss/font-awesome.scss";
+@import "../bower_components/bourbon/app/assets/stylesheets/_bourbon.scss";
+@import "../bower_components/neat/app/assets/stylesheets/_neat.scss";
 // endbower
 
 /*

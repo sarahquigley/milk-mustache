@@ -256,14 +256,23 @@ module.exports = function(grunt) {
     // wiredep:test     - Inject bower dependencies into karma config
     wiredep: {
       dev: {
+        ignorePath: '..',
         src: [
-          '<%= config.dirs.src %>/_include/head.html',
-          '<%= config.dirs.src %>/_include/scripts.html',
-          '<%= config.dirs.src %>/styles/main.scss',
+          '<%= config.dirs.src %>/_includes/head.html',
+          '<%= config.dirs.src %>/_includes/scripts.html',
         ],
         exclude: [
           '<%= config.dirs.src %>/bower_components/dest/respond.src.js',
           '<%= config.dirs.src %>/bower_components/html5shiv/dist/html5shiv.js'
+        ],
+        html: {
+          ignorePath: '..'
+        },
+      },
+
+      devSCSS: {
+        src: [
+          '<%= config.dirs.src %>/styles/main.scss',
         ]
       },
 
@@ -318,6 +327,7 @@ module.exports = function(grunt) {
     grunt.task.run([
       'clean:build',
       'wiredep:dev',
+      'wiredep:devSCSS',
       'jekyll:build',
       'copy:build',
       'useminPrepare',
@@ -352,6 +362,7 @@ module.exports = function(grunt) {
     grunt.task.run([
       'clean:dev',
       'wiredep:dev',
+      'wiredep:devSCSS',
     ]);
 
     if(grunt.option('test')){

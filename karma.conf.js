@@ -7,6 +7,12 @@ module.exports = function(config){
     files : [
       // bower:js
       'src/bower_components/lodash/lodash.js',
+      'src/bower_components/jquery/dist/jquery.js',
+      'src/bower_components/respond/dest/respond.src.js',
+      'src/bower_components/fitvids/jquery.fitvids.js',
+      'src/bower_components/magnific-popup/dist/jquery.magnific-popup.js',
+      'src/bower_components/responsive-nav/responsive-nav.js',
+      'src/bower_components/html5shiv/dist/html5shiv.js',
       // endbower
       '.dev/main.js',
       'app/**/*.spec.js',

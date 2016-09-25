@@ -25,6 +25,7 @@
     "url": "https://github.com/finiteadventures/milk-mustache.git"
   },
   "private": false,
+  "license": "UNLICENSED",
   "devDependencies": {
     "bower": "~1.7.9",
     "grunt": "~0.4.5",

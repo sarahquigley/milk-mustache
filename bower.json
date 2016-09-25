@@ -24,6 +24,8 @@
     "type": "git",
     "url": "https://github.com/finiteadventures/milk-mustache.git"
   },
+  "private": true,
+  "license": "UNLICENSED",
   "ignore": [
     "**/.*",
     "node_modules",

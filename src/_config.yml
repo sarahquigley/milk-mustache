@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Site wide configuration
 
 environment: production
@@ -10,6 +9,7 @@ search: true
 url: http://milk-mustache.com
 uploads_path: uploads
 encoding: UTF-8
+source: src
 
 # Jekyll configuration
 
@@ -17,10 +17,9 @@ encoding: UTF-8
 environment: production
 permalink:   /:categories/:title/
 markdown: kramdown
-theme: minima
 sass:
   sass_dir: _styles
-  style: compressed
+
 exclude: ["*.spec.js", "lib", "log", "tmp", "test", "spec", "vendor"]
 autoprefixer:
   browsers:
@@ -47,7 +46,7 @@ mathjax: true
 
 paginate: 10
 
-    
+
 # Site owner
 owner:
   name: Sarah Quigley
@@ -77,7 +76,7 @@ owner:
 
 # https://github.com/wildlyinaccurate/jekyll-responsive-image
 responsive_image:
-  template: _includes/image.html
+  template: src/_includes/image.html
   default_quality: 90
   sizes:
     - width: 480
@@ -86,5 +85,5 @@ responsive_image:
     - width: 1000
     - width: 1400
     - width: 2000
-  base_path: uploads
-  output_path_format: uploads/resized/%{dirname}/%{width}/%{basename}
+  base_path: src/uploads
+  output_path_format: src/uploads/resized/%{dirname}/%{width}/%{basename}

@@ -14,7 +14,7 @@ module.exports = function(config){
       'src/bower_components/responsive-nav/responsive-nav.js',
       'src/bower_components/html5shiv/dist/html5shiv.js',
       // endbower
-      '.dev/main.js',
+      '.dev/scripts/main.js',
       'app/**/*.spec.js',
     ],
 
@@ -55,7 +55,7 @@ module.exports = function(config){
     // Preprocessors to use
     preprocessors: {
       'app/**/*.spec.js': 'babel',
-      '.dev/main.js': 'coverage',
+      '.dev/scripts/main.js': 'coverage',
     },
 
     coverageReporter: {

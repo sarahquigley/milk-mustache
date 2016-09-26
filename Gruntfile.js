@@ -246,6 +246,7 @@ module.exports = function(grunt) {
         files: ['bower.json'],
         tasks: [
           'wiredep:dev',
+          'wiredep:devSCSS',
           'wiredep:test',
         ]
       }
@@ -295,25 +296,6 @@ module.exports = function(grunt) {
   });
 
   // Custom tasks
-
-  // test                     - Run a single run of unit tests
-  //    [--no-install-deps]   - Skip dependency installation.
-  grunt.registerTask('test', 'Run unit tests', function(){
-    if(! grunt.option('no-install-deps')){
-      grunt.task.run([
-        'npm-install',
-      ]);
-    }
-
-    var type = grunt.option('type') || 'single'
-
-    grunt.task.run([
-      'wiredep:test',
-      'clean:dev',
-      'babel:dev',
-      'karma:' + type
-    ]);
-  });
 
   // build                    - Build src, ready for deployment
   //    [--no-install-deps]   - Skip dependency installation.

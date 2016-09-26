@@ -35,14 +35,14 @@
   ],
   "dependencies": {
     "lodash": "~4.15.x",
-    "fontawesome": "~4.6.3",
     "jquery": "~3.1.1",
     "respond": "~1.4.2",
     "fitvids": "~1.1.0",
     "magnific-popup": "~1.1.0",
-    "responsive-nav": "~1.0.39",
+    "responsive-nav": "1.0.15",
     "bourbon": "~4.2.7",
     "neat": "~1.8.0",
-    "html5shiv": "~3.7.3"
+    "html5shiv": "~3.7.3",
+    "font-awesome": "~4.6.3"
   }
 }

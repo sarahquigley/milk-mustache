@@ -24,7 +24,7 @@ group :jekyll_plugins do
   gem 'jekyll-paginate', '1.1.0'
   gem 'jekyll-babel', '1.1.0'
   gem 'jekyll-autoprefixer', '1.0.0'
-  gem "jekyll-responsive_image"
+  gem "jekyll-responsive_image", '1.0.0.pre3'
   gem "jekyll-sitemap"
   gem "jekyll-gist"
 end

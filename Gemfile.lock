@@ -31,7 +31,7 @@ GEM
     jekyll-gist (1.4.0)
       octokit (~> 4.2)
     jekyll-paginate (1.1.0)
-    jekyll-responsive_image (0.18.0)
+    jekyll-responsive_image (1.0.0.pre3)
       jekyll (>= 2.0, < 4.0)
       rmagick (>= 2.0, < 3.0)
     jekyll-sass-converter (1.4.0)
@@ -71,7 +71,7 @@ DEPENDENCIES
   jekyll-babel (= 1.1.0)
   jekyll-gist
   jekyll-paginate (= 1.1.0)
-  jekyll-responsive_image
+  jekyll-responsive_image (= 1.0.0.pre3)
   jekyll-sitemap
 
 RUBY VERSION

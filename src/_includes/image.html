@@ -6,5 +6,5 @@
 
 <div class="image-container" style="flex: {{ original.width | plus: 0.0 | divided_by: original.height }} 1 0%">
   {% assign mainImage = resized | where: "width", 2000 | first %}
-  <img src="{{ site.url }}/{{ mainImage.path | remove: 'src/' }}" alt="{{ alt }}" srcset="{{ srcset | strip_newlines | remove: 'src/' }} {{ site.url }}/{{ original.path | remove: 'src/'}} {{ original.width }}w">
+  <img src="{{ site.url }}/{{ mainImage.path }}" alt="{{ alt }}" srcset="{{ srcset | strip_newlines }} {{ site.url }}/{{ original.path }} {{ original.width }}w">
 </div>

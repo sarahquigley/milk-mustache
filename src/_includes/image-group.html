@@ -1,4 +1,4 @@
-{% capture imagePath %}src/{{ site.uploads_path }}/{{ include.entry.layout }}s{% if include.entry.category %}/{{ include.entry.category }}{% endif %}/{% if include.entry.date %}{{ include.entry.date | date: "%Y-%m-%d" }}-{% endif %}{{ include.entry.title | slugify }}/{% endcapture %}
+{% capture imagePath %}{{ site.uploads_path }}/{{ include.entry.layout }}s{% if include.entry.category %}/{{ include.entry.category }}{% endif %}/{% if include.entry.date %}{{ include.entry.date | date: "%Y-%m-%d" }}-{% endif %}{{ include.entry.title | slugify }}/{% endcapture %}
 {% assign images = include.images | split: ' ' %}
 
 <div class="image-group">

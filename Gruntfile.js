@@ -70,10 +70,13 @@ module.exports = function(grunt) {
             cwd: '<%= config.dirs.dev %>',
             dest: '<%= config.dirs.build %>',
             src: [
+              '*.json',
+              'CNAME',
               '*.{html,xml}',
               '*/**/*.html',
               'assets/**/*',
               'uploads/**/*',
+              'images/**/*',
               '!bower_components/**/*.html',
               '!scripts/**/*.js',
               '!styles/**/*.css',

@@ -58,6 +58,6 @@ I'm barely in the door, when you arrive, umbrella armed, gumboot shod, just a li
 
 Oh the interminable battle of cookie and brownie ― and maybe it's imagining pulling the tray from the oven, digging our spoons into that hidden treasure, so tender, soft and oozing  ― or the thought of the scent, that embodiment of warmth and comfort, suffusing our house? Or maybe it's the appeal just pouring batter in pan, lazy winter days call for lazy winter desserts after all... whatever it is, brownies win today.
 
-{% include image-group.html images="DSCF0314.jpg" entry=page %}
+{% include image-group.html images="DSCF0314.jpg" entry=page image-popup=true %}
 
 Join me on this dim grey frigid day; or if you can't face the wet or the rain, if your cat's caught a cold, and you have too, invite me around,  I'll bring the baking supplies. Let's make brownies. Here's a recipe. It's a good one, simple too. Let's do it.

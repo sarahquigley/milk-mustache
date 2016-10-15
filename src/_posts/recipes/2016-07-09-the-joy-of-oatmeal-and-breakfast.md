@@ -55,8 +55,8 @@ recipe:
 {: .dropcap }
 I was sitting in my local ramen place, Shinobi noodles, waiting for a bowl of tan tan men when I made a shocking discovery: Jesse doesn’t eat breakfast. Dual classing as dance ninja and cookie master, Jesse is among my favourite people, so his neglect in the breakfast department was unexpected and disconcerting.
 
-{% include image-group.html images="20140415_093359.jpg" entry=page %}
-{% include image-group.html images="20150104_114113.jpg 20140501_085414.jpg 20150111_122726.jpg" entry=page %}
+{% include image-group.html images="20140415_093359.jpg" entry=page image-popup=true %}
+{% include image-group.html images="20150104_114113.jpg 20140501_085414.jpg 20150111_122726.jpg" entry=page image-popup=true %}
 
 > “When you wake up in the morning, Pooh,” said Piglet at last, “what’s the first thing you say to yourself?”\\
 > “What’s for breakfast?” said Pooh. “What do you say, Piglet?”\\
@@ -67,8 +67,8 @@ I was sitting in my local ramen place, Shinobi noodles, waiting for a bowl of ta
 
 And so I’ve set out on a personal quest: get Jesse to eat breakfast. Whatever the health benefits of breakfast are (quite a few, if the internets are to be believed), I’m with Pooh Bear on the whole breakfast question: How could I call myself a true friend if I stood by letting Jesse’s days pass unpunctuated by the excitement of breakfast? Which brings me to oatmeal.
 
-{% include image-group.html images="20140607_115556.jpg DSC_0898.jpg" entry=page %}
-{% include image-group.html images="20140510_093604.jpg" entry=page %}
+{% include image-group.html images="20140607_115556.jpg DSC_0898.jpg" entry=page image-popup=true %}
+{% include image-group.html images="20140510_093604.jpg" entry=page image-popup=true %}
 
 And so Jesse asks, “What food could possibly be both simple and delicious enough to kickstart my breakfast habit?” And so without hesitation I answer, “Oatmeal! Always oatmeal! Ever oatmeal! So quick to prepare! So infinitely customisable! So tasty and satisfying!”
 

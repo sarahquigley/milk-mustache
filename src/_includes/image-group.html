@@ -8,6 +8,9 @@
     {% capture currentImagePath %}{{ imagePath }}{{ image }}{% endcapture %}
     {% responsive_image_block %}
       path: {{ currentImagePath }}
+      {% if include.image-popup %}
+      image-popup: {{ include.image-popup }}
+      {% endif %}
     {% endresponsive_image_block %}
   {% endfor %}
     <figcaption>{{ include.caption }}</figcaption>
@@ -17,6 +20,9 @@
     {% capture currentImagePath %}{{ imagePath }}{{ image }}{% endcapture %}
     {% responsive_image_block %}
       path: {{ currentImagePath }}
+      {% if include.image-popup %}
+      image-popup: {{ include.image-popup }}
+      {% endif %}
     {% endresponsive_image_block %}
   {% endfor %}
   {% endif %}

@@ -51,8 +51,8 @@ recipe:
 {: .dropcap }
 Let's talk about orange and avocado - two foods just begging to be served together, and yet before I accidentally created this dish from the dregs of my larder, I never knew it. Orange's sweet tanginess is the perfect counterpoint for the creaminess of avocado. I've fallen in love with this pairing, and have been spending my spare moments unashamedly daydreaming about it.
 
-{% include image-group.html images="DSCF0170.jpg DSCF0163.jpg" entry=page %}
+{% include image-group.html images="DSCF0170.jpg DSCF0163.jpg" entry=page image-popup=true %}
 
-{% include image-group.html images="DSCF0220.jpg" entry=page %}
+{% include image-group.html images="DSCF0220.jpg" entry=page image-popup=true %}
 
 This dish is light, fresh - crunchy, zesty (shouldn't more things be zesty?) - and easy on the wallet. It's perfect for a simple wholesome lunch, a palette cleansing side -- or even, for the adventurous, an unusual and exotic breakfast. Speaking of breakfast...

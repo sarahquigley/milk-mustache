@@ -57,7 +57,7 @@ Trout Lake is surrounded by a park called John Hendry, although few people seem 
 
 It's lovely in the way that you hope a park will be. Strangers pilot tiny toy sail boats in the shallows of the lake. Someone's grandfather launches a kite, and a child runs after it, until caught by an updraft it soars beyond reach. Bounding dogs chase anything that can be chased (kids, sticks, pigeons and other dogs), roll in the grass, splash at ducks doing duck things and send them flying for less canine rocked waters. At the right time of year, barbecues fill the park with heady umami scents of wood smoke and grilling meat.
 
-{% include image-group.html images="DSCF0593.jpg" entry=page %}
+{% include image-group.html images="DSCF0593.jpg" entry=page image-popup=true %}
 
 It's easy to dismiss parks as quiet bastions of leisure, where nothing really important happens - but stories play out there too. Over games of frisbee or kickball, teens grow into their awkward bodies. On blankets in the sun, by half-empty jugs of watermelon lemonade, ants carry off the last crumbs of chocolate chip coconut slices. Beneath the earth is an alien land of creeping, crawling, wriggling things fighting for survival. On midnight strolls lit by a slimming moon, love is made or broken.
 
@@ -69,6 +69,6 @@ Across Trout lake, beyond the trees lining the park, beyond the invisible expans
 
 From the confines of a city, a landscape shaped by humans for humans, the untamed can feel so far away as to effectively not exist. Not in Vancouver, where those rough peaks become guardians, silent, ancient, ever watching, ever present - constant as the sun in the sky, the earth beneath your feet - a reminder of wide wild world beyond our paved streets and manicured lawns.
 
-{% include image-group.html images="DSCF0590.jpg DSCF0602.jpg" entry=page %}
+{% include image-group.html images="DSCF0590.jpg DSCF0602.jpg" entry=page image-popup=true %}
 
 Sooner or later, some future Sarah will move on to a new life somewhere else with different colours and a different cadence. When she remembers Vancouver, I think she'll think of the mountains, their silent strength a backdrop for the sci-fi towers of downtown, which glisten like icicles in the winter sun. Old gods make their homes in mountains. New gods make their homes in towers. Old gods meet new on the streets of Vancouver.

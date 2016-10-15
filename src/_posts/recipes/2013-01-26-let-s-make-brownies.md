@@ -48,13 +48,13 @@ recipe:
 {: .dropcap }
 Join me on a January afternoon in Vancouver, British Columbia, sidewalks turning slick with rain. Vancouver doesn't mess about ― none of those non-commital Irish days here, teasing you with damp and drizzle. I cycle home, rain-spattered despite a raincoat, hair wind-swept into a giant mane of unmanageable blond frizz. They call me the Lion (if only).
 
-{% include image-group.html images="DSCF0299.jpg" entry=page %}
+{% include image-group.html images="DSCF0299.jpg" entry=page image-popup=true %}
 
 I'm barely in the door, when you arrive, umbrella armed, gumboot shod, just a little dripping. The house is all creaks. We make tea, hot hot tea. We drizzle it with honey, because we can. Drops patter against the roof, and it's almost musical. You sing something silly about rain. I do too. You tell me days like this call for a hot oven full of home-baked somethings, comfort food. I agree. 'How about cookies?', I say. 'How about brownies?', say you.
 
-{% include image-group.html images="DSCF0288.jpg " entry=page %}
+{% include image-group.html images="DSCF0288.jpg " entry=page image-popup=true %}
 
-{% include image-group.html images="DSCF0243.jpg DSCF0282.jpg" entry=page %}
+{% include image-group.html images="DSCF0243.jpg DSCF0282.jpg" entry=page image-popup=true %}
 
 Oh the interminable battle of cookie and brownie ― and maybe it's imagining pulling the tray from the oven, digging our spoons into that hidden treasure, so tender, soft and oozing  ― or the thought of the scent, that embodiment of warmth and comfort, suffusing our house? Or maybe it's the appeal just pouring batter in pan, lazy winter days call for lazy winter desserts after all... whatever it is, brownies win today.
 

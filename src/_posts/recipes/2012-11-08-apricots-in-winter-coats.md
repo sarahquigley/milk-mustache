@@ -58,9 +58,9 @@ recipe:
 {: .dropcap }
 My cat Rumptious tells me I should pay him more attention. He pokes me in the ankle as I roll balls of apricots and almonds between my palms and dip them in vanilla bean speckled white chocolate - apricots in white coats, coats for winter. Cats don't appreciate apricots, or almonds, or white chocolate for that matter, or understand the merits coating one in the other.
 
-{% include image-group.html images="DSCN1242.jpg" entry=page %}
+{% include image-group.html images="DSCN1242.jpg" entry=page image-popup=true %}
 
-{% include image-group.html images="DSCN1254.jpg DSCN1268.jpg" entry=page %}
+{% include image-group.html images="DSCN1254.jpg DSCN1268.jpg" entry=page image-popup=true %}
 
 > What could be more thrilling\\
 > than ripe apricots out of season, \\

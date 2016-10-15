@@ -117,11 +117,11 @@ recipe:
 {: .dropcap } 
 This week I baked a cake, a terrible, wonderful cake - a cake so deliciously decadent it re-aligned my concept of decadence. I may forget everything else about this week, in fact I think I already have - but this cake has left its mark, and it's in indelible chocolate.
 
-{% include image-group.html images="DSCN1471.jpg" entry=page %}
+{% include image-group.html images="DSCN1471.jpg" entry=page image-popup=true %}
 
 Consider the cake in question: two tiers of chocolate bliss, filled with a thick layer of chocolate buttercream icing, topped with a fudgy dark chocolate glaze, surrounded by a palisade of dark, milk and white chocolate finger biscuits. When marking those really big moments in life, like turning twenty seven and nine sixteenths, or second breakfast, or Friday, or waking up to another day on this big watery planet, consider this cake.
 
-{% include image-group.html images="DSCN1490.jpg" entry=page %}
+{% include image-group.html images="DSCN1490.jpg" entry=page image-popup=true %}
 
 One of the finer things about adulthood is discovering the endless selection of terrible, wonderful decisions that suddenly no one can tell you not to make. And then making them...
 

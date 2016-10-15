@@ -19,7 +19,7 @@ var q, jsonFeedUrl = "/search.json",
     $foundContainer = $("[data-search-found]"),
     $foundTerm = $("[data-search-found-term]"),
     $foundCount = $("[data-search-found-count]"),
-    allowEmpty = true,
+    allowEmpty = false,
     showLoader = true,
     loadingClass = "is--loading";
 

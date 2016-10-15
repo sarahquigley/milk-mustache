@@ -15,6 +15,21 @@
   }
 }
 
+#footer-site-info {
+  @include clearfix;
+	border-bottom: 1px solid lighten($black,80);
+	border-bottom: 1px solid rgba($black,.10);
+
+  section{
+    @include clearfix;
+    @include media($medium) {
+      @include span-columns(4 of 12);
+      @include omega(3n);
+    }
+  }
+
+}
+
 /*
    Social media icons
    ========================================================================== */

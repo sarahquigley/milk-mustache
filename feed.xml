@@ -4,7 +4,7 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://milk-mustache.com/feed.xml" />
 <link rel="alternate" type="text/html" href="http://milk-mustache.com" />
-<updated>2016-10-15T09:27:14-04:00</updated>
+<updated>2016-10-15T09:36:09-04:00</updated>
 <id>http://milk-mustache.com/</id>
 <author>
   <name>Sarah Quigley</name>
@@ -730,7 +730,11 @@ Assistance — or Applause—&lt;/p&gt;
   
 
   
+  &lt;a class=&quot;image-popup&quot; href=&quot;http://milk-mustache.com/uploads/posts/recipes/2013-01-26-let-s-make-brownies/DSCF0314.jpg&quot;&gt;
+  
   &lt;img src=&quot;http://milk-mustache.com/uploads/posts/recipes/2013-01-26-let-s-make-brownies/DSCF0314.jpg&quot; alt=&quot;&quot; srcset=&quot;          http://milk-mustache.com/uploads/resized/posts/recipes/2013-01-26-let-s-make-brownies/480/DSCF0314.jpg 480w,          http://milk-mustache.com/uploads/resized/posts/recipes/2013-01-26-let-s-make-brownies/620/DSCF0314.jpg 620w,          http://milk-mustache.com/uploads/resized/posts/recipes/2013-01-26-let-s-make-brownies/768/DSCF0314.jpg 768w,          http://milk-mustache.com/uploads/resized/posts/recipes/2013-01-26-let-s-make-brownies/1000/DSCF0314.jpg 1000w,     http://milk-mustache.com/uploads/posts/recipes/2013-01-26-let-s-make-brownies/DSCF0314.jpg 1200w&quot; /&gt;
+  
+  &lt;/a&gt;
   
 &lt;/div&gt;
 

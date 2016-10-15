@@ -38,11 +38,19 @@
     "jquery": "~3.1.1",
     "respond": "~1.4.2",
     "fitvids": "~1.1.0",
-    "magnific-popup": "~1.1.0",
     "responsive-nav": "1.0.15",
     "bourbon": "~4.2.7",
     "neat": "~1.8.0",
     "html5shiv": "~3.7.3",
-    "font-awesome": "~4.6.3"
+    "font-awesome": "~4.6.3",
+    "fluidbox": "~2.0.3"
+  },
+  "overrides": {
+    "fluidbox": {
+      "main": [
+        "dist/js/jquery.fluidbox.min.js",
+        "dist/css/fluidbox.min.css"
+      ]
+    }
   }
 }

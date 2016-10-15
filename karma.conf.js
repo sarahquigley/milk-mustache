@@ -12,6 +12,7 @@ module.exports = function(config){
       'src/bower_components/fitvids/jquery.fitvids.js',
       'src/bower_components/responsive-nav/responsive-nav.js',
       'src/bower_components/html5shiv/dist/html5shiv.js',
+      'src/bower_components/jquery-throttle-debounce/jquery.ba-throttle-debounce.min.js',
       'src/bower_components/fluidbox/dist/js/jquery.fluidbox.min.js',
       // endbower
       '.dev/scripts/main.js',

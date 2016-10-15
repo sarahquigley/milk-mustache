@@ -6,5 +6,12 @@
 
 <div class="image-container" style="flex: {{ original.width | plus: 0.0 | divided_by: original.height }} 1 0%">
   {% assign mainImage = resized | where: "width", 2000 | first %}
+
+  {% if image-popup %}
+  <a class="image-popup" href="{{ site.url }}/{{ mainImage.path }}">
+  {% endif %}
   <img src="{{ site.url }}/{{ mainImage.path }}" alt="{{ alt }}" srcset="{{ srcset | strip_newlines }} {{ site.url }}/{{ original.path }} {{ original.width }}w">
+  {% if image-popup %}
+  </a>
+  {% endif %}
 </div>

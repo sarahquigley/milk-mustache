@@ -5,10 +5,10 @@ excerpt: "Date nut truffles, fudgy, flavourful, and oh so good for you... These 
 category: recipes
 tags: [dessert, snacks, chocolate, vegan]
 image:
-  feature: DSCN1295a.jpg
+  feature: DSCN1295.jpg
   credit: Sarah Quigley
   creditlink: "http://sarahquigley.net"
-  thumb: DSCN1295a.jpg
+  thumb: DSCN1295.jpg
 comments: true
 share: true
 recipe:
@@ -69,7 +69,7 @@ recipe:
 {: .dropcap }
 Date nut truffles, fudgy, flavourful, and oh so good for you... These truffles have some impressive stats: vegan, raw if you buy the ingredients with care, sweetened with dates, full of healthy nut oils... and yes, delicious. When I tasted these guys for the first time, I knew I'd finally found the treat I'd been waiting for. Date nut truffles, where have you been all my life? This is love.
 
-{% include image-group.html images="DSCN1295a.jpg" entry=page image-popup=true %}
+{% include image-group.html images="DSCN1295.jpg" entry=page image-popup=true %}
 
 You know what I find most exciting about this recipe? It has four variations: nude (I like this word), cocoa-dusted, nut-covered and, the piece-de-resistance, dark chocolated-coated. All four are delectable, and quick and easy to prepare. I'll admit, making the chocolate-coated variety takes a little longer (still quick!), and is a little messier, but they're so pretty that they are more than worth the extra trouble.
 
@@ -81,12 +81,12 @@ Of all these truffles' ingredients, the dates are the most important: seek out t
 
 I tried cheap dried pitted dates in a previous attempt at this recipe. Due to their hardness and dryness, these dates did not process properly, leaving my truffles with a gritty texture and an uneven flavour. However, if all you can find are dried dates, you should achieve satisfactory results by soaking the dates beforehand in some water until they regain a soft texture. If your dates are soft, but not quite as moist as Medjool dates, try adding a tablespoon or two of water to the mixture before it is processed.
 
-{% include image-group.html images="DSCN1276a.jpg" entry=page image-popup=true %}
+{% include image-group.html images="DSCN1276.jpg" entry=page image-popup=true %}
 
 For the chocolate-coated variation of these truffles, good chocolate is also vital. I recommend dark chocolate with a minimum 60% cocoa content (I used 74%), preferably a good European brand (not Cadbury's). A small tip chocolate-coating the truffles: melt the chocolate in a small deep container (I used a ramekin placed in a steamer basket over some boiling water). I was able to coat about two thirds of the surface of my truffles simply by dipping the truffles in the melted chocolate, but I had to use a small spoon to dollop the chocolate on the final third.
 
 I'm really excited about exploring more flavours of truffles (healthy or otherwise). The keen-eyed among you may have already spotted my next truffle concoction. Hint: look carefully in the photos posted here. The bright orange oddity hiding among its chocolate compadrees will soon be unveiled in all its apricot and almond glory. I have said too much already... You'll have to wait for the recipe to find out more.
 
-{% include image-group.html images="DSCN1288a.jpg" entry=page image-popup=true %}
+{% include image-group.html images="DSCN1288.jpg" entry=page image-popup=true %}
 
 Is it just me, or can you see these guys tucked away together in dainty gift boxes? "Oh wow, you made these!?" Yes, friends will be totally impressed when they see them... and even more once they've tasted them and you tell them how healthy they are!

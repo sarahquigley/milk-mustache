@@ -266,7 +266,7 @@ module.exports = function(grunt) {
           '<%= config.dirs.src %>/_includes/scripts.html',
         ],
         exclude: [
-          '<%= config.dirs.src %>/bower_components/dest/respond.src.js',
+          '<%= config.dirs.src %>/bower_components/respond/dest/respond.src.js',
           '<%= config.dirs.src %>/bower_components/html5shiv/dist/html5shiv.js'
         ],
         html: {

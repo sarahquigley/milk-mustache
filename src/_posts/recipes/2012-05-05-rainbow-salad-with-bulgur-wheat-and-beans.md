@@ -62,12 +62,12 @@ recipe:
 
 {: .dropcap }
 
-{% include image-group.html images="DSCN0712.jpg" entry=page image-popup=true %}
+{% include image-group.html images="DSCN0641.jpg" entry=page image-popup=true %}
 
 As its name suggests, this salad is packed full of a veritable rainbow of ingredients: nutritious beans, sweet carrots, refreshing tomatoes, tangy onions, crunchy pine nuts and raisins (extra sweetness) - and of course, bulgur wheat. Over the last while, I've developed something of a small obsession with bulgur - I love its chunky grains, so hearty and nutty flavour. I love how all the subtle flavours of this salad are tied together by the bulgur, and I hope that you do too.
 
 {% include image-group.html images="DSCN0628.jpg DSCN0594.jpg" entry=page image-popup=true %}
 
-{% include image-group.html images="DSCN0728.jpg" entry=page image-popup=true%}
+{% include image-group.html images="DSCN0694.jpg" entry=page image-popup=true%}
 
 I thought it was worth mentioning, for anyone on a tight budget, this is a happily cheap dish to prepare, especially if you replace the pine nuts (which are quite overpriced in my local supermarket) with a more affordable seed or nut, use normal tomatoes instead of cherry tomatoes and omit the fresh coriander (or grow your own). I always try to be conscious of how much I'm spending on food - it's comforting to have some staple recipes that are both wholesome and easy on the pocket.

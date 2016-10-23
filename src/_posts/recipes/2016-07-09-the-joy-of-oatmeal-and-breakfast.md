@@ -53,7 +53,7 @@ recipe:
 ---
 
 {: .dropcap }
-I was sitting in my local ramen place, Shinobi noodles, waiting for a bowl of tan tan men when I made a shocking discovery: Jesse doesn’t eat breakfast. Dual classing as dance ninja and cookie master, Jesse is among my favourite people, so his neglect in the breakfast department was unexpected and disconcerting.
+I was sitting in my local ramen place, Shinobi noodles, waiting for a bowl of tan tan men when I made a shocking discovery: Jesse doesn’t eat breakfast. Dual classing as [dance ninja](https://github.com/TooManyBees/glitch) and cookie master, [Jesse](https://toomanybees.com/) is among my favourite people, so his neglect in the breakfast department was unexpected and disconcerting.
 
 {% include image-group.html images="20140415_093359.jpg" entry=page image-popup=true %}
 {% include image-group.html images="20150104_114113.jpg 20140501_085414.jpg 20150111_122726.jpg" entry=page image-popup=true %}

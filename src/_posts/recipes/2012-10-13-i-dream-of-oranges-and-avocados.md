@@ -55,4 +55,4 @@ Let's talk about orange and avocado - two foods just begging to be served togeth
 
 {% include image-group.html images="DSCF0220.jpg" entry=page image-popup=true %}
 
-This dish is light, fresh - crunchy, zesty (shouldn't more things be zesty?) - and easy on the wallet. It's perfect for a simple wholesome lunch, a palette cleansing side -- or even, for the adventurous, an unusual and exotic breakfast. Speaking of breakfast...
+This dish is light, fresh - crunchy, zesty (shouldn't more things be zesty?) - and easy on the wallet. It's perfect for a simple wholesome lunch, a palette cleansing side -- or even, for the adventurous, an unusual and exotic breakfast. 

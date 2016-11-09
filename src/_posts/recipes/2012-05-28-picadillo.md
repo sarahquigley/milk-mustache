@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Picadillo
-excerpt: "I hate to pick favourites, but this picadillo recipe may be my favourite Mexican dish. Scratch that - It might just be be one of my favourite dishes of all time. This meat dish is subtly sweet and packed with apple, raisins and almonds."
+excerpt: "Picadillo, a sweet fragrant Latin American stew of meat and tomatoes, was a household favourite when we were kids. On picadillo nights, the pot simmered for hours, leaving our home smelling of cinnamon, cumin and garlic."
 category: recipes
 tags: [dinner, meat, beef, hispanic]
 image:
@@ -19,7 +19,7 @@ recipe:
     yield: 4 - 6 portions
   notes:
     - "Adapted from Better Home and Gardens: Mexican Cook Book, published in 1977."
-    - Picadillo is a Latin American meat dish. This version is a subtly sweet Mexican variation with nuts, apples and raisins. It's excellent as a tortilla or taco filling or served over plain or flavourted rice. I like to accompany it with a combination of toppings such as chopped tomatoes, grated cheese, spinach, lettuce, home-made guacamole, chopped red onion, hot sauce, yoghurt or sour cream.
+    - Picadillo is a Latin American meat dish. This version is a subtly sweet variation with nuts, apples and raisins. It's excellent as a tortilla or taco filling or served over plain or flavoured rice. I like to accompany it with a combination of toppings such as chopped tomatoes, grated cheese, spinach, lettuce, home-made guacamole, chopped red onion, hot sauce, yoghurt or sour cream.
   ingredient-lists:
     main:
       ingredients:
@@ -49,8 +49,14 @@ recipe:
 ---
 
 {: .dropcap }
+Picadillo, a sweet fragrant Latin American stew of meat and tomatoes, was a household favourite when we were kids. On picadillo nights, the pot simmered for hours, leaving our home smelling of cinnamon, cumin and garlic. We were quaking with anticipation by dinner time, and stealing spoonfuls whenever we thought it would go unnoticed.
 
 {% include image-group.html images="DSCN1085.jpg" entry=page image-popup=true %}
 
+The steaming picadillo pot took pride of place, surrounded by dishes of flavoured rice, spicy chicken, or refried beans speckled with sauteed red peppers and onions. Almost every other possible nook and cranny of our dining table was covered by the vast array of toppings and side dishes: guacamole, spinach, chopped tomatoes, pungent grated Irish cheddar and so much more. 
+
+Hot flour tortillas emerged from the oven and we'd all dig in, piling so many things on our tortillas that they would burst at the seams when we tried to eat them, leaving our fingers sticky. The mess was part of the fun.
+
 {% include image-group.html images="DSCN1146.jpg" entry=page image-popup=true %}
 
+This is that childhood picadillo recipe, adapted from my mom's 1977 *Better Homes and Garden* Mexican cookbook. Though it's a little rough around the edges now, stained from love and many cooking adventures, she still uses that cookbook and cooks picadillo - and now I cook it too. 

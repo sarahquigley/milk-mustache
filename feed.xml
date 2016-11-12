@@ -4,7 +4,7 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://milk-mustache.com/feed.xml" />
 <link rel="alternate" type="text/html" href="http://milk-mustache.com" />
-<updated>2016-10-15T19:01:06-04:00</updated>
+<updated>2016-11-12T10:12:49-05:00</updated>
 <id>http://milk-mustache.com/</id>
 <author>
   <name>Sarah Quigley</name>
@@ -25,7 +25,7 @@
     <email>sarah+milk-mustache@sarahquigley.net</email>
   </author>
   <content type="html">
-    &lt;p class=&quot;dropcap&quot;&gt;I was sitting in my local ramen place, Shinobi noodles, waiting for a bowl of tan tan men when I made a shocking discovery: Jesse doesn’t eat breakfast. Dual classing as dance ninja and cookie master, Jesse is among my favourite people, so his neglect in the breakfast department was unexpected and disconcerting.&lt;/p&gt;
+    &lt;p class=&quot;dropcap&quot;&gt;I was sitting in my local ramen place, Shinobi noodles, waiting for a bowl of tan tan men when I made a shocking discovery: Jesse doesn’t eat breakfast. Dual classing as &lt;a href=&quot;https://github.com/TooManyBees/glitch&quot;&gt;dance ninja&lt;/a&gt; and cookie master, &lt;a href=&quot;https://toomanybees.com/&quot;&gt;Jesse&lt;/a&gt; is among my favourite people, so his neglect in the breakfast department was unexpected and disconcerting.&lt;/p&gt;
 
 &lt;div class=&quot;image-group&quot;&gt;
   
@@ -928,7 +928,7 @@ to offset the savage wistfulness of early spring?&lt;/p&gt;
   
 &lt;/div&gt;
 
-&lt;p&gt;This dish is light, fresh - crunchy, zesty (shouldn’t more things be zesty?) - and easy on the wallet. It’s perfect for a simple wholesome lunch, a palette cleansing side – or even, for the adventurous, an unusual and exotic breakfast. Speaking of breakfast…&lt;/p&gt;
+&lt;p&gt;This dish is light, fresh - crunchy, zesty (shouldn’t more things be zesty?) - and easy on the wallet. It’s perfect for a simple wholesome lunch, a palette cleansing side – or even, for the adventurous, an unusual and exotic breakfast.&lt;/p&gt;
 
     &lt;p&gt;&lt;a href=&quot;http://milk-mustache.com/recipes/i-dream-of-oranges-and-avocados/&quot;&gt;I Dream of Oranges and Avocados&lt;/a&gt; was originally published by Sarah Quigley at &lt;a href=&quot;http://milk-mustache.com&quot;&gt;Milk Mustache&lt;/a&gt; on October 13, 2012.&lt;/p&gt;
   </content>
@@ -1007,9 +1007,9 @@ to offset the savage wistfulness of early spring?&lt;/p&gt;
 
 
 <entry>
-  <title type="html"><![CDATA[Date Nut Truffles]]></title>
-  <link rel="alternate" type="text/html" href="http://milk-mustache.com/recipes/date-nut-truffles/" />
-  <id>http://milk-mustache.com/recipes/date-nut-truffles</id>
+  <title type="html"><![CDATA[Sarah Dreams of Truffles]]></title>
+  <link rel="alternate" type="text/html" href="http://milk-mustache.com/recipes/sarah-dreams-of-truffles/" />
+  <id>http://milk-mustache.com/recipes/sarah-dreams-of-truffles</id>
   <published>2012-05-30T00:00:00-04:00</published>
   <updated>2012-05-30T00:00:00-04:00</updated>
   <author>
@@ -1018,8 +1018,7 @@ to offset the savage wistfulness of early spring?&lt;/p&gt;
     <email>sarah+milk-mustache@sarahquigley.net</email>
   </author>
   <content type="html">
-    &lt;p class=&quot;dropcap&quot;&gt;Date nut truffles, fudgy, flavourful, and oh so good for you… These truffles have some impressive stats: vegan, raw if you buy the ingredients with care, sweetened with dates, full of healthy nut oils… and yes, delicious. When I tasted these guys for the first time, I knew I’d finally found the treat I’d been waiting for. Date nut truffles, where have you been all my life? This is love.&lt;/p&gt;
-
+    
 &lt;div class=&quot;image-group&quot;&gt;
   
   
@@ -1031,24 +1030,14 @@ to offset the savage wistfulness of early spring?&lt;/p&gt;
   
 
   
-  &lt;a class=&quot;image-popup&quot; href=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-30-date-nut-truffles/2000/DSCN1295.jpg&quot;&gt;
+  &lt;a class=&quot;image-popup&quot; href=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-30-sarah-dreams-of-truffles/2000/DSCN1071.jpg&quot;&gt;
   
-  &lt;img src=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-30-date-nut-truffles/2000/DSCN1295.jpg&quot; alt=&quot;&quot; srcset=&quot;          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-30-date-nut-truffles/480/DSCN1295.jpg 480w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-30-date-nut-truffles/620/DSCN1295.jpg 620w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-30-date-nut-truffles/768/DSCN1295.jpg 768w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-30-date-nut-truffles/1000/DSCN1295.jpg 1000w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-30-date-nut-truffles/1400/DSCN1295.jpg 1400w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-30-date-nut-truffles/2000/DSCN1295.jpg 2000w,     http://milk-mustache.com/uploads/posts/recipes/2012-05-30-date-nut-truffles/DSCN1295.jpg 2500w&quot; /&gt;
+  &lt;img src=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-30-sarah-dreams-of-truffles/2000/DSCN1071.jpg&quot; alt=&quot;&quot; srcset=&quot;          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-30-sarah-dreams-of-truffles/480/DSCN1071.jpg 480w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-30-sarah-dreams-of-truffles/620/DSCN1071.jpg 620w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-30-sarah-dreams-of-truffles/768/DSCN1071.jpg 768w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-30-sarah-dreams-of-truffles/1000/DSCN1071.jpg 1000w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-30-sarah-dreams-of-truffles/1400/DSCN1071.jpg 1400w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-30-sarah-dreams-of-truffles/2000/DSCN1071.jpg 2000w,     http://milk-mustache.com/uploads/posts/recipes/2012-05-30-sarah-dreams-of-truffles/DSCN1071.jpg 2500w&quot; /&gt;
   
   &lt;/a&gt;
   
 &lt;/div&gt;
 
-  
-  
-&lt;/div&gt;
-
-&lt;p&gt;You know what I find most exciting about this recipe? It has four variations: nude (I like this word), cocoa-dusted, nut-covered and, the piece-de-resistance, dark chocolated-coated. All four are delectable, and quick and easy to prepare. I’ll admit, making the chocolate-coated variety takes a little longer (still quick!), and is a little messier, but they’re so pretty that they are more than worth the extra trouble.&lt;/p&gt;
-
-&lt;p&gt;This recipe was adapted from a recipe on one of the most creative food blogs I follow. Do check out the original recipe, Chocolate-Covered Katie’s fabulous German Chocolate Fudge Bites. Katie’s blog is well worth exploring - it is full of tasty healthy treats! Her recipe is almost identical to the nude version of these truffles (I used walnuts in favour of pecans). My one nitty-picky problem wth the original recipe was I didn’t think the sweets looked quite as delicious as they tasted… I wanted treats pretty enough for a chocolate box, and so I was inspired to create my variations of the recipe.&lt;/p&gt;
-
-&lt;div class=&quot;image-group&quot;&gt;
-  
   
     
     
@@ -1058,36 +1047,9 @@ to offset the savage wistfulness of early spring?&lt;/p&gt;
   
 
   
-  &lt;a class=&quot;image-popup&quot; href=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-30-date-nut-truffles/2000/DSCN1071.jpg&quot;&gt;
+  &lt;a class=&quot;image-popup&quot; href=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-30-sarah-dreams-of-truffles/2000/DSCN1276.jpg&quot;&gt;
   
-  &lt;img src=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-30-date-nut-truffles/2000/DSCN1071.jpg&quot; alt=&quot;&quot; srcset=&quot;          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-30-date-nut-truffles/480/DSCN1071.jpg 480w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-30-date-nut-truffles/620/DSCN1071.jpg 620w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-30-date-nut-truffles/768/DSCN1071.jpg 768w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-30-date-nut-truffles/1000/DSCN1071.jpg 1000w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-30-date-nut-truffles/1400/DSCN1071.jpg 1400w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-30-date-nut-truffles/2000/DSCN1071.jpg 2000w,     http://milk-mustache.com/uploads/posts/recipes/2012-05-30-date-nut-truffles/DSCN1071.jpg 2500w&quot; /&gt;
-  
-  &lt;/a&gt;
-  
-&lt;/div&gt;
-
-  
-  
-&lt;/div&gt;
-
-&lt;p&gt;Of all these truffles’ ingredients, the dates are the most important: seek out the softest dates you can find. Expensive as they can be, I recommend splashing out on some Medjool dates. (I remember my first time tasting Medjool dates as a nine or ten year old. I had a mini celebration at the discovery of sweets I wouldn’t need my parent’s permission to eat!) Medjool dates have a gorgeous, almost caramel-like, flavour and a melt-in-your-mouth texture, and are certainly the best dates that are commonly available in my local stores.&lt;/p&gt;
-
-&lt;p&gt;I tried cheap dried pitted dates in a previous attempt at this recipe. Due to their hardness and dryness, these dates did not process properly, leaving my truffles with a gritty texture and an uneven flavour. However, if all you can find are dried dates, you should achieve satisfactory results by soaking the dates beforehand in some water until they regain a soft texture. If your dates are soft, but not quite as moist as Medjool dates, try adding a tablespoon or two of water to the mixture before it is processed.&lt;/p&gt;
-
-&lt;div class=&quot;image-group&quot;&gt;
-  
-  
-    
-    
-
-&lt;div class=&quot;image-container&quot; style=&quot;flex: 1.3333333333333333 1 0%&quot;&gt;
-  
-  
-
-  
-  &lt;a class=&quot;image-popup&quot; href=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-30-date-nut-truffles/2000/DSCN1276.jpg&quot;&gt;
-  
-  &lt;img src=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-30-date-nut-truffles/2000/DSCN1276.jpg&quot; alt=&quot;&quot; srcset=&quot;          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-30-date-nut-truffles/480/DSCN1276.jpg 480w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-30-date-nut-truffles/620/DSCN1276.jpg 620w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-30-date-nut-truffles/768/DSCN1276.jpg 768w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-30-date-nut-truffles/1000/DSCN1276.jpg 1000w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-30-date-nut-truffles/1400/DSCN1276.jpg 1400w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-30-date-nut-truffles/2000/DSCN1276.jpg 2000w,     http://milk-mustache.com/uploads/posts/recipes/2012-05-30-date-nut-truffles/DSCN1276.jpg 2500w&quot; /&gt;
+  &lt;img src=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-30-sarah-dreams-of-truffles/2000/DSCN1276.jpg&quot; alt=&quot;&quot; srcset=&quot;          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-30-sarah-dreams-of-truffles/480/DSCN1276.jpg 480w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-30-sarah-dreams-of-truffles/620/DSCN1276.jpg 620w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-30-sarah-dreams-of-truffles/768/DSCN1276.jpg 768w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-30-sarah-dreams-of-truffles/1000/DSCN1276.jpg 1000w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-30-sarah-dreams-of-truffles/1400/DSCN1276.jpg 1400w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-30-sarah-dreams-of-truffles/2000/DSCN1276.jpg 2000w,     http://milk-mustache.com/uploads/posts/recipes/2012-05-30-sarah-dreams-of-truffles/DSCN1276.jpg 2500w&quot; /&gt;
   
   &lt;/a&gt;
   
@@ -1096,10 +1058,6 @@ to offset the savage wistfulness of early spring?&lt;/p&gt;
   
   
 &lt;/div&gt;
-
-&lt;p&gt;For the chocolate-coated variation of these truffles, good chocolate is also vital. I recommend dark chocolate with a minimum 60% cocoa content (I used 74%), preferably a good European brand (not Cadbury’s). A small tip chocolate-coating the truffles: melt the chocolate in a small deep container (I used a ramekin placed in a steamer basket over some boiling water). I was able to coat about two thirds of the surface of my truffles simply by dipping the truffles in the melted chocolate, but I had to use a small spoon to dollop the chocolate on the final third.&lt;/p&gt;
-
-&lt;p&gt;I’m really excited about exploring more flavours of truffles (healthy or otherwise). The keen-eyed among you may have already spotted my next truffle concoction. Hint: look carefully in the photos posted here. The bright orange oddity hiding among its chocolate compadrees will soon be unveiled in all its apricot and almond glory. I have said too much already… You’ll have to wait for the recipe to find out more.&lt;/p&gt;
 
 &lt;div class=&quot;image-group&quot;&gt;
   
@@ -1112,9 +1070,9 @@ to offset the savage wistfulness of early spring?&lt;/p&gt;
   
 
   
-  &lt;a class=&quot;image-popup&quot; href=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-30-date-nut-truffles/2000/DSCN1288.jpg&quot;&gt;
+  &lt;a class=&quot;image-popup&quot; href=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-30-sarah-dreams-of-truffles/2000/DSCN1288.jpg&quot;&gt;
   
-  &lt;img src=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-30-date-nut-truffles/2000/DSCN1288.jpg&quot; alt=&quot;&quot; srcset=&quot;          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-30-date-nut-truffles/480/DSCN1288.jpg 480w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-30-date-nut-truffles/620/DSCN1288.jpg 620w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-30-date-nut-truffles/768/DSCN1288.jpg 768w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-30-date-nut-truffles/1000/DSCN1288.jpg 1000w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-30-date-nut-truffles/1400/DSCN1288.jpg 1400w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-30-date-nut-truffles/2000/DSCN1288.jpg 2000w,     http://milk-mustache.com/uploads/posts/recipes/2012-05-30-date-nut-truffles/DSCN1288.jpg 2500w&quot; /&gt;
+  &lt;img src=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-30-sarah-dreams-of-truffles/2000/DSCN1288.jpg&quot; alt=&quot;&quot; srcset=&quot;          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-30-sarah-dreams-of-truffles/480/DSCN1288.jpg 480w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-30-sarah-dreams-of-truffles/620/DSCN1288.jpg 620w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-30-sarah-dreams-of-truffles/768/DSCN1288.jpg 768w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-30-sarah-dreams-of-truffles/1000/DSCN1288.jpg 1000w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-30-sarah-dreams-of-truffles/1400/DSCN1288.jpg 1400w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-30-sarah-dreams-of-truffles/2000/DSCN1288.jpg 2000w,     http://milk-mustache.com/uploads/posts/recipes/2012-05-30-sarah-dreams-of-truffles/DSCN1288.jpg 2500w&quot; /&gt;
   
   &lt;/a&gt;
   
@@ -1124,9 +1082,24 @@ to offset the savage wistfulness of early spring?&lt;/p&gt;
   
 &lt;/div&gt;
 
-&lt;p&gt;Is it just me, or can you see these guys tucked away together in dainty gift boxes? “Oh wow, you made these!?” Yes, friends will be totally impressed when they see them… and even more once they’ve tasted them and you tell them how healthy they are!&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Time is gonna take so much away&lt;br /&gt;
+but there’s a way that time can offer you a trade.&lt;br /&gt;
+You gotta do something that you can get nicer at.&lt;br /&gt;
+You gotta do something that you can get wiser at.&lt;br /&gt;
+You better do something that you can get better at&lt;br /&gt;
+‘cause that’s the only thing that time will leave you with.\&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://milk-mustache.com/recipes/date-nut-truffles/&quot;&gt;Date Nut Truffles&lt;/a&gt; was originally published by Sarah Quigley at &lt;a href=&quot;http://milk-mustache.com&quot;&gt;Milk Mustache&lt;/a&gt; on May 30, 2012.&lt;/p&gt;
+  &lt;p&gt;— Jeffrey Lewis, Time Trades&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p class=&quot;dropcap&quot;&gt;Some part of me wants to throw away everything and make truffles for a living. I’d experiment with strange flavour pairings like cherry and bergamot, or coconut and cumin. Each day would be scented by increasingly exotic combinations, like living in the wet dream of a perfume fetishist.&lt;/p&gt;
+
+&lt;p&gt;On soulful afternoons, I’d pass the time arranging truffles in a mosaic of paper cases and packing them in brown paper boxes. I’d finish the boxes with raffia or organzas ribbons, tied in increasingly quixotic knots. I’ve watched too many films. My truffle making fantasy takes on a certain Frenchness, its colours cast in the rustic pastels of &lt;a href=&quot;http://www.imdb.com/title/tt0241303/?ref_=fn_al_tt_1&quot;&gt;Chocolat&lt;/a&gt;, or the rich reds of &lt;a href=&quot;http://www.imdb.com/title/tt0211915/?ref_=fn_al_tt_1&quot;&gt;Amelie&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I can’t help think of the film &lt;a href=&quot;http://www.imdb.com/title/tt1772925/?ref_=ttqt_qt_tt&quot;&gt;Jiro Dreams of Sushi&lt;/a&gt;. Did any part of Jiro regret his steadfast devotion to mastering the art of sushi making? Would I regret a life similarly devoted to truffle making? Life offers so many possible existences. We can sample so very few, choose to master even fewer.&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://milk-mustache.com/recipes/sarah-dreams-of-truffles/&quot;&gt;Sarah Dreams of Truffles&lt;/a&gt; was originally published by Sarah Quigley at &lt;a href=&quot;http://milk-mustache.com&quot;&gt;Milk Mustache&lt;/a&gt; on May 30, 2012.&lt;/p&gt;
   </content>
 </entry>
 
@@ -1143,32 +1116,7 @@ to offset the savage wistfulness of early spring?&lt;/p&gt;
     <email>sarah+milk-mustache@sarahquigley.net</email>
   </author>
   <content type="html">
-    &lt;p class=&quot;dropcap&quot;&gt;I hate to pick favourites, but this picadillo recipe may be my favourite Mexican dish. Scratch that - It might just be be one of my favourite dishes of all time. This meat dish is subtly sweet and packed with apple, raisins and almonds. Yum! I’m a big fan of adding a little fruit to savoury dishes, which may be part of why I have a special love for this recipe…&lt;/p&gt;
-
-&lt;div class=&quot;image-group&quot;&gt;
-  
-  
-    
-    
-
-&lt;div class=&quot;image-container&quot; style=&quot;flex: 1.3333333333333333 1 0%&quot;&gt;
-  
-  
-
-  
-  &lt;a class=&quot;image-popup&quot; href=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-28-picadillo/2000/DSCN1148.jpg&quot;&gt;
-  
-  &lt;img src=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-28-picadillo/2000/DSCN1148.jpg&quot; alt=&quot;&quot; srcset=&quot;          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-28-picadillo/480/DSCN1148.jpg 480w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-28-picadillo/620/DSCN1148.jpg 620w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-28-picadillo/768/DSCN1148.jpg 768w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-28-picadillo/1000/DSCN1148.jpg 1000w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-28-picadillo/1400/DSCN1148.jpg 1400w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-28-picadillo/2000/DSCN1148.jpg 2000w,     http://milk-mustache.com/uploads/posts/recipes/2012-05-28-picadillo/DSCN1148.jpg 2500w&quot; /&gt;
-  
-  &lt;/a&gt;
-  
-&lt;/div&gt;
-
-  
-  
-&lt;/div&gt;
-
-&lt;p&gt;Picadillo is made throughout Latin America, and every region seems to have its own unique version. This recipe is an old family favourite… the page of the old 1977 Better Homes and Gardens: Mexican Cook Book it comes from is splashed and stained from use. Picadillo always brings back memories of the enormous Mexican spreads my mother prepared for my family during my childhood. These were fill your own tortilla or (taco) affairs, with two or three Mexican dishes and whole array of toppings - chopped tomatoes, grated Cheddar cheese, spinach or lettuce, home-made guacamole, chopped red onion, hot sauce, and, on an indulgent day, sour cream. Of the dishes made for these spreads, picadillo was always my absolute favourite… always the one I would beg my mother to cook.&lt;/p&gt;
+    &lt;p class=&quot;dropcap&quot;&gt;Picadillo, a sweet fragrant Latin American stew of meat and tomatoes, was a household favourite when we were kids. On picadillo nights, the pot simmered for hours, leaving our home smelling of cinnamon, cumin and garlic. We were quaking with anticipation by dinner time, and stealing spoonfuls whenever we thought it would go unnoticed.&lt;/p&gt;
 
 &lt;div class=&quot;image-group&quot;&gt;
   
@@ -1193,9 +1141,9 @@ to offset the savage wistfulness of early spring?&lt;/p&gt;
   
 &lt;/div&gt;
 
-&lt;p&gt;When I make picadillo, I like to follow my mother’s example and serve it with a selection of toppings (how many depends on how fancy I’m feeling) and warmed tortillas - I recommend you do the same! This time around, I topped the picadillo quite simply, with freshly grated cheddar cheese, chopped tomatoes and lettuce. To make things a little special, I went all out and prepared home-made tortillas and a side-dish of Spanish rice. My flour tortilla recipe is still in need of some refinement… they tasted decent, but I was hoping for even better and it was tough to roll them as thin I would have liked. (Try again. Fail again. Fail better.) The Spanish rice recipe on the other hand is another old family recipe, which I’ll be sharing with you all soon.&lt;/p&gt;
+&lt;p&gt;The steaming picadillo pot took pride of place, surrounded by dishes of flavoured rice, spicy chicken, or refried beans speckled with sauteed red peppers and onions. Almost every other possible nook and cranny of our dining table was covered by the vast array of toppings and side dishes: guacamole, spinach, chopped tomatoes, pungent grated Irish cheddar and so much more.&lt;/p&gt;
 
-&lt;p&gt;If flour tortillas aren’t your thing, picadillo is also excellent as a taco filling or served over rice (nice alternatives if you’re following a gluten-free diet.) I’ve read it’s great for filling tamales too… though I’ve never tried that myself. This is a very quick and easy dish to prepare… no more difficult than making a bolognese. Picadillo isn’t just for meat eaters. I’ve made an absolutely delicious vegetarian (and vegan) friendly version of this dish many times previously by subsituting beef with red kidney beans.&lt;/p&gt;
+&lt;p&gt;Hot flour tortillas emerged from the oven and we’d all dig in, piling so many things on our tortillas that they would burst at the seams when we tried to eat them, leaving our fingers sticky. The mess was part of the fun.&lt;/p&gt;
 
 &lt;div class=&quot;image-group&quot;&gt;
   
@@ -1220,7 +1168,7 @@ to offset the savage wistfulness of early spring?&lt;/p&gt;
   
 &lt;/div&gt;
 
-&lt;p&gt;You might be wondering about the mustachioed cocktail stick flag boldIy flying above this tortilla castle. It just so happens that I think food is better with a flag, but there’s another far more important explanation for this special garnish. Three months and a thousand and one suggestions later, I am overjoyed to announce that I’ve finally found an identity that feels right for this little corner of the internet. This flag was created to celebrate that new identity. I’m very pleased to welcome you to Milk Mustache, a bright little recipe blog celebrating the joy of eating! Get your mustaches on and celebrate with me by making yourself a Mexican feast… Don’t forget the picadillo!&lt;/p&gt;
+&lt;p&gt;This is that childhood picadillo recipe, adapted from my mom’s 1977 &lt;em&gt;Better Homes and Garden&lt;/em&gt; Mexican cookbook. Though it’s a little rough around the edges now, stained from love and many cooking adventures, she still uses that cookbook and cooks picadillo - and now I cook it too.&lt;/p&gt;
 
     &lt;p&gt;&lt;a href=&quot;http://milk-mustache.com/recipes/picadillo/&quot;&gt;Picadillo&lt;/a&gt; was originally published by Sarah Quigley at &lt;a href=&quot;http://milk-mustache.com&quot;&gt;Milk Mustache&lt;/a&gt; on May 28, 2012.&lt;/p&gt;
   </content>
@@ -1262,8 +1210,6 @@ to offset the savage wistfulness of early spring?&lt;/p&gt;
   
   
 &lt;/div&gt;
-
-&lt;p&gt;As its name suggests, this salad is packed full of a veritable rainbow of ingredients: nutritious beans, sweet carrots, refreshing tomatoes, tangy onions, crunchy pine nuts and raisins (extra sweetness) - and of course, bulgur wheat. Over the last while, I’ve developed something of a small obsession with bulgur - I love its chunky grains, so hearty and nutty flavour. I love how all the subtle flavours of this salad are tied together by the bulgur, and I hope that you do too.&lt;/p&gt;
 
 &lt;div class=&quot;image-group&quot;&gt;
   
@@ -1328,7 +1274,6 @@ to offset the savage wistfulness of early spring?&lt;/p&gt;
   
 &lt;/div&gt;
 
-&lt;p&gt;I thought it was worth mentioning, for anyone on a tight budget, this is a happily cheap dish to prepare, especially if you replace the pine nuts (which are quite overpriced in my local supermarket) with a more affordable seed or nut, use normal tomatoes instead of cherry tomatoes and omit the fresh coriander (or grow your own). I always try to be conscious of how much I’m spending on food - it’s comforting to have some staple recipes that are both wholesome and easy on the pocket.&lt;/p&gt;
 
     &lt;p&gt;&lt;a href=&quot;http://milk-mustache.com/recipes/rainbow-salad-with-bulgur-wheat-and-beans/&quot;&gt;Rainbow Salad with Bulgur Wheat and Beans&lt;/a&gt; was originally published by Sarah Quigley at &lt;a href=&quot;http://milk-mustache.com&quot;&gt;Milk Mustache&lt;/a&gt; on May 05, 2012.&lt;/p&gt;
   </content>

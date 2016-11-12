@@ -49,14 +49,12 @@ recipe:
 ---
 
 {: .dropcap }
-Picadillo, a sweet fragrant Latin American stew of meat and tomatoes, was a household favourite when we were kids. On picadillo nights, the pot simmered for hours, leaving our home smelling of cinnamon, cumin and garlic. We were quaking with anticipation by dinner time, and stealing spoonfuls whenever we thought it would go unnoticed.
+I grew up in a never finished house. On the outside, it was your picture perfect image of an Irish stone cottage, going to seed a little, walls of brown and grey mottled granite, windows trimmed in brick, two lazy ash trees, branches drooping over a slate roof with occasional tile ajar, gutters groaning with sodden leaves. Inside it was all bare bulbs, concrete floors, piled boxes of possessions that had never quite found their place, rooms that had never quite become anything. For all its rough edges, and dangling wires, it was warm home, not always in temperature, but in spirit, 
 
 {% include image-group.html images="DSCN1085.jpg" entry=page image-popup=true %}
 
-The steaming picadillo pot took pride of place, surrounded by dishes of flavoured rice, spicy chicken, or refried beans speckled with sauteed red peppers and onions. Almost every other possible nook and cranny of our dining table was covered by the vast array of toppings and side dishes: guacamole, spinach, chopped tomatoes, pungent grated Irish cheddar and so much more. 
-
-Hot flour tortillas emerged from the oven and we'd all dig in, piling so many things on our tortillas that they would burst at the seams when we tried to eat them, leaving our fingers sticky. The mess was part of the fun.
+The kitchen, privileged to be one of the few semi-finished rooms in our house, was also its nexus. There was always a giant pot of something simmering on the stovetop: Tomato sauce with meatballs, chicken soup, yellow curry... and sometimes, picadillo, my personal favourite, a sweet fragrant Latin American stew of meat and tomatoes which infused our home with smells of cinnamon, cumin and garlic. By dinner time on picadillo nights, I was quaking with anticipation, and half-full on stolen spoonfuls.
 
 {% include image-group.html images="DSCN1146.jpg" entry=page image-popup=true %}
 
-This is that childhood picadillo recipe, adapted from my mom's 1977 *Better Homes and Garden* Mexican cookbook. Though it's a little rough around the edges now, stained from love and many cooking adventures, she still uses that cookbook and cooks picadillo - and now I cook it too. 
+Time to eat! The picadillo pot took pride of place, surrounded by dishes of flavoured rice, spicy chicken, or refried beans speckled with sauteed red peppers and onions. Almost every other possible nook and cranny of our dining table was covered by the vast array of toppings and side dishes: guacamole, spinach, chopped tomatoes, pungent grated Irish cheddar and so much more. Hot flour tortillas emerged from the oven and we'd all dig in, piling so many things on our tortillas that they would burst at the seams when we tried to eat them, leaving our fingers sticky. The mess was part of the fun.

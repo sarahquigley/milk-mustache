@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Picadillo
-excerpt: "I grew up in a never finished house. On the outside, it was your picture perfect image of an Irish stone cottage, going to seed a little, walls of brown and grey mottled granite, windows trimmed in brick, two lazy ash trees, branches drooping over a slate roof with occasional tile ajar, gutters groaning with sodden leaves."
+excerpt: "I grew up in a never finished house. On the outside, it was your picture perfect image of an Irish stone cottage, going to seed a little, walls of brown and grey mottled granite, windows trimmed in brick. Two lazy ash trees drooped over a slate roof with occasional tile ajar, gutters groaning with sodden leaves."
 category: recipes
 tags: [dinner, meat, beef, hispanic]
 image:
@@ -49,12 +49,12 @@ recipe:
 ---
 
 {: .dropcap }
-I grew up in a never finished house. On the outside, it was your picture perfect image of an Irish stone cottage, going to seed a little, walls of brown and grey mottled granite, windows trimmed in brick, two lazy ash trees, branches drooping over a slate roof with occasional tile ajar, gutters groaning with sodden leaves. Inside it was all bare bulbs, concrete floors, piled boxes of possessions that had never quite found their place, rooms that had never quite become anything. For all its rough edges, and dangling wires, it was warm home, not always in temperature, but in spirit, 
+I grew up in a never finished house. On the outside, it was your picture perfect image of an Irish stone cottage, going to seed a little, walls of brown and grey mottled granite, windows trimmed in brick. Two lazy ash trees drooped over a slate roof with occasional tile ajar, gutters groaning with sodden leaves. Inside it was all bare bulbs, concrete floors, piled boxes of possessions that had never quite found their place, rooms that had never quite become anything. For all its rough edges, and dangling wires, it was warm home, not always in temperature, but in spirit, and the kitchen was its nexus.
 
 {% include image-group.html images="DSCN1085.jpg" entry=page image-popup=true %}
 
-The kitchen, privileged to be one of the few semi-finished rooms in our house, was also its nexus. There was always a giant pot of something simmering on the stovetop: Tomato sauce with meatballs, chicken soup, yellow curry... and sometimes, picadillo, my personal favourite, a sweet fragrant Latin American stew of meat and tomatoes which infused our home with smells of cinnamon, cumin and garlic. By dinner time on picadillo nights, I was quaking with anticipation, and half-full on stolen spoonfuls.
+The kitchen was one of the few rooms privileged to be 'finished', though even it seemed to almost always have some issue - a leak in the roof, a broken hinge on the dishwasher, trim falling off the kitchen units. It was a busy room because we all gravitated to spending time there. Reading, chatting and, it being Ireland, tea-making were ever popular activities. The dining table played host to someone's pet project of the day, everything from leatherwork to lawn mower maintenance. There was always a giant pot of something simmering on the stovetop: Tomato sauce with meatballs, chicken soup, yellow curry... and sometimes my personal favourite, picadillo, a sweet fragrant Latin American stew of meat and tomatoes which infused our home with smells of cinnamon, cumin and garlic. By dinner time on picadillo nights, I was quaking with anticipation, and half-full on stolen spoonfuls.
 
 {% include image-group.html images="DSCN1146.jpg" entry=page image-popup=true %}
 
-Time to eat! The picadillo pot took pride of place, surrounded by dishes of flavoured rice, spicy chicken, or refried beans speckled with sauteed red peppers and onions. Almost every other possible nook and cranny of our dining table was covered by the vast array of toppings and side dishes: guacamole, spinach, chopped tomatoes, pungent grated Irish cheddar and so much more. Hot flour tortillas emerged from the oven and we'd all dig in, piling so many things on our tortillas that they would burst at the seams when we tried to eat them, leaving our fingers sticky. The mess was part of the fun.
+Time to eat! The picadillo pot took pride of place, surrounded by dishes of flavoured rice, spicy chicken, or refried beans speckled with sauteed red peppers and onions. Almost every other possible nook and cranny of our dining table was covered by the vast array of toppings and side dishes: guacamole, spinach, chopped tomatoes, pungent grated Irish cheddar and so much more. Hot flour tortillas emerged from the oven and we'd all dig in, piling so many things on our tortillas that they would burst at the seams when we tried to eat them, leaving our fingers sticky.

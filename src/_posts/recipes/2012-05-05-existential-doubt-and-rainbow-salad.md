@@ -59,25 +59,29 @@ recipe:
 
 ---
 
-> Have you seen the land living by the breeze//
-> Can you understand a light among the trees//
-> Tell me all that you may know//
-> Show me what you have to show//
-> Tell us all today//
+> Have you seen the land living by the breeze\\
+> Can you understand a light among the trees\\
+> Tell me all that you may know\\
+> Show me what you have to show\\
+> Tell us all today\\
 > If you know the way to blue?
 > 
 > — Nick Drake, Way to Blue 
 
 {: .dropcap }
-Sometimes I have philosophical doubts about my endeavours. Let's take this recipe blog: I've loved to cook for longer than I can remember. Presumably, I've loved to eat for longer than that. The whole process - measuring, mixing, plating, eating - its simple physicality, the quiet care it requires - is calming. The final creation is made more special by its inherent transience. Writing and photography excite me, I've been learning web development and design... so a recipe blog - it's a perfect fusion of so many my loves, right? 
+Sometimes I have philosophical doubts about my endeavours. Let's take this recipe blog: I've loved to cook for longer than I can remember. Presumably, I've loved to eat for longer than that. The whole process, measuring, mixing, plating, eating — its simple physicality, the quiet care it requires — is calming. The final creation is made more special by its inherent transience. Writing and photography excite me, I've been learning web development and design... so a recipe blog — it's a perfect fusion of so many my loves, right? 
 
 {% include image-group.html images="DSCN0641.jpg" entry=page image-popup=true %}
 
-But the internet isn't short of recipe blogs. The internet is in fact over-flowing with them, one more visually delicious than the next, their creativity and food-styling in equal parts awe-inspiring and deflating. When I ask the inevitable question "Does the world need another recipe blog?", a vicious internal voice whispers a blunt and brutal "No". Night time is the playground of my inner voices. My inner nihilist proclaims there's no point to any of it anyway. The more serious existentialist within harangues me to make careful and responsible use of my time: if I'm to create meaning from this strange befuddling existence, shouldn't I build it in something more substantive than rainbow salads, quiches, and cream puffs... Anguish! Despair!  
+But the internet isn't short of recipe blogs. The internet is in fact over-flowing with them, one more visually delicious than the next, their creativity and food-styling in equal parts awe-inspiring and deflating. When I ask the inevitable question "Does the world need another recipe blog?", a vicious internal voice whispers a blunt and brutal "No". 
 
-{% include image-group.html images="DSCN0641.jpg" entry=page image-popup=true %}
+Night time is the playground of my inner voices. My inner nihilist proclaims there's no point to any of it anyway. The more serious existentialist within harangues me to make careful and responsible use of my time: if I'm to create meaning from this strange befuddling existence, shouldn't I build it in something more substantive than rainbow salads, quiches, and cream puffs... Anguish! Despair!  
 
 {% include image-group.html images="DSCN0628.jpg DSCN0594.jpg" entry=page image-popup=true %}
 
-In the light of day, away from the insidious echoing voices, I remember how food can bring people together. I've experienced it first-hand: spooning mugs of soup at family dinners, on cold winter nights over hot spiced drinks with friends old and new, the quiet care in a meal cooked for a lover, at Milk and Cookie Stories, the storytelling night I started once, where bonds are built with strangers over home-baked cookies, hot tea and stories. True, another food blog won't solve any of humanities deepest problems. This doesn't mean it's without value - both as an authentic expression of something I love... and as something that may, in some small way, through a loaf of crusty bread baked or colourful salad shared, bring a little joy to friends or strangers.
+{% include image-group.html images="DSCN0694.jpg" entry=page image-popup=true %}
+
+In the light of day, away from the insidious echoing voices, I remember how food can bring people together. I've experienced it first-hand: spooning mugs of soup at family dinners, on cold winter nights over hot spiced drinks with friends old and new, the quiet care in a meal cooked for a lover, at Milk and Cookie Stories, the storytelling night I started once, where bonds are built with strangers over home-baked cookies, hot tea and stories.
+
+True, another food blog won't solve any of humanities deepest problems. This doesn't mean it's without value — both as an authentic expression of something I love... and as something that may, in some small way, through a loaf of crusty bread baked or colourful salad shared, bring a little joy to friends or strangers.
 

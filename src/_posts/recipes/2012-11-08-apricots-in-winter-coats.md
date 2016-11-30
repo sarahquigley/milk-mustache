@@ -18,7 +18,7 @@ recipe:
     yield: 8 - 10 pieces
   notes:
     - These truffles are delicious plain or coated in white chocolate. For vegans, omit the coating, or use a vegan white chocolate. To save on waste and make the process of coating the truffles as easy as possible, use a small deep container to melt the chocolate. These truffles are best stored in the refrigerator, and are at their best when served a little cold.
-    - As an excellent counterpoint to these sweet fruity treats, consider preparing their [dark fudgy brethren](/recipes/date-nut-truffles/).
+    - As an excellent counterpoint to these sweet fruity treats, consider preparing their [dark fudgy brethren](/recipes/sarah-dreams-of-truffles/).
   ingredient-lists:
     main:
       ingredients:

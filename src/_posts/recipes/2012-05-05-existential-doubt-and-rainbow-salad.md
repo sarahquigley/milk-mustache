@@ -69,7 +69,7 @@ recipe:
 > — Nick Drake, Way to Blue 
 
 {: .dropcap }
-Sometimes I have philosophical doubts about my endeavours. Let's take this recipe blog: I've loved to cook for longer than I can remember. Presumably, I've loved to eat for longer than that. The whole process, measuring, mixing, plating, eating — its simple physicality, the quiet care it requires — is calming. The final creation is made more special by its inherent transience. Writing and photography excite me, I've been learning web development and design... so a recipe blog — it's a perfect fusion of so many my loves, right? 
+Sometimes I have philosophical doubts about my endeavours. Let's take this recipe blog: I've loved to cook for longer than I can remember. Presumably, I've loved to eat for longer than that. The whole process — measuring, mixing, plating, eating — its simple physicality, the quiet care required — is calming. The final creation is made more special by its inherent transience. Writing and photography excite me, I've been learning web development and design... so a recipe blog — it's a perfect fusion of so many of my loves, right? 
 
 {% include image-group.html images="DSCN0641.jpg" entry=page image-popup=true %}
 

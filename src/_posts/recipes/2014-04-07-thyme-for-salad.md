@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Thyme for Salad"
-excerpt: "It's always time for salad... or thyme for salad (depending how much terrible puns offend you) - except when it's time for something that isn't salad, like soup, or Belgian waffles, or soft shell crab bánh mì with pickles and jalapeños."
+excerpt: "There are some facts about salad that people rarely talk about... like how you can arrange all the ingredients in complex fractal patterns over their bed of greens."
 category: recipes
 tags: [salad, vegetarian, lunch]
 image:
@@ -61,11 +61,11 @@ recipe:
 ---
 
 {: .dropcap }
-It's always time for salad... or thyme for salad (depending how much terrible puns offend you) - except when it's time for something that isn't salad, like soup, or Belgian waffles, or soft shell crab bánh mì with pickles and jalapeños. Sometimes it's time for those things too. But sometimes it's time for salad, and today is one of those times. So let's talk salad.
+There are some facts about salad that people rarely talk about... like how you can arrange all the ingredients in complex fractal patterns over their bed of greens. I didn't do that with this salad, but what's important is that I could have. (I am feeling some solid pangs of regret for the missed opportunity.)
 
 {% include image-group.html images="20140316_142435.jpg" entry=page image-popup=true %}
 
-There are some cool things about salad that people rarely talk about... like how you can arrange all the ingredients in complex fractal patterns over their bed of greens. I didn't do that with this salad, but what's important is that I could have. Another thing I wish I heard about salads is how much more fabulous the addition of some richly aromatic herbs makes them. That's a generally solid cooking rule, and yet somehow I'd never quite cottoned to it with salads.
+Another thing I wish I learned sooner about salads is that they, like any dish, benefit from seasoning. A little salt, pepper, spices, some rich aromatic herbs (dried or even better fresh) added to the salad dressing or sprinkled on the salad itself will really bring the best out of a salad and round its flavour profile.
 
 {% include image-group.html images="DSCF4333-2.jpg" entry=page image-popup=true %}
 

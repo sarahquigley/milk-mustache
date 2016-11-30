@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Picadillo
+title: Picadillo Nights 
 excerpt: "I grew up in a never finished house. On the outside, it was your picture perfect image of an Irish stone cottage, going to seed a little, walls of brown and grey mottled granite, windows trimmed in brick. Two lazy ash trees drooped over a slate roof with occasional tile ajar, gutters groaning with sodden leaves."
 category: recipes
 tags: [dinner, meat, beef, hispanic]

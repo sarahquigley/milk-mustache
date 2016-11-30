@@ -4,7 +4,7 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://milk-mustache.com/feed.xml" />
 <link rel="alternate" type="text/html" href="http://milk-mustache.com" />
-<updated>2016-11-13T17:40:06-05:00</updated>
+<updated>2016-11-29T16:54:04-08:00</updated>
 <id>http://milk-mustache.com/</id>
 <author>
   <name>Sarah Quigley</name>
@@ -17,8 +17,8 @@
   <title type="html"><![CDATA[The Joy of Oatmeal, and Breakfast]]></title>
   <link rel="alternate" type="text/html" href="http://milk-mustache.com/recipes/the-joy-of-oatmeal-and-breakfast/" />
   <id>http://milk-mustache.com/recipes/the-joy-of-oatmeal-and-breakfast</id>
-  <published>2016-07-09T00:00:00-04:00</published>
-  <updated>2016-07-09T00:00:00-04:00</updated>
+  <published>2016-07-09T00:00:00-07:00</published>
+  <updated>2016-07-09T00:00:00-07:00</updated>
   <author>
     <name>Sarah Quigley</name>
     <uri>http://milk-mustache.com</uri>
@@ -194,8 +194,8 @@ Pooh nodded thoughtfully. “It’s the same thing,” he said.”&lt;/p&gt;
   <title type="html"><![CDATA[Lemon Curd, Delicious and Vegan]]></title>
   <link rel="alternate" type="text/html" href="http://milk-mustache.com/recipes/lemon-curd-delicious-and-vegan/" />
   <id>http://milk-mustache.com/recipes/lemon-curd-delicious-and-vegan</id>
-  <published>2016-05-30T00:00:00-04:00</published>
-  <updated>2016-05-30T00:00:00-04:00</updated>
+  <published>2016-05-30T00:00:00-07:00</published>
+  <updated>2016-05-30T00:00:00-07:00</updated>
   <author>
     <name>Sarah Quigley</name>
     <uri>http://milk-mustache.com</uri>
@@ -324,8 +324,8 @@ Pooh nodded thoughtfully. “It’s the same thing,” he said.”&lt;/p&gt;
   <title type="html"><![CDATA[Everybody Loves Jalapeño & Pineapple Cornbread]]></title>
   <link rel="alternate" type="text/html" href="http://milk-mustache.com/recipes/everybody-loves-jalape%C3%B1o-pineapple-cornbread/" />
   <id>http://milk-mustache.com/recipes/everybody-loves-jalapeño-pineapple-cornbread</id>
-  <published>2016-04-29T00:00:00-04:00</published>
-  <updated>2016-04-29T00:00:00-04:00</updated>
+  <published>2016-04-29T00:00:00-07:00</published>
+  <updated>2016-04-29T00:00:00-07:00</updated>
   <author>
     <name>Sarah Quigley</name>
     <uri>http://milk-mustache.com</uri>
@@ -437,8 +437,8 @@ Pooh nodded thoughtfully. “It’s the same thing,” he said.”&lt;/p&gt;
   <title type="html"><![CDATA[Thyme for Salad]]></title>
   <link rel="alternate" type="text/html" href="http://milk-mustache.com/recipes/thyme-for-salad/" />
   <id>http://milk-mustache.com/recipes/thyme-for-salad</id>
-  <published>2014-04-07T00:00:00-04:00</published>
-  <updated>2014-04-07T00:00:00-04:00</updated>
+  <published>2014-04-07T00:00:00-07:00</published>
+  <updated>2014-04-07T00:00:00-07:00</updated>
   <author>
     <name>Sarah Quigley</name>
     <uri>http://milk-mustache.com</uri>
@@ -508,8 +508,8 @@ Pooh nodded thoughtfully. “It’s the same thing,” he said.”&lt;/p&gt;
   <title type="html"><![CDATA[Chocolate Chip Coconut Slices]]></title>
   <link rel="alternate" type="text/html" href="http://milk-mustache.com/recipes/chocolate-chip-coconut-slices/" />
   <id>http://milk-mustache.com/recipes/chocolate-chip-coconut-slices</id>
-  <published>2013-02-18T00:00:00-05:00</published>
-  <updated>2013-02-18T00:00:00-05:00</updated>
+  <published>2013-02-18T00:00:00-08:00</published>
+  <updated>2013-02-18T00:00:00-08:00</updated>
   <author>
     <name>Sarah Quigley</name>
     <uri>http://milk-mustache.com</uri>
@@ -615,8 +615,8 @@ Assistance — or Applause—&lt;/p&gt;
   <title type="html"><![CDATA[Let's Make Brownies]]></title>
   <link rel="alternate" type="text/html" href="http://milk-mustache.com/recipes/let-s-make-brownies/" />
   <id>http://milk-mustache.com/recipes/let-s-make-brownies</id>
-  <published>2013-01-26T00:00:00-05:00</published>
-  <updated>2013-01-26T00:00:00-05:00</updated>
+  <published>2013-01-26T00:00:00-08:00</published>
+  <updated>2013-01-26T00:00:00-08:00</updated>
   <author>
     <name>Sarah Quigley</name>
     <uri>http://milk-mustache.com</uri>
@@ -753,8 +753,8 @@ Assistance — or Applause—&lt;/p&gt;
   <title type="html"><![CDATA[Apricots in Winter Coats]]></title>
   <link rel="alternate" type="text/html" href="http://milk-mustache.com/recipes/apricots-in-winter-coats/" />
   <id>http://milk-mustache.com/recipes/apricots-in-winter-coats</id>
-  <published>2012-11-08T00:00:00-05:00</published>
-  <updated>2012-11-08T00:00:00-05:00</updated>
+  <published>2012-11-08T00:00:00-08:00</published>
+  <updated>2012-11-08T00:00:00-08:00</updated>
   <author>
     <name>Sarah Quigley</name>
     <uri>http://milk-mustache.com</uri>
@@ -855,8 +855,8 @@ to offset the savage wistfulness of early spring?&lt;/p&gt;
   <title type="html"><![CDATA[I Dream of Oranges and Avocados]]></title>
   <link rel="alternate" type="text/html" href="http://milk-mustache.com/recipes/i-dream-of-oranges-and-avocados/" />
   <id>http://milk-mustache.com/recipes/i-dream-of-oranges-and-avocados</id>
-  <published>2012-10-13T00:00:00-04:00</published>
-  <updated>2012-10-13T00:00:00-04:00</updated>
+  <published>2012-10-13T00:00:00-07:00</published>
+  <updated>2012-10-13T00:00:00-07:00</updated>
   <author>
     <name>Sarah Quigley</name>
     <uri>http://milk-mustache.com</uri>
@@ -939,8 +939,8 @@ to offset the savage wistfulness of early spring?&lt;/p&gt;
   <title type="html"><![CDATA[Breaching the Finger Biscuit Fortress]]></title>
   <link rel="alternate" type="text/html" href="http://milk-mustache.com/recipes/breaching-the-finger-biscuit-fortress/" />
   <id>http://milk-mustache.com/recipes/breaching-the-finger-biscuit-fortress</id>
-  <published>2012-09-25T00:00:00-04:00</published>
-  <updated>2012-09-25T00:00:00-04:00</updated>
+  <published>2012-09-25T00:00:00-07:00</published>
+  <updated>2012-09-25T00:00:00-07:00</updated>
   <author>
     <name>Sarah Quigley</name>
     <uri>http://milk-mustache.com</uri>
@@ -1010,8 +1010,8 @@ to offset the savage wistfulness of early spring?&lt;/p&gt;
   <title type="html"><![CDATA[Sarah Dreams of Truffles]]></title>
   <link rel="alternate" type="text/html" href="http://milk-mustache.com/recipes/sarah-dreams-of-truffles/" />
   <id>http://milk-mustache.com/recipes/sarah-dreams-of-truffles</id>
-  <published>2012-05-30T00:00:00-04:00</published>
-  <updated>2012-05-30T00:00:00-04:00</updated>
+  <published>2012-05-30T00:00:00-07:00</published>
+  <updated>2012-05-30T00:00:00-07:00</updated>
   <author>
     <name>Sarah Quigley</name>
     <uri>http://milk-mustache.com</uri>
@@ -1108,8 +1108,8 @@ You better do something that you can get better at&lt;br /&gt;
   <title type="html"><![CDATA[Picadillo]]></title>
   <link rel="alternate" type="text/html" href="http://milk-mustache.com/recipes/picadillo/" />
   <id>http://milk-mustache.com/recipes/picadillo</id>
-  <published>2012-05-28T00:00:00-04:00</published>
-  <updated>2012-05-28T00:00:00-04:00</updated>
+  <published>2012-05-28T00:00:00-07:00</published>
+  <updated>2012-05-28T00:00:00-07:00</updated>
   <author>
     <name>Sarah Quigley</name>
     <uri>http://milk-mustache.com</uri>
@@ -1176,11 +1176,11 @@ You better do something that you can get better at&lt;br /&gt;
 
 
 <entry>
-  <title type="html"><![CDATA[Rainbow Salad with Bulgur Wheat and Beans]]></title>
-  <link rel="alternate" type="text/html" href="http://milk-mustache.com/recipes/rainbow-salad-with-bulgur-wheat-and-beans/" />
-  <id>http://milk-mustache.com/recipes/rainbow-salad-with-bulgur-wheat-and-beans</id>
-  <published>2012-05-05T00:00:00-04:00</published>
-  <updated>2012-05-05T00:00:00-04:00</updated>
+  <title type="html"><![CDATA[Existential Doubt and Rainbow Salad]]></title>
+  <link rel="alternate" type="text/html" href="http://milk-mustache.com/recipes/existential-doubt-and-rainbow-salad/" />
+  <id>http://milk-mustache.com/recipes/existential-doubt-and-rainbow-salad</id>
+  <published>2012-05-05T00:00:00-07:00</published>
+  <updated>2012-05-05T00:00:00-07:00</updated>
   <author>
     <name>Sarah Quigley</name>
     <uri>http://milk-mustache.com</uri>
@@ -1188,17 +1188,17 @@ You better do something that you can get better at&lt;br /&gt;
   </author>
   <content type="html">
     &lt;blockquote&gt;
-  &lt;p&gt;Have you seen the land living by the breeze
-Can you understand a light among the trees
-Tell me all that you may know
-Show me what you have to show
-Tell us all today
+  &lt;p&gt;Have you seen the land living by the breeze&lt;br /&gt;
+Can you understand a light among the trees&lt;br /&gt;
+Tell me all that you may know&lt;br /&gt;
+Show me what you have to show&lt;br /&gt;
+Tell us all today&lt;br /&gt;
 If you know the way to blue?&lt;/p&gt;
 
   &lt;p&gt;— Nick Drake, Way to Blue&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p class=&quot;dropcap&quot;&gt;The 80s was a great time for rainbow media. Between the Care Bears, my Little Pony, Candy Land and almost certainly other things I’ve forgotten, it started to seem perfectly realistic to walk on rainbows. My personal favourite was Rainbow Bright. There are some things to appreciate about the Rainbow Bright - a powerful female leading her band of chums - and the colour kids, a band of kids where it’s cool for all genders to wear bright rainbows, as it should be.&lt;/p&gt;
+&lt;p class=&quot;dropcap&quot;&gt;Sometimes I have philosophical doubts about my endeavours. Let’s take this recipe blog: I’ve loved to cook for longer than I can remember. Presumably, I’ve loved to eat for longer than that. The whole process, measuring, mixing, plating, eating — its simple physicality, the quiet care it requires — is calming. The final creation is made more special by its inherent transience. Writing and photography excite me, I’ve been learning web development and design… so a recipe blog — it’s a perfect fusion of so many my loves, right?&lt;/p&gt;
 
 &lt;div class=&quot;image-group&quot;&gt;
   
@@ -1211,9 +1211,9 @@ If you know the way to blue?&lt;/p&gt;
   
 
   
-  &lt;a class=&quot;image-popup&quot; href=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-rainbow-salad-with-bulgur-wheat-and-beans/2000/DSCN0641.jpg&quot;&gt;
+  &lt;a class=&quot;image-popup&quot; href=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-existential-doubt-and-rainbow-salad/2000/DSCN0641.jpg&quot;&gt;
   
-  &lt;img src=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-rainbow-salad-with-bulgur-wheat-and-beans/2000/DSCN0641.jpg&quot; alt=&quot;&quot; srcset=&quot;          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-rainbow-salad-with-bulgur-wheat-and-beans/480/DSCN0641.jpg 480w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-rainbow-salad-with-bulgur-wheat-and-beans/620/DSCN0641.jpg 620w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-rainbow-salad-with-bulgur-wheat-and-beans/768/DSCN0641.jpg 768w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-rainbow-salad-with-bulgur-wheat-and-beans/1000/DSCN0641.jpg 1000w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-rainbow-salad-with-bulgur-wheat-and-beans/1400/DSCN0641.jpg 1400w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-rainbow-salad-with-bulgur-wheat-and-beans/2000/DSCN0641.jpg 2000w,     http://milk-mustache.com/uploads/posts/recipes/2012-05-05-rainbow-salad-with-bulgur-wheat-and-beans/DSCN0641.jpg 2500w&quot; /&gt;
+  &lt;img src=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-existential-doubt-and-rainbow-salad/2000/DSCN0641.jpg&quot; alt=&quot;&quot; srcset=&quot;          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-existential-doubt-and-rainbow-salad/480/DSCN0641.jpg 480w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-existential-doubt-and-rainbow-salad/620/DSCN0641.jpg 620w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-existential-doubt-and-rainbow-salad/768/DSCN0641.jpg 768w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-existential-doubt-and-rainbow-salad/1000/DSCN0641.jpg 1000w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-existential-doubt-and-rainbow-salad/1400/DSCN0641.jpg 1400w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-existential-doubt-and-rainbow-salad/2000/DSCN0641.jpg 2000w,     http://milk-mustache.com/uploads/posts/recipes/2012-05-05-existential-doubt-and-rainbow-salad/DSCN0641.jpg 2500w&quot; /&gt;
   
   &lt;/a&gt;
   
@@ -1223,7 +1223,9 @@ If you know the way to blue?&lt;/p&gt;
   
 &lt;/div&gt;
 
-&lt;p&gt;The real centerpoint of Rainbow Bright for me was not Rainbow Bright herself, but her enemy, Murky Dismal. Not only is his name epic, but the power of his negativity.&lt;/p&gt;
+&lt;p&gt;But the internet isn’t short of recipe blogs. The internet is in fact over-flowing with them, one more visually delicious than the next, their creativity and food-styling in equal parts awe-inspiring and deflating. When I ask the inevitable question “Does the world need another recipe blog?”, a vicious internal voice whispers a blunt and brutal “No”.&lt;/p&gt;
+
+&lt;p&gt;Night time is the playground of my inner voices. My inner nihilist proclaims there’s no point to any of it anyway. The more serious existentialist within harangues me to make careful and responsible use of my time: if I’m to create meaning from this strange befuddling existence, shouldn’t I build it in something more substantive than rainbow salads, quiches, and cream puffs… Anguish! Despair!&lt;/p&gt;
 
 &lt;div class=&quot;image-group&quot;&gt;
   
@@ -1236,9 +1238,9 @@ If you know the way to blue?&lt;/p&gt;
   
 
   
-  &lt;a class=&quot;image-popup&quot; href=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-rainbow-salad-with-bulgur-wheat-and-beans/2000/DSCN0628.jpg&quot;&gt;
+  &lt;a class=&quot;image-popup&quot; href=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-existential-doubt-and-rainbow-salad/2000/DSCN0628.jpg&quot;&gt;
   
-  &lt;img src=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-rainbow-salad-with-bulgur-wheat-and-beans/2000/DSCN0628.jpg&quot; alt=&quot;&quot; srcset=&quot;          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-rainbow-salad-with-bulgur-wheat-and-beans/480/DSCN0628.jpg 480w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-rainbow-salad-with-bulgur-wheat-and-beans/620/DSCN0628.jpg 620w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-rainbow-salad-with-bulgur-wheat-and-beans/768/DSCN0628.jpg 768w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-rainbow-salad-with-bulgur-wheat-and-beans/1000/DSCN0628.jpg 1000w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-rainbow-salad-with-bulgur-wheat-and-beans/1400/DSCN0628.jpg 1400w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-rainbow-salad-with-bulgur-wheat-and-beans/2000/DSCN0628.jpg 2000w,     http://milk-mustache.com/uploads/posts/recipes/2012-05-05-rainbow-salad-with-bulgur-wheat-and-beans/DSCN0628.jpg 2500w&quot; /&gt;
+  &lt;img src=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-existential-doubt-and-rainbow-salad/2000/DSCN0628.jpg&quot; alt=&quot;&quot; srcset=&quot;          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-existential-doubt-and-rainbow-salad/480/DSCN0628.jpg 480w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-existential-doubt-and-rainbow-salad/620/DSCN0628.jpg 620w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-existential-doubt-and-rainbow-salad/768/DSCN0628.jpg 768w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-existential-doubt-and-rainbow-salad/1000/DSCN0628.jpg 1000w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-existential-doubt-and-rainbow-salad/1400/DSCN0628.jpg 1400w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-existential-doubt-and-rainbow-salad/2000/DSCN0628.jpg 2000w,     http://milk-mustache.com/uploads/posts/recipes/2012-05-05-existential-doubt-and-rainbow-salad/DSCN0628.jpg 2500w&quot; /&gt;
   
   &lt;/a&gt;
   
@@ -1253,9 +1255,9 @@ If you know the way to blue?&lt;/p&gt;
   
 
   
-  &lt;a class=&quot;image-popup&quot; href=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-rainbow-salad-with-bulgur-wheat-and-beans/2000/DSCN0594.jpg&quot;&gt;
+  &lt;a class=&quot;image-popup&quot; href=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-existential-doubt-and-rainbow-salad/2000/DSCN0594.jpg&quot;&gt;
   
-  &lt;img src=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-rainbow-salad-with-bulgur-wheat-and-beans/2000/DSCN0594.jpg&quot; alt=&quot;&quot; srcset=&quot;          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-rainbow-salad-with-bulgur-wheat-and-beans/480/DSCN0594.jpg 480w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-rainbow-salad-with-bulgur-wheat-and-beans/620/DSCN0594.jpg 620w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-rainbow-salad-with-bulgur-wheat-and-beans/768/DSCN0594.jpg 768w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-rainbow-salad-with-bulgur-wheat-and-beans/1000/DSCN0594.jpg 1000w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-rainbow-salad-with-bulgur-wheat-and-beans/1400/DSCN0594.jpg 1400w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-rainbow-salad-with-bulgur-wheat-and-beans/2000/DSCN0594.jpg 2000w,     http://milk-mustache.com/uploads/posts/recipes/2012-05-05-rainbow-salad-with-bulgur-wheat-and-beans/DSCN0594.jpg 2500w&quot; /&gt;
+  &lt;img src=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-existential-doubt-and-rainbow-salad/2000/DSCN0594.jpg&quot; alt=&quot;&quot; srcset=&quot;          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-existential-doubt-and-rainbow-salad/480/DSCN0594.jpg 480w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-existential-doubt-and-rainbow-salad/620/DSCN0594.jpg 620w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-existential-doubt-and-rainbow-salad/768/DSCN0594.jpg 768w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-existential-doubt-and-rainbow-salad/1000/DSCN0594.jpg 1000w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-existential-doubt-and-rainbow-salad/1400/DSCN0594.jpg 1400w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-existential-doubt-and-rainbow-salad/2000/DSCN0594.jpg 2000w,     http://milk-mustache.com/uploads/posts/recipes/2012-05-05-existential-doubt-and-rainbow-salad/DSCN0594.jpg 2500w&quot; /&gt;
   
   &lt;/a&gt;
   
@@ -1264,8 +1266,6 @@ If you know the way to blue?&lt;/p&gt;
   
   
 &lt;/div&gt;
-
-&lt;p&gt;These days Adventure Time is doing a good job of carrying the rainbow flag.&lt;/p&gt;
 
 &lt;div class=&quot;image-group&quot;&gt;
   
@@ -1278,9 +1278,9 @@ If you know the way to blue?&lt;/p&gt;
   
 
   
-  &lt;a class=&quot;image-popup&quot; href=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-rainbow-salad-with-bulgur-wheat-and-beans/2000/DSCN0694.jpg&quot;&gt;
+  &lt;a class=&quot;image-popup&quot; href=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-existential-doubt-and-rainbow-salad/2000/DSCN0694.jpg&quot;&gt;
   
-  &lt;img src=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-rainbow-salad-with-bulgur-wheat-and-beans/2000/DSCN0694.jpg&quot; alt=&quot;&quot; srcset=&quot;          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-rainbow-salad-with-bulgur-wheat-and-beans/480/DSCN0694.jpg 480w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-rainbow-salad-with-bulgur-wheat-and-beans/620/DSCN0694.jpg 620w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-rainbow-salad-with-bulgur-wheat-and-beans/768/DSCN0694.jpg 768w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-rainbow-salad-with-bulgur-wheat-and-beans/1000/DSCN0694.jpg 1000w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-rainbow-salad-with-bulgur-wheat-and-beans/1400/DSCN0694.jpg 1400w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-rainbow-salad-with-bulgur-wheat-and-beans/2000/DSCN0694.jpg 2000w,     http://milk-mustache.com/uploads/posts/recipes/2012-05-05-rainbow-salad-with-bulgur-wheat-and-beans/DSCN0694.jpg 2500w&quot; /&gt;
+  &lt;img src=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-existential-doubt-and-rainbow-salad/2000/DSCN0694.jpg&quot; alt=&quot;&quot; srcset=&quot;          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-existential-doubt-and-rainbow-salad/480/DSCN0694.jpg 480w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-existential-doubt-and-rainbow-salad/620/DSCN0694.jpg 620w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-existential-doubt-and-rainbow-salad/768/DSCN0694.jpg 768w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-existential-doubt-and-rainbow-salad/1000/DSCN0694.jpg 1000w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-existential-doubt-and-rainbow-salad/1400/DSCN0694.jpg 1400w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-existential-doubt-and-rainbow-salad/2000/DSCN0694.jpg 2000w,     http://milk-mustache.com/uploads/posts/recipes/2012-05-05-existential-doubt-and-rainbow-salad/DSCN0694.jpg 2500w&quot; /&gt;
   
   &lt;/a&gt;
   
@@ -1290,8 +1290,12 @@ If you know the way to blue?&lt;/p&gt;
   
 &lt;/div&gt;
 
+&lt;p&gt;In the light of day, away from the insidious echoing voices, I remember how food can bring people together. I’ve experienced it first-hand: spooning mugs of soup at family dinners, on cold winter nights over hot spiced drinks with friends old and new, the quiet care in a meal cooked for a lover, at Milk and Cookie Stories, the storytelling night I started once, where bonds are built with strangers over home-baked cookies, hot tea and stories.&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://milk-mustache.com/recipes/rainbow-salad-with-bulgur-wheat-and-beans/&quot;&gt;Rainbow Salad with Bulgur Wheat and Beans&lt;/a&gt; was originally published by Sarah Quigley at &lt;a href=&quot;http://milk-mustache.com&quot;&gt;Milk Mustache&lt;/a&gt; on May 05, 2012.&lt;/p&gt;
+&lt;p&gt;True, another food blog won’t solve any of humanities deepest problems. This doesn’t mean it’s without value — both as an authentic expression of something I love… and as something that may, in some small way, through a loaf of crusty bread baked or colourful salad shared, bring a little joy to friends or strangers.&lt;/p&gt;
+
+
+    &lt;p&gt;&lt;a href=&quot;http://milk-mustache.com/recipes/existential-doubt-and-rainbow-salad/&quot;&gt;Existential Doubt and Rainbow Salad&lt;/a&gt; was originally published by Sarah Quigley at &lt;a href=&quot;http://milk-mustache.com&quot;&gt;Milk Mustache&lt;/a&gt; on May 05, 2012.&lt;/p&gt;
   </content>
 </entry>
 

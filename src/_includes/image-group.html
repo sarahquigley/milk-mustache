@@ -11,6 +11,7 @@
       {% if include.image-popup %}
       image-popup: {{ include.image-popup }}
       {% endif %}
+      size: {{ images.size }}
     {% endresponsive_image_block %}
   {% endfor %}
     <figcaption>{{ include.caption }}</figcaption>
@@ -23,6 +24,7 @@
       {% if include.image-popup %}
       image-popup: {{ include.image-popup }}
       {% endif %}
+      size: {{ images.size }}
     {% endresponsive_image_block %}
   {% endfor %}
   {% endif %}

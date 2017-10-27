@@ -77,6 +77,7 @@ module.exports = function(grunt) {
               'assets/**/*',
               'uploads/**/*',
               'images/**/*',
+              'bower_components/font-awesome/fonts/*',
               '!bower_components/**/*.html',
               '!scripts/**/*.js',
               '!styles/**/*.css',

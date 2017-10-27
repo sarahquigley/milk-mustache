@@ -280,7 +280,7 @@ module.exports = function(grunt) {
         ]
       },
 
-      test:{
+      test: {
         src: 'karma.conf.js',
         fileTypes: {
           js: {

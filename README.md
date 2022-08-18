@@ -8,6 +8,7 @@
 
 A food blog.
 
+View live version: [Milk Mustache](http://milk-mustache.com/)
 
 ## Installing dependencies
 

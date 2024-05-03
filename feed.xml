@@ -2,26 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
 <title type="text">Milk Mustache</title>
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
-<link rel="self" type="application/atom+xml" href="http://milk-mustache.com/feed.xml" />
-<link rel="alternate" type="text/html" href="http://milk-mustache.com" />
+<link rel="self" type="application/atom+xml" href="https://milk-mustache.com/feed.xml" />
+<link rel="alternate" type="text/html" href="https://milk-mustache.com" />
 <updated>2017-10-27T12:42:54-04:00</updated>
-<id>http://milk-mustache.com/</id>
+<id>https://milk-mustache.com/</id>
 <author>
   <name>Sarah Quigley</name>
-  <uri>http://milk-mustache.com/</uri>
+  <uri>https://milk-mustache.com/</uri>
   <email>sarah+milk-mustache@sarahquigley.net</email>
 </author>
 
 
 <entry>
   <title type="html"><![CDATA[The Joy of Oatmeal, and Breakfast]]></title>
-  <link rel="alternate" type="text/html" href="http://milk-mustache.com/recipes/the-joy-of-oatmeal-and-breakfast/" />
-  <id>http://milk-mustache.com/recipes/the-joy-of-oatmeal-and-breakfast</id>
+  <link rel="alternate" type="text/html" href="https://milk-mustache.com/recipes/the-joy-of-oatmeal-and-breakfast/" />
+  <id>https://milk-mustache.com/recipes/the-joy-of-oatmeal-and-breakfast</id>
   <published>2016-07-09T00:00:00-04:00</published>
   <updated>2016-07-09T00:00:00-04:00</updated>
   <author>
     <name>Sarah Quigley</name>
-    <uri>http://milk-mustache.com</uri>
+    <uri>https://milk-mustache.com</uri>
     <email>sarah+milk-mustache@sarahquigley.net</email>
   </author>
   <content type="html">
@@ -40,9 +40,9 @@
   
 
   
-  &lt;a class=&quot;image-popup&quot; href=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/2000/20140415_093359.jpg&quot;&gt;
+  &lt;a class=&quot;image-popup&quot; href=&quot;https://milk-mustache.com/uploads/resized/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/2000/20140415_093359.jpg&quot;&gt;
   
-  &lt;img src=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/2000/20140415_093359.jpg&quot; alt=&quot;&quot; srcset=&quot;          http://milk-mustache.com/uploads/resized/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/480/20140415_093359.jpg 480w,          http://milk-mustache.com/uploads/resized/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/620/20140415_093359.jpg 620w,          http://milk-mustache.com/uploads/resized/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/768/20140415_093359.jpg 768w,          http://milk-mustache.com/uploads/resized/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/1000/20140415_093359.jpg 1000w,          http://milk-mustache.com/uploads/resized/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/1400/20140415_093359.jpg 1400w,          http://milk-mustache.com/uploads/resized/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/2000/20140415_093359.jpg 2000w,     http://milk-mustache.com/uploads/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/20140415_093359.jpg 3028w&quot; /&gt;
+  &lt;img src=&quot;https://milk-mustache.com/uploads/resized/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/2000/20140415_093359.jpg&quot; alt=&quot;&quot; srcset=&quot;          https://milk-mustache.com/uploads/resized/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/480/20140415_093359.jpg 480w,          https://milk-mustache.com/uploads/resized/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/620/20140415_093359.jpg 620w,          https://milk-mustache.com/uploads/resized/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/768/20140415_093359.jpg 768w,          https://milk-mustache.com/uploads/resized/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/1000/20140415_093359.jpg 1000w,          https://milk-mustache.com/uploads/resized/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/1400/20140415_093359.jpg 1400w,          https://milk-mustache.com/uploads/resized/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/2000/20140415_093359.jpg 2000w,     https://milk-mustache.com/uploads/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/20140415_093359.jpg 3028w&quot; /&gt;
   
   &lt;/a&gt;
   
@@ -65,9 +65,9 @@
   
 
   
-  &lt;a class=&quot;image-popup&quot; href=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/2000/20150104_114113.jpg&quot;&gt;
+  &lt;a class=&quot;image-popup&quot; href=&quot;https://milk-mustache.com/uploads/resized/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/2000/20150104_114113.jpg&quot;&gt;
   
-  &lt;img src=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/2000/20150104_114113.jpg&quot; alt=&quot;&quot; srcset=&quot;          http://milk-mustache.com/uploads/resized/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/480/20150104_114113.jpg 480w,          http://milk-mustache.com/uploads/resized/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/620/20150104_114113.jpg 620w,          http://milk-mustache.com/uploads/resized/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/768/20150104_114113.jpg 768w,          http://milk-mustache.com/uploads/resized/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/1000/20150104_114113.jpg 1000w,          http://milk-mustache.com/uploads/resized/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/1400/20150104_114113.jpg 1400w,          http://milk-mustache.com/uploads/resized/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/2000/20150104_114113.jpg 2000w,     http://milk-mustache.com/uploads/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/20150104_114113.jpg 2979w&quot; /&gt;
+  &lt;img src=&quot;https://milk-mustache.com/uploads/resized/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/2000/20150104_114113.jpg&quot; alt=&quot;&quot; srcset=&quot;          https://milk-mustache.com/uploads/resized/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/480/20150104_114113.jpg 480w,          https://milk-mustache.com/uploads/resized/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/620/20150104_114113.jpg 620w,          https://milk-mustache.com/uploads/resized/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/768/20150104_114113.jpg 768w,          https://milk-mustache.com/uploads/resized/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/1000/20150104_114113.jpg 1000w,          https://milk-mustache.com/uploads/resized/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/1400/20150104_114113.jpg 1400w,          https://milk-mustache.com/uploads/resized/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/2000/20150104_114113.jpg 2000w,     https://milk-mustache.com/uploads/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/20150104_114113.jpg 2979w&quot; /&gt;
   
   &lt;/a&gt;
   
@@ -84,9 +84,9 @@
   
 
   
-  &lt;a class=&quot;image-popup&quot; href=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/2000/20140501_085414.jpg&quot;&gt;
+  &lt;a class=&quot;image-popup&quot; href=&quot;https://milk-mustache.com/uploads/resized/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/2000/20140501_085414.jpg&quot;&gt;
   
-  &lt;img src=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/2000/20140501_085414.jpg&quot; alt=&quot;&quot; srcset=&quot;          http://milk-mustache.com/uploads/resized/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/480/20140501_085414.jpg 480w,          http://milk-mustache.com/uploads/resized/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/620/20140501_085414.jpg 620w,          http://milk-mustache.com/uploads/resized/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/768/20140501_085414.jpg 768w,          http://milk-mustache.com/uploads/resized/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/1000/20140501_085414.jpg 1000w,          http://milk-mustache.com/uploads/resized/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/1400/20140501_085414.jpg 1400w,          http://milk-mustache.com/uploads/resized/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/2000/20140501_085414.jpg 2000w,     http://milk-mustache.com/uploads/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/20140501_085414.jpg 3021w&quot; /&gt;
+  &lt;img src=&quot;https://milk-mustache.com/uploads/resized/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/2000/20140501_085414.jpg&quot; alt=&quot;&quot; srcset=&quot;          https://milk-mustache.com/uploads/resized/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/480/20140501_085414.jpg 480w,          https://milk-mustache.com/uploads/resized/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/620/20140501_085414.jpg 620w,          https://milk-mustache.com/uploads/resized/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/768/20140501_085414.jpg 768w,          https://milk-mustache.com/uploads/resized/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/1000/20140501_085414.jpg 1000w,          https://milk-mustache.com/uploads/resized/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/1400/20140501_085414.jpg 1400w,          https://milk-mustache.com/uploads/resized/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/2000/20140501_085414.jpg 2000w,     https://milk-mustache.com/uploads/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/20140501_085414.jpg 3021w&quot; /&gt;
   
   &lt;/a&gt;
   
@@ -103,9 +103,9 @@
   
 
   
-  &lt;a class=&quot;image-popup&quot; href=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/2000/20150111_122726.jpg&quot;&gt;
+  &lt;a class=&quot;image-popup&quot; href=&quot;https://milk-mustache.com/uploads/resized/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/2000/20150111_122726.jpg&quot;&gt;
   
-  &lt;img src=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/2000/20150111_122726.jpg&quot; alt=&quot;&quot; srcset=&quot;          http://milk-mustache.com/uploads/resized/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/480/20150111_122726.jpg 480w,          http://milk-mustache.com/uploads/resized/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/620/20150111_122726.jpg 620w,          http://milk-mustache.com/uploads/resized/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/768/20150111_122726.jpg 768w,          http://milk-mustache.com/uploads/resized/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/1000/20150111_122726.jpg 1000w,          http://milk-mustache.com/uploads/resized/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/1400/20150111_122726.jpg 1400w,          http://milk-mustache.com/uploads/resized/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/2000/20150111_122726.jpg 2000w,     http://milk-mustache.com/uploads/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/20150111_122726.jpg 3264w&quot; /&gt;
+  &lt;img src=&quot;https://milk-mustache.com/uploads/resized/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/2000/20150111_122726.jpg&quot; alt=&quot;&quot; srcset=&quot;          https://milk-mustache.com/uploads/resized/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/480/20150111_122726.jpg 480w,          https://milk-mustache.com/uploads/resized/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/620/20150111_122726.jpg 620w,          https://milk-mustache.com/uploads/resized/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/768/20150111_122726.jpg 768w,          https://milk-mustache.com/uploads/resized/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/1000/20150111_122726.jpg 1000w,          https://milk-mustache.com/uploads/resized/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/1400/20150111_122726.jpg 1400w,          https://milk-mustache.com/uploads/resized/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/2000/20150111_122726.jpg 2000w,     https://milk-mustache.com/uploads/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/20150111_122726.jpg 3264w&quot; /&gt;
   
   &lt;/a&gt;
   
@@ -139,9 +139,9 @@ Pooh nodded thoughtfully. “It’s the same thing,” he said.”&lt;/p&gt;
   
 
   
-  &lt;a class=&quot;image-popup&quot; href=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/2000/20140607_115556.jpg&quot;&gt;
+  &lt;a class=&quot;image-popup&quot; href=&quot;https://milk-mustache.com/uploads/resized/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/2000/20140607_115556.jpg&quot;&gt;
   
-  &lt;img src=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/2000/20140607_115556.jpg&quot; alt=&quot;&quot; srcset=&quot;          http://milk-mustache.com/uploads/resized/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/480/20140607_115556.jpg 480w,          http://milk-mustache.com/uploads/resized/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/620/20140607_115556.jpg 620w,          http://milk-mustache.com/uploads/resized/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/768/20140607_115556.jpg 768w,          http://milk-mustache.com/uploads/resized/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/1000/20140607_115556.jpg 1000w,          http://milk-mustache.com/uploads/resized/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/1400/20140607_115556.jpg 1400w,          http://milk-mustache.com/uploads/resized/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/2000/20140607_115556.jpg 2000w,     http://milk-mustache.com/uploads/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/20140607_115556.jpg 3264w&quot; /&gt;
+  &lt;img src=&quot;https://milk-mustache.com/uploads/resized/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/2000/20140607_115556.jpg&quot; alt=&quot;&quot; srcset=&quot;          https://milk-mustache.com/uploads/resized/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/480/20140607_115556.jpg 480w,          https://milk-mustache.com/uploads/resized/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/620/20140607_115556.jpg 620w,          https://milk-mustache.com/uploads/resized/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/768/20140607_115556.jpg 768w,          https://milk-mustache.com/uploads/resized/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/1000/20140607_115556.jpg 1000w,          https://milk-mustache.com/uploads/resized/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/1400/20140607_115556.jpg 1400w,          https://milk-mustache.com/uploads/resized/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/2000/20140607_115556.jpg 2000w,     https://milk-mustache.com/uploads/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/20140607_115556.jpg 3264w&quot; /&gt;
   
   &lt;/a&gt;
   
@@ -158,9 +158,9 @@ Pooh nodded thoughtfully. “It’s the same thing,” he said.”&lt;/p&gt;
   
 
   
-  &lt;a class=&quot;image-popup&quot; href=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/2000/DSC_0898.jpg&quot;&gt;
+  &lt;a class=&quot;image-popup&quot; href=&quot;https://milk-mustache.com/uploads/resized/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/2000/DSC_0898.jpg&quot;&gt;
   
-  &lt;img src=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/2000/DSC_0898.jpg&quot; alt=&quot;&quot; srcset=&quot;          http://milk-mustache.com/uploads/resized/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/480/DSC_0898.jpg 480w,          http://milk-mustache.com/uploads/resized/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/620/DSC_0898.jpg 620w,          http://milk-mustache.com/uploads/resized/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/768/DSC_0898.jpg 768w,          http://milk-mustache.com/uploads/resized/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/1000/DSC_0898.jpg 1000w,          http://milk-mustache.com/uploads/resized/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/1400/DSC_0898.jpg 1400w,          http://milk-mustache.com/uploads/resized/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/2000/DSC_0898.jpg 2000w,     http://milk-mustache.com/uploads/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/DSC_0898.jpg 5606w&quot; /&gt;
+  &lt;img src=&quot;https://milk-mustache.com/uploads/resized/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/2000/DSC_0898.jpg&quot; alt=&quot;&quot; srcset=&quot;          https://milk-mustache.com/uploads/resized/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/480/DSC_0898.jpg 480w,          https://milk-mustache.com/uploads/resized/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/620/DSC_0898.jpg 620w,          https://milk-mustache.com/uploads/resized/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/768/DSC_0898.jpg 768w,          https://milk-mustache.com/uploads/resized/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/1000/DSC_0898.jpg 1000w,          https://milk-mustache.com/uploads/resized/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/1400/DSC_0898.jpg 1400w,          https://milk-mustache.com/uploads/resized/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/2000/DSC_0898.jpg 2000w,     https://milk-mustache.com/uploads/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/DSC_0898.jpg 5606w&quot; /&gt;
   
   &lt;/a&gt;
   
@@ -183,9 +183,9 @@ Pooh nodded thoughtfully. “It’s the same thing,” he said.”&lt;/p&gt;
   
 
   
-  &lt;a class=&quot;image-popup&quot; href=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/2000/20140510_093604.jpg&quot;&gt;
+  &lt;a class=&quot;image-popup&quot; href=&quot;https://milk-mustache.com/uploads/resized/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/2000/20140510_093604.jpg&quot;&gt;
   
-  &lt;img src=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/2000/20140510_093604.jpg&quot; alt=&quot;&quot; srcset=&quot;          http://milk-mustache.com/uploads/resized/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/480/20140510_093604.jpg 480w,          http://milk-mustache.com/uploads/resized/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/620/20140510_093604.jpg 620w,          http://milk-mustache.com/uploads/resized/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/768/20140510_093604.jpg 768w,          http://milk-mustache.com/uploads/resized/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/1000/20140510_093604.jpg 1000w,          http://milk-mustache.com/uploads/resized/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/1400/20140510_093604.jpg 1400w,          http://milk-mustache.com/uploads/resized/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/2000/20140510_093604.jpg 2000w,     http://milk-mustache.com/uploads/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/20140510_093604.jpg 3264w&quot; /&gt;
+  &lt;img src=&quot;https://milk-mustache.com/uploads/resized/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/2000/20140510_093604.jpg&quot; alt=&quot;&quot; srcset=&quot;          https://milk-mustache.com/uploads/resized/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/480/20140510_093604.jpg 480w,          https://milk-mustache.com/uploads/resized/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/620/20140510_093604.jpg 620w,          https://milk-mustache.com/uploads/resized/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/768/20140510_093604.jpg 768w,          https://milk-mustache.com/uploads/resized/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/1000/20140510_093604.jpg 1000w,          https://milk-mustache.com/uploads/resized/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/1400/20140510_093604.jpg 1400w,          https://milk-mustache.com/uploads/resized/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/2000/20140510_093604.jpg 2000w,     https://milk-mustache.com/uploads/posts/recipes/2016-07-09-the-joy-of-oatmeal-and-breakfast/20140510_093604.jpg 3264w&quot; /&gt;
   
   &lt;/a&gt;
   
@@ -199,20 +199,20 @@ Pooh nodded thoughtfully. “It’s the same thing,” he said.”&lt;/p&gt;
 
 &lt;p&gt;Jesse, if you’re reading this, this oatmeal recipe is for you — and for all the rest of you too. May all your days be full and include a fabulous breakfast. Possibly oatmeal?&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://milk-mustache.com/recipes/the-joy-of-oatmeal-and-breakfast/&quot;&gt;The Joy of Oatmeal, and Breakfast&lt;/a&gt; was originally published by Sarah Quigley at &lt;a href=&quot;http://milk-mustache.com&quot;&gt;Milk Mustache&lt;/a&gt; on July 09, 2016.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;https://milk-mustache.com/recipes/the-joy-of-oatmeal-and-breakfast/&quot;&gt;The Joy of Oatmeal, and Breakfast&lt;/a&gt; was originally published by Sarah Quigley at &lt;a href=&quot;https://milk-mustache.com&quot;&gt;Milk Mustache&lt;/a&gt; on July 09, 2016.&lt;/p&gt;
   </content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Lemon Curd, Delicious and Vegan]]></title>
-  <link rel="alternate" type="text/html" href="http://milk-mustache.com/recipes/lemon-curd-delicious-and-vegan/" />
-  <id>http://milk-mustache.com/recipes/lemon-curd-delicious-and-vegan</id>
+  <link rel="alternate" type="text/html" href="https://milk-mustache.com/recipes/lemon-curd-delicious-and-vegan/" />
+  <id>https://milk-mustache.com/recipes/lemon-curd-delicious-and-vegan</id>
   <published>2016-05-30T00:00:00-04:00</published>
   <updated>2016-05-30T00:00:00-04:00</updated>
   <author>
     <name>Sarah Quigley</name>
-    <uri>http://milk-mustache.com</uri>
+    <uri>https://milk-mustache.com</uri>
     <email>sarah+milk-mustache@sarahquigley.net</email>
   </author>
   <content type="html">
@@ -231,9 +231,9 @@ Pooh nodded thoughtfully. “It’s the same thing,” he said.”&lt;/p&gt;
   
 
   
-  &lt;a class=&quot;image-popup&quot; href=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2016-05-30-lemon-curd-delicious-and-vegan/2000/DSC_0720.jpg&quot;&gt;
+  &lt;a class=&quot;image-popup&quot; href=&quot;https://milk-mustache.com/uploads/resized/posts/recipes/2016-05-30-lemon-curd-delicious-and-vegan/2000/DSC_0720.jpg&quot;&gt;
   
-  &lt;img src=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2016-05-30-lemon-curd-delicious-and-vegan/2000/DSC_0720.jpg&quot; alt=&quot;&quot; srcset=&quot;          http://milk-mustache.com/uploads/resized/posts/recipes/2016-05-30-lemon-curd-delicious-and-vegan/480/DSC_0720.jpg 480w,          http://milk-mustache.com/uploads/resized/posts/recipes/2016-05-30-lemon-curd-delicious-and-vegan/620/DSC_0720.jpg 620w,          http://milk-mustache.com/uploads/resized/posts/recipes/2016-05-30-lemon-curd-delicious-and-vegan/768/DSC_0720.jpg 768w,          http://milk-mustache.com/uploads/resized/posts/recipes/2016-05-30-lemon-curd-delicious-and-vegan/1000/DSC_0720.jpg 1000w,          http://milk-mustache.com/uploads/resized/posts/recipes/2016-05-30-lemon-curd-delicious-and-vegan/1400/DSC_0720.jpg 1400w,          http://milk-mustache.com/uploads/resized/posts/recipes/2016-05-30-lemon-curd-delicious-and-vegan/2000/DSC_0720.jpg 2000w,     http://milk-mustache.com/uploads/posts/recipes/2016-05-30-lemon-curd-delicious-and-vegan/DSC_0720.jpg 4631w&quot; /&gt;
+  &lt;img src=&quot;https://milk-mustache.com/uploads/resized/posts/recipes/2016-05-30-lemon-curd-delicious-and-vegan/2000/DSC_0720.jpg&quot; alt=&quot;&quot; srcset=&quot;          https://milk-mustache.com/uploads/resized/posts/recipes/2016-05-30-lemon-curd-delicious-and-vegan/480/DSC_0720.jpg 480w,          https://milk-mustache.com/uploads/resized/posts/recipes/2016-05-30-lemon-curd-delicious-and-vegan/620/DSC_0720.jpg 620w,          https://milk-mustache.com/uploads/resized/posts/recipes/2016-05-30-lemon-curd-delicious-and-vegan/768/DSC_0720.jpg 768w,          https://milk-mustache.com/uploads/resized/posts/recipes/2016-05-30-lemon-curd-delicious-and-vegan/1000/DSC_0720.jpg 1000w,          https://milk-mustache.com/uploads/resized/posts/recipes/2016-05-30-lemon-curd-delicious-and-vegan/1400/DSC_0720.jpg 1400w,          https://milk-mustache.com/uploads/resized/posts/recipes/2016-05-30-lemon-curd-delicious-and-vegan/2000/DSC_0720.jpg 2000w,     https://milk-mustache.com/uploads/posts/recipes/2016-05-30-lemon-curd-delicious-and-vegan/DSC_0720.jpg 4631w&quot; /&gt;
   
   &lt;/a&gt;
   
@@ -256,9 +256,9 @@ Pooh nodded thoughtfully. “It’s the same thing,” he said.”&lt;/p&gt;
   
 
   
-  &lt;a class=&quot;image-popup&quot; href=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2016-05-30-lemon-curd-delicious-and-vegan/2000/DSC_0738.jpg&quot;&gt;
+  &lt;a class=&quot;image-popup&quot; href=&quot;https://milk-mustache.com/uploads/resized/posts/recipes/2016-05-30-lemon-curd-delicious-and-vegan/2000/DSC_0738.jpg&quot;&gt;
   
-  &lt;img src=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2016-05-30-lemon-curd-delicious-and-vegan/2000/DSC_0738.jpg&quot; alt=&quot;&quot; srcset=&quot;          http://milk-mustache.com/uploads/resized/posts/recipes/2016-05-30-lemon-curd-delicious-and-vegan/480/DSC_0738.jpg 480w,          http://milk-mustache.com/uploads/resized/posts/recipes/2016-05-30-lemon-curd-delicious-and-vegan/620/DSC_0738.jpg 620w,          http://milk-mustache.com/uploads/resized/posts/recipes/2016-05-30-lemon-curd-delicious-and-vegan/768/DSC_0738.jpg 768w,          http://milk-mustache.com/uploads/resized/posts/recipes/2016-05-30-lemon-curd-delicious-and-vegan/1000/DSC_0738.jpg 1000w,          http://milk-mustache.com/uploads/resized/posts/recipes/2016-05-30-lemon-curd-delicious-and-vegan/1400/DSC_0738.jpg 1400w,          http://milk-mustache.com/uploads/resized/posts/recipes/2016-05-30-lemon-curd-delicious-and-vegan/2000/DSC_0738.jpg 2000w,     http://milk-mustache.com/uploads/posts/recipes/2016-05-30-lemon-curd-delicious-and-vegan/DSC_0738.jpg 3702w&quot; /&gt;
+  &lt;img src=&quot;https://milk-mustache.com/uploads/resized/posts/recipes/2016-05-30-lemon-curd-delicious-and-vegan/2000/DSC_0738.jpg&quot; alt=&quot;&quot; srcset=&quot;          https://milk-mustache.com/uploads/resized/posts/recipes/2016-05-30-lemon-curd-delicious-and-vegan/480/DSC_0738.jpg 480w,          https://milk-mustache.com/uploads/resized/posts/recipes/2016-05-30-lemon-curd-delicious-and-vegan/620/DSC_0738.jpg 620w,          https://milk-mustache.com/uploads/resized/posts/recipes/2016-05-30-lemon-curd-delicious-and-vegan/768/DSC_0738.jpg 768w,          https://milk-mustache.com/uploads/resized/posts/recipes/2016-05-30-lemon-curd-delicious-and-vegan/1000/DSC_0738.jpg 1000w,          https://milk-mustache.com/uploads/resized/posts/recipes/2016-05-30-lemon-curd-delicious-and-vegan/1400/DSC_0738.jpg 1400w,          https://milk-mustache.com/uploads/resized/posts/recipes/2016-05-30-lemon-curd-delicious-and-vegan/2000/DSC_0738.jpg 2000w,     https://milk-mustache.com/uploads/posts/recipes/2016-05-30-lemon-curd-delicious-and-vegan/DSC_0738.jpg 3702w&quot; /&gt;
   
   &lt;/a&gt;
   
@@ -275,9 +275,9 @@ Pooh nodded thoughtfully. “It’s the same thing,” he said.”&lt;/p&gt;
   
 
   
-  &lt;a class=&quot;image-popup&quot; href=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2016-05-30-lemon-curd-delicious-and-vegan/2000/DSC_0760.jpg&quot;&gt;
+  &lt;a class=&quot;image-popup&quot; href=&quot;https://milk-mustache.com/uploads/resized/posts/recipes/2016-05-30-lemon-curd-delicious-and-vegan/2000/DSC_0760.jpg&quot;&gt;
   
-  &lt;img src=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2016-05-30-lemon-curd-delicious-and-vegan/2000/DSC_0760.jpg&quot; alt=&quot;&quot; srcset=&quot;          http://milk-mustache.com/uploads/resized/posts/recipes/2016-05-30-lemon-curd-delicious-and-vegan/480/DSC_0760.jpg 480w,          http://milk-mustache.com/uploads/resized/posts/recipes/2016-05-30-lemon-curd-delicious-and-vegan/620/DSC_0760.jpg 620w,          http://milk-mustache.com/uploads/resized/posts/recipes/2016-05-30-lemon-curd-delicious-and-vegan/768/DSC_0760.jpg 768w,          http://milk-mustache.com/uploads/resized/posts/recipes/2016-05-30-lemon-curd-delicious-and-vegan/1000/DSC_0760.jpg 1000w,          http://milk-mustache.com/uploads/resized/posts/recipes/2016-05-30-lemon-curd-delicious-and-vegan/1400/DSC_0760.jpg 1400w,          http://milk-mustache.com/uploads/resized/posts/recipes/2016-05-30-lemon-curd-delicious-and-vegan/2000/DSC_0760.jpg 2000w,     http://milk-mustache.com/uploads/posts/recipes/2016-05-30-lemon-curd-delicious-and-vegan/DSC_0760.jpg 3783w&quot; /&gt;
+  &lt;img src=&quot;https://milk-mustache.com/uploads/resized/posts/recipes/2016-05-30-lemon-curd-delicious-and-vegan/2000/DSC_0760.jpg&quot; alt=&quot;&quot; srcset=&quot;          https://milk-mustache.com/uploads/resized/posts/recipes/2016-05-30-lemon-curd-delicious-and-vegan/480/DSC_0760.jpg 480w,          https://milk-mustache.com/uploads/resized/posts/recipes/2016-05-30-lemon-curd-delicious-and-vegan/620/DSC_0760.jpg 620w,          https://milk-mustache.com/uploads/resized/posts/recipes/2016-05-30-lemon-curd-delicious-and-vegan/768/DSC_0760.jpg 768w,          https://milk-mustache.com/uploads/resized/posts/recipes/2016-05-30-lemon-curd-delicious-and-vegan/1000/DSC_0760.jpg 1000w,          https://milk-mustache.com/uploads/resized/posts/recipes/2016-05-30-lemon-curd-delicious-and-vegan/1400/DSC_0760.jpg 1400w,          https://milk-mustache.com/uploads/resized/posts/recipes/2016-05-30-lemon-curd-delicious-and-vegan/2000/DSC_0760.jpg 2000w,     https://milk-mustache.com/uploads/posts/recipes/2016-05-30-lemon-curd-delicious-and-vegan/DSC_0760.jpg 3783w&quot; /&gt;
   
   &lt;/a&gt;
   
@@ -304,9 +304,9 @@ Pooh nodded thoughtfully. “It’s the same thing,” he said.”&lt;/p&gt;
   
 
   
-  &lt;a class=&quot;image-popup&quot; href=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2016-05-30-lemon-curd-delicious-and-vegan/2000/DSC_0860.jpg&quot;&gt;
+  &lt;a class=&quot;image-popup&quot; href=&quot;https://milk-mustache.com/uploads/resized/posts/recipes/2016-05-30-lemon-curd-delicious-and-vegan/2000/DSC_0860.jpg&quot;&gt;
   
-  &lt;img src=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2016-05-30-lemon-curd-delicious-and-vegan/2000/DSC_0860.jpg&quot; alt=&quot;&quot; srcset=&quot;          http://milk-mustache.com/uploads/resized/posts/recipes/2016-05-30-lemon-curd-delicious-and-vegan/480/DSC_0860.jpg 480w,          http://milk-mustache.com/uploads/resized/posts/recipes/2016-05-30-lemon-curd-delicious-and-vegan/620/DSC_0860.jpg 620w,          http://milk-mustache.com/uploads/resized/posts/recipes/2016-05-30-lemon-curd-delicious-and-vegan/768/DSC_0860.jpg 768w,          http://milk-mustache.com/uploads/resized/posts/recipes/2016-05-30-lemon-curd-delicious-and-vegan/1000/DSC_0860.jpg 1000w,          http://milk-mustache.com/uploads/resized/posts/recipes/2016-05-30-lemon-curd-delicious-and-vegan/1400/DSC_0860.jpg 1400w,          http://milk-mustache.com/uploads/resized/posts/recipes/2016-05-30-lemon-curd-delicious-and-vegan/2000/DSC_0860.jpg 2000w,     http://milk-mustache.com/uploads/posts/recipes/2016-05-30-lemon-curd-delicious-and-vegan/DSC_0860.jpg 3797w&quot; /&gt;
+  &lt;img src=&quot;https://milk-mustache.com/uploads/resized/posts/recipes/2016-05-30-lemon-curd-delicious-and-vegan/2000/DSC_0860.jpg&quot; alt=&quot;&quot; srcset=&quot;          https://milk-mustache.com/uploads/resized/posts/recipes/2016-05-30-lemon-curd-delicious-and-vegan/480/DSC_0860.jpg 480w,          https://milk-mustache.com/uploads/resized/posts/recipes/2016-05-30-lemon-curd-delicious-and-vegan/620/DSC_0860.jpg 620w,          https://milk-mustache.com/uploads/resized/posts/recipes/2016-05-30-lemon-curd-delicious-and-vegan/768/DSC_0860.jpg 768w,          https://milk-mustache.com/uploads/resized/posts/recipes/2016-05-30-lemon-curd-delicious-and-vegan/1000/DSC_0860.jpg 1000w,          https://milk-mustache.com/uploads/resized/posts/recipes/2016-05-30-lemon-curd-delicious-and-vegan/1400/DSC_0860.jpg 1400w,          https://milk-mustache.com/uploads/resized/posts/recipes/2016-05-30-lemon-curd-delicious-and-vegan/2000/DSC_0860.jpg 2000w,     https://milk-mustache.com/uploads/posts/recipes/2016-05-30-lemon-curd-delicious-and-vegan/DSC_0860.jpg 3797w&quot; /&gt;
   
   &lt;/a&gt;
   
@@ -323,9 +323,9 @@ Pooh nodded thoughtfully. “It’s the same thing,” he said.”&lt;/p&gt;
   
 
   
-  &lt;a class=&quot;image-popup&quot; href=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2016-05-30-lemon-curd-delicious-and-vegan/2000/DSC_0825.jpg&quot;&gt;
+  &lt;a class=&quot;image-popup&quot; href=&quot;https://milk-mustache.com/uploads/resized/posts/recipes/2016-05-30-lemon-curd-delicious-and-vegan/2000/DSC_0825.jpg&quot;&gt;
   
-  &lt;img src=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2016-05-30-lemon-curd-delicious-and-vegan/2000/DSC_0825.jpg&quot; alt=&quot;&quot; srcset=&quot;          http://milk-mustache.com/uploads/resized/posts/recipes/2016-05-30-lemon-curd-delicious-and-vegan/480/DSC_0825.jpg 480w,          http://milk-mustache.com/uploads/resized/posts/recipes/2016-05-30-lemon-curd-delicious-and-vegan/620/DSC_0825.jpg 620w,          http://milk-mustache.com/uploads/resized/posts/recipes/2016-05-30-lemon-curd-delicious-and-vegan/768/DSC_0825.jpg 768w,          http://milk-mustache.com/uploads/resized/posts/recipes/2016-05-30-lemon-curd-delicious-and-vegan/1000/DSC_0825.jpg 1000w,          http://milk-mustache.com/uploads/resized/posts/recipes/2016-05-30-lemon-curd-delicious-and-vegan/1400/DSC_0825.jpg 1400w,          http://milk-mustache.com/uploads/resized/posts/recipes/2016-05-30-lemon-curd-delicious-and-vegan/2000/DSC_0825.jpg 2000w,     http://milk-mustache.com/uploads/posts/recipes/2016-05-30-lemon-curd-delicious-and-vegan/DSC_0825.jpg 5360w&quot; /&gt;
+  &lt;img src=&quot;https://milk-mustache.com/uploads/resized/posts/recipes/2016-05-30-lemon-curd-delicious-and-vegan/2000/DSC_0825.jpg&quot; alt=&quot;&quot; srcset=&quot;          https://milk-mustache.com/uploads/resized/posts/recipes/2016-05-30-lemon-curd-delicious-and-vegan/480/DSC_0825.jpg 480w,          https://milk-mustache.com/uploads/resized/posts/recipes/2016-05-30-lemon-curd-delicious-and-vegan/620/DSC_0825.jpg 620w,          https://milk-mustache.com/uploads/resized/posts/recipes/2016-05-30-lemon-curd-delicious-and-vegan/768/DSC_0825.jpg 768w,          https://milk-mustache.com/uploads/resized/posts/recipes/2016-05-30-lemon-curd-delicious-and-vegan/1000/DSC_0825.jpg 1000w,          https://milk-mustache.com/uploads/resized/posts/recipes/2016-05-30-lemon-curd-delicious-and-vegan/1400/DSC_0825.jpg 1400w,          https://milk-mustache.com/uploads/resized/posts/recipes/2016-05-30-lemon-curd-delicious-and-vegan/2000/DSC_0825.jpg 2000w,     https://milk-mustache.com/uploads/posts/recipes/2016-05-30-lemon-curd-delicious-and-vegan/DSC_0825.jpg 5360w&quot; /&gt;
   
   &lt;/a&gt;
   
@@ -337,20 +337,20 @@ Pooh nodded thoughtfully. “It’s the same thing,” he said.”&lt;/p&gt;
 
 &lt;p&gt;Stepping out for a moment into the muggy New York heat to buy ingredients, I feel immediately wilted, like a cut flower, the saddest little blond human cut flower. Perfect conditions for standing over a stove top, stirring a pot of lemon curd as it thickens? Not exactly, but the air-conditioning is on and it will all be worth it when I have some tangy chilled jars of lemon curd to dig into (and spoon over everything).&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://milk-mustache.com/recipes/lemon-curd-delicious-and-vegan/&quot;&gt;Lemon Curd, Delicious and Vegan&lt;/a&gt; was originally published by Sarah Quigley at &lt;a href=&quot;http://milk-mustache.com&quot;&gt;Milk Mustache&lt;/a&gt; on May 30, 2016.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;https://milk-mustache.com/recipes/lemon-curd-delicious-and-vegan/&quot;&gt;Lemon Curd, Delicious and Vegan&lt;/a&gt; was originally published by Sarah Quigley at &lt;a href=&quot;https://milk-mustache.com&quot;&gt;Milk Mustache&lt;/a&gt; on May 30, 2016.&lt;/p&gt;
   </content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Everybody Loves Jalapeño & Pineapple Cornbread]]></title>
-  <link rel="alternate" type="text/html" href="http://milk-mustache.com/recipes/everybody-loves-jalape%C3%B1o-pineapple-cornbread/" />
-  <id>http://milk-mustache.com/recipes/everybody-loves-jalapeño-pineapple-cornbread</id>
+  <link rel="alternate" type="text/html" href="https://milk-mustache.com/recipes/everybody-loves-jalape%C3%B1o-pineapple-cornbread/" />
+  <id>https://milk-mustache.com/recipes/everybody-loves-jalapeño-pineapple-cornbread</id>
   <published>2016-04-29T00:00:00-04:00</published>
   <updated>2016-04-29T00:00:00-04:00</updated>
   <author>
     <name>Sarah Quigley</name>
-    <uri>http://milk-mustache.com</uri>
+    <uri>https://milk-mustache.com</uri>
     <email>sarah+milk-mustache@sarahquigley.net</email>
   </author>
   <content type="html">
@@ -369,9 +369,9 @@ Pooh nodded thoughtfully. “It’s the same thing,” he said.”&lt;/p&gt;
   
 
   
-  &lt;a class=&quot;image-popup&quot; href=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2016-04-29-everybody-loves-jalapeño-pineapple-cornbread/2000/DSC_0131.jpg&quot;&gt;
+  &lt;a class=&quot;image-popup&quot; href=&quot;https://milk-mustache.com/uploads/resized/posts/recipes/2016-04-29-everybody-loves-jalapeño-pineapple-cornbread/2000/DSC_0131.jpg&quot;&gt;
   
-  &lt;img src=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2016-04-29-everybody-loves-jalapeño-pineapple-cornbread/2000/DSC_0131.jpg&quot; alt=&quot;&quot; srcset=&quot;          http://milk-mustache.com/uploads/resized/posts/recipes/2016-04-29-everybody-loves-jalapeño-pineapple-cornbread/480/DSC_0131.jpg 480w,          http://milk-mustache.com/uploads/resized/posts/recipes/2016-04-29-everybody-loves-jalapeño-pineapple-cornbread/620/DSC_0131.jpg 620w,          http://milk-mustache.com/uploads/resized/posts/recipes/2016-04-29-everybody-loves-jalapeño-pineapple-cornbread/768/DSC_0131.jpg 768w,          http://milk-mustache.com/uploads/resized/posts/recipes/2016-04-29-everybody-loves-jalapeño-pineapple-cornbread/1000/DSC_0131.jpg 1000w,          http://milk-mustache.com/uploads/resized/posts/recipes/2016-04-29-everybody-loves-jalapeño-pineapple-cornbread/1400/DSC_0131.jpg 1400w,          http://milk-mustache.com/uploads/resized/posts/recipes/2016-04-29-everybody-loves-jalapeño-pineapple-cornbread/2000/DSC_0131.jpg 2000w,     http://milk-mustache.com/uploads/posts/recipes/2016-04-29-everybody-loves-jalapeño-pineapple-cornbread/DSC_0131.jpg 6000w&quot; /&gt;
+  &lt;img src=&quot;https://milk-mustache.com/uploads/resized/posts/recipes/2016-04-29-everybody-loves-jalapeño-pineapple-cornbread/2000/DSC_0131.jpg&quot; alt=&quot;&quot; srcset=&quot;          https://milk-mustache.com/uploads/resized/posts/recipes/2016-04-29-everybody-loves-jalapeño-pineapple-cornbread/480/DSC_0131.jpg 480w,          https://milk-mustache.com/uploads/resized/posts/recipes/2016-04-29-everybody-loves-jalapeño-pineapple-cornbread/620/DSC_0131.jpg 620w,          https://milk-mustache.com/uploads/resized/posts/recipes/2016-04-29-everybody-loves-jalapeño-pineapple-cornbread/768/DSC_0131.jpg 768w,          https://milk-mustache.com/uploads/resized/posts/recipes/2016-04-29-everybody-loves-jalapeño-pineapple-cornbread/1000/DSC_0131.jpg 1000w,          https://milk-mustache.com/uploads/resized/posts/recipes/2016-04-29-everybody-loves-jalapeño-pineapple-cornbread/1400/DSC_0131.jpg 1400w,          https://milk-mustache.com/uploads/resized/posts/recipes/2016-04-29-everybody-loves-jalapeño-pineapple-cornbread/2000/DSC_0131.jpg 2000w,     https://milk-mustache.com/uploads/posts/recipes/2016-04-29-everybody-loves-jalapeño-pineapple-cornbread/DSC_0131.jpg 6000w&quot; /&gt;
   
   &lt;/a&gt;
   
@@ -394,9 +394,9 @@ Pooh nodded thoughtfully. “It’s the same thing,” he said.”&lt;/p&gt;
   
 
   
-  &lt;a class=&quot;image-popup&quot; href=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2016-04-29-everybody-loves-jalapeño-pineapple-cornbread/2000/DSC_0039.jpg&quot;&gt;
+  &lt;a class=&quot;image-popup&quot; href=&quot;https://milk-mustache.com/uploads/resized/posts/recipes/2016-04-29-everybody-loves-jalapeño-pineapple-cornbread/2000/DSC_0039.jpg&quot;&gt;
   
-  &lt;img src=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2016-04-29-everybody-loves-jalapeño-pineapple-cornbread/2000/DSC_0039.jpg&quot; alt=&quot;&quot; srcset=&quot;          http://milk-mustache.com/uploads/resized/posts/recipes/2016-04-29-everybody-loves-jalapeño-pineapple-cornbread/480/DSC_0039.jpg 480w,          http://milk-mustache.com/uploads/resized/posts/recipes/2016-04-29-everybody-loves-jalapeño-pineapple-cornbread/620/DSC_0039.jpg 620w,          http://milk-mustache.com/uploads/resized/posts/recipes/2016-04-29-everybody-loves-jalapeño-pineapple-cornbread/768/DSC_0039.jpg 768w,          http://milk-mustache.com/uploads/resized/posts/recipes/2016-04-29-everybody-loves-jalapeño-pineapple-cornbread/1000/DSC_0039.jpg 1000w,          http://milk-mustache.com/uploads/resized/posts/recipes/2016-04-29-everybody-loves-jalapeño-pineapple-cornbread/1400/DSC_0039.jpg 1400w,          http://milk-mustache.com/uploads/resized/posts/recipes/2016-04-29-everybody-loves-jalapeño-pineapple-cornbread/2000/DSC_0039.jpg 2000w,     http://milk-mustache.com/uploads/posts/recipes/2016-04-29-everybody-loves-jalapeño-pineapple-cornbread/DSC_0039.jpg 3811w&quot; /&gt;
+  &lt;img src=&quot;https://milk-mustache.com/uploads/resized/posts/recipes/2016-04-29-everybody-loves-jalapeño-pineapple-cornbread/2000/DSC_0039.jpg&quot; alt=&quot;&quot; srcset=&quot;          https://milk-mustache.com/uploads/resized/posts/recipes/2016-04-29-everybody-loves-jalapeño-pineapple-cornbread/480/DSC_0039.jpg 480w,          https://milk-mustache.com/uploads/resized/posts/recipes/2016-04-29-everybody-loves-jalapeño-pineapple-cornbread/620/DSC_0039.jpg 620w,          https://milk-mustache.com/uploads/resized/posts/recipes/2016-04-29-everybody-loves-jalapeño-pineapple-cornbread/768/DSC_0039.jpg 768w,          https://milk-mustache.com/uploads/resized/posts/recipes/2016-04-29-everybody-loves-jalapeño-pineapple-cornbread/1000/DSC_0039.jpg 1000w,          https://milk-mustache.com/uploads/resized/posts/recipes/2016-04-29-everybody-loves-jalapeño-pineapple-cornbread/1400/DSC_0039.jpg 1400w,          https://milk-mustache.com/uploads/resized/posts/recipes/2016-04-29-everybody-loves-jalapeño-pineapple-cornbread/2000/DSC_0039.jpg 2000w,     https://milk-mustache.com/uploads/posts/recipes/2016-04-29-everybody-loves-jalapeño-pineapple-cornbread/DSC_0039.jpg 3811w&quot; /&gt;
   
   &lt;/a&gt;
   
@@ -413,9 +413,9 @@ Pooh nodded thoughtfully. “It’s the same thing,” he said.”&lt;/p&gt;
   
 
   
-  &lt;a class=&quot;image-popup&quot; href=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2016-04-29-everybody-loves-jalapeño-pineapple-cornbread/2000/DSC_0097.jpg&quot;&gt;
+  &lt;a class=&quot;image-popup&quot; href=&quot;https://milk-mustache.com/uploads/resized/posts/recipes/2016-04-29-everybody-loves-jalapeño-pineapple-cornbread/2000/DSC_0097.jpg&quot;&gt;
   
-  &lt;img src=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2016-04-29-everybody-loves-jalapeño-pineapple-cornbread/2000/DSC_0097.jpg&quot; alt=&quot;&quot; srcset=&quot;          http://milk-mustache.com/uploads/resized/posts/recipes/2016-04-29-everybody-loves-jalapeño-pineapple-cornbread/480/DSC_0097.jpg 480w,          http://milk-mustache.com/uploads/resized/posts/recipes/2016-04-29-everybody-loves-jalapeño-pineapple-cornbread/620/DSC_0097.jpg 620w,          http://milk-mustache.com/uploads/resized/posts/recipes/2016-04-29-everybody-loves-jalapeño-pineapple-cornbread/768/DSC_0097.jpg 768w,          http://milk-mustache.com/uploads/resized/posts/recipes/2016-04-29-everybody-loves-jalapeño-pineapple-cornbread/1000/DSC_0097.jpg 1000w,          http://milk-mustache.com/uploads/resized/posts/recipes/2016-04-29-everybody-loves-jalapeño-pineapple-cornbread/1400/DSC_0097.jpg 1400w,          http://milk-mustache.com/uploads/resized/posts/recipes/2016-04-29-everybody-loves-jalapeño-pineapple-cornbread/2000/DSC_0097.jpg 2000w,     http://milk-mustache.com/uploads/posts/recipes/2016-04-29-everybody-loves-jalapeño-pineapple-cornbread/DSC_0097.jpg 5546w&quot; /&gt;
+  &lt;img src=&quot;https://milk-mustache.com/uploads/resized/posts/recipes/2016-04-29-everybody-loves-jalapeño-pineapple-cornbread/2000/DSC_0097.jpg&quot; alt=&quot;&quot; srcset=&quot;          https://milk-mustache.com/uploads/resized/posts/recipes/2016-04-29-everybody-loves-jalapeño-pineapple-cornbread/480/DSC_0097.jpg 480w,          https://milk-mustache.com/uploads/resized/posts/recipes/2016-04-29-everybody-loves-jalapeño-pineapple-cornbread/620/DSC_0097.jpg 620w,          https://milk-mustache.com/uploads/resized/posts/recipes/2016-04-29-everybody-loves-jalapeño-pineapple-cornbread/768/DSC_0097.jpg 768w,          https://milk-mustache.com/uploads/resized/posts/recipes/2016-04-29-everybody-loves-jalapeño-pineapple-cornbread/1000/DSC_0097.jpg 1000w,          https://milk-mustache.com/uploads/resized/posts/recipes/2016-04-29-everybody-loves-jalapeño-pineapple-cornbread/1400/DSC_0097.jpg 1400w,          https://milk-mustache.com/uploads/resized/posts/recipes/2016-04-29-everybody-loves-jalapeño-pineapple-cornbread/2000/DSC_0097.jpg 2000w,     https://milk-mustache.com/uploads/posts/recipes/2016-04-29-everybody-loves-jalapeño-pineapple-cornbread/DSC_0097.jpg 5546w&quot; /&gt;
   
   &lt;/a&gt;
   
@@ -442,9 +442,9 @@ Pooh nodded thoughtfully. “It’s the same thing,” he said.”&lt;/p&gt;
   
 
   
-  &lt;a class=&quot;image-popup&quot; href=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2016-04-29-everybody-loves-jalapeño-pineapple-cornbread/2000/DSC_0149.jpg&quot;&gt;
+  &lt;a class=&quot;image-popup&quot; href=&quot;https://milk-mustache.com/uploads/resized/posts/recipes/2016-04-29-everybody-loves-jalapeño-pineapple-cornbread/2000/DSC_0149.jpg&quot;&gt;
   
-  &lt;img src=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2016-04-29-everybody-loves-jalapeño-pineapple-cornbread/2000/DSC_0149.jpg&quot; alt=&quot;&quot; srcset=&quot;          http://milk-mustache.com/uploads/resized/posts/recipes/2016-04-29-everybody-loves-jalapeño-pineapple-cornbread/480/DSC_0149.jpg 480w,          http://milk-mustache.com/uploads/resized/posts/recipes/2016-04-29-everybody-loves-jalapeño-pineapple-cornbread/620/DSC_0149.jpg 620w,          http://milk-mustache.com/uploads/resized/posts/recipes/2016-04-29-everybody-loves-jalapeño-pineapple-cornbread/768/DSC_0149.jpg 768w,          http://milk-mustache.com/uploads/resized/posts/recipes/2016-04-29-everybody-loves-jalapeño-pineapple-cornbread/1000/DSC_0149.jpg 1000w,          http://milk-mustache.com/uploads/resized/posts/recipes/2016-04-29-everybody-loves-jalapeño-pineapple-cornbread/1400/DSC_0149.jpg 1400w,          http://milk-mustache.com/uploads/resized/posts/recipes/2016-04-29-everybody-loves-jalapeño-pineapple-cornbread/2000/DSC_0149.jpg 2000w,     http://milk-mustache.com/uploads/posts/recipes/2016-04-29-everybody-loves-jalapeño-pineapple-cornbread/DSC_0149.jpg 6000w&quot; /&gt;
+  &lt;img src=&quot;https://milk-mustache.com/uploads/resized/posts/recipes/2016-04-29-everybody-loves-jalapeño-pineapple-cornbread/2000/DSC_0149.jpg&quot; alt=&quot;&quot; srcset=&quot;          https://milk-mustache.com/uploads/resized/posts/recipes/2016-04-29-everybody-loves-jalapeño-pineapple-cornbread/480/DSC_0149.jpg 480w,          https://milk-mustache.com/uploads/resized/posts/recipes/2016-04-29-everybody-loves-jalapeño-pineapple-cornbread/620/DSC_0149.jpg 620w,          https://milk-mustache.com/uploads/resized/posts/recipes/2016-04-29-everybody-loves-jalapeño-pineapple-cornbread/768/DSC_0149.jpg 768w,          https://milk-mustache.com/uploads/resized/posts/recipes/2016-04-29-everybody-loves-jalapeño-pineapple-cornbread/1000/DSC_0149.jpg 1000w,          https://milk-mustache.com/uploads/resized/posts/recipes/2016-04-29-everybody-loves-jalapeño-pineapple-cornbread/1400/DSC_0149.jpg 1400w,          https://milk-mustache.com/uploads/resized/posts/recipes/2016-04-29-everybody-loves-jalapeño-pineapple-cornbread/2000/DSC_0149.jpg 2000w,     https://milk-mustache.com/uploads/posts/recipes/2016-04-29-everybody-loves-jalapeño-pineapple-cornbread/DSC_0149.jpg 6000w&quot; /&gt;
   
   &lt;/a&gt;
   
@@ -456,20 +456,20 @@ Pooh nodded thoughtfully. “It’s the same thing,” he said.”&lt;/p&gt;
 
 &lt;p&gt;Oh cornbread, the only problem now is that you’re gone already — too quickly consumed by cornbread-loving hoards (and me). Time to bake another loaf.&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://milk-mustache.com/recipes/everybody-loves-jalape%C3%B1o-pineapple-cornbread/&quot;&gt;Everybody Loves Jalapeño &amp; Pineapple Cornbread&lt;/a&gt; was originally published by Sarah Quigley at &lt;a href=&quot;http://milk-mustache.com&quot;&gt;Milk Mustache&lt;/a&gt; on April 29, 2016.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;https://milk-mustache.com/recipes/everybody-loves-jalape%C3%B1o-pineapple-cornbread/&quot;&gt;Everybody Loves Jalapeño &amp; Pineapple Cornbread&lt;/a&gt; was originally published by Sarah Quigley at &lt;a href=&quot;https://milk-mustache.com&quot;&gt;Milk Mustache&lt;/a&gt; on April 29, 2016.&lt;/p&gt;
   </content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Thyme for Salad]]></title>
-  <link rel="alternate" type="text/html" href="http://milk-mustache.com/recipes/thyme-for-salad/" />
-  <id>http://milk-mustache.com/recipes/thyme-for-salad</id>
+  <link rel="alternate" type="text/html" href="https://milk-mustache.com/recipes/thyme-for-salad/" />
+  <id>https://milk-mustache.com/recipes/thyme-for-salad</id>
   <published>2014-04-07T00:00:00-04:00</published>
   <updated>2014-04-07T00:00:00-04:00</updated>
   <author>
     <name>Sarah Quigley</name>
-    <uri>http://milk-mustache.com</uri>
+    <uri>https://milk-mustache.com</uri>
     <email>sarah+milk-mustache@sarahquigley.net</email>
   </author>
   <content type="html">
@@ -488,9 +488,9 @@ Pooh nodded thoughtfully. “It’s the same thing,” he said.”&lt;/p&gt;
   
 
   
-  &lt;a class=&quot;image-popup&quot; href=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2014-04-07-thyme-for-salad/2000/20140316_142435.jpg&quot;&gt;
+  &lt;a class=&quot;image-popup&quot; href=&quot;https://milk-mustache.com/uploads/resized/posts/recipes/2014-04-07-thyme-for-salad/2000/20140316_142435.jpg&quot;&gt;
   
-  &lt;img src=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2014-04-07-thyme-for-salad/2000/20140316_142435.jpg&quot; alt=&quot;&quot; srcset=&quot;          http://milk-mustache.com/uploads/resized/posts/recipes/2014-04-07-thyme-for-salad/480/20140316_142435.jpg 480w,          http://milk-mustache.com/uploads/resized/posts/recipes/2014-04-07-thyme-for-salad/620/20140316_142435.jpg 620w,          http://milk-mustache.com/uploads/resized/posts/recipes/2014-04-07-thyme-for-salad/768/20140316_142435.jpg 768w,          http://milk-mustache.com/uploads/resized/posts/recipes/2014-04-07-thyme-for-salad/1000/20140316_142435.jpg 1000w,          http://milk-mustache.com/uploads/resized/posts/recipes/2014-04-07-thyme-for-salad/1400/20140316_142435.jpg 1400w,          http://milk-mustache.com/uploads/resized/posts/recipes/2014-04-07-thyme-for-salad/2000/20140316_142435.jpg 2000w,     http://milk-mustache.com/uploads/posts/recipes/2014-04-07-thyme-for-salad/20140316_142435.jpg 2500w&quot; /&gt;
+  &lt;img src=&quot;https://milk-mustache.com/uploads/resized/posts/recipes/2014-04-07-thyme-for-salad/2000/20140316_142435.jpg&quot; alt=&quot;&quot; srcset=&quot;          https://milk-mustache.com/uploads/resized/posts/recipes/2014-04-07-thyme-for-salad/480/20140316_142435.jpg 480w,          https://milk-mustache.com/uploads/resized/posts/recipes/2014-04-07-thyme-for-salad/620/20140316_142435.jpg 620w,          https://milk-mustache.com/uploads/resized/posts/recipes/2014-04-07-thyme-for-salad/768/20140316_142435.jpg 768w,          https://milk-mustache.com/uploads/resized/posts/recipes/2014-04-07-thyme-for-salad/1000/20140316_142435.jpg 1000w,          https://milk-mustache.com/uploads/resized/posts/recipes/2014-04-07-thyme-for-salad/1400/20140316_142435.jpg 1400w,          https://milk-mustache.com/uploads/resized/posts/recipes/2014-04-07-thyme-for-salad/2000/20140316_142435.jpg 2000w,     https://milk-mustache.com/uploads/posts/recipes/2014-04-07-thyme-for-salad/20140316_142435.jpg 2500w&quot; /&gt;
   
   &lt;/a&gt;
   
@@ -515,9 +515,9 @@ Pooh nodded thoughtfully. “It’s the same thing,” he said.”&lt;/p&gt;
   
 
   
-  &lt;a class=&quot;image-popup&quot; href=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2014-04-07-thyme-for-salad/2000/DSCF4333-2.jpg&quot;&gt;
+  &lt;a class=&quot;image-popup&quot; href=&quot;https://milk-mustache.com/uploads/resized/posts/recipes/2014-04-07-thyme-for-salad/2000/DSCF4333-2.jpg&quot;&gt;
   
-  &lt;img src=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2014-04-07-thyme-for-salad/2000/DSCF4333-2.jpg&quot; alt=&quot;&quot; srcset=&quot;          http://milk-mustache.com/uploads/resized/posts/recipes/2014-04-07-thyme-for-salad/480/DSCF4333-2.jpg 480w,          http://milk-mustache.com/uploads/resized/posts/recipes/2014-04-07-thyme-for-salad/620/DSCF4333-2.jpg 620w,          http://milk-mustache.com/uploads/resized/posts/recipes/2014-04-07-thyme-for-salad/768/DSCF4333-2.jpg 768w,          http://milk-mustache.com/uploads/resized/posts/recipes/2014-04-07-thyme-for-salad/1000/DSCF4333-2.jpg 1000w,          http://milk-mustache.com/uploads/resized/posts/recipes/2014-04-07-thyme-for-salad/1400/DSCF4333-2.jpg 1400w,          http://milk-mustache.com/uploads/resized/posts/recipes/2014-04-07-thyme-for-salad/2000/DSCF4333-2.jpg 2000w,     http://milk-mustache.com/uploads/posts/recipes/2014-04-07-thyme-for-salad/DSCF4333-2.jpg 2500w&quot; /&gt;
+  &lt;img src=&quot;https://milk-mustache.com/uploads/resized/posts/recipes/2014-04-07-thyme-for-salad/2000/DSCF4333-2.jpg&quot; alt=&quot;&quot; srcset=&quot;          https://milk-mustache.com/uploads/resized/posts/recipes/2014-04-07-thyme-for-salad/480/DSCF4333-2.jpg 480w,          https://milk-mustache.com/uploads/resized/posts/recipes/2014-04-07-thyme-for-salad/620/DSCF4333-2.jpg 620w,          https://milk-mustache.com/uploads/resized/posts/recipes/2014-04-07-thyme-for-salad/768/DSCF4333-2.jpg 768w,          https://milk-mustache.com/uploads/resized/posts/recipes/2014-04-07-thyme-for-salad/1000/DSCF4333-2.jpg 1000w,          https://milk-mustache.com/uploads/resized/posts/recipes/2014-04-07-thyme-for-salad/1400/DSCF4333-2.jpg 1400w,          https://milk-mustache.com/uploads/resized/posts/recipes/2014-04-07-thyme-for-salad/2000/DSCF4333-2.jpg 2000w,     https://milk-mustache.com/uploads/posts/recipes/2014-04-07-thyme-for-salad/DSCF4333-2.jpg 2500w&quot; /&gt;
   
   &lt;/a&gt;
   
@@ -531,20 +531,20 @@ Pooh nodded thoughtfully. “It’s the same thing,” he said.”&lt;/p&gt;
 
 &lt;p&gt;Time for salad.&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://milk-mustache.com/recipes/thyme-for-salad/&quot;&gt;Thyme for Salad&lt;/a&gt; was originally published by Sarah Quigley at &lt;a href=&quot;http://milk-mustache.com&quot;&gt;Milk Mustache&lt;/a&gt; on April 07, 2014.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;https://milk-mustache.com/recipes/thyme-for-salad/&quot;&gt;Thyme for Salad&lt;/a&gt; was originally published by Sarah Quigley at &lt;a href=&quot;https://milk-mustache.com&quot;&gt;Milk Mustache&lt;/a&gt; on April 07, 2014.&lt;/p&gt;
   </content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Chocolate Chip Coconut Slices]]></title>
-  <link rel="alternate" type="text/html" href="http://milk-mustache.com/recipes/chocolate-chip-coconut-slices/" />
-  <id>http://milk-mustache.com/recipes/chocolate-chip-coconut-slices</id>
+  <link rel="alternate" type="text/html" href="https://milk-mustache.com/recipes/chocolate-chip-coconut-slices/" />
+  <id>https://milk-mustache.com/recipes/chocolate-chip-coconut-slices</id>
   <published>2013-02-18T00:00:00-05:00</published>
   <updated>2013-02-18T00:00:00-05:00</updated>
   <author>
     <name>Sarah Quigley</name>
-    <uri>http://milk-mustache.com</uri>
+    <uri>https://milk-mustache.com</uri>
     <email>sarah+milk-mustache@sarahquigley.net</email>
   </author>
   <content type="html">
@@ -574,9 +574,9 @@ Assistance — or Applause—&lt;/p&gt;
   
 
   
-  &lt;a class=&quot;image-popup&quot; href=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2013-02-18-chocolate-chip-coconut-slices/2000/DSCF0593.jpg&quot;&gt;
+  &lt;a class=&quot;image-popup&quot; href=&quot;https://milk-mustache.com/uploads/resized/posts/recipes/2013-02-18-chocolate-chip-coconut-slices/2000/DSCF0593.jpg&quot;&gt;
   
-  &lt;img src=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2013-02-18-chocolate-chip-coconut-slices/2000/DSCF0593.jpg&quot; alt=&quot;&quot; srcset=&quot;          http://milk-mustache.com/uploads/resized/posts/recipes/2013-02-18-chocolate-chip-coconut-slices/480/DSCF0593.jpg 480w,          http://milk-mustache.com/uploads/resized/posts/recipes/2013-02-18-chocolate-chip-coconut-slices/620/DSCF0593.jpg 620w,          http://milk-mustache.com/uploads/resized/posts/recipes/2013-02-18-chocolate-chip-coconut-slices/768/DSCF0593.jpg 768w,          http://milk-mustache.com/uploads/resized/posts/recipes/2013-02-18-chocolate-chip-coconut-slices/1000/DSCF0593.jpg 1000w,          http://milk-mustache.com/uploads/resized/posts/recipes/2013-02-18-chocolate-chip-coconut-slices/1400/DSCF0593.jpg 1400w,          http://milk-mustache.com/uploads/resized/posts/recipes/2013-02-18-chocolate-chip-coconut-slices/2000/DSCF0593.jpg 2000w,     http://milk-mustache.com/uploads/posts/recipes/2013-02-18-chocolate-chip-coconut-slices/DSCF0593.jpg 2500w&quot; /&gt;
+  &lt;img src=&quot;https://milk-mustache.com/uploads/resized/posts/recipes/2013-02-18-chocolate-chip-coconut-slices/2000/DSCF0593.jpg&quot; alt=&quot;&quot; srcset=&quot;          https://milk-mustache.com/uploads/resized/posts/recipes/2013-02-18-chocolate-chip-coconut-slices/480/DSCF0593.jpg 480w,          https://milk-mustache.com/uploads/resized/posts/recipes/2013-02-18-chocolate-chip-coconut-slices/620/DSCF0593.jpg 620w,          https://milk-mustache.com/uploads/resized/posts/recipes/2013-02-18-chocolate-chip-coconut-slices/768/DSCF0593.jpg 768w,          https://milk-mustache.com/uploads/resized/posts/recipes/2013-02-18-chocolate-chip-coconut-slices/1000/DSCF0593.jpg 1000w,          https://milk-mustache.com/uploads/resized/posts/recipes/2013-02-18-chocolate-chip-coconut-slices/1400/DSCF0593.jpg 1400w,          https://milk-mustache.com/uploads/resized/posts/recipes/2013-02-18-chocolate-chip-coconut-slices/2000/DSCF0593.jpg 2000w,     https://milk-mustache.com/uploads/posts/recipes/2013-02-18-chocolate-chip-coconut-slices/DSCF0593.jpg 2500w&quot; /&gt;
   
   &lt;/a&gt;
   
@@ -611,9 +611,9 @@ Assistance — or Applause—&lt;/p&gt;
   
 
   
-  &lt;a class=&quot;image-popup&quot; href=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2013-02-18-chocolate-chip-coconut-slices/2000/DSCF0590.jpg&quot;&gt;
+  &lt;a class=&quot;image-popup&quot; href=&quot;https://milk-mustache.com/uploads/resized/posts/recipes/2013-02-18-chocolate-chip-coconut-slices/2000/DSCF0590.jpg&quot;&gt;
   
-  &lt;img src=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2013-02-18-chocolate-chip-coconut-slices/2000/DSCF0590.jpg&quot; alt=&quot;&quot; srcset=&quot;          http://milk-mustache.com/uploads/resized/posts/recipes/2013-02-18-chocolate-chip-coconut-slices/480/DSCF0590.jpg 480w,          http://milk-mustache.com/uploads/resized/posts/recipes/2013-02-18-chocolate-chip-coconut-slices/620/DSCF0590.jpg 620w,          http://milk-mustache.com/uploads/resized/posts/recipes/2013-02-18-chocolate-chip-coconut-slices/768/DSCF0590.jpg 768w,          http://milk-mustache.com/uploads/resized/posts/recipes/2013-02-18-chocolate-chip-coconut-slices/1000/DSCF0590.jpg 1000w,          http://milk-mustache.com/uploads/resized/posts/recipes/2013-02-18-chocolate-chip-coconut-slices/1400/DSCF0590.jpg 1400w,          http://milk-mustache.com/uploads/resized/posts/recipes/2013-02-18-chocolate-chip-coconut-slices/2000/DSCF0590.jpg 2000w,     http://milk-mustache.com/uploads/posts/recipes/2013-02-18-chocolate-chip-coconut-slices/DSCF0590.jpg 2500w&quot; /&gt;
+  &lt;img src=&quot;https://milk-mustache.com/uploads/resized/posts/recipes/2013-02-18-chocolate-chip-coconut-slices/2000/DSCF0590.jpg&quot; alt=&quot;&quot; srcset=&quot;          https://milk-mustache.com/uploads/resized/posts/recipes/2013-02-18-chocolate-chip-coconut-slices/480/DSCF0590.jpg 480w,          https://milk-mustache.com/uploads/resized/posts/recipes/2013-02-18-chocolate-chip-coconut-slices/620/DSCF0590.jpg 620w,          https://milk-mustache.com/uploads/resized/posts/recipes/2013-02-18-chocolate-chip-coconut-slices/768/DSCF0590.jpg 768w,          https://milk-mustache.com/uploads/resized/posts/recipes/2013-02-18-chocolate-chip-coconut-slices/1000/DSCF0590.jpg 1000w,          https://milk-mustache.com/uploads/resized/posts/recipes/2013-02-18-chocolate-chip-coconut-slices/1400/DSCF0590.jpg 1400w,          https://milk-mustache.com/uploads/resized/posts/recipes/2013-02-18-chocolate-chip-coconut-slices/2000/DSCF0590.jpg 2000w,     https://milk-mustache.com/uploads/posts/recipes/2013-02-18-chocolate-chip-coconut-slices/DSCF0590.jpg 2500w&quot; /&gt;
   
   &lt;/a&gt;
   
@@ -630,9 +630,9 @@ Assistance — or Applause—&lt;/p&gt;
   
 
   
-  &lt;a class=&quot;image-popup&quot; href=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2013-02-18-chocolate-chip-coconut-slices/2000/DSCF0602.jpg&quot;&gt;
+  &lt;a class=&quot;image-popup&quot; href=&quot;https://milk-mustache.com/uploads/resized/posts/recipes/2013-02-18-chocolate-chip-coconut-slices/2000/DSCF0602.jpg&quot;&gt;
   
-  &lt;img src=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2013-02-18-chocolate-chip-coconut-slices/2000/DSCF0602.jpg&quot; alt=&quot;&quot; srcset=&quot;          http://milk-mustache.com/uploads/resized/posts/recipes/2013-02-18-chocolate-chip-coconut-slices/480/DSCF0602.jpg 480w,          http://milk-mustache.com/uploads/resized/posts/recipes/2013-02-18-chocolate-chip-coconut-slices/620/DSCF0602.jpg 620w,          http://milk-mustache.com/uploads/resized/posts/recipes/2013-02-18-chocolate-chip-coconut-slices/768/DSCF0602.jpg 768w,          http://milk-mustache.com/uploads/resized/posts/recipes/2013-02-18-chocolate-chip-coconut-slices/1000/DSCF0602.jpg 1000w,          http://milk-mustache.com/uploads/resized/posts/recipes/2013-02-18-chocolate-chip-coconut-slices/1400/DSCF0602.jpg 1400w,          http://milk-mustache.com/uploads/resized/posts/recipes/2013-02-18-chocolate-chip-coconut-slices/2000/DSCF0602.jpg 2000w,     http://milk-mustache.com/uploads/posts/recipes/2013-02-18-chocolate-chip-coconut-slices/DSCF0602.jpg 2500w&quot; /&gt;
+  &lt;img src=&quot;https://milk-mustache.com/uploads/resized/posts/recipes/2013-02-18-chocolate-chip-coconut-slices/2000/DSCF0602.jpg&quot; alt=&quot;&quot; srcset=&quot;          https://milk-mustache.com/uploads/resized/posts/recipes/2013-02-18-chocolate-chip-coconut-slices/480/DSCF0602.jpg 480w,          https://milk-mustache.com/uploads/resized/posts/recipes/2013-02-18-chocolate-chip-coconut-slices/620/DSCF0602.jpg 620w,          https://milk-mustache.com/uploads/resized/posts/recipes/2013-02-18-chocolate-chip-coconut-slices/768/DSCF0602.jpg 768w,          https://milk-mustache.com/uploads/resized/posts/recipes/2013-02-18-chocolate-chip-coconut-slices/1000/DSCF0602.jpg 1000w,          https://milk-mustache.com/uploads/resized/posts/recipes/2013-02-18-chocolate-chip-coconut-slices/1400/DSCF0602.jpg 1400w,          https://milk-mustache.com/uploads/resized/posts/recipes/2013-02-18-chocolate-chip-coconut-slices/2000/DSCF0602.jpg 2000w,     https://milk-mustache.com/uploads/posts/recipes/2013-02-18-chocolate-chip-coconut-slices/DSCF0602.jpg 2500w&quot; /&gt;
   
   &lt;/a&gt;
   
@@ -644,20 +644,20 @@ Assistance — or Applause—&lt;/p&gt;
 
 &lt;p&gt;Sooner or later, some future Sarah will move on to a new life somewhere else with different colours and a different cadence. When she remembers Vancouver, I think she’ll think of the mountains, their silent strength a backdrop for the sci-fi towers of downtown, which glisten like icicles in the winter sun. Old gods make their homes in mountains. New gods make their homes in towers. Old gods meet new on the streets of Vancouver.&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://milk-mustache.com/recipes/chocolate-chip-coconut-slices/&quot;&gt;Chocolate Chip Coconut Slices&lt;/a&gt; was originally published by Sarah Quigley at &lt;a href=&quot;http://milk-mustache.com&quot;&gt;Milk Mustache&lt;/a&gt; on February 18, 2013.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;https://milk-mustache.com/recipes/chocolate-chip-coconut-slices/&quot;&gt;Chocolate Chip Coconut Slices&lt;/a&gt; was originally published by Sarah Quigley at &lt;a href=&quot;https://milk-mustache.com&quot;&gt;Milk Mustache&lt;/a&gt; on February 18, 2013.&lt;/p&gt;
   </content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Let's Make Brownies]]></title>
-  <link rel="alternate" type="text/html" href="http://milk-mustache.com/recipes/let-s-make-brownies/" />
-  <id>http://milk-mustache.com/recipes/let-s-make-brownies</id>
+  <link rel="alternate" type="text/html" href="https://milk-mustache.com/recipes/let-s-make-brownies/" />
+  <id>https://milk-mustache.com/recipes/let-s-make-brownies</id>
   <published>2013-01-26T00:00:00-05:00</published>
   <updated>2013-01-26T00:00:00-05:00</updated>
   <author>
     <name>Sarah Quigley</name>
-    <uri>http://milk-mustache.com</uri>
+    <uri>https://milk-mustache.com</uri>
     <email>sarah+milk-mustache@sarahquigley.net</email>
   </author>
   <content type="html">
@@ -680,9 +680,9 @@ Assistance — or Applause—&lt;/p&gt;
   
 
   
-  &lt;a class=&quot;image-popup&quot; href=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2013-01-26-let-s-make-brownies/2000/DSCF0299.jpg&quot;&gt;
+  &lt;a class=&quot;image-popup&quot; href=&quot;https://milk-mustache.com/uploads/resized/posts/recipes/2013-01-26-let-s-make-brownies/2000/DSCF0299.jpg&quot;&gt;
   
-  &lt;img src=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2013-01-26-let-s-make-brownies/2000/DSCF0299.jpg&quot; alt=&quot;&quot; srcset=&quot;          http://milk-mustache.com/uploads/resized/posts/recipes/2013-01-26-let-s-make-brownies/480/DSCF0299.jpg 480w,          http://milk-mustache.com/uploads/resized/posts/recipes/2013-01-26-let-s-make-brownies/620/DSCF0299.jpg 620w,          http://milk-mustache.com/uploads/resized/posts/recipes/2013-01-26-let-s-make-brownies/768/DSCF0299.jpg 768w,          http://milk-mustache.com/uploads/resized/posts/recipes/2013-01-26-let-s-make-brownies/1000/DSCF0299.jpg 1000w,          http://milk-mustache.com/uploads/resized/posts/recipes/2013-01-26-let-s-make-brownies/1400/DSCF0299.jpg 1400w,          http://milk-mustache.com/uploads/resized/posts/recipes/2013-01-26-let-s-make-brownies/2000/DSCF0299.jpg 2000w,     http://milk-mustache.com/uploads/posts/recipes/2013-01-26-let-s-make-brownies/DSCF0299.jpg 2500w&quot; /&gt;
+  &lt;img src=&quot;https://milk-mustache.com/uploads/resized/posts/recipes/2013-01-26-let-s-make-brownies/2000/DSCF0299.jpg&quot; alt=&quot;&quot; srcset=&quot;          https://milk-mustache.com/uploads/resized/posts/recipes/2013-01-26-let-s-make-brownies/480/DSCF0299.jpg 480w,          https://milk-mustache.com/uploads/resized/posts/recipes/2013-01-26-let-s-make-brownies/620/DSCF0299.jpg 620w,          https://milk-mustache.com/uploads/resized/posts/recipes/2013-01-26-let-s-make-brownies/768/DSCF0299.jpg 768w,          https://milk-mustache.com/uploads/resized/posts/recipes/2013-01-26-let-s-make-brownies/1000/DSCF0299.jpg 1000w,          https://milk-mustache.com/uploads/resized/posts/recipes/2013-01-26-let-s-make-brownies/1400/DSCF0299.jpg 1400w,          https://milk-mustache.com/uploads/resized/posts/recipes/2013-01-26-let-s-make-brownies/2000/DSCF0299.jpg 2000w,     https://milk-mustache.com/uploads/posts/recipes/2013-01-26-let-s-make-brownies/DSCF0299.jpg 2500w&quot; /&gt;
   
   &lt;/a&gt;
   
@@ -707,9 +707,9 @@ Assistance — or Applause—&lt;/p&gt;
   
 
   
-  &lt;a class=&quot;image-popup&quot; href=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2013-01-26-let-s-make-brownies/2000/DSCF0288.jpg&quot;&gt;
+  &lt;a class=&quot;image-popup&quot; href=&quot;https://milk-mustache.com/uploads/resized/posts/recipes/2013-01-26-let-s-make-brownies/2000/DSCF0288.jpg&quot;&gt;
   
-  &lt;img src=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2013-01-26-let-s-make-brownies/2000/DSCF0288.jpg&quot; alt=&quot;&quot; srcset=&quot;          http://milk-mustache.com/uploads/resized/posts/recipes/2013-01-26-let-s-make-brownies/480/DSCF0288.jpg 480w,          http://milk-mustache.com/uploads/resized/posts/recipes/2013-01-26-let-s-make-brownies/620/DSCF0288.jpg 620w,          http://milk-mustache.com/uploads/resized/posts/recipes/2013-01-26-let-s-make-brownies/768/DSCF0288.jpg 768w,          http://milk-mustache.com/uploads/resized/posts/recipes/2013-01-26-let-s-make-brownies/1000/DSCF0288.jpg 1000w,          http://milk-mustache.com/uploads/resized/posts/recipes/2013-01-26-let-s-make-brownies/1400/DSCF0288.jpg 1400w,          http://milk-mustache.com/uploads/resized/posts/recipes/2013-01-26-let-s-make-brownies/2000/DSCF0288.jpg 2000w,     http://milk-mustache.com/uploads/posts/recipes/2013-01-26-let-s-make-brownies/DSCF0288.jpg 2500w&quot; /&gt;
+  &lt;img src=&quot;https://milk-mustache.com/uploads/resized/posts/recipes/2013-01-26-let-s-make-brownies/2000/DSCF0288.jpg&quot; alt=&quot;&quot; srcset=&quot;          https://milk-mustache.com/uploads/resized/posts/recipes/2013-01-26-let-s-make-brownies/480/DSCF0288.jpg 480w,          https://milk-mustache.com/uploads/resized/posts/recipes/2013-01-26-let-s-make-brownies/620/DSCF0288.jpg 620w,          https://milk-mustache.com/uploads/resized/posts/recipes/2013-01-26-let-s-make-brownies/768/DSCF0288.jpg 768w,          https://milk-mustache.com/uploads/resized/posts/recipes/2013-01-26-let-s-make-brownies/1000/DSCF0288.jpg 1000w,          https://milk-mustache.com/uploads/resized/posts/recipes/2013-01-26-let-s-make-brownies/1400/DSCF0288.jpg 1400w,          https://milk-mustache.com/uploads/resized/posts/recipes/2013-01-26-let-s-make-brownies/2000/DSCF0288.jpg 2000w,     https://milk-mustache.com/uploads/posts/recipes/2013-01-26-let-s-make-brownies/DSCF0288.jpg 2500w&quot; /&gt;
   
   &lt;/a&gt;
   
@@ -732,9 +732,9 @@ Assistance — or Applause—&lt;/p&gt;
   
 
   
-  &lt;a class=&quot;image-popup&quot; href=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2013-01-26-let-s-make-brownies/2000/DSCF0243.jpg&quot;&gt;
+  &lt;a class=&quot;image-popup&quot; href=&quot;https://milk-mustache.com/uploads/resized/posts/recipes/2013-01-26-let-s-make-brownies/2000/DSCF0243.jpg&quot;&gt;
   
-  &lt;img src=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2013-01-26-let-s-make-brownies/2000/DSCF0243.jpg&quot; alt=&quot;&quot; srcset=&quot;          http://milk-mustache.com/uploads/resized/posts/recipes/2013-01-26-let-s-make-brownies/480/DSCF0243.jpg 480w,          http://milk-mustache.com/uploads/resized/posts/recipes/2013-01-26-let-s-make-brownies/620/DSCF0243.jpg 620w,          http://milk-mustache.com/uploads/resized/posts/recipes/2013-01-26-let-s-make-brownies/768/DSCF0243.jpg 768w,          http://milk-mustache.com/uploads/resized/posts/recipes/2013-01-26-let-s-make-brownies/1000/DSCF0243.jpg 1000w,          http://milk-mustache.com/uploads/resized/posts/recipes/2013-01-26-let-s-make-brownies/1400/DSCF0243.jpg 1400w,          http://milk-mustache.com/uploads/resized/posts/recipes/2013-01-26-let-s-make-brownies/2000/DSCF0243.jpg 2000w,     http://milk-mustache.com/uploads/posts/recipes/2013-01-26-let-s-make-brownies/DSCF0243.jpg 2500w&quot; /&gt;
+  &lt;img src=&quot;https://milk-mustache.com/uploads/resized/posts/recipes/2013-01-26-let-s-make-brownies/2000/DSCF0243.jpg&quot; alt=&quot;&quot; srcset=&quot;          https://milk-mustache.com/uploads/resized/posts/recipes/2013-01-26-let-s-make-brownies/480/DSCF0243.jpg 480w,          https://milk-mustache.com/uploads/resized/posts/recipes/2013-01-26-let-s-make-brownies/620/DSCF0243.jpg 620w,          https://milk-mustache.com/uploads/resized/posts/recipes/2013-01-26-let-s-make-brownies/768/DSCF0243.jpg 768w,          https://milk-mustache.com/uploads/resized/posts/recipes/2013-01-26-let-s-make-brownies/1000/DSCF0243.jpg 1000w,          https://milk-mustache.com/uploads/resized/posts/recipes/2013-01-26-let-s-make-brownies/1400/DSCF0243.jpg 1400w,          https://milk-mustache.com/uploads/resized/posts/recipes/2013-01-26-let-s-make-brownies/2000/DSCF0243.jpg 2000w,     https://milk-mustache.com/uploads/posts/recipes/2013-01-26-let-s-make-brownies/DSCF0243.jpg 2500w&quot; /&gt;
   
   &lt;/a&gt;
   
@@ -751,9 +751,9 @@ Assistance — or Applause—&lt;/p&gt;
   
 
   
-  &lt;a class=&quot;image-popup&quot; href=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2013-01-26-let-s-make-brownies/2000/DSCF0282.jpg&quot;&gt;
+  &lt;a class=&quot;image-popup&quot; href=&quot;https://milk-mustache.com/uploads/resized/posts/recipes/2013-01-26-let-s-make-brownies/2000/DSCF0282.jpg&quot;&gt;
   
-  &lt;img src=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2013-01-26-let-s-make-brownies/2000/DSCF0282.jpg&quot; alt=&quot;&quot; srcset=&quot;          http://milk-mustache.com/uploads/resized/posts/recipes/2013-01-26-let-s-make-brownies/480/DSCF0282.jpg 480w,          http://milk-mustache.com/uploads/resized/posts/recipes/2013-01-26-let-s-make-brownies/620/DSCF0282.jpg 620w,          http://milk-mustache.com/uploads/resized/posts/recipes/2013-01-26-let-s-make-brownies/768/DSCF0282.jpg 768w,          http://milk-mustache.com/uploads/resized/posts/recipes/2013-01-26-let-s-make-brownies/1000/DSCF0282.jpg 1000w,          http://milk-mustache.com/uploads/resized/posts/recipes/2013-01-26-let-s-make-brownies/1400/DSCF0282.jpg 1400w,          http://milk-mustache.com/uploads/resized/posts/recipes/2013-01-26-let-s-make-brownies/2000/DSCF0282.jpg 2000w,     http://milk-mustache.com/uploads/posts/recipes/2013-01-26-let-s-make-brownies/DSCF0282.jpg 2500w&quot; /&gt;
+  &lt;img src=&quot;https://milk-mustache.com/uploads/resized/posts/recipes/2013-01-26-let-s-make-brownies/2000/DSCF0282.jpg&quot; alt=&quot;&quot; srcset=&quot;          https://milk-mustache.com/uploads/resized/posts/recipes/2013-01-26-let-s-make-brownies/480/DSCF0282.jpg 480w,          https://milk-mustache.com/uploads/resized/posts/recipes/2013-01-26-let-s-make-brownies/620/DSCF0282.jpg 620w,          https://milk-mustache.com/uploads/resized/posts/recipes/2013-01-26-let-s-make-brownies/768/DSCF0282.jpg 768w,          https://milk-mustache.com/uploads/resized/posts/recipes/2013-01-26-let-s-make-brownies/1000/DSCF0282.jpg 1000w,          https://milk-mustache.com/uploads/resized/posts/recipes/2013-01-26-let-s-make-brownies/1400/DSCF0282.jpg 1400w,          https://milk-mustache.com/uploads/resized/posts/recipes/2013-01-26-let-s-make-brownies/2000/DSCF0282.jpg 2000w,     https://milk-mustache.com/uploads/posts/recipes/2013-01-26-let-s-make-brownies/DSCF0282.jpg 2500w&quot; /&gt;
   
   &lt;/a&gt;
   
@@ -778,9 +778,9 @@ Assistance — or Applause—&lt;/p&gt;
   
 
   
-  &lt;a class=&quot;image-popup&quot; href=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2013-01-26-let-s-make-brownies/2000/DSCF0314.jpg&quot;&gt;
+  &lt;a class=&quot;image-popup&quot; href=&quot;https://milk-mustache.com/uploads/resized/posts/recipes/2013-01-26-let-s-make-brownies/2000/DSCF0314.jpg&quot;&gt;
   
-  &lt;img src=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2013-01-26-let-s-make-brownies/2000/DSCF0314.jpg&quot; alt=&quot;&quot; srcset=&quot;          http://milk-mustache.com/uploads/resized/posts/recipes/2013-01-26-let-s-make-brownies/480/DSCF0314.jpg 480w,          http://milk-mustache.com/uploads/resized/posts/recipes/2013-01-26-let-s-make-brownies/620/DSCF0314.jpg 620w,          http://milk-mustache.com/uploads/resized/posts/recipes/2013-01-26-let-s-make-brownies/768/DSCF0314.jpg 768w,          http://milk-mustache.com/uploads/resized/posts/recipes/2013-01-26-let-s-make-brownies/1000/DSCF0314.jpg 1000w,          http://milk-mustache.com/uploads/resized/posts/recipes/2013-01-26-let-s-make-brownies/1400/DSCF0314.jpg 1400w,          http://milk-mustache.com/uploads/resized/posts/recipes/2013-01-26-let-s-make-brownies/2000/DSCF0314.jpg 2000w,     http://milk-mustache.com/uploads/posts/recipes/2013-01-26-let-s-make-brownies/DSCF0314.jpg 2500w&quot; /&gt;
+  &lt;img src=&quot;https://milk-mustache.com/uploads/resized/posts/recipes/2013-01-26-let-s-make-brownies/2000/DSCF0314.jpg&quot; alt=&quot;&quot; srcset=&quot;          https://milk-mustache.com/uploads/resized/posts/recipes/2013-01-26-let-s-make-brownies/480/DSCF0314.jpg 480w,          https://milk-mustache.com/uploads/resized/posts/recipes/2013-01-26-let-s-make-brownies/620/DSCF0314.jpg 620w,          https://milk-mustache.com/uploads/resized/posts/recipes/2013-01-26-let-s-make-brownies/768/DSCF0314.jpg 768w,          https://milk-mustache.com/uploads/resized/posts/recipes/2013-01-26-let-s-make-brownies/1000/DSCF0314.jpg 1000w,          https://milk-mustache.com/uploads/resized/posts/recipes/2013-01-26-let-s-make-brownies/1400/DSCF0314.jpg 1400w,          https://milk-mustache.com/uploads/resized/posts/recipes/2013-01-26-let-s-make-brownies/2000/DSCF0314.jpg 2000w,     https://milk-mustache.com/uploads/posts/recipes/2013-01-26-let-s-make-brownies/DSCF0314.jpg 2500w&quot; /&gt;
   
   &lt;/a&gt;
   
@@ -792,20 +792,20 @@ Assistance — or Applause—&lt;/p&gt;
 
 &lt;p&gt;Join me on this dim grey frigid day; or if you can’t face the wet or the rain, if your cat’s caught a cold, and you have too, invite me around,  I’ll bring the baking supplies. Let’s make brownies. Here’s a recipe. It’s a good one, simple too. Let’s do it.&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://milk-mustache.com/recipes/let-s-make-brownies/&quot;&gt;Let's Make Brownies&lt;/a&gt; was originally published by Sarah Quigley at &lt;a href=&quot;http://milk-mustache.com&quot;&gt;Milk Mustache&lt;/a&gt; on January 26, 2013.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;https://milk-mustache.com/recipes/let-s-make-brownies/&quot;&gt;Let's Make Brownies&lt;/a&gt; was originally published by Sarah Quigley at &lt;a href=&quot;https://milk-mustache.com&quot;&gt;Milk Mustache&lt;/a&gt; on January 26, 2013.&lt;/p&gt;
   </content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Apricots in Winter Coats]]></title>
-  <link rel="alternate" type="text/html" href="http://milk-mustache.com/recipes/apricots-in-winter-coats/" />
-  <id>http://milk-mustache.com/recipes/apricots-in-winter-coats</id>
+  <link rel="alternate" type="text/html" href="https://milk-mustache.com/recipes/apricots-in-winter-coats/" />
+  <id>https://milk-mustache.com/recipes/apricots-in-winter-coats</id>
   <published>2012-11-08T00:00:00-05:00</published>
   <updated>2012-11-08T00:00:00-05:00</updated>
   <author>
     <name>Sarah Quigley</name>
-    <uri>http://milk-mustache.com</uri>
+    <uri>https://milk-mustache.com</uri>
     <email>sarah+milk-mustache@sarahquigley.net</email>
   </author>
   <content type="html">
@@ -833,9 +833,9 @@ and desert simooms and lust.&lt;/p&gt;
   
 
   
-  &lt;a class=&quot;image-popup&quot; href=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2012-11-08-apricots-in-winter-coats/2000/DSCN1242.jpg&quot;&gt;
+  &lt;a class=&quot;image-popup&quot; href=&quot;https://milk-mustache.com/uploads/resized/posts/recipes/2012-11-08-apricots-in-winter-coats/2000/DSCN1242.jpg&quot;&gt;
   
-  &lt;img src=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2012-11-08-apricots-in-winter-coats/2000/DSCN1242.jpg&quot; alt=&quot;&quot; srcset=&quot;          http://milk-mustache.com/uploads/resized/posts/recipes/2012-11-08-apricots-in-winter-coats/480/DSCN1242.jpg 480w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-11-08-apricots-in-winter-coats/620/DSCN1242.jpg 620w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-11-08-apricots-in-winter-coats/768/DSCN1242.jpg 768w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-11-08-apricots-in-winter-coats/1000/DSCN1242.jpg 1000w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-11-08-apricots-in-winter-coats/1400/DSCN1242.jpg 1400w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-11-08-apricots-in-winter-coats/2000/DSCN1242.jpg 2000w,     http://milk-mustache.com/uploads/posts/recipes/2012-11-08-apricots-in-winter-coats/DSCN1242.jpg 2500w&quot; /&gt;
+  &lt;img src=&quot;https://milk-mustache.com/uploads/resized/posts/recipes/2012-11-08-apricots-in-winter-coats/2000/DSCN1242.jpg&quot; alt=&quot;&quot; srcset=&quot;          https://milk-mustache.com/uploads/resized/posts/recipes/2012-11-08-apricots-in-winter-coats/480/DSCN1242.jpg 480w,          https://milk-mustache.com/uploads/resized/posts/recipes/2012-11-08-apricots-in-winter-coats/620/DSCN1242.jpg 620w,          https://milk-mustache.com/uploads/resized/posts/recipes/2012-11-08-apricots-in-winter-coats/768/DSCN1242.jpg 768w,          https://milk-mustache.com/uploads/resized/posts/recipes/2012-11-08-apricots-in-winter-coats/1000/DSCN1242.jpg 1000w,          https://milk-mustache.com/uploads/resized/posts/recipes/2012-11-08-apricots-in-winter-coats/1400/DSCN1242.jpg 1400w,          https://milk-mustache.com/uploads/resized/posts/recipes/2012-11-08-apricots-in-winter-coats/2000/DSCN1242.jpg 2000w,     https://milk-mustache.com/uploads/posts/recipes/2012-11-08-apricots-in-winter-coats/DSCN1242.jpg 2500w&quot; /&gt;
   
   &lt;/a&gt;
   
@@ -858,9 +858,9 @@ and desert simooms and lust.&lt;/p&gt;
   
 
   
-  &lt;a class=&quot;image-popup&quot; href=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2012-11-08-apricots-in-winter-coats/2000/DSCN1254.jpg&quot;&gt;
+  &lt;a class=&quot;image-popup&quot; href=&quot;https://milk-mustache.com/uploads/resized/posts/recipes/2012-11-08-apricots-in-winter-coats/2000/DSCN1254.jpg&quot;&gt;
   
-  &lt;img src=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2012-11-08-apricots-in-winter-coats/2000/DSCN1254.jpg&quot; alt=&quot;&quot; srcset=&quot;          http://milk-mustache.com/uploads/resized/posts/recipes/2012-11-08-apricots-in-winter-coats/480/DSCN1254.jpg 480w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-11-08-apricots-in-winter-coats/620/DSCN1254.jpg 620w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-11-08-apricots-in-winter-coats/768/DSCN1254.jpg 768w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-11-08-apricots-in-winter-coats/1000/DSCN1254.jpg 1000w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-11-08-apricots-in-winter-coats/1400/DSCN1254.jpg 1400w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-11-08-apricots-in-winter-coats/2000/DSCN1254.jpg 2000w,     http://milk-mustache.com/uploads/posts/recipes/2012-11-08-apricots-in-winter-coats/DSCN1254.jpg 2500w&quot; /&gt;
+  &lt;img src=&quot;https://milk-mustache.com/uploads/resized/posts/recipes/2012-11-08-apricots-in-winter-coats/2000/DSCN1254.jpg&quot; alt=&quot;&quot; srcset=&quot;          https://milk-mustache.com/uploads/resized/posts/recipes/2012-11-08-apricots-in-winter-coats/480/DSCN1254.jpg 480w,          https://milk-mustache.com/uploads/resized/posts/recipes/2012-11-08-apricots-in-winter-coats/620/DSCN1254.jpg 620w,          https://milk-mustache.com/uploads/resized/posts/recipes/2012-11-08-apricots-in-winter-coats/768/DSCN1254.jpg 768w,          https://milk-mustache.com/uploads/resized/posts/recipes/2012-11-08-apricots-in-winter-coats/1000/DSCN1254.jpg 1000w,          https://milk-mustache.com/uploads/resized/posts/recipes/2012-11-08-apricots-in-winter-coats/1400/DSCN1254.jpg 1400w,          https://milk-mustache.com/uploads/resized/posts/recipes/2012-11-08-apricots-in-winter-coats/2000/DSCN1254.jpg 2000w,     https://milk-mustache.com/uploads/posts/recipes/2012-11-08-apricots-in-winter-coats/DSCN1254.jpg 2500w&quot; /&gt;
   
   &lt;/a&gt;
   
@@ -877,9 +877,9 @@ and desert simooms and lust.&lt;/p&gt;
   
 
   
-  &lt;a class=&quot;image-popup&quot; href=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2012-11-08-apricots-in-winter-coats/2000/DSCN1268.jpg&quot;&gt;
+  &lt;a class=&quot;image-popup&quot; href=&quot;https://milk-mustache.com/uploads/resized/posts/recipes/2012-11-08-apricots-in-winter-coats/2000/DSCN1268.jpg&quot;&gt;
   
-  &lt;img src=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2012-11-08-apricots-in-winter-coats/2000/DSCN1268.jpg&quot; alt=&quot;&quot; srcset=&quot;          http://milk-mustache.com/uploads/resized/posts/recipes/2012-11-08-apricots-in-winter-coats/480/DSCN1268.jpg 480w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-11-08-apricots-in-winter-coats/620/DSCN1268.jpg 620w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-11-08-apricots-in-winter-coats/768/DSCN1268.jpg 768w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-11-08-apricots-in-winter-coats/1000/DSCN1268.jpg 1000w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-11-08-apricots-in-winter-coats/1400/DSCN1268.jpg 1400w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-11-08-apricots-in-winter-coats/2000/DSCN1268.jpg 2000w,     http://milk-mustache.com/uploads/posts/recipes/2012-11-08-apricots-in-winter-coats/DSCN1268.jpg 2500w&quot; /&gt;
+  &lt;img src=&quot;https://milk-mustache.com/uploads/resized/posts/recipes/2012-11-08-apricots-in-winter-coats/2000/DSCN1268.jpg&quot; alt=&quot;&quot; srcset=&quot;          https://milk-mustache.com/uploads/resized/posts/recipes/2012-11-08-apricots-in-winter-coats/480/DSCN1268.jpg 480w,          https://milk-mustache.com/uploads/resized/posts/recipes/2012-11-08-apricots-in-winter-coats/620/DSCN1268.jpg 620w,          https://milk-mustache.com/uploads/resized/posts/recipes/2012-11-08-apricots-in-winter-coats/768/DSCN1268.jpg 768w,          https://milk-mustache.com/uploads/resized/posts/recipes/2012-11-08-apricots-in-winter-coats/1000/DSCN1268.jpg 1000w,          https://milk-mustache.com/uploads/resized/posts/recipes/2012-11-08-apricots-in-winter-coats/1400/DSCN1268.jpg 1400w,          https://milk-mustache.com/uploads/resized/posts/recipes/2012-11-08-apricots-in-winter-coats/2000/DSCN1268.jpg 2000w,     https://milk-mustache.com/uploads/posts/recipes/2012-11-08-apricots-in-winter-coats/DSCN1268.jpg 2500w&quot; /&gt;
   
   &lt;/a&gt;
   
@@ -900,20 +900,20 @@ to offset the savage wistfulness of early spring?&lt;/p&gt;
 
 &lt;p&gt;Rumptious knows other joys, cat pleasures that I can’t truly know - the thrill of stalking shadows in the night, of creeping between streetlights, the dark lust of the hunt. Still I feel a pang of regret for Rumptious, with his cat’s tongue, blind to the subtle sweet joy of apricots… Because if there’s a time for a taste of blushing summer sun, it’s in these darkening Irish days at the close of autumn, when daylight disappears to a few short damp and dreary hours. If apricots in spring are sweet, then the apricots in November, as winter digs its heals in, are sweeter still.&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://milk-mustache.com/recipes/apricots-in-winter-coats/&quot;&gt;Apricots in Winter Coats&lt;/a&gt; was originally published by Sarah Quigley at &lt;a href=&quot;http://milk-mustache.com&quot;&gt;Milk Mustache&lt;/a&gt; on November 08, 2012.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;https://milk-mustache.com/recipes/apricots-in-winter-coats/&quot;&gt;Apricots in Winter Coats&lt;/a&gt; was originally published by Sarah Quigley at &lt;a href=&quot;https://milk-mustache.com&quot;&gt;Milk Mustache&lt;/a&gt; on November 08, 2012.&lt;/p&gt;
   </content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[I Dream of Oranges and Avocados]]></title>
-  <link rel="alternate" type="text/html" href="http://milk-mustache.com/recipes/i-dream-of-oranges-and-avocados/" />
-  <id>http://milk-mustache.com/recipes/i-dream-of-oranges-and-avocados</id>
+  <link rel="alternate" type="text/html" href="https://milk-mustache.com/recipes/i-dream-of-oranges-and-avocados/" />
+  <id>https://milk-mustache.com/recipes/i-dream-of-oranges-and-avocados</id>
   <published>2012-10-13T00:00:00-04:00</published>
   <updated>2012-10-13T00:00:00-04:00</updated>
   <author>
     <name>Sarah Quigley</name>
-    <uri>http://milk-mustache.com</uri>
+    <uri>https://milk-mustache.com</uri>
     <email>sarah+milk-mustache@sarahquigley.net</email>
   </author>
   <content type="html">
@@ -932,9 +932,9 @@ to offset the savage wistfulness of early spring?&lt;/p&gt;
   
 
   
-  &lt;a class=&quot;image-popup&quot; href=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2012-10-13-i-dream-of-oranges-and-avocados/2000/DSCF0170.jpg&quot;&gt;
+  &lt;a class=&quot;image-popup&quot; href=&quot;https://milk-mustache.com/uploads/resized/posts/recipes/2012-10-13-i-dream-of-oranges-and-avocados/2000/DSCF0170.jpg&quot;&gt;
   
-  &lt;img src=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2012-10-13-i-dream-of-oranges-and-avocados/2000/DSCF0170.jpg&quot; alt=&quot;&quot; srcset=&quot;          http://milk-mustache.com/uploads/resized/posts/recipes/2012-10-13-i-dream-of-oranges-and-avocados/480/DSCF0170.jpg 480w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-10-13-i-dream-of-oranges-and-avocados/620/DSCF0170.jpg 620w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-10-13-i-dream-of-oranges-and-avocados/768/DSCF0170.jpg 768w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-10-13-i-dream-of-oranges-and-avocados/1000/DSCF0170.jpg 1000w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-10-13-i-dream-of-oranges-and-avocados/1400/DSCF0170.jpg 1400w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-10-13-i-dream-of-oranges-and-avocados/2000/DSCF0170.jpg 2000w,     http://milk-mustache.com/uploads/posts/recipes/2012-10-13-i-dream-of-oranges-and-avocados/DSCF0170.jpg 2500w&quot; /&gt;
+  &lt;img src=&quot;https://milk-mustache.com/uploads/resized/posts/recipes/2012-10-13-i-dream-of-oranges-and-avocados/2000/DSCF0170.jpg&quot; alt=&quot;&quot; srcset=&quot;          https://milk-mustache.com/uploads/resized/posts/recipes/2012-10-13-i-dream-of-oranges-and-avocados/480/DSCF0170.jpg 480w,          https://milk-mustache.com/uploads/resized/posts/recipes/2012-10-13-i-dream-of-oranges-and-avocados/620/DSCF0170.jpg 620w,          https://milk-mustache.com/uploads/resized/posts/recipes/2012-10-13-i-dream-of-oranges-and-avocados/768/DSCF0170.jpg 768w,          https://milk-mustache.com/uploads/resized/posts/recipes/2012-10-13-i-dream-of-oranges-and-avocados/1000/DSCF0170.jpg 1000w,          https://milk-mustache.com/uploads/resized/posts/recipes/2012-10-13-i-dream-of-oranges-and-avocados/1400/DSCF0170.jpg 1400w,          https://milk-mustache.com/uploads/resized/posts/recipes/2012-10-13-i-dream-of-oranges-and-avocados/2000/DSCF0170.jpg 2000w,     https://milk-mustache.com/uploads/posts/recipes/2012-10-13-i-dream-of-oranges-and-avocados/DSCF0170.jpg 2500w&quot; /&gt;
   
   &lt;/a&gt;
   
@@ -951,9 +951,9 @@ to offset the savage wistfulness of early spring?&lt;/p&gt;
   
 
   
-  &lt;a class=&quot;image-popup&quot; href=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2012-10-13-i-dream-of-oranges-and-avocados/2000/DSCF0163.jpg&quot;&gt;
+  &lt;a class=&quot;image-popup&quot; href=&quot;https://milk-mustache.com/uploads/resized/posts/recipes/2012-10-13-i-dream-of-oranges-and-avocados/2000/DSCF0163.jpg&quot;&gt;
   
-  &lt;img src=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2012-10-13-i-dream-of-oranges-and-avocados/2000/DSCF0163.jpg&quot; alt=&quot;&quot; srcset=&quot;          http://milk-mustache.com/uploads/resized/posts/recipes/2012-10-13-i-dream-of-oranges-and-avocados/480/DSCF0163.jpg 480w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-10-13-i-dream-of-oranges-and-avocados/620/DSCF0163.jpg 620w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-10-13-i-dream-of-oranges-and-avocados/768/DSCF0163.jpg 768w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-10-13-i-dream-of-oranges-and-avocados/1000/DSCF0163.jpg 1000w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-10-13-i-dream-of-oranges-and-avocados/1400/DSCF0163.jpg 1400w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-10-13-i-dream-of-oranges-and-avocados/2000/DSCF0163.jpg 2000w,     http://milk-mustache.com/uploads/posts/recipes/2012-10-13-i-dream-of-oranges-and-avocados/DSCF0163.jpg 2500w&quot; /&gt;
+  &lt;img src=&quot;https://milk-mustache.com/uploads/resized/posts/recipes/2012-10-13-i-dream-of-oranges-and-avocados/2000/DSCF0163.jpg&quot; alt=&quot;&quot; srcset=&quot;          https://milk-mustache.com/uploads/resized/posts/recipes/2012-10-13-i-dream-of-oranges-and-avocados/480/DSCF0163.jpg 480w,          https://milk-mustache.com/uploads/resized/posts/recipes/2012-10-13-i-dream-of-oranges-and-avocados/620/DSCF0163.jpg 620w,          https://milk-mustache.com/uploads/resized/posts/recipes/2012-10-13-i-dream-of-oranges-and-avocados/768/DSCF0163.jpg 768w,          https://milk-mustache.com/uploads/resized/posts/recipes/2012-10-13-i-dream-of-oranges-and-avocados/1000/DSCF0163.jpg 1000w,          https://milk-mustache.com/uploads/resized/posts/recipes/2012-10-13-i-dream-of-oranges-and-avocados/1400/DSCF0163.jpg 1400w,          https://milk-mustache.com/uploads/resized/posts/recipes/2012-10-13-i-dream-of-oranges-and-avocados/2000/DSCF0163.jpg 2000w,     https://milk-mustache.com/uploads/posts/recipes/2012-10-13-i-dream-of-oranges-and-avocados/DSCF0163.jpg 2500w&quot; /&gt;
   
   &lt;/a&gt;
   
@@ -976,9 +976,9 @@ to offset the savage wistfulness of early spring?&lt;/p&gt;
   
 
   
-  &lt;a class=&quot;image-popup&quot; href=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2012-10-13-i-dream-of-oranges-and-avocados/2000/DSCF0220.jpg&quot;&gt;
+  &lt;a class=&quot;image-popup&quot; href=&quot;https://milk-mustache.com/uploads/resized/posts/recipes/2012-10-13-i-dream-of-oranges-and-avocados/2000/DSCF0220.jpg&quot;&gt;
   
-  &lt;img src=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2012-10-13-i-dream-of-oranges-and-avocados/2000/DSCF0220.jpg&quot; alt=&quot;&quot; srcset=&quot;          http://milk-mustache.com/uploads/resized/posts/recipes/2012-10-13-i-dream-of-oranges-and-avocados/480/DSCF0220.jpg 480w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-10-13-i-dream-of-oranges-and-avocados/620/DSCF0220.jpg 620w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-10-13-i-dream-of-oranges-and-avocados/768/DSCF0220.jpg 768w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-10-13-i-dream-of-oranges-and-avocados/1000/DSCF0220.jpg 1000w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-10-13-i-dream-of-oranges-and-avocados/1400/DSCF0220.jpg 1400w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-10-13-i-dream-of-oranges-and-avocados/2000/DSCF0220.jpg 2000w,     http://milk-mustache.com/uploads/posts/recipes/2012-10-13-i-dream-of-oranges-and-avocados/DSCF0220.jpg 2500w&quot; /&gt;
+  &lt;img src=&quot;https://milk-mustache.com/uploads/resized/posts/recipes/2012-10-13-i-dream-of-oranges-and-avocados/2000/DSCF0220.jpg&quot; alt=&quot;&quot; srcset=&quot;          https://milk-mustache.com/uploads/resized/posts/recipes/2012-10-13-i-dream-of-oranges-and-avocados/480/DSCF0220.jpg 480w,          https://milk-mustache.com/uploads/resized/posts/recipes/2012-10-13-i-dream-of-oranges-and-avocados/620/DSCF0220.jpg 620w,          https://milk-mustache.com/uploads/resized/posts/recipes/2012-10-13-i-dream-of-oranges-and-avocados/768/DSCF0220.jpg 768w,          https://milk-mustache.com/uploads/resized/posts/recipes/2012-10-13-i-dream-of-oranges-and-avocados/1000/DSCF0220.jpg 1000w,          https://milk-mustache.com/uploads/resized/posts/recipes/2012-10-13-i-dream-of-oranges-and-avocados/1400/DSCF0220.jpg 1400w,          https://milk-mustache.com/uploads/resized/posts/recipes/2012-10-13-i-dream-of-oranges-and-avocados/2000/DSCF0220.jpg 2000w,     https://milk-mustache.com/uploads/posts/recipes/2012-10-13-i-dream-of-oranges-and-avocados/DSCF0220.jpg 2500w&quot; /&gt;
   
   &lt;/a&gt;
   
@@ -990,20 +990,20 @@ to offset the savage wistfulness of early spring?&lt;/p&gt;
 
 &lt;p&gt;This dish is light, fresh - crunchy, zesty (shouldn’t more things be zesty?) - and easy on the wallet. It’s perfect for a simple wholesome lunch, a palette cleansing side – or even, for the adventurous, an unusual and exotic breakfast.&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://milk-mustache.com/recipes/i-dream-of-oranges-and-avocados/&quot;&gt;I Dream of Oranges and Avocados&lt;/a&gt; was originally published by Sarah Quigley at &lt;a href=&quot;http://milk-mustache.com&quot;&gt;Milk Mustache&lt;/a&gt; on October 13, 2012.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;https://milk-mustache.com/recipes/i-dream-of-oranges-and-avocados/&quot;&gt;I Dream of Oranges and Avocados&lt;/a&gt; was originally published by Sarah Quigley at &lt;a href=&quot;https://milk-mustache.com&quot;&gt;Milk Mustache&lt;/a&gt; on October 13, 2012.&lt;/p&gt;
   </content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Breaching the Finger Biscuit Fortress]]></title>
-  <link rel="alternate" type="text/html" href="http://milk-mustache.com/recipes/breaching-the-finger-biscuit-fortress/" />
-  <id>http://milk-mustache.com/recipes/breaching-the-finger-biscuit-fortress</id>
+  <link rel="alternate" type="text/html" href="https://milk-mustache.com/recipes/breaching-the-finger-biscuit-fortress/" />
+  <id>https://milk-mustache.com/recipes/breaching-the-finger-biscuit-fortress</id>
   <published>2012-09-25T00:00:00-04:00</published>
   <updated>2012-09-25T00:00:00-04:00</updated>
   <author>
     <name>Sarah Quigley</name>
-    <uri>http://milk-mustache.com</uri>
+    <uri>https://milk-mustache.com</uri>
     <email>sarah+milk-mustache@sarahquigley.net</email>
   </author>
   <content type="html">
@@ -1022,9 +1022,9 @@ to offset the savage wistfulness of early spring?&lt;/p&gt;
   
 
   
-  &lt;a class=&quot;image-popup&quot; href=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2012-09-25-breaching-the-finger-biscuit-fortress/2000/DSCN1471.jpg&quot;&gt;
+  &lt;a class=&quot;image-popup&quot; href=&quot;https://milk-mustache.com/uploads/resized/posts/recipes/2012-09-25-breaching-the-finger-biscuit-fortress/2000/DSCN1471.jpg&quot;&gt;
   
-  &lt;img src=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2012-09-25-breaching-the-finger-biscuit-fortress/2000/DSCN1471.jpg&quot; alt=&quot;&quot; srcset=&quot;          http://milk-mustache.com/uploads/resized/posts/recipes/2012-09-25-breaching-the-finger-biscuit-fortress/480/DSCN1471.jpg 480w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-09-25-breaching-the-finger-biscuit-fortress/620/DSCN1471.jpg 620w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-09-25-breaching-the-finger-biscuit-fortress/768/DSCN1471.jpg 768w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-09-25-breaching-the-finger-biscuit-fortress/1000/DSCN1471.jpg 1000w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-09-25-breaching-the-finger-biscuit-fortress/1400/DSCN1471.jpg 1400w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-09-25-breaching-the-finger-biscuit-fortress/2000/DSCN1471.jpg 2000w,     http://milk-mustache.com/uploads/posts/recipes/2012-09-25-breaching-the-finger-biscuit-fortress/DSCN1471.jpg 2500w&quot; /&gt;
+  &lt;img src=&quot;https://milk-mustache.com/uploads/resized/posts/recipes/2012-09-25-breaching-the-finger-biscuit-fortress/2000/DSCN1471.jpg&quot; alt=&quot;&quot; srcset=&quot;          https://milk-mustache.com/uploads/resized/posts/recipes/2012-09-25-breaching-the-finger-biscuit-fortress/480/DSCN1471.jpg 480w,          https://milk-mustache.com/uploads/resized/posts/recipes/2012-09-25-breaching-the-finger-biscuit-fortress/620/DSCN1471.jpg 620w,          https://milk-mustache.com/uploads/resized/posts/recipes/2012-09-25-breaching-the-finger-biscuit-fortress/768/DSCN1471.jpg 768w,          https://milk-mustache.com/uploads/resized/posts/recipes/2012-09-25-breaching-the-finger-biscuit-fortress/1000/DSCN1471.jpg 1000w,          https://milk-mustache.com/uploads/resized/posts/recipes/2012-09-25-breaching-the-finger-biscuit-fortress/1400/DSCN1471.jpg 1400w,          https://milk-mustache.com/uploads/resized/posts/recipes/2012-09-25-breaching-the-finger-biscuit-fortress/2000/DSCN1471.jpg 2000w,     https://milk-mustache.com/uploads/posts/recipes/2012-09-25-breaching-the-finger-biscuit-fortress/DSCN1471.jpg 2500w&quot; /&gt;
   
   &lt;/a&gt;
   
@@ -1049,9 +1049,9 @@ to offset the savage wistfulness of early spring?&lt;/p&gt;
   
 
   
-  &lt;a class=&quot;image-popup&quot; href=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2012-09-25-breaching-the-finger-biscuit-fortress/2000/DSCN1490.jpg&quot;&gt;
+  &lt;a class=&quot;image-popup&quot; href=&quot;https://milk-mustache.com/uploads/resized/posts/recipes/2012-09-25-breaching-the-finger-biscuit-fortress/2000/DSCN1490.jpg&quot;&gt;
   
-  &lt;img src=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2012-09-25-breaching-the-finger-biscuit-fortress/2000/DSCN1490.jpg&quot; alt=&quot;&quot; srcset=&quot;          http://milk-mustache.com/uploads/resized/posts/recipes/2012-09-25-breaching-the-finger-biscuit-fortress/480/DSCN1490.jpg 480w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-09-25-breaching-the-finger-biscuit-fortress/620/DSCN1490.jpg 620w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-09-25-breaching-the-finger-biscuit-fortress/768/DSCN1490.jpg 768w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-09-25-breaching-the-finger-biscuit-fortress/1000/DSCN1490.jpg 1000w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-09-25-breaching-the-finger-biscuit-fortress/1400/DSCN1490.jpg 1400w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-09-25-breaching-the-finger-biscuit-fortress/2000/DSCN1490.jpg 2000w,     http://milk-mustache.com/uploads/posts/recipes/2012-09-25-breaching-the-finger-biscuit-fortress/DSCN1490.jpg 2500w&quot; /&gt;
+  &lt;img src=&quot;https://milk-mustache.com/uploads/resized/posts/recipes/2012-09-25-breaching-the-finger-biscuit-fortress/2000/DSCN1490.jpg&quot; alt=&quot;&quot; srcset=&quot;          https://milk-mustache.com/uploads/resized/posts/recipes/2012-09-25-breaching-the-finger-biscuit-fortress/480/DSCN1490.jpg 480w,          https://milk-mustache.com/uploads/resized/posts/recipes/2012-09-25-breaching-the-finger-biscuit-fortress/620/DSCN1490.jpg 620w,          https://milk-mustache.com/uploads/resized/posts/recipes/2012-09-25-breaching-the-finger-biscuit-fortress/768/DSCN1490.jpg 768w,          https://milk-mustache.com/uploads/resized/posts/recipes/2012-09-25-breaching-the-finger-biscuit-fortress/1000/DSCN1490.jpg 1000w,          https://milk-mustache.com/uploads/resized/posts/recipes/2012-09-25-breaching-the-finger-biscuit-fortress/1400/DSCN1490.jpg 1400w,          https://milk-mustache.com/uploads/resized/posts/recipes/2012-09-25-breaching-the-finger-biscuit-fortress/2000/DSCN1490.jpg 2000w,     https://milk-mustache.com/uploads/posts/recipes/2012-09-25-breaching-the-finger-biscuit-fortress/DSCN1490.jpg 2500w&quot; /&gt;
   
   &lt;/a&gt;
   
@@ -1065,20 +1065,20 @@ to offset the savage wistfulness of early spring?&lt;/p&gt;
 
 &lt;p&gt;Or baking them, as the case may be.&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://milk-mustache.com/recipes/breaching-the-finger-biscuit-fortress/&quot;&gt;Breaching the Finger Biscuit Fortress&lt;/a&gt; was originally published by Sarah Quigley at &lt;a href=&quot;http://milk-mustache.com&quot;&gt;Milk Mustache&lt;/a&gt; on September 25, 2012.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;https://milk-mustache.com/recipes/breaching-the-finger-biscuit-fortress/&quot;&gt;Breaching the Finger Biscuit Fortress&lt;/a&gt; was originally published by Sarah Quigley at &lt;a href=&quot;https://milk-mustache.com&quot;&gt;Milk Mustache&lt;/a&gt; on September 25, 2012.&lt;/p&gt;
   </content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Sarah Dreams of Truffles]]></title>
-  <link rel="alternate" type="text/html" href="http://milk-mustache.com/recipes/sarah-dreams-of-truffles/" />
-  <id>http://milk-mustache.com/recipes/sarah-dreams-of-truffles</id>
+  <link rel="alternate" type="text/html" href="https://milk-mustache.com/recipes/sarah-dreams-of-truffles/" />
+  <id>https://milk-mustache.com/recipes/sarah-dreams-of-truffles</id>
   <published>2012-05-30T00:00:00-04:00</published>
   <updated>2012-05-30T00:00:00-04:00</updated>
   <author>
     <name>Sarah Quigley</name>
-    <uri>http://milk-mustache.com</uri>
+    <uri>https://milk-mustache.com</uri>
     <email>sarah+milk-mustache@sarahquigley.net</email>
   </author>
   <content type="html">
@@ -1096,9 +1096,9 @@ to offset the savage wistfulness of early spring?&lt;/p&gt;
   
 
   
-  &lt;a class=&quot;image-popup&quot; href=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-30-sarah-dreams-of-truffles/2000/DSCN1071.jpg&quot;&gt;
+  &lt;a class=&quot;image-popup&quot; href=&quot;https://milk-mustache.com/uploads/resized/posts/recipes/2012-05-30-sarah-dreams-of-truffles/2000/DSCN1071.jpg&quot;&gt;
   
-  &lt;img src=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-30-sarah-dreams-of-truffles/2000/DSCN1071.jpg&quot; alt=&quot;&quot; srcset=&quot;          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-30-sarah-dreams-of-truffles/480/DSCN1071.jpg 480w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-30-sarah-dreams-of-truffles/620/DSCN1071.jpg 620w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-30-sarah-dreams-of-truffles/768/DSCN1071.jpg 768w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-30-sarah-dreams-of-truffles/1000/DSCN1071.jpg 1000w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-30-sarah-dreams-of-truffles/1400/DSCN1071.jpg 1400w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-30-sarah-dreams-of-truffles/2000/DSCN1071.jpg 2000w,     http://milk-mustache.com/uploads/posts/recipes/2012-05-30-sarah-dreams-of-truffles/DSCN1071.jpg 2500w&quot; /&gt;
+  &lt;img src=&quot;https://milk-mustache.com/uploads/resized/posts/recipes/2012-05-30-sarah-dreams-of-truffles/2000/DSCN1071.jpg&quot; alt=&quot;&quot; srcset=&quot;          https://milk-mustache.com/uploads/resized/posts/recipes/2012-05-30-sarah-dreams-of-truffles/480/DSCN1071.jpg 480w,          https://milk-mustache.com/uploads/resized/posts/recipes/2012-05-30-sarah-dreams-of-truffles/620/DSCN1071.jpg 620w,          https://milk-mustache.com/uploads/resized/posts/recipes/2012-05-30-sarah-dreams-of-truffles/768/DSCN1071.jpg 768w,          https://milk-mustache.com/uploads/resized/posts/recipes/2012-05-30-sarah-dreams-of-truffles/1000/DSCN1071.jpg 1000w,          https://milk-mustache.com/uploads/resized/posts/recipes/2012-05-30-sarah-dreams-of-truffles/1400/DSCN1071.jpg 1400w,          https://milk-mustache.com/uploads/resized/posts/recipes/2012-05-30-sarah-dreams-of-truffles/2000/DSCN1071.jpg 2000w,     https://milk-mustache.com/uploads/posts/recipes/2012-05-30-sarah-dreams-of-truffles/DSCN1071.jpg 2500w&quot; /&gt;
   
   &lt;/a&gt;
   
@@ -1115,9 +1115,9 @@ to offset the savage wistfulness of early spring?&lt;/p&gt;
   
 
   
-  &lt;a class=&quot;image-popup&quot; href=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-30-sarah-dreams-of-truffles/2000/DSCN1276.jpg&quot;&gt;
+  &lt;a class=&quot;image-popup&quot; href=&quot;https://milk-mustache.com/uploads/resized/posts/recipes/2012-05-30-sarah-dreams-of-truffles/2000/DSCN1276.jpg&quot;&gt;
   
-  &lt;img src=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-30-sarah-dreams-of-truffles/2000/DSCN1276.jpg&quot; alt=&quot;&quot; srcset=&quot;          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-30-sarah-dreams-of-truffles/480/DSCN1276.jpg 480w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-30-sarah-dreams-of-truffles/620/DSCN1276.jpg 620w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-30-sarah-dreams-of-truffles/768/DSCN1276.jpg 768w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-30-sarah-dreams-of-truffles/1000/DSCN1276.jpg 1000w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-30-sarah-dreams-of-truffles/1400/DSCN1276.jpg 1400w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-30-sarah-dreams-of-truffles/2000/DSCN1276.jpg 2000w,     http://milk-mustache.com/uploads/posts/recipes/2012-05-30-sarah-dreams-of-truffles/DSCN1276.jpg 2500w&quot; /&gt;
+  &lt;img src=&quot;https://milk-mustache.com/uploads/resized/posts/recipes/2012-05-30-sarah-dreams-of-truffles/2000/DSCN1276.jpg&quot; alt=&quot;&quot; srcset=&quot;          https://milk-mustache.com/uploads/resized/posts/recipes/2012-05-30-sarah-dreams-of-truffles/480/DSCN1276.jpg 480w,          https://milk-mustache.com/uploads/resized/posts/recipes/2012-05-30-sarah-dreams-of-truffles/620/DSCN1276.jpg 620w,          https://milk-mustache.com/uploads/resized/posts/recipes/2012-05-30-sarah-dreams-of-truffles/768/DSCN1276.jpg 768w,          https://milk-mustache.com/uploads/resized/posts/recipes/2012-05-30-sarah-dreams-of-truffles/1000/DSCN1276.jpg 1000w,          https://milk-mustache.com/uploads/resized/posts/recipes/2012-05-30-sarah-dreams-of-truffles/1400/DSCN1276.jpg 1400w,          https://milk-mustache.com/uploads/resized/posts/recipes/2012-05-30-sarah-dreams-of-truffles/2000/DSCN1276.jpg 2000w,     https://milk-mustache.com/uploads/posts/recipes/2012-05-30-sarah-dreams-of-truffles/DSCN1276.jpg 2500w&quot; /&gt;
   
   &lt;/a&gt;
   
@@ -1140,9 +1140,9 @@ to offset the savage wistfulness of early spring?&lt;/p&gt;
   
 
   
-  &lt;a class=&quot;image-popup&quot; href=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-30-sarah-dreams-of-truffles/2000/DSCN1288.jpg&quot;&gt;
+  &lt;a class=&quot;image-popup&quot; href=&quot;https://milk-mustache.com/uploads/resized/posts/recipes/2012-05-30-sarah-dreams-of-truffles/2000/DSCN1288.jpg&quot;&gt;
   
-  &lt;img src=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-30-sarah-dreams-of-truffles/2000/DSCN1288.jpg&quot; alt=&quot;&quot; srcset=&quot;          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-30-sarah-dreams-of-truffles/480/DSCN1288.jpg 480w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-30-sarah-dreams-of-truffles/620/DSCN1288.jpg 620w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-30-sarah-dreams-of-truffles/768/DSCN1288.jpg 768w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-30-sarah-dreams-of-truffles/1000/DSCN1288.jpg 1000w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-30-sarah-dreams-of-truffles/1400/DSCN1288.jpg 1400w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-30-sarah-dreams-of-truffles/2000/DSCN1288.jpg 2000w,     http://milk-mustache.com/uploads/posts/recipes/2012-05-30-sarah-dreams-of-truffles/DSCN1288.jpg 2500w&quot; /&gt;
+  &lt;img src=&quot;https://milk-mustache.com/uploads/resized/posts/recipes/2012-05-30-sarah-dreams-of-truffles/2000/DSCN1288.jpg&quot; alt=&quot;&quot; srcset=&quot;          https://milk-mustache.com/uploads/resized/posts/recipes/2012-05-30-sarah-dreams-of-truffles/480/DSCN1288.jpg 480w,          https://milk-mustache.com/uploads/resized/posts/recipes/2012-05-30-sarah-dreams-of-truffles/620/DSCN1288.jpg 620w,          https://milk-mustache.com/uploads/resized/posts/recipes/2012-05-30-sarah-dreams-of-truffles/768/DSCN1288.jpg 768w,          https://milk-mustache.com/uploads/resized/posts/recipes/2012-05-30-sarah-dreams-of-truffles/1000/DSCN1288.jpg 1000w,          https://milk-mustache.com/uploads/resized/posts/recipes/2012-05-30-sarah-dreams-of-truffles/1400/DSCN1288.jpg 1400w,          https://milk-mustache.com/uploads/resized/posts/recipes/2012-05-30-sarah-dreams-of-truffles/2000/DSCN1288.jpg 2000w,     https://milk-mustache.com/uploads/posts/recipes/2012-05-30-sarah-dreams-of-truffles/DSCN1288.jpg 2500w&quot; /&gt;
   
   &lt;/a&gt;
   
@@ -1169,20 +1169,20 @@ You better do something that you can get better at&lt;br /&gt;
 
 &lt;p&gt;I can’t help think of the film &lt;a href=&quot;http://www.imdb.com/title/tt1772925/?ref_=ttqt_qt_tt&quot;&gt;Jiro Dreams of Sushi&lt;/a&gt;. Did any part of Jiro regret his steadfast devotion to mastering the art of sushi making? Would I regret a life similarly devoted to truffle making? Life offers so many possible existences. We can sample so very few, choose to master even fewer.&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://milk-mustache.com/recipes/sarah-dreams-of-truffles/&quot;&gt;Sarah Dreams of Truffles&lt;/a&gt; was originally published by Sarah Quigley at &lt;a href=&quot;http://milk-mustache.com&quot;&gt;Milk Mustache&lt;/a&gt; on May 30, 2012.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;https://milk-mustache.com/recipes/sarah-dreams-of-truffles/&quot;&gt;Sarah Dreams of Truffles&lt;/a&gt; was originally published by Sarah Quigley at &lt;a href=&quot;https://milk-mustache.com&quot;&gt;Milk Mustache&lt;/a&gt; on May 30, 2012.&lt;/p&gt;
   </content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Picadillo Nights]]></title>
-  <link rel="alternate" type="text/html" href="http://milk-mustache.com/recipes/picadillo-nights/" />
-  <id>http://milk-mustache.com/recipes/picadillo-nights</id>
+  <link rel="alternate" type="text/html" href="https://milk-mustache.com/recipes/picadillo-nights/" />
+  <id>https://milk-mustache.com/recipes/picadillo-nights</id>
   <published>2012-05-28T00:00:00-04:00</published>
   <updated>2012-05-28T00:00:00-04:00</updated>
   <author>
     <name>Sarah Quigley</name>
-    <uri>http://milk-mustache.com</uri>
+    <uri>https://milk-mustache.com</uri>
     <email>sarah+milk-mustache@sarahquigley.net</email>
   </author>
   <content type="html">
@@ -1201,9 +1201,9 @@ You better do something that you can get better at&lt;br /&gt;
   
 
   
-  &lt;a class=&quot;image-popup&quot; href=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-28-picadillo-nights/2000/DSCN1085.jpg&quot;&gt;
+  &lt;a class=&quot;image-popup&quot; href=&quot;https://milk-mustache.com/uploads/resized/posts/recipes/2012-05-28-picadillo-nights/2000/DSCN1085.jpg&quot;&gt;
   
-  &lt;img src=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-28-picadillo-nights/2000/DSCN1085.jpg&quot; alt=&quot;&quot; srcset=&quot;          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-28-picadillo-nights/480/DSCN1085.jpg 480w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-28-picadillo-nights/620/DSCN1085.jpg 620w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-28-picadillo-nights/768/DSCN1085.jpg 768w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-28-picadillo-nights/1000/DSCN1085.jpg 1000w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-28-picadillo-nights/1400/DSCN1085.jpg 1400w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-28-picadillo-nights/2000/DSCN1085.jpg 2000w,     http://milk-mustache.com/uploads/posts/recipes/2012-05-28-picadillo-nights/DSCN1085.jpg 2500w&quot; /&gt;
+  &lt;img src=&quot;https://milk-mustache.com/uploads/resized/posts/recipes/2012-05-28-picadillo-nights/2000/DSCN1085.jpg&quot; alt=&quot;&quot; srcset=&quot;          https://milk-mustache.com/uploads/resized/posts/recipes/2012-05-28-picadillo-nights/480/DSCN1085.jpg 480w,          https://milk-mustache.com/uploads/resized/posts/recipes/2012-05-28-picadillo-nights/620/DSCN1085.jpg 620w,          https://milk-mustache.com/uploads/resized/posts/recipes/2012-05-28-picadillo-nights/768/DSCN1085.jpg 768w,          https://milk-mustache.com/uploads/resized/posts/recipes/2012-05-28-picadillo-nights/1000/DSCN1085.jpg 1000w,          https://milk-mustache.com/uploads/resized/posts/recipes/2012-05-28-picadillo-nights/1400/DSCN1085.jpg 1400w,          https://milk-mustache.com/uploads/resized/posts/recipes/2012-05-28-picadillo-nights/2000/DSCN1085.jpg 2000w,     https://milk-mustache.com/uploads/posts/recipes/2012-05-28-picadillo-nights/DSCN1085.jpg 2500w&quot; /&gt;
   
   &lt;/a&gt;
   
@@ -1230,9 +1230,9 @@ You better do something that you can get better at&lt;br /&gt;
   
 
   
-  &lt;a class=&quot;image-popup&quot; href=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-28-picadillo-nights/2000/DSCN1146.jpg&quot;&gt;
+  &lt;a class=&quot;image-popup&quot; href=&quot;https://milk-mustache.com/uploads/resized/posts/recipes/2012-05-28-picadillo-nights/2000/DSCN1146.jpg&quot;&gt;
   
-  &lt;img src=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-28-picadillo-nights/2000/DSCN1146.jpg&quot; alt=&quot;&quot; srcset=&quot;          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-28-picadillo-nights/480/DSCN1146.jpg 480w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-28-picadillo-nights/620/DSCN1146.jpg 620w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-28-picadillo-nights/768/DSCN1146.jpg 768w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-28-picadillo-nights/1000/DSCN1146.jpg 1000w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-28-picadillo-nights/1400/DSCN1146.jpg 1400w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-28-picadillo-nights/2000/DSCN1146.jpg 2000w,     http://milk-mustache.com/uploads/posts/recipes/2012-05-28-picadillo-nights/DSCN1146.jpg 2500w&quot; /&gt;
+  &lt;img src=&quot;https://milk-mustache.com/uploads/resized/posts/recipes/2012-05-28-picadillo-nights/2000/DSCN1146.jpg&quot; alt=&quot;&quot; srcset=&quot;          https://milk-mustache.com/uploads/resized/posts/recipes/2012-05-28-picadillo-nights/480/DSCN1146.jpg 480w,          https://milk-mustache.com/uploads/resized/posts/recipes/2012-05-28-picadillo-nights/620/DSCN1146.jpg 620w,          https://milk-mustache.com/uploads/resized/posts/recipes/2012-05-28-picadillo-nights/768/DSCN1146.jpg 768w,          https://milk-mustache.com/uploads/resized/posts/recipes/2012-05-28-picadillo-nights/1000/DSCN1146.jpg 1000w,          https://milk-mustache.com/uploads/resized/posts/recipes/2012-05-28-picadillo-nights/1400/DSCN1146.jpg 1400w,          https://milk-mustache.com/uploads/resized/posts/recipes/2012-05-28-picadillo-nights/2000/DSCN1146.jpg 2000w,     https://milk-mustache.com/uploads/posts/recipes/2012-05-28-picadillo-nights/DSCN1146.jpg 2500w&quot; /&gt;
   
   &lt;/a&gt;
   
@@ -1244,20 +1244,20 @@ You better do something that you can get better at&lt;br /&gt;
 
 &lt;p&gt;Time to eat! The picadillo pot took pride of place, surrounded by dishes of flavoured rice, spicy chicken, or refried beans speckled with sauteed red peppers and onions. Almost every other possible nook and cranny of our dining table was covered by the vast array of toppings and side dishes: guacamole, spinach, chopped tomatoes, pungent grated Irish cheddar and so much more. Hot flour tortillas emerged from the oven and we’d all dig in, piling so many things on our tortillas that they would burst at the seams when we tried to eat them, leaving our fingers sticky with the sweet umami taste of picadillo.&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://milk-mustache.com/recipes/picadillo-nights/&quot;&gt;Picadillo Nights&lt;/a&gt; was originally published by Sarah Quigley at &lt;a href=&quot;http://milk-mustache.com&quot;&gt;Milk Mustache&lt;/a&gt; on May 28, 2012.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;https://milk-mustache.com/recipes/picadillo-nights/&quot;&gt;Picadillo Nights&lt;/a&gt; was originally published by Sarah Quigley at &lt;a href=&quot;https://milk-mustache.com&quot;&gt;Milk Mustache&lt;/a&gt; on May 28, 2012.&lt;/p&gt;
   </content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Existential Doubt and Rainbow Salad]]></title>
-  <link rel="alternate" type="text/html" href="http://milk-mustache.com/recipes/existential-doubt-and-rainbow-salad/" />
-  <id>http://milk-mustache.com/recipes/existential-doubt-and-rainbow-salad</id>
+  <link rel="alternate" type="text/html" href="https://milk-mustache.com/recipes/existential-doubt-and-rainbow-salad/" />
+  <id>https://milk-mustache.com/recipes/existential-doubt-and-rainbow-salad</id>
   <published>2012-05-05T00:00:00-04:00</published>
   <updated>2012-05-05T00:00:00-04:00</updated>
   <author>
     <name>Sarah Quigley</name>
-    <uri>http://milk-mustache.com</uri>
+    <uri>https://milk-mustache.com</uri>
     <email>sarah+milk-mustache@sarahquigley.net</email>
   </author>
   <content type="html">
@@ -1287,9 +1287,9 @@ If you know the way to blue?&lt;/p&gt;
   
 
   
-  &lt;a class=&quot;image-popup&quot; href=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-existential-doubt-and-rainbow-salad/2000/DSCN0641.jpg&quot;&gt;
+  &lt;a class=&quot;image-popup&quot; href=&quot;https://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-existential-doubt-and-rainbow-salad/2000/DSCN0641.jpg&quot;&gt;
   
-  &lt;img src=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-existential-doubt-and-rainbow-salad/2000/DSCN0641.jpg&quot; alt=&quot;&quot; srcset=&quot;          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-existential-doubt-and-rainbow-salad/480/DSCN0641.jpg 480w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-existential-doubt-and-rainbow-salad/620/DSCN0641.jpg 620w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-existential-doubt-and-rainbow-salad/768/DSCN0641.jpg 768w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-existential-doubt-and-rainbow-salad/1000/DSCN0641.jpg 1000w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-existential-doubt-and-rainbow-salad/1400/DSCN0641.jpg 1400w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-existential-doubt-and-rainbow-salad/2000/DSCN0641.jpg 2000w,     http://milk-mustache.com/uploads/posts/recipes/2012-05-05-existential-doubt-and-rainbow-salad/DSCN0641.jpg 2500w&quot; /&gt;
+  &lt;img src=&quot;https://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-existential-doubt-and-rainbow-salad/2000/DSCN0641.jpg&quot; alt=&quot;&quot; srcset=&quot;          https://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-existential-doubt-and-rainbow-salad/480/DSCN0641.jpg 480w,          https://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-existential-doubt-and-rainbow-salad/620/DSCN0641.jpg 620w,          https://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-existential-doubt-and-rainbow-salad/768/DSCN0641.jpg 768w,          https://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-existential-doubt-and-rainbow-salad/1000/DSCN0641.jpg 1000w,          https://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-existential-doubt-and-rainbow-salad/1400/DSCN0641.jpg 1400w,          https://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-existential-doubt-and-rainbow-salad/2000/DSCN0641.jpg 2000w,     https://milk-mustache.com/uploads/posts/recipes/2012-05-05-existential-doubt-and-rainbow-salad/DSCN0641.jpg 2500w&quot; /&gt;
   
   &lt;/a&gt;
   
@@ -1316,9 +1316,9 @@ If you know the way to blue?&lt;/p&gt;
   
 
   
-  &lt;a class=&quot;image-popup&quot; href=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-existential-doubt-and-rainbow-salad/2000/DSCN0628.jpg&quot;&gt;
+  &lt;a class=&quot;image-popup&quot; href=&quot;https://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-existential-doubt-and-rainbow-salad/2000/DSCN0628.jpg&quot;&gt;
   
-  &lt;img src=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-existential-doubt-and-rainbow-salad/2000/DSCN0628.jpg&quot; alt=&quot;&quot; srcset=&quot;          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-existential-doubt-and-rainbow-salad/480/DSCN0628.jpg 480w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-existential-doubt-and-rainbow-salad/620/DSCN0628.jpg 620w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-existential-doubt-and-rainbow-salad/768/DSCN0628.jpg 768w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-existential-doubt-and-rainbow-salad/1000/DSCN0628.jpg 1000w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-existential-doubt-and-rainbow-salad/1400/DSCN0628.jpg 1400w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-existential-doubt-and-rainbow-salad/2000/DSCN0628.jpg 2000w,     http://milk-mustache.com/uploads/posts/recipes/2012-05-05-existential-doubt-and-rainbow-salad/DSCN0628.jpg 2500w&quot; /&gt;
+  &lt;img src=&quot;https://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-existential-doubt-and-rainbow-salad/2000/DSCN0628.jpg&quot; alt=&quot;&quot; srcset=&quot;          https://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-existential-doubt-and-rainbow-salad/480/DSCN0628.jpg 480w,          https://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-existential-doubt-and-rainbow-salad/620/DSCN0628.jpg 620w,          https://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-existential-doubt-and-rainbow-salad/768/DSCN0628.jpg 768w,          https://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-existential-doubt-and-rainbow-salad/1000/DSCN0628.jpg 1000w,          https://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-existential-doubt-and-rainbow-salad/1400/DSCN0628.jpg 1400w,          https://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-existential-doubt-and-rainbow-salad/2000/DSCN0628.jpg 2000w,     https://milk-mustache.com/uploads/posts/recipes/2012-05-05-existential-doubt-and-rainbow-salad/DSCN0628.jpg 2500w&quot; /&gt;
   
   &lt;/a&gt;
   
@@ -1335,9 +1335,9 @@ If you know the way to blue?&lt;/p&gt;
   
 
   
-  &lt;a class=&quot;image-popup&quot; href=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-existential-doubt-and-rainbow-salad/2000/DSCN0594.jpg&quot;&gt;
+  &lt;a class=&quot;image-popup&quot; href=&quot;https://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-existential-doubt-and-rainbow-salad/2000/DSCN0594.jpg&quot;&gt;
   
-  &lt;img src=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-existential-doubt-and-rainbow-salad/2000/DSCN0594.jpg&quot; alt=&quot;&quot; srcset=&quot;          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-existential-doubt-and-rainbow-salad/480/DSCN0594.jpg 480w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-existential-doubt-and-rainbow-salad/620/DSCN0594.jpg 620w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-existential-doubt-and-rainbow-salad/768/DSCN0594.jpg 768w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-existential-doubt-and-rainbow-salad/1000/DSCN0594.jpg 1000w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-existential-doubt-and-rainbow-salad/1400/DSCN0594.jpg 1400w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-existential-doubt-and-rainbow-salad/2000/DSCN0594.jpg 2000w,     http://milk-mustache.com/uploads/posts/recipes/2012-05-05-existential-doubt-and-rainbow-salad/DSCN0594.jpg 2500w&quot; /&gt;
+  &lt;img src=&quot;https://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-existential-doubt-and-rainbow-salad/2000/DSCN0594.jpg&quot; alt=&quot;&quot; srcset=&quot;          https://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-existential-doubt-and-rainbow-salad/480/DSCN0594.jpg 480w,          https://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-existential-doubt-and-rainbow-salad/620/DSCN0594.jpg 620w,          https://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-existential-doubt-and-rainbow-salad/768/DSCN0594.jpg 768w,          https://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-existential-doubt-and-rainbow-salad/1000/DSCN0594.jpg 1000w,          https://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-existential-doubt-and-rainbow-salad/1400/DSCN0594.jpg 1400w,          https://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-existential-doubt-and-rainbow-salad/2000/DSCN0594.jpg 2000w,     https://milk-mustache.com/uploads/posts/recipes/2012-05-05-existential-doubt-and-rainbow-salad/DSCN0594.jpg 2500w&quot; /&gt;
   
   &lt;/a&gt;
   
@@ -1360,9 +1360,9 @@ If you know the way to blue?&lt;/p&gt;
   
 
   
-  &lt;a class=&quot;image-popup&quot; href=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-existential-doubt-and-rainbow-salad/2000/DSCN0694.jpg&quot;&gt;
+  &lt;a class=&quot;image-popup&quot; href=&quot;https://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-existential-doubt-and-rainbow-salad/2000/DSCN0694.jpg&quot;&gt;
   
-  &lt;img src=&quot;http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-existential-doubt-and-rainbow-salad/2000/DSCN0694.jpg&quot; alt=&quot;&quot; srcset=&quot;          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-existential-doubt-and-rainbow-salad/480/DSCN0694.jpg 480w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-existential-doubt-and-rainbow-salad/620/DSCN0694.jpg 620w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-existential-doubt-and-rainbow-salad/768/DSCN0694.jpg 768w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-existential-doubt-and-rainbow-salad/1000/DSCN0694.jpg 1000w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-existential-doubt-and-rainbow-salad/1400/DSCN0694.jpg 1400w,          http://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-existential-doubt-and-rainbow-salad/2000/DSCN0694.jpg 2000w,     http://milk-mustache.com/uploads/posts/recipes/2012-05-05-existential-doubt-and-rainbow-salad/DSCN0694.jpg 2500w&quot; /&gt;
+  &lt;img src=&quot;https://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-existential-doubt-and-rainbow-salad/2000/DSCN0694.jpg&quot; alt=&quot;&quot; srcset=&quot;          https://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-existential-doubt-and-rainbow-salad/480/DSCN0694.jpg 480w,          https://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-existential-doubt-and-rainbow-salad/620/DSCN0694.jpg 620w,          https://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-existential-doubt-and-rainbow-salad/768/DSCN0694.jpg 768w,          https://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-existential-doubt-and-rainbow-salad/1000/DSCN0694.jpg 1000w,          https://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-existential-doubt-and-rainbow-salad/1400/DSCN0694.jpg 1400w,          https://milk-mustache.com/uploads/resized/posts/recipes/2012-05-05-existential-doubt-and-rainbow-salad/2000/DSCN0694.jpg 2000w,     https://milk-mustache.com/uploads/posts/recipes/2012-05-05-existential-doubt-and-rainbow-salad/DSCN0694.jpg 2500w&quot; /&gt;
   
   &lt;/a&gt;
   
@@ -1377,7 +1377,7 @@ If you know the way to blue?&lt;/p&gt;
 &lt;p&gt;True, another food blog won’t solve any of humanities deepest problems. This doesn’t mean it’s without value — both as an authentic expression of something I love… and as something that may, in some small way, through a loaf of crusty bread baked or colourful salad shared, bring a little joy to friends or strangers.&lt;/p&gt;
 
 
-    &lt;p&gt;&lt;a href=&quot;http://milk-mustache.com/recipes/existential-doubt-and-rainbow-salad/&quot;&gt;Existential Doubt and Rainbow Salad&lt;/a&gt; was originally published by Sarah Quigley at &lt;a href=&quot;http://milk-mustache.com&quot;&gt;Milk Mustache&lt;/a&gt; on May 05, 2012.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;https://milk-mustache.com/recipes/existential-doubt-and-rainbow-salad/&quot;&gt;Existential Doubt and Rainbow Salad&lt;/a&gt; was originally published by Sarah Quigley at &lt;a href=&quot;https://milk-mustache.com&quot;&gt;Milk Mustache&lt;/a&gt; on May 05, 2012.&lt;/p&gt;
   </content>
 </entry>
 
